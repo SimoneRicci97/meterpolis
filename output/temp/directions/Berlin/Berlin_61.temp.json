@@ -1,0 +1,508 @@
+{
+  "meterpolisName": "Berlin",
+  "route": {
+    "from": {
+      "lat": 52.48651051058122,
+      "lng": 13.725317821315368
+    },
+    "to": {
+      "lat": 52.50976706982433,
+      "lng": 13.610476673338006
+    }
+  },
+  "directions": [
+    {
+      "summary": "",
+      "legs": [
+        {
+          "steps": [
+            {
+              "htmlInstructions": "Walk to Schöneiche (bei Berlin), Dorfaue",
+              "distance": {
+                "inMeters": 2089,
+                "humanReadable": "2.1 km"
+              },
+              "duration": {
+                "inSeconds": 1521,
+                "humanReadable": "25 mins"
+              },
+              "startLocation": {
+                "lat": 52.4871063,
+                "lng": 13.7252896
+              },
+              "endLocation": {
+                "lat": 52.4791344,
+                "lng": 13.7007036
+              },
+              "steps": [
+                {
+                  "htmlInstructions": "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eTasdorfer Str.\u003c/b\u003e toward \u003cb\u003eRehfelder Str.\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 864,
+                    "humanReadable": "0.9 km"
+                  },
+                  "duration": {
+                    "inSeconds": 624,
+                    "humanReadable": "10 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.4871063,
+                    "lng": 13.7252896
+                  },
+                  "endLocation": {
+                    "lat": 52.486647,
+                    "lng": 13.7125721
+                  },
+                  "polyline": {
+                    "points": "mkj_IavwrA@zA@^J~D@zED~E@|D?N@b@@V?~@@tB?z@@N?F@V?H@z@HfF?|@@l@?f@?pABtEFrCBh@Dx@@b@@TF~@@TBj@@l@"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVogelsdorfer Str.\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 367,
+                    "humanReadable": "0.4 km"
+                  },
+                  "maneuver": "turn-left",
+                  "duration": {
+                    "inSeconds": 269,
+                    "humanReadable": "4 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.486647,
+                    "lng": 13.7125721
+                  },
+                  "endLocation": {
+                    "lat": 52.4848306,
+                    "lng": 13.7081061
+                  },
+                  "polyline": {
+                    "points": "qhj_IqfurAd@l@Xd@f@fAFRJ\\L^Ld@f@vBpAxF`@|Av@vC"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Continue onto \u003cb\u003eDorfaue\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 839,
+                    "humanReadable": "0.8 km"
+                  },
+                  "duration": {
+                    "inSeconds": 614,
+                    "humanReadable": "10 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.4848306,
+                    "lng": 13.7081061
+                  },
+                  "endLocation": {
+                    "lat": 52.4791588,
+                    "lng": 13.7004297
+                  },
+                  "polyline": {
+                    "points": "e}i_IujtrA\\nA\\pADNDPDLJ^Rx@V|@?@FP`@|ABLDHDFDJNTLRRZBBXb@p@dADHV^z@nA^n@j@z@Xd@X^R\\LRV^T\\JNLPJJHFHDRDD@NBRFXHVHJDHFDBPNLJHHl@n@DBn@p@JJh@f@DD`@`@b@b@d@d@"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eleft\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 19,
+                    "humanReadable": "19 m"
+                  },
+                  "maneuver": "turn-left",
+                  "duration": {
+                    "inSeconds": 14,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.4791588,
+                    "lng": 13.7004297
+                  },
+                  "endLocation": {
+                    "lat": 52.4791344,
+                    "lng": 13.7007036
+                  },
+                  "polyline": {
+                    "points": "wyh_IuzrrABg@?K@A"
+                  },
+                  "travelMode": "WALKING"
+                }
+              ],
+              "polyline": {
+                "points": "mkj_IavwrA@zA@^J~D@zED~E@|D?N@b@@V?~@@tB?z@@N?F@V?H@z@HfF?|@@l@?f@?pABtEFrCBh@Dx@@b@@TF~@@TBj@@l@d@l@Xd@f@fAFRJ\\L^Ld@f@vBpAxF`@|Av@vC\\nA\\pADNDPDLJ^Rx@V|@?@FP`@|ABLDHDFDJNTLRRZBBXb@p@dADHV^z@nA^n@j@z@Xd@X^R\\LRV^T\\JNLPJJHFHDRDD@NBRFXHVHJDHFDBPNLJHHl@n@DBn@p@JJh@f@DD`@`@b@b@d@d@Bg@?K@A"
+              },
+              "travelMode": "WALKING"
+            },
+            {
+              "htmlInstructions": "Bus towards PlusBus S Neuenhagen",
+              "distance": {
+                "inMeters": 6562,
+                "humanReadable": "6.6 km"
+              },
+              "duration": {
+                "inSeconds": 780,
+                "humanReadable": "13 mins"
+              },
+              "startLocation": {
+                "lat": 52.4787641,
+                "lng": 13.7005223
+              },
+              "endLocation": {
+                "lat": 52.520812,
+                "lng": 13.699738
+              },
+              "polyline": {
+                "points": "gwh_Ig{rrAUI?FCZCXCXAXEh@C^Af@Af@A^@T?FCh@C`@?P?L?H@J?F?F@H?HBVDn@@H?J@P?@?DAJ?F?DAHAF?HCL?BIb@CNAJABADIZKZELEFGPOd@EJKTCAC@C?C@EDCDADCH?F?D?D@D?Dq@nAILGRa@f@c@f@m@p@GFSRSLUJQDKBG@YDUBwANcD\\a@Aa@AoBQc@ESCqBO}AEcB?w@?W?WAKAqAQq@M}@WOE{Cm@kAWUGKEWGKEiD}Aa@SECgAi@_GeEkDeCk@c@uAmAb@cCh@oCHc@PcANs@h@wCBMZkBOMqA}@k@a@k@a@u@c@GE{Ay@k@SUMmAs@QMKGeAq@uAy@?AQQUOYQs@c@SMKGg@[m@_@[QGEs@a@ECUM_@WIKIMKS?I?G?EAICGAGCEEEGCC?E?C@C@CBCBABADCD?FAD?H@J@D@F@BBF?^?L@F@LE^EZGn@AD?@Gj@ALKv@Gh@AH?BIv@CTEXUlBAJC\\CXCVC`@Gn@?LMvACb@CRKz@Iv@_C_BCAaAq@g@]WQg@[ECaAo@cAk@aAi@YOoB{A][SUEEGGi@g@i@e@SQyAoA}BiBcB}Ao@k@_BsAy@s@iAaAcA{@m@_@{@]}@O_@A_@@c@DICSAQ?O?C@ODE@EHKAc@AUACA]Ea@E]EGAq@IEASC]EWCWCAAeBQ]CoBWyBWuC]eEa@MAaCUc@E_B]KCyAYyAi@UI[McAi@i@YWOgB{@eAi@g@WYISI[CGAM?OGCCCAECCDEHeA`C_ArBa@`ACBUj@[v@c@|@CDGHKPm@l@_@TqAp@GDOHOJs@ZIFMJIJEFM\\IPEPCJBFBDFT@DDx@Dp@D~@Ft@?J?N@T@\\Bp@Bt@@v@DjARfDFlAPvCBb@?B?LH`C@Z?VARAH?JAHOUEGACCEMa@COCMA[AC?AAAAAAAA?C?WBI?KBEBA?ADA@A@AFYU"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "Neuenhagen",
+                  "location": {
+                    "lat": 52.520812,
+                    "lng": 13.699738
+                  }
+                },
+                "departureStop": {
+                  "name": "Schöneiche (bei Berlin), Dorfaue",
+                  "location": {
+                    "lat": 52.4787641,
+                    "lng": 13.7005223
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 11,
+                      "minute": 7,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 10,
+                      "minute": 54,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "PlusBus S Neuenhagen",
+                "headway": 0,
+                "numStops": 5,
+                "line": {
+                  "shortName": "420",
+                  "agencies": [
+                    {
+                      "name": "Busverkehr Oder-Spree",
+                      "url": "http://www.bos-fw.de/",
+                      "phone": "011 49 3361 556133"
+                    }
+                  ],
+                  "url": "https://www.vbb.de/fahrinformation/liniennetze/",
+                  "vehicle": {
+                    "name": "Bus",
+                    "type": "BUS",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                    "localIcon": "//maps.gstatic.com/mapfiles/transit/iw2/6/de-berlin-bvg-bus.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Commuter train towards S Olympiastadion (Berlin)",
+              "distance": {
+                "inMeters": 6041,
+                "humanReadable": "6.0 km"
+              },
+              "duration": {
+                "inSeconds": 480,
+                "humanReadable": "8 mins"
+              },
+              "startLocation": {
+                "lat": 52.520812,
+                "lng": 13.699738
+              },
+              "endLocation": {
+                "lat": 52.5123085,
+                "lng": 13.6119162
+              },
+              "polyline": {
+                "points": "a~p_IkvrrATEDv@Bj@HlBBTLpB?HT|CZ`EP`EN~CNxDHtALxBd@rHZfHB^N~DL|C@TRbEDx@?DLzC`@jJDhAp@tOJhCd@tK?@@fB@dBA~D@\\D|AFpABf@LfC@^@R@DDx@VfF@J@TBZNfCNrBFhADh@TlD`AfO^fI~@|QLfCThG\\`IbCnm@BbA?@B`B@P?d@?TFhCBd@?NBh@B~@F`ABl@JrB@\\FzANfDHz@LfBVvCFxA`@|IbBh`@Dt@XfHHfBb@fKFhAPvDl@dNb@|JBf@V`GVdGZbJ@RFtBFjC@\\?VFpBJrEFxBHrCLzBHpABZHv@NbBFx@VdCPhBHfAHhA@NFbBDx@@N@^?JKD"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "Mahlsdorf Railway Station",
+                  "location": {
+                    "lat": 52.5123085,
+                    "lng": 13.6119162
+                  }
+                },
+                "departureStop": {
+                  "name": "Neuenhagen",
+                  "location": {
+                    "lat": 52.520812,
+                    "lng": 13.699738
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 11,
+                      "minute": 20,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 11,
+                      "minute": 12,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "S Olympiastadion (Berlin)",
+                "headway": 0,
+                "numStops": 3,
+                "line": {
+                  "shortName": "S5",
+                  "color": "#f27822",
+                  "agencies": [
+                    {
+                      "name": "S-Bahn Berlin GmbH",
+                      "url": "http://www.s-bahn-berlin.de/",
+                      "phone": "011 49 30 29743333"
+                    }
+                  ],
+                  "url": "https://www.vbb.de/fahrinformation/liniennetze/",
+                  "vehicle": {
+                    "name": "Commuter train",
+                    "type": "COMMUTER_TRAIN",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/rail2.png",
+                    "localIcon": "//maps.gstatic.com/mapfiles/transit/iw2/6/de-sbahn.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Walk to Waldowstraße 19, 12623 Berlin, Germany",
+              "distance": {
+                "inMeters": 356,
+                "humanReadable": "0.4 km"
+              },
+              "duration": {
+                "inSeconds": 270,
+                "humanReadable": "5 mins"
+              },
+              "startLocation": {
+                "lat": 52.5123334,
+                "lng": 13.612122
+              },
+              "endLocation": {
+                "lat": 52.5097326,
+                "lng": 13.6107318
+              },
+              "steps": [
+                {
+                  "htmlInstructions": "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eHönower Str.\u003c/b\u003e toward \u003cb\u003eTreskowstraße\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 114,
+                    "humanReadable": "0.1 km"
+                  },
+                  "duration": {
+                    "inSeconds": 86,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.5123334,
+                    "lng": 13.612122
+                  },
+                  "endLocation": {
+                    "lat": 52.5112663,
+                    "lng": 13.6122905
+                  },
+                  "polyline": {
+                    "points": "aio_IwrarAD?R@XCN?LAL?LAHC`AQB?@?B?NE"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eTreskowstraße\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 74,
+                    "humanReadable": "74 m"
+                  },
+                  "maneuver": "turn-right",
+                  "duration": {
+                    "inSeconds": 57,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.5112663,
+                    "lng": 13.6122905
+                  },
+                  "endLocation": {
+                    "lat": 52.5111606,
+                    "lng": 13.6111907
+                  },
+                  "polyline": {
+                    "points": "mbo_IysarADx@Dp@@RDbA@V"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eWaldowstraße\u003c/b\u003e\u003cdiv style\u003d\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                  "distance": {
+                    "inMeters": 168,
+                    "humanReadable": "0.2 km"
+                  },
+                  "maneuver": "turn-left",
+                  "duration": {
+                    "inSeconds": 127,
+                    "humanReadable": "2 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.5111606,
+                    "lng": 13.6111907
+                  },
+                  "endLocation": {
+                    "lat": 52.5097326,
+                    "lng": 13.6107318
+                  },
+                  "polyline": {
+                    "points": "wao_I}larAd@JdATx@Nn@NF@ZH@@`@J"
+                  },
+                  "travelMode": "WALKING"
+                }
+              ],
+              "polyline": {
+                "points": "aio_IwrarAD?R@XCN?LAL?LAHC`AQB?@?B?NEDx@Dp@@RDbA@Vd@JdATx@Nn@NF@ZH@@`@J"
+              },
+              "travelMode": "WALKING"
+            }
+          ],
+          "distance": {
+            "inMeters": 15048,
+            "humanReadable": "15.0 km"
+          },
+          "duration": {
+            "inSeconds": 3352,
+            "humanReadable": "56 mins"
+          },
+          "arrivalTime": {
+            "dateTime": {
+              "date": {
+                "year": 2023,
+                "month": 1,
+                "day": 22
+              },
+              "time": {
+                "hour": 11,
+                "minute": 24,
+                "second": 30,
+                "nano": 0
+              }
+            },
+            "offset": {
+              "totalSeconds": 3600
+            },
+            "zone": {}
+          },
+          "departureTime": {
+            "dateTime": {
+              "date": {
+                "year": 2023,
+                "month": 1,
+                "day": 22
+              },
+              "time": {
+                "hour": 10,
+                "minute": 28,
+                "second": 38,
+                "nano": 0
+              }
+            },
+            "offset": {
+              "totalSeconds": 3600
+            },
+            "zone": {}
+          },
+          "startLocation": {
+            "lat": 52.4871063,
+            "lng": 13.7252896
+          },
+          "endLocation": {
+            "lat": 52.5097326,
+            "lng": 13.6107318
+          },
+          "startAddress": "Rehfelder Str. 3, 15566 Schöneiche bei Berlin, Germany",
+          "endAddress": "Waldowstraße 19, 12623 Berlin, Germany"
+        }
+      ],
+      "waypointOrder": [],
+      "overviewPolyline": {
+        "points": "mkj_IavwrABzBJ~D@zEF|K@r@BhGBx@LnK?xBJhJL|CNnD~@rAn@zAX|@t@|CrBvItAfFn@`Cv@xCr@fCh@|@bBhClFhIfA`BX\\RL|@Rp@RTLn@h@nBpBtBrBd@d@Bg@@MhAb@UICb@OvBInCEhBBxAJ|A?d@Q~AId@Uv@KTi@xAO@IJEN@X?Dq@nAQ`@{BhCg@`@g@PcAN{Fl@cACyGk@aEEoA?c@CcC_@mA]gFeAeA[kEqBmAm@kLkIk@c@uAmAlAsGZgBxAeIyDoC}@i@{Ay@k@ScBaA]U{CkBQSwBsA}BuAwAy@_@WIKUa@Aa@EOIKKCI@MLGX@TBLDJ?l@BTKz@QbBWxBs@|GOvBQzBOnAIv@_C_BeAs@mBoAeC{A{Ay@mCwBY[oBgBwEyDcB}AsGuFcA{@m@_@{@]}@O_A?c@DICe@AS@UFEHKAy@Ca@GyBWoAO}C[iFo@{I_AoCWc@E_B]eB]oBs@_Bw@aAi@mDeBaAa@o@MUA]QoCdGwAhDg@bASZm@l@_@TyAv@}Ax@WVSd@Ob@CJBFJZF~@RrDFtBDlBXrF\\lGJbEEr@[g@Qq@Ei@CGICs@JGHAFYUTEDv@LxCPfCTfDZ`EP`E^xIVnEd@rHZfHR~Eh@pLxCns@BlE?|ELnDPnDJrB^dHf@dIZvE`AfO^fIlAdVr@jQfCro@BbBHvEJ~CX`GVbGVbDVvCFxAdCfk@lAlYjBdb@ZhHr@hRRrHZvMVnGLlBx@zIZpDJxAPlE?JKDCg@D?l@A\\AZAjAUXERbE@Vd@J~Bd@tA\\`@J"
+      },
+      "bounds": {
+        "northeast": {
+          "lat": 52.520812,
+          "lng": 13.7252896
+        },
+        "southwest": {
+          "lat": 52.4787641,
+          "lng": 13.6107318
+        }
+      },
+      "copyrights": "Map data ©2023 GeoBasis-DE/BKG (©2009)",
+      "warnings": [
+        "Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths."
+      ]
+    }
+  ]
+}

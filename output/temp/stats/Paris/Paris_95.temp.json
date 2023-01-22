@@ -1,0 +1,25 @@
+{
+  "meterpolisName": "Paris",
+  "route": {
+    "from": {
+      "lat": 48.84122169882686,
+      "lng": 2.241122810769872
+    },
+    "to": {
+      "lat": 48.88430068719797,
+      "lng": 2.3255276809421463
+    }
+  },
+  "stats": {
+    "changeNumber": 5,
+    "bigChangeNumber": 4,
+    "alternatives": 0,
+    "totalDuration": 2146,
+    "walkingDuration": 396,
+    "cost": {
+      "value": 1.9,
+      "currency": "EUR"
+    }
+  },
+  "filename": "Paris_95.temp.json"
+}

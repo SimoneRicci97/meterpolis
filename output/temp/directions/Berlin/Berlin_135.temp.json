@@ -1,0 +1,626 @@
+{
+  "meterpolisName": "Berlin",
+  "route": {
+    "from": {
+      "lat": 52.38570597140294,
+      "lng": 13.098182144141555
+    },
+    "to": {
+      "lat": 52.36245565164026,
+      "lng": 13.30635957006111
+    }
+  },
+  "directions": [
+    {
+      "summary": "",
+      "legs": [
+        {
+          "steps": [
+            {
+              "htmlInstructions": "Walk to Potsdam, Heinrich-von-Kleist-Str.",
+              "distance": {
+                "inMeters": 355,
+                "humanReadable": "0.4 km"
+              },
+              "duration": {
+                "inSeconds": 264,
+                "humanReadable": "4 mins"
+              },
+              "startLocation": {
+                "lat": 52.3856054,
+                "lng": 13.0981172
+              },
+              "endLocation": {
+                "lat": 52.3881875,
+                "lng": 13.098247
+              },
+              "steps": [
+                {
+                  "htmlInstructions": "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eHeinrich-von-Kleist-Straße\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 55,
+                    "humanReadable": "55 m"
+                  },
+                  "duration": {
+                    "inSeconds": 41,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.3856054,
+                    "lng": 13.0981172
+                  },
+                  "endLocation": {
+                    "lat": 52.3857874,
+                    "lng": 13.0973588
+                  },
+                  "polyline": {
+                    "points": "aqv~Hgf}nAIp@Mx@Kj@"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eHeinrich-von-Kleist-Straße\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 272,
+                    "humanReadable": "0.3 km"
+                  },
+                  "maneuver": "turn-right",
+                  "duration": {
+                    "inSeconds": 202,
+                    "humanReadable": "3 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.3857874,
+                    "lng": 13.0973588
+                  },
+                  "endLocation": {
+                    "lat": 52.3881046,
+                    "lng": 13.0986421
+                  },
+                  "polyline": {
+                    "points": "erv~Hoa}nAaBu@[Mc@SeAi@q@WsDeB"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eGroßbeerenstraße\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 28,
+                    "humanReadable": "28 m"
+                  },
+                  "maneuver": "turn-left",
+                  "duration": {
+                    "inSeconds": 21,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.3881046,
+                    "lng": 13.0986421
+                  },
+                  "endLocation": {
+                    "lat": 52.3881875,
+                    "lng": 13.098247
+                  },
+                  "polyline": {
+                    "points": "s`w~Hoi}nAM~@CL"
+                  },
+                  "travelMode": "WALKING"
+                }
+              ],
+              "polyline": {
+                "points": "aqv~Hgf}nAIp@Mx@Kj@aBu@[Mc@SeAi@q@WsDeBM~@CL"
+              },
+              "travelMode": "WALKING"
+            },
+            {
+              "htmlInstructions": "Bus towards S Potsdam Hauptbahnhof",
+              "distance": {
+                "inMeters": 657,
+                "humanReadable": "0.7 km"
+              },
+              "duration": {
+                "inSeconds": 120,
+                "humanReadable": "2 mins"
+              },
+              "startLocation": {
+                "lat": 52.388184,
+                "lng": 13.098245
+              },
+              "endLocation": {
+                "lat": 52.390565,
+                "lng": 13.090534
+              },
+              "polyline": {
+                "points": "caw~H_g}nAAAIp@Gh@_AjHK|@CRABATAD]hCUjBE\\_@xCCTCPw@bGYtB]bCGh@GRGXSTQPAAC?AAC@G@EKKOU[OEAAOICA?D"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "S Babelsberg/Schulstr.",
+                  "location": {
+                    "lat": 52.390565,
+                    "lng": 13.090534
+                  }
+                },
+                "departureStop": {
+                  "name": "Potsdam, Heinrich-von-Kleist-Str.",
+                  "location": {
+                    "lat": 52.388184,
+                    "lng": 13.098245
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 10,
+                      "minute": 39,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 10,
+                      "minute": 37,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "S Potsdam Hauptbahnhof",
+                "headway": 0,
+                "numStops": 2,
+                "line": {
+                  "shortName": "690",
+                  "agencies": [
+                    {
+                      "name": "Verkehrsbetrieb Potsdam GmbH",
+                      "url": "http://www.vip-potsdam.de/",
+                      "phone": "011 49 331 6614694"
+                    }
+                  ],
+                  "url": "https://www.vbb.de/fahrinformation/liniennetze/",
+                  "vehicle": {
+                    "name": "Bus",
+                    "type": "BUS",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                    "localIcon": "//maps.gstatic.com/mapfiles/transit/iw2/6/de-berlin-bvg-bus.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Walk to S Babelsberg/Lutherplatz",
+              "distance": {
+                "inMeters": 115,
+                "humanReadable": "0.1 km"
+              },
+              "duration": {
+                "inSeconds": 115,
+                "humanReadable": "2 mins"
+              },
+              "startLocation": {
+                "lat": 52.39058139999999,
+                "lng": 13.0904683
+              },
+              "endLocation": {
+                "lat": 52.389928,
+                "lng": 13.0891442
+              },
+              "steps": [
+                {
+                  "distance": {
+                    "inMeters": 115,
+                    "humanReadable": "0.1 km"
+                  },
+                  "duration": {
+                    "inSeconds": 115,
+                    "humanReadable": "2 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.39058139999999,
+                    "lng": 13.0904683
+                  },
+                  "endLocation": {
+                    "lat": 52.389928,
+                    "lng": 13.0891442
+                  },
+                  "polyline": {
+                    "points": "cpw~Hmv{nA`ChG"
+                  },
+                  "travelMode": "WALKING"
+                }
+              ],
+              "polyline": {
+                "points": "cpw~Hmv{nA`ChG"
+              },
+              "travelMode": "WALKING"
+            },
+            {
+              "htmlInstructions": "Bus towards Ludwigsfelde, Bahnhof",
+              "distance": {
+                "inMeters": 16504,
+                "humanReadable": "16.5 km"
+              },
+              "duration": {
+                "inSeconds": 1560,
+                "humanReadable": "26 mins"
+              },
+              "startLocation": {
+                "lat": 52.389967,
+                "lng": 13.089123
+              },
+              "endLocation": {
+                "lat": 52.308256,
+                "lng": 13.247068
+              },
+              "polyline": {
+                "points": "ilw~H_n{nAC@CQCU?UA_@ASTh@lArCHTDAFAD@HBNPHLR\\t@xALVZd@TV^XNNTXT\\DHRZLNFJDF@?FJBFBDFF@BJFJDLD^FR}@HYt@sDv@gERaA`@wBNq@j@mC?A?A?a@l@eBVu@b@oAZ{@p@cBHOBGFOHUBGBGDIBIDGDKN]j@mA\\y@Vm@BEPa@Zu@LYb@aAf@kABGDGPa@Rg@BEL]@CDIN]LYRc@JUTk@Tg@Re@Re@`AyBRg@Rc@h@oAVm@@EPa@Vk@Rg@Te@Ri@Tg@FMJYTg@Re@BGPa@Ti@@APa@BG?ARa@Rg@DK@A?ALWTi@Tg@Rg@Te@Ti@Re@Tg@Tk@Pa@DIPa@FOLYTg@Re@Tk@Rc@Ti@Xo@d@gARg@Rg@Xm@Rg@j@qAf@kAfAeCJWRe@nBmEDKXs@DIHQ@ETe@JWP_@Ti@Vo@LWDMJSDMHSLWNc@Rk@Rg@Rm@Nk@HUT{@Ru@FUHY?CLi@R}@TeABKF_@BILs@Jq@Jo@Hk@T_BJm@D]BQJq@RsAN_AVmBJq@Hc@D[Da@Hg@LaAD_@Jq@@KDi@Dc@JkAH}@F{@FqABm@B]?O@SBq@@k@Bo@@aAB_DAwEA}A?gBAmDAiB?}@?_A?cBAyEC{E?M?[?K?U?Y?W?_@A_@?y@@?veGm_GZ[JQXMHEp@]p@a@@An@]XS\\YRQPOFGTWPSPSPUT]Xe@PY@AP]Rc@Ti@f@sA`ByEtCuI~IwWFQHSJ]|AqEJYHSHQRa@P[Vc@~C{E^k@Zk@@GtCaGNU^}@Ra@f@oAfAcDBG`AaEV_BNsAL{ARkDd@cW@}@B_AHiDFsD@s@?GDsBDuBf@Dn@Hn@H^D`@D`@@B?XCREPGj@W\\UTSn@k@`@e@BADG\\]xB}BpAuAjBoBJK@A`@e@LMLKDE`@[XWj@e@rAk@@A?A@?Pp@HAz@OQr@CNIf@CNMg@COGWGYQq@?C?CKgAUwCE]Gu@CYEk@QqB?AIaAAMC[E{@CSK}AMeA?IOoBEq@AECs@AKAe@@{@@a@@GBWHcADUDQFSsAuAGGiCmCOG_@]]_@]]}@w@}@s@MOe@Wu@]YIm@SOCUEKCc@IeAS[GNcCRoCHuABe@@_@b@aGBWB_@JgAVmCT_CDi@@MDu@LkBBw@@UByABiBAeBACEuBC{@?MEaACk@GqAO{BAQGw@C_@GaAYqE]gFO{BE_AC]Aq@?CA[@iA@[Be@Fw@^aB@?B@@?@?B?@A@?BA@A@A@A@ABE?A@A@C?A@C?A@C?C?A@G?A?C?C?CAA?C?CAA?CAAAC?AAAACAAJu@BKNg@Zs@^}@DIXo@b@gAfAaC\\s@bAyBJKFMFK?CVk@P_@J[@C?I\\m@V[RWZ_@jCgDnHgJTWh@s@HIbEaFRWdEaFT[V_@Xi@P[Vk@jB{EjCcHJWDMNa@DMTm@Vs@Rg@BEDMNa@HQ?@"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "Ludwigsfelde, S.-Allende-Str.",
+                  "location": {
+                    "lat": 52.308256,
+                    "lng": 13.247068
+                  }
+                },
+                "departureStop": {
+                  "name": "S Babelsberg/Lutherplatz",
+                  "location": {
+                    "lat": 52.389967,
+                    "lng": 13.089123
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 11,
+                      "minute": 7,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 10,
+                      "minute": 41,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "Ludwigsfelde, Bahnhof",
+                "headway": 0,
+                "numStops": 8,
+                "line": {
+                  "shortName": "715",
+                  "agencies": [
+                    {
+                      "name": "Verkehrsgesellschaft Teltow-Fläming",
+                      "url": "http://www.vtf-online.de/"
+                    }
+                  ],
+                  "url": "https://www.vbb.de/fahrinformation/liniennetze/",
+                  "vehicle": {
+                    "name": "Bus",
+                    "type": "BUS",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                    "localIcon": "//maps.gstatic.com/mapfiles/transit/iw2/6/de-berlin-bvg-bus.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Bus towards S Buckower Chaussee (Berlin)",
+              "distance": {
+                "inMeters": 13402,
+                "humanReadable": "13.4 km"
+              },
+              "duration": {
+                "inSeconds": 1380,
+                "humanReadable": "23 mins"
+              },
+              "startLocation": {
+                "lat": 52.308256,
+                "lng": 13.247068
+              },
+              "endLocation": {
+                "lat": 52.361222,
+                "lng": 13.311493
+              },
+              "polyline": {
+                "points": "smg~HeizoA?AJYFO`@gAp@{ARg@`BkDP_@jAaCv@_Bh@eA`AsBTc@b@aABE^w@z@mBJS^w@j@oABEDEVe@NYBEVk@Te@xAwC~AcDGMs@oAAAiAqBIQYe@SYIKGGGGKG}Bg@gAU_Ds@qBg@o@Q]I@MLcCJuBFaB?O?M?Y?k@?U?Q@W@w@@w@@a@DuA@YLcBFw@Do@@IDk@F[BMFUJQLQPUVWr@m@nBaB\\[FGZWJGTKTKD@B@@?B?@ADA@A@A?A@C?A?A@A?A?C@C?C?C?CAC?C^[^[vAqAHTBHDHFFDDD@D?BAb@bBb@U`@YRKVOHCl@QJAXEZCLAd@AP?tABF?VBTBh@FF@^Hj@PDBj@Rl@\\RNTLh@iDPcADa@\\FfCb@XBN?N@H@VBB?LANE@?@?\\?j@Lr@LJDHBFFBJ@FADAHCFO\\KVIPILCHAFAD?LCVA?A@A?A??@A?A@A@ABABADAB?D?D?B?D?@?@?@@@?B@B@@?B@@@@@?BBFBB?HAFI@A?C@C?C?C@C?E?ENC^ONMh@KRELEPIFCNOHKDGP_@Vk@Pq@?A@EFa@@K?ABKFi@?A@IJiABY@CBUTqADQTy@DFB@D@D?BAB?@ABC@E@E@C@E?C?C?C?EAC?CAGCECCAAAAAAA?CAA?C@A?A@C@ABCBABAD{@iAmAiBk@{@cB}ByAsBo@y@UWEGwB_CKKiCwCQS[a@CEEGuBaCo@u@y@aAm@q@_@c@yBaCyBeC_F{FeBmB]e@W[IIW[EEs@{@a@]a@[CAKMs@u@CCyB}BoAqAe@a@oAkAaA}@a@YOGOIQGc@Mc@Gg@G_@CC?YCQCUAQAe@EyBSIAc@EyFk@YCIAmCWmAISA]CiBOMA}CU[QSEAG?CAA?A?AAAAA?AAAAAAA?AAYCg@HmD@]JqDDsBBu@?EB[?ABY?ED]TaA@CFY@EBU@C?C@S@G@K?I?C@Y@U?E?]?K?QA_@KaCA[AW?Q?C?Y^kLBk@@WBoA@a@@QReH@i@ZyKBoAHkC@YBw@@_A@cA?]A]C]WqB[cCEWU_BuA{Jm@qEi@iEyB}RIw@Ky@]_DGi@AIIqAEgAAYCYEaCCcAEgAGgBEg@IcAeAjCk@tAc@fAa@dAO`@IRYr@e@lACFKVQ`@KRg@|@Yf@OV[b@mAhBQTuAlB}@lAkC~CoArAYZ}BbCST}@z@iAhAQRMLg@j@[\\uCvCOPsFxFoCtCo@l@y@t@ON[Re@Z]TA@[N[L[JWH]F[FQD}@JS@m@BQ?e@AkAIoBSmAIq@Ai@AsHBqB@oE@yACK?oB?aC?s@?c@?c@@o@?cC?}@@O@]@e@@W?c@?{A?_A?iA?[AG@E?Q?UCSEUEYGWIIAc@Km@OWGc@MqCq@eEcAmA[UG[ISEgD{@YGICy@Sg@M_@KICa@KKC{@SCA]KEAQEMEQIOGMIMIKIQOCCKKQSeAkAm@q@i@o@{@cAAAY]AAOS[a@]i@[g@q@gAEIEGS[MUg@y@Q[EGCEWa@MUIOU_@EEMUKOKO?AKOGIEEGGIGKIMGGEICECICOCKCKAA?MAG?MAQAGAQAQASAK?C?Q?E?I@S@E@M@O@K@K@M@]BG?E?e@BG?A@g@BE?Q@E?G?m@BK@W@y@DS@O?OAW?a@?U?AEACCECACAE?I?g@BC?C?E@CBABADCD[@Q@IBY?S?i@?E?[?YCWECA[Ou@[WKy@]_@OEAi@Sm@Wy@[CACAc@SECA?_@SKKo@e@IGu@i@GGIGMI]YGEQKIGYUCAUQoA_Aa@YMIw@i@a@YKGSKSM]SCCy@c@IEQMa@Uy@e@AA_@Se@WAA"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "Großbeeren, Lindenstr.",
+                  "location": {
+                    "lat": 52.361222,
+                    "lng": 13.311493
+                  }
+                },
+                "departureStop": {
+                  "name": "Ludwigsfelde, S.-Allende-Str.",
+                  "location": {
+                    "lat": 52.308256,
+                    "lng": 13.247068
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 11,
+                      "minute": 37,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 11,
+                      "minute": 14,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "S Buckower Chaussee (Berlin)",
+                "headway": 0,
+                "numStops": 13,
+                "line": {
+                  "shortName": "710",
+                  "agencies": [
+                    {
+                      "name": "Verkehrsgesellschaft Teltow-Fläming",
+                      "url": "http://www.vtf-online.de/"
+                    }
+                  ],
+                  "url": "https://www.vbb.de/fahrinformation/liniennetze/",
+                  "vehicle": {
+                    "name": "Bus",
+                    "type": "BUS",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                    "localIcon": "//maps.gstatic.com/mapfiles/transit/iw2/6/de-berlin-bvg-bus.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Walk to Ringstraße 42, 14979 Großbeeren, Germany",
+              "distance": {
+                "inMeters": 592,
+                "humanReadable": "0.6 km"
+              },
+              "duration": {
+                "inSeconds": 442,
+                "humanReadable": "7 mins"
+              },
+              "startLocation": {
+                "lat": 52.36122289999999,
+                "lng": 13.3114885
+              },
+              "endLocation": {
+                "lat": 52.3624677,
+                "lng": 13.3064548
+              },
+              "steps": [
+                {
+                  "htmlInstructions": "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eBerliner Str.\u003c/b\u003e toward \u003cb\u003eKleinbeerener Str.\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 131,
+                    "humanReadable": "0.1 km"
+                  },
+                  "duration": {
+                    "inSeconds": 99,
+                    "humanReadable": "2 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.36122289999999,
+                    "lng": 13.3114885
+                  },
+                  "endLocation": {
+                    "lat": 52.362315,
+                    "lng": 13.3121985
+                  },
+                  "polyline": {
+                    "points": "sxq~Hy{fpAGCo@_@UKECa@UIEy@g@_@U"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eLindenstraße\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 410,
+                    "humanReadable": "0.4 km"
+                  },
+                  "maneuver": "turn-left",
+                  "duration": {
+                    "inSeconds": 306,
+                    "humanReadable": "5 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.362315,
+                    "lng": 13.3121985
+                  },
+                  "endLocation": {
+                    "lat": 52.3629129,
+                    "lng": 13.3063048
+                  },
+                  "polyline": {
+                    "points": "m_r~Hg`gpAI\\YxA?PO|FKfEEzBGnBI~@e@dEAV?LBXBX"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eTeltower Str.\u003c/b\u003e\u003cdiv style\u003d\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                  "distance": {
+                    "inMeters": 51,
+                    "humanReadable": "51 m"
+                  },
+                  "maneuver": "turn-left",
+                  "duration": {
+                    "inSeconds": 37,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.3629129,
+                    "lng": 13.3063048
+                  },
+                  "endLocation": {
+                    "lat": 52.3624677,
+                    "lng": 13.3064548
+                  },
+                  "polyline": {
+                    "points": "ecr~Hk{epAvA]"
+                  },
+                  "travelMode": "WALKING"
+                }
+              ],
+              "polyline": {
+                "points": "sxq~Hy{fpAGCo@_@UKECa@UIEy@g@_@UI\\YxA?PO|FKfEEzBGnBI~@e@dEAV?LBXBXvA]"
+              },
+              "travelMode": "WALKING"
+            }
+          ],
+          "distance": {
+            "inMeters": 31625,
+            "humanReadable": "31.6 km"
+          },
+          "duration": {
+            "inSeconds": 4307,
+            "humanReadable": "1 hour 12 mins"
+          },
+          "arrivalTime": {
+            "dateTime": {
+              "date": {
+                "year": 2023,
+                "month": 1,
+                "day": 22
+              },
+              "time": {
+                "hour": 11,
+                "minute": 44,
+                "second": 22,
+                "nano": 0
+              }
+            },
+            "offset": {
+              "totalSeconds": 3600
+            },
+            "zone": {}
+          },
+          "departureTime": {
+            "dateTime": {
+              "date": {
+                "year": 2023,
+                "month": 1,
+                "day": 22
+              },
+              "time": {
+                "hour": 10,
+                "minute": 32,
+                "second": 35,
+                "nano": 0
+              }
+            },
+            "offset": {
+              "totalSeconds": 3600
+            },
+            "zone": {}
+          },
+          "startLocation": {
+            "lat": 52.3856054,
+            "lng": 13.0981172
+          },
+          "endLocation": {
+            "lat": 52.3624677,
+            "lng": 13.3064548
+          },
+          "startAddress": "Heinrich-von-Kleist-Straße 34, 14482 Potsdam, Germany",
+          "endAddress": "Ringstraße 42, 14979 Großbeeren, Germany"
+        }
+      ],
+      "waypointOrder": [],
+      "overviewPolyline": {
+        "points": "aqv~Hgf}nAWjBKj@aBu@_Aa@wBaAsDeBM~@ANsAdKiAfJeDfWOl@e@f@KAG@EKa@k@e@SCP`ChGGBGOCk@Cs@bB|DHTDAL?XT\\j@bApBp@|@n@h@j@v@f@t@h@x@VLl@LjCsMpByJ?C?a@l@eBz@eClA_D^}@l@uAdEoJnFcMhJmTjN}[pNi\\vBcFtBsFbBqGt@oDh@_DdBoLvAkKv@qIZoIDaFCuHC}LEeTAqB@y@veGm_Gf@m@b@StC_B|AoA`AgArAsB|@mBzVqt@r@aBhFgIbEkIr@_BnBsFdAiEf@sD`@gGf@aYVqMD{BDuBf@D~AR`AJd@@l@I|@_@r@i@zA{ArKcLnAeAj@e@rAk@@A@APp@HAz@OQr@Mv@CNMg@Kg@YoAkAoNs@aJWqDE_A?aBPeCJg@FSsAuAqCuCo@e@{@}@{BkBs@g@oAg@_Ba@iB][GNcC\\eFDeAv@aKt@eIXoFBmHOaG]kGeBmXA{CDaAFw@^aBD@B?JCNUD[C[EIJgApAcDbDmHnAeCNYt@kB@Mt@iAjNgQlGwHfGuHj@eAbCgGlDkJjB_FRi@rAcDtBsE~DgI~B_FfCqFlAaC`AqBxD{H{@}AoBkDm@u@iCo@gFiAaDy@]I@MXyFFqB?iBDyCVuFT}CJi@Rg@^g@jAeApD}C`@SZIH@LQ@[^_@vBmBZp@TDb@bBb@Ut@e@`@Sx@ShBMfCFfBVp@TxAp@h@\\z@mFDa@\\F`Df@`AFb@G^?~AZTHJRE^o@tAGd@IXEBIb@DVDFJFLAJS@QNIn@]|@Q^Of@g@h@kAPq@Ju@Jy@RqBXgBZkATJLGFg@GUIIK?IFEFAD{@iAyBeD}DqFcEyEcEyEqL_N}O}QuAyAe@]}DeEgG}Fq@a@a@QgAUgAKeAI}NuAmGg@wBQ}CU[QSEAGAECGEGA[Cg@HmDLoEHiDF}@l@cDFsA@eAOoEAgAh@_QdAs_@FyEE{@s@uF_DeUyDy\\q@eHQ}FW{GIcAeAjCoA|CuAnDgAnC}ApCqEpGiElFiBnByG~GmSdTuCfCaBbAmBj@_CZ_ABqBK}D]{ACeLDiHAqH?{F@qCFkI?qAO_B_@aQiE}O_E}@e@m@i@gGeHkAaByAaCkCmEkAmBa@g@k@_@i@Og@GsBKuEVeCJqBJyAAWEEIWCu@DKRqAF_B?q@I_@QgDuAcEaBs@c@wB_BwB}AuCuByBwAgFyCaCsAgAk@yA}@c@vBa@rQQnDg@|EBf@BXvA]"
+      },
+      "bounds": {
+        "northeast": {
+          "lat": 52.39058139999999,
+          "lng": 13.3132251
+        },
+        "southwest": {
+          "lat": 52.2954825,
+          "lng": 13.086228
+        }
+      },
+      "copyrights": "Map data ©2023 GeoBasis-DE/BKG (©2009)",
+      "warnings": [
+        "Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths."
+      ]
+    }
+  ]
+}

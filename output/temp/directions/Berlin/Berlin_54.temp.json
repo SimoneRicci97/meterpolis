@@ -1,0 +1,507 @@
+{
+  "meterpolisName": "Berlin",
+  "route": {
+    "from": {
+      "lat": 52.46264638562305,
+      "lng": 13.223725431436613
+    },
+    "to": {
+      "lat": 52.39865955056649,
+      "lng": 13.277540034748588
+    }
+  },
+  "directions": [
+    {
+      "summary": "",
+      "legs": [
+        {
+          "steps": [
+            {
+              "htmlInstructions": "Walk to Lindwerder (Berlin)",
+              "distance": {
+                "inMeters": 3037,
+                "humanReadable": "3.0 km"
+              },
+              "duration": {
+                "inSeconds": 2162,
+                "humanReadable": "36 mins"
+              },
+              "startLocation": {
+                "lat": 52.4630859,
+                "lng": 13.2243541
+              },
+              "endLocation": {
+                "lat": 52.4671896,
+                "lng": 13.1965358
+              },
+              "steps": [
+                {
+                  "htmlInstructions": "Head \u003cb\u003enorthwest\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 2017,
+                    "humanReadable": "2.0 km"
+                  },
+                  "duration": {
+                    "inSeconds": 1446,
+                    "humanReadable": "24 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.4630859,
+                    "lng": 13.2243541
+                  },
+                  "endLocation": {
+                    "lat": 52.4742265,
+                    "lng": 13.2008707
+                  },
+                  "polyline": {
+                    "points": "iue_Ie{uoAKVUn@{@zBkB~EeBxEiAfDi@rAcBlEGNgBrE{B`GOb@_AfC}AxDs@dBUn@a@fAwB~FcCxGEFGHCPCJIZKXCF}BrGeAzC}AbEkB|EeAtCg@rAiAvCi@vAgAtCsAnDg@vAeArC"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eHavelchaussee\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 121,
+                    "humanReadable": "0.1 km"
+                  },
+                  "maneuver": "turn-left",
+                  "duration": {
+                    "inSeconds": 98,
+                    "humanReadable": "2 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.4742265,
+                    "lng": 13.2008707
+                  },
+                  "endLocation": {
+                    "lat": 52.47372799999999,
+                    "lng": 13.1992347
+                  },
+                  "polyline": {
+                    "points": "}zg_ImhqoABFTpADNLt@ThADPHb@HNDV"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eHavelchaussee\u003c/b\u003e\u003cdiv style\u003d\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                  "distance": {
+                    "inMeters": 899,
+                    "humanReadable": "0.9 km"
+                  },
+                  "maneuver": "turn-left",
+                  "duration": {
+                    "inSeconds": 618,
+                    "humanReadable": "10 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.47372799999999,
+                    "lng": 13.1992347
+                  },
+                  "endLocation": {
+                    "lat": 52.4671896,
+                    "lng": 13.1965358
+                  },
+                  "polyline": {
+                    "points": "ywg_Ie~poAf@ILATE`@Gb@Gd@IfB]PCPEb@K`@K`@I@AXE`@GHAb@Eb@GVCrAQD?\\K`@MDAZAB?P@J@NDNF@?BBBDBB@DDPDXBT@DJj@@H?B@H@H@\\?F@r@@t@BfABr@D`@BTN`@Vl@f@`AV`@VVPHTDh@@`AFL?p@Ah@?"
+                  },
+                  "travelMode": "WALKING"
+                }
+              ],
+              "polyline": {
+                "points": "iue_Ie{uoAKVUn@{@zBkB~EeBxEiAfDi@rAcBlEGNgBrE{B`GOb@_AfC}AxDs@dBUn@a@fAwB~FcCxGEFGHCPCJIZKXCF}BrGeAzC}AbEkB|EeAtCg@rAiAvCi@vAgAtCsAnDg@vAeArCBFTpADNLt@ThADPHb@HNDVf@ILATE`@Gb@Gd@IfB]PCPEb@K`@K`@I@AXE`@GHAb@Eb@GVCrAQD?\\K`@MDAZAB?P@J@NDNF@?BBBDBB@DDPDXBT@DJj@@H?B@H@H@\\?F@r@@t@BfABr@D`@BTN`@Vl@f@`AV`@VVPHTDh@@`AFL?p@Ah@?"
+              },
+              "travelMode": "WALKING"
+            },
+            {
+              "htmlInstructions": "Bus towards Pfaueninsel",
+              "distance": {
+                "inMeters": 6147,
+                "humanReadable": "6.1 km"
+              },
+              "duration": {
+                "inSeconds": 780,
+                "humanReadable": "13 mins"
+              },
+              "startLocation": {
+                "lat": 52.467188,
+                "lng": 13.196552
+              },
+              "endLocation": {
+                "lat": 52.4213627,
+                "lng": 13.1790299
+              },
+              "polyline": {
+                "points": "}nf_ImmpoA?Gh@?zABP@p@@B?J@R@@@R@LF@?PHNHn@f@~@jADHl@hAP`@b@hAh@rABDf@|A|@hCBHfArBVp@Vd@NVJJFHTTh@Zn@\\HDb@P@@^NFBXF\\FD@b@JVLLB^HTDL@b@H`@HH@XD^FdANd@F`@F`@Fb@HD?\\FB@TFD@B@`@NrDfBb@R\\L`B\\@?`@HrCh@ZF^@b@Bd@AXCJCHCXOFKDGDK@CBE?ADKDKFUBG@GL_@To@?ABI^aAL]BEDG?ADEBE@AJMDC`@Q`@SZGTQTM\\SbB_A^W`@U`@Ux@e@`@UFE\\Uv@m@b@a@RWFI@?Za@b@g@HKJOZc@\\c@v@eAnAiBx@qAx@cAf@m@XQx@a@d@W~@e@d@UbAg@`@Q`@Q@A^QbB{@bAg@|@e@f@UFEb@QdBs@`@Q`@Q@AfDaB`@S`@SVO~@c@`HsCLGHCFCD?@?B?B?DBBBBBDBb@l@`ArA`CbDfChDjBhC\\b@Zb@Zb@VZBFx@fAFH|@jATZZd@Zb@?@Zb@RZDJFHLNt@fALRR^x@jBBFZr@h@lAx@fBdC~Ff@lATh@f@fAVj@`@fAVn@N\\JXP`@^|@@Bh@dAj@`Ap@lAXd@RZd@z@b@r@d@z@Vb@@@PVJJNPHJBBLJRNHDHFLFFDFBLBDBHBVDPDRBVBJ@\\B^B^DZDB?`@D^@T?TA`@EXGNC`@Ml@UJCPIRILIZQZW\\WXWDEVQ`@]VUj@e@^YLILERIJCHAJCH?DAN?H?H@J@J@HBRF`@PPNJLPPh@t@`@j@PVXd@\\n@NTLXLXL\\\\~@Rh@Pf@P^Pb@@BLZRd@FLZp@b@|@p@|Ad@bAHPVl@^z@P`@Vl@L\\FRFNAN?@Nn@Hn@LjATfBRbAbAu@"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "Wannsee",
+                  "location": {
+                    "lat": 52.4213627,
+                    "lng": 13.1790299
+                  }
+                },
+                "departureStop": {
+                  "name": "Lindwerder (Berlin)",
+                  "location": {
+                    "lat": 52.467188,
+                    "lng": 13.196552
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 11,
+                      "minute": 49,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 11,
+                      "minute": 36,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "Pfaueninsel",
+                "headway": 0,
+                "numStops": 10,
+                "line": {
+                  "shortName": "218",
+                  "agencies": [
+                    {
+                      "name": "Berliner Verkehrsbetriebe",
+                      "url": "http://www.bvg.de/",
+                      "phone": "011 49 30 19449"
+                    }
+                  ],
+                  "url": "https://www.bvg.de/de/verbindungen/netzplaene-und-linien/",
+                  "vehicle": {
+                    "name": "Bus",
+                    "type": "BUS",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                    "localIcon": "//maps.gstatic.com/mapfiles/transit/iw2/6/de-berlin-bvg-bus.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Bus towards S Teltow Stadt",
+              "distance": {
+                "inMeters": 14814,
+                "humanReadable": "14.8 km"
+              },
+              "duration": {
+                "inSeconds": 2040,
+                "humanReadable": "34 mins"
+              },
+              "startLocation": {
+                "lat": 52.4213627,
+                "lng": 13.1790299
+              },
+              "endLocation": {
+                "lat": 52.396999,
+                "lng": 13.274678
+              },
+              "polyline": {
+                "points": "op}~H}_moAEQWN_@Ta@TJl@@?@@@?PINz@\\nBVtAPz@Rz@L^Rd@DJFLLRR^PRHJFFHHr@r@JHJLPNVTH_@FWNi@DWLg@He@F_@D_@Fi@Fi@Dc@@S^kD^gDBOPaBTyBFo@B[FcA@QDs@B}@BgA?o@AgAAeACoAI}BSoFA_@KiCIcCOkEOcE?EEeA?EAUCaAIsBAQEoAIyACa@?W?YCeAAQAc@?ECs@A}@@u@@]D_@B[BU@C@I@GRcANs@FWNo@R}@ViALc@J[JYHQHMR]NUFINMJKb@YLG?ABKp@S@??ALQPCzBYLAfAMTAbBW\\G@?b@En@E^GnGs@h@?P?~@?F@P@p@DNBj@HZF\\Hf@LHB`AZn@XZN\\PPJJFFDVPXPTPNJZXPNTRNNLNVT\\^RVPTJHd@j@v@`A`CnCBBPTFHZ\\RVXZn@v@l@t@dAlAp@t@HLpAzA~@fA`@f@PRjArAn@v@pAzAHH|CpDxAdBvAbBZ^p@v@NRJJDFVXHJFFHJDb@JPDHFPDHBH@BBP@P?R?TCVAJCLCJCHA@ADEFEFGHELIBG@C@A?E?G?GAIEICEEIIEGAAGGQWI[M[Qe@ACGOKNYRe@`@a@ZQLKHc@ZA@QLQLACAA?AAAAAAAAAA?AAA?A?A?AAA@A?A?A@A?A@COUgAESKg@G_@AAGYEMEKGQKSACMSKOIIOOYQSIWIOCGA@YAU?AAEEOIOa@e@m@u@KNQDD^BX@P@R@PKDIFYXm@n@e@d@s@r@[^C@m@l@UTCCGGIKGIGKGMGOGOCIGQGUM_@GUCIEOCMEUCOCOCOAOAOAOAMAUAOAOAMAIAGAICMCMEOCGACEIGKEGMQGIMQGOGKGOCGAEIQCEGMCIAGAIAEAKAKAEAECIEMGKQYZy@FMHQ@B@@@??@@?@@@?@?@?@?@?@?@?@A@?@A@A@A?A@?@A?A@A?A@C?A?A@A?A?C?A?A?C?A?A?C?A?A?AAE?AAA?AAA?AAAAA?AAAAADEBCDKHUN]l@yADKtAiDl@yA`@eApBeFdAgCHWl@wAhAqCBGl@{A@CJWb@gARi@~AwDBE`@_ALY@E|AsCJW`BoCjA_CfAgBXh@f@bAHXJX~@lBJTR\\LLJBvAIPEJCr@Ef@CL?@?P@FBh@JHB@?D{@LqB?a@Dw@B]VgFFmAPkDPuCNkCFcA?G@[@SAUC[ESMYVa@LQBCHGHGRKPIFCZOt@MHAdBYTGPEZGXGBAhASd@IL?H?B@B?FBNBLBL@J?LAVGdD{@\\IDAVKFC\\c@XUb@Sr@Sn@U\\[LQV_@DILWDMFO@GDQH]@BBBBDD@B?B?DADCDG@E@G?I?IAIAECGCECCAADqA?e@?e@?SQAI@OBCBAD@d@?d@?`@@T?J@H@D@F?DBFAH?F?H?H@D@DI\\EPAFGNELMVEHW^MP]Zo@Ts@Rc@RYT]b@GBWJE@]HeDz@WFM@K?MAMCOCGCC?CAI?M?e@HiARC@YF[FQDUFeBXI@u@L[NGBQHSJIFIFCBMPW`@SUGIGEGEIAIAG@KBE@SFKBUDKBC?_@De@Ba@Ai@Ga@ISEGCMMEAKGWOKG]QIAk@a@[W[Wc@e@UUSWGIY_@QWQWQ[S]Ym@Ym@?AKSe@qAa@wAQu@a@mBKk@CMIq@O}@Ko@Ow@MWMk@Oo@Sw@Me@e@uA]cAYs@O]L]FSFQPk@Vu@X_AVkARoAJ{@LiABg@FaABu@@y@?I@_AAcAA_ACu@@U?M?K@M?S?K?GAK?UESASAw@CQCOC{AEmBA_@IgDAq@GoBAy@GqBE{AEo@AmACeB?}A?mA?yD?mC?aA@e@@g@?SDwA?gC?iC?SA_BEoAG_AAS@MBIXq@HQqAiCC[AIGMACUg@Q]IQIQCG?GAI@K@KNQHGj@m@XWTUx@{@tCoCbC}Bx@}@h@k@bCaCPOXYbBcBFGJKHIfBeBJEFCJKLM`A_Az@}@b@a@DEj@k@DEJKPO?@@??@@@@??@@?@??@@?@?@?@?@A@??A@??A@??A@??A@A?A@A?A?A@A?A?A?A?A?A?A?A?A?A?A?A?A`@_@JUTWn@m@rAsA|AwAD?@ADCDEBEHILMv@q@ROFEFGGSsBwGUk@W{@Ww@]gAa@mAu@cCQg@?AKYo@uBEQSi@EKe@{Ak@gBACy@kCqAaEGQ]gAc@uAEMWw@CG}@qC_@kAGOQg@CKQm@CKAGKo@CUOsAQeBI}@CMASOsAMkAKgAE[E[AUAK?O?Q?Q@i@F_AFYVyALg@Jc@J_@T{@Ng@J_@XiADMJa@Ja@Fm@BQ?iAB_A?SBm@DgB@QDyBBw@@w@?K@Y@e@?k@BcA?Q@K@I?E@GNaA@ETkAFY?ABQFWLs@DW@KD[?GBUBg@Bc@?G@[?U?YAQAY@ACQAIC[Ge@E]AW?O?OBg@Lw@DWDWFWHYBEBINUPWFGZc@Xa@ROj@u@n@u@p@y@h@y@FKXk@HS^iAV}@Ni@Ru@ZcAt@{CZgADQLc@LNBD^ZHHHH?@HJFJHN?A"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "S Teltow Stadt/Gonfrevillestr.",
+                  "location": {
+                    "lat": 52.396999,
+                    "lng": 13.274678
+                  }
+                },
+                "departureStop": {
+                  "name": "Wannsee",
+                  "location": {
+                    "lat": 52.4213627,
+                    "lng": 13.1790299
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 12,
+                      "minute": 41,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 12,
+                      "minute": 7,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "S Teltow Stadt",
+                "headway": 0,
+                "numStops": 27,
+                "line": {
+                  "shortName": "620",
+                  "agencies": [
+                    {
+                      "name": "Regiobus Potsdam-Mittelmark",
+                      "url": "http://www.vbb.de/",
+                      "phone": "011 49 331 749130"
+                    }
+                  ],
+                  "url": "https://www.vbb.de/fahrinformation/liniennetze/",
+                  "vehicle": {
+                    "name": "Bus",
+                    "type": "BUS",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                    "localIcon": "//maps.gstatic.com/mapfiles/transit/iw2/6/de-berlin-bvg-bus.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Walk to Martin-Niemöller-Straße 37, 14513 Teltow, Germany",
+              "distance": {
+                "inMeters": 313,
+                "humanReadable": "0.3 km"
+              },
+              "duration": {
+                "inSeconds": 247,
+                "humanReadable": "4 mins"
+              },
+              "startLocation": {
+                "lat": 52.3970041,
+                "lng": 13.2746713
+              },
+              "endLocation": {
+                "lat": 52.3986193,
+                "lng": 13.277579
+              },
+              "steps": [
+                {
+                  "htmlInstructions": "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eGonfrevillestraße\u003c/b\u003e toward \u003cb\u003eMahlower Str.\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 75,
+                    "humanReadable": "75 m"
+                  },
+                  "duration": {
+                    "inSeconds": 64,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.3970041,
+                    "lng": 13.2746713
+                  },
+                  "endLocation": {
+                    "lat": 52.3975539,
+                    "lng": 13.2753019
+                  },
+                  "polyline": {
+                    "points": "gxx~Huu_pAIOGKIMIIII_@[CEMOKM"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Continue onto \u003cb\u003eAnton-Saefkow-Straße\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 162,
+                    "humanReadable": "0.2 km"
+                  },
+                  "duration": {
+                    "inSeconds": 126,
+                    "humanReadable": "2 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.3975539,
+                    "lng": 13.2753019
+                  },
+                  "endLocation": {
+                    "lat": 52.3980816,
+                    "lng": 13.2775261
+                  },
+                  "polyline": {
+                    "points": "u{x~Hsy_pACGCKCICK[aC}@qG"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eErich-Steinfurth-Straße\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 23,
+                    "humanReadable": "23 m"
+                  },
+                  "maneuver": "turn-left",
+                  "duration": {
+                    "inSeconds": 18,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.3980816,
+                    "lng": 13.2775261
+                  },
+                  "endLocation": {
+                    "lat": 52.39818880000001,
+                    "lng": 13.2772287
+                  },
+                  "polyline": {
+                    "points": "__y~Hqg`pAUz@"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eright\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 53,
+                    "humanReadable": "53 m"
+                  },
+                  "maneuver": "turn-right",
+                  "duration": {
+                    "inSeconds": 39,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.39818880000001,
+                    "lng": 13.2772287
+                  },
+                  "endLocation": {
+                    "lat": 52.3986193,
+                    "lng": 13.277579
+                  },
+                  "polyline": {
+                    "points": "u_y~Hue`pAuAeA"
+                  },
+                  "travelMode": "WALKING"
+                }
+              ],
+              "polyline": {
+                "points": "gxx~Huu_pAIOGKIMIIII_@[CEMOKMCGCKCICK[aC}@qGUz@uAeA"
+              },
+              "travelMode": "WALKING"
+            }
+          ],
+          "distance": {
+            "inMeters": 24311,
+            "humanReadable": "24.3 km"
+          },
+          "duration": {
+            "inSeconds": 6311,
+            "humanReadable": "1 hour 45 mins"
+          },
+          "arrivalTime": {
+            "dateTime": {
+              "date": {
+                "year": 2023,
+                "month": 1,
+                "day": 22
+              },
+              "time": {
+                "hour": 12,
+                "minute": 45,
+                "second": 8,
+                "nano": 0
+              }
+            },
+            "offset": {
+              "totalSeconds": 3600
+            },
+            "zone": {}
+          },
+          "departureTime": {
+            "dateTime": {
+              "date": {
+                "year": 2023,
+                "month": 1,
+                "day": 22
+              },
+              "time": {
+                "hour": 10,
+                "minute": 59,
+                "second": 57,
+                "nano": 0
+              }
+            },
+            "offset": {
+              "totalSeconds": 3600
+            },
+            "zone": {}
+          },
+          "startLocation": {
+            "lat": 52.4630859,
+            "lng": 13.2243541
+          },
+          "endLocation": {
+            "lat": 52.3986193,
+            "lng": 13.277579
+          },
+          "startAddress": "Im Jagen 65, 14193 Berlin, Germany",
+          "endAddress": "Martin-Niemöller-Straße 37, 14513 Teltow, Germany"
+        }
+      ],
+      "waypointOrder": [],
+      "overviewPolyline": {
+        "points": "iue_Ie{uoAiEbL}HbTcN`^cHhRYbAkO|a@oGtPmBjFXxAn@`DRr@DVf@Ib@GdAOpDq@rEy@tC]~@Y`@Cp@HXPd@fCLnFHtARv@~@nBn@x@f@NjBHhBC?Gh@?lBDtADd@J`@Rn@f@~@jAr@rAt@jBrC`IzBtEx@bAfCpAbA\\~Ab@pATvGbAlCf@vGxCxGpAz@HhA@hA[d@cAt@aCbA}BtAw@fAg@hIyEtAcAv@y@hAsAvEsGrBuC`A_AdEuBnKiFfLiFzC{A`IcDN?RNpPdUhFfHnCbE~JjU|DnJvBhEdCjEbBtCv@`AvA~@t@PhAN~DZfBOjBk@nAo@xAmA|BkBnAs@j@Ih@?t@Nr@`@\\^vB~ChAxBdCrGtEdKvAhDLt@|@rGRbAbAu@EQWNaAj@Ll@TGvA|Hz@lCz@tAnApA`A|@f@yBd@mCVkC~BoUNkEGmGuAq`@w@}UFqDJ_AvBsJj@uAz@kA|@o@BKr@SLSlC]nEi@rBSnH{@z@?jCHtB^bDfAvAt@bDdCjDxDtTrWrUnXNn@JPVn@Fz@IfAe@dAWF_@G_@[e@}@i@uAmB`BcAt@g@TKKM?IKo@cDy@sB_A{@cAYAw@O_@oA{A]THx@Bd@@PKDc@`@sAtAaCbCYPQS_@s@{@qC[cCOmBg@uAaAgB_@gAGc@c@}@n@uADBL@JGHc@Me@rDyIlKwWxFgNxBkElDoGfAgBXh@p@|AjAfC^r@XPhDYhAA|@RXgG~AmZAaBSm@d@s@j@_@XMpA]vCi@bCe@`AGh@J~@G`FsAd@g@|@i@bBi@j@m@p@oAXgANNREH_@Ga@GIBsA?kA?SQAYDEHBbCFbAB^YfAq@nAk@l@cBh@}@h@e@f@aFrA_AFi@KaAFcCd@wCh@qA\\YLk@^e@r@[_@c@Om@Nq@LeAHkAIu@OUQu@a@g@SgAy@iBkBeAyAyAuCsA_EcA}Eu@wE_AkDkBsFO]L]Ne@zAmFp@}FL{DEyF@qB[aJk@aTE_J@oLF{GGmICkBb@cAqAiCC[IWWk@i@iA@i@~A_BbR{QpCqCdCyBrFqF^Y@BFBNGDU?MbAoAfFyE`B{AZUFGGSiCcIo@sBgCaIaAcDaG}QiEyMk@mBa@aDqAiMImAHmCx@_E|@cDv@{CJ_ABiCJ{DJuFJ}E|@aFZsBJiBCsCSiB@_B`@_C`@_AnAeB`DuDtAeCzAgFrByHLc@LNb@`@\\`@PZe@s@{@{@Wk@_@mC}@qGUz@uAeA"
+      },
+      "bounds": {
+        "northeast": {
+          "lat": 52.4742265,
+          "lng": 13.277579
+        },
+        "southwest": {
+          "lat": 52.3933475,
+          "lng": 13.1751835
+        }
+      },
+      "copyrights": "Map data ©2023 GeoBasis-DE/BKG (©2009)",
+      "warnings": [
+        "Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,460 @@
+{
+  "meterpolisName": "Berlin",
+  "route": {
+    "from": {
+      "lat": 52.467997971176516,
+      "lng": 13.600379328199484
+    },
+    "to": {
+      "lat": 52.434002190513745,
+      "lng": 13.709094766229704
+    }
+  },
+  "directions": [
+    {
+      "summary": "",
+      "legs": [
+        {
+          "steps": [
+            {
+              "htmlInstructions": "Walk to Hirschgarten",
+              "distance": {
+                "inMeters": 1319,
+                "humanReadable": "1.3 km"
+              },
+              "duration": {
+                "inSeconds": 940,
+                "humanReadable": "16 mins"
+              },
+              "startLocation": {
+                "lat": 52.46854829999999,
+                "lng": 13.6004989
+              },
+              "endLocation": {
+                "lat": 52.45805439999999,
+                "lng": 13.6030802
+              },
+              "steps": [
+                {
+                  "htmlInstructions": "Head \u003cb\u003eeast\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 100,
+                    "humanReadable": "0.1 km"
+                  },
+                  "duration": {
+                    "inSeconds": 80,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.46854829999999,
+                    "lng": 13.6004989
+                  },
+                  "endLocation": {
+                    "lat": 52.4684302,
+                    "lng": 13.6019635
+                  },
+                  "polyline": {
+                    "points": "mwf_Icj_rAVcH"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eright\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 929,
+                    "humanReadable": "0.9 km"
+                  },
+                  "maneuver": "turn-right",
+                  "duration": {
+                    "inSeconds": 655,
+                    "humanReadable": "11 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.4684302,
+                    "lng": 13.6019635
+                  },
+                  "endLocation": {
+                    "lat": 52.4605234,
+                    "lng": 13.6039902
+                  },
+                  "polyline": {
+                    "points": "uvf_Igs_rA~D`AhBd@hBb@jCp@d@a@z@a@^OjBc@LCTE|@OND\\OFCr@IF?b@CJAV?R?d@C`@Un@c@BAdAg@XOFEh@c@NOPSR_@b@a@LK~@aAp@}@FO"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eright\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 290,
+                    "humanReadable": "0.3 km"
+                  },
+                  "maneuver": "turn-right",
+                  "duration": {
+                    "inSeconds": 205,
+                    "humanReadable": "3 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.4605234,
+                    "lng": 13.6039902
+                  },
+                  "endLocation": {
+                    "lat": 52.45805439999999,
+                    "lng": 13.6030802
+                  },
+                  "polyline": {
+                    "points": "gee_I}_`rALDLB`@B`@FVDb@H`ANfBXLBtA\\RJNNJFDBDHBDBJ"
+                  },
+                  "travelMode": "WALKING"
+                }
+              ],
+              "polyline": {
+                "points": "mwf_Icj_rAVcH~D`AhBd@hBb@jCp@d@a@z@a@^OjBc@LCTE|@OND\\OFCr@IF?b@CJAV?R?d@C`@Un@c@BAdAg@XOFEh@c@NOPSR_@b@a@LK~@aAp@}@FOLDLB`@B`@FVDb@H`ANfBXLBtA\\RJNNJFDBDHBDBJ"
+              },
+              "travelMode": "WALKING"
+            },
+            {
+              "htmlInstructions": "Commuter train towards S Erkner Bhf",
+              "distance": {
+                "inMeters": 6079,
+                "humanReadable": "6.1 km"
+              },
+              "duration": {
+                "inSeconds": 360,
+                "humanReadable": "6 mins"
+              },
+              "startLocation": {
+                "lat": 52.4579367,
+                "lng": 13.6026053
+              },
+              "endLocation": {
+                "lat": 52.4516143,
+                "lng": 13.6913293
+              },
+              "polyline": {
+                "points": "cud_Iiw_rAM?BwB@Q@sA@w@HmCNuE?AFuDD_D?aDFwF?KB{C@s@B_D@k@?S?U@S?o@BgCBqC@gDBk@@{C@kB?m@@qA@o@?i@FiFB{D@}B?y@?gA?g@AqD@aAAsC?_A?g@@yABeA?e@BiB@aA?G@_A@S?]@eA@qA?c@DeB?K?C@{@@yA@w@DwDDcEBcBDcCHaEFeD@a@@YL}EHyD@a@DuABu@?CH{BJyCDeA^eLRwFNcERcEFiAD}@LaCJqBB_@V}FNaDZeGb@{I\\gHZeHLwBJ_Cb@aJZsGBYV}F^_IX{Fh@{K@OJsB@GP_ENuC\\cHl@qMf@gKp@uNBe@Bg@l@uNHoBZgI`@iIHwAH_BLgCRiETmE`@sHDaADyA@i@@i@@c@@o@BgADkABc@FaAN}B@GDy@Fy@Fu@BWOG"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "Rahnsdorf",
+                  "location": {
+                    "lat": 52.4516143,
+                    "lng": 13.6913293
+                  }
+                },
+                "departureStop": {
+                  "name": "Hirschgarten",
+                  "location": {
+                    "lat": 52.4579367,
+                    "lng": 13.6026053
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 10,
+                      "minute": 33,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 10,
+                      "minute": 27,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "S Erkner Bhf",
+                "headway": 0,
+                "numStops": 2,
+                "line": {
+                  "shortName": "S3",
+                  "color": "#006cb3",
+                  "agencies": [
+                    {
+                      "name": "S-Bahn Berlin GmbH",
+                      "url": "http://www.s-bahn-berlin.de/",
+                      "phone": "011 49 30 29743333"
+                    }
+                  ],
+                  "url": "https://www.vbb.de/fahrinformation/liniennetze/",
+                  "vehicle": {
+                    "name": "Commuter train",
+                    "type": "COMMUTER_TRAIN",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/rail2.png",
+                    "localIcon": "//maps.gstatic.com/mapfiles/transit/iw2/6/de-sbahn.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Bus towards S Erkner",
+              "distance": {
+                "inMeters": 3855,
+                "humanReadable": "3.9 km"
+              },
+              "duration": {
+                "inSeconds": 480,
+                "humanReadable": "8 mins"
+              },
+              "startLocation": {
+                "lat": 52.4516143,
+                "lng": 13.6913293
+              },
+              "endLocation": {
+                "lat": 52.433074,
+                "lng": 13.711497
+              },
+              "polyline": {
+                "points": "qmc_IyaqrAHo@TFb@FD@B?HDDBHFJHV`@DHZ`@LTJNJNZ`@n@|@f@l@v@hAjAdBV`@RVHJzA|BV^b@l@T^LVHVBHJ`@Lh@b@nBHZDJBDBDJLFFDDXJF@`A?t@AdAAn@An@A`@?vAAH?PAX?d@?d@?T?V?X?X@TAX?TAP@D?H?J?H?J?F@N@N?F?D?D@B?DB@?@@\\LHJTUZ[j@e@@CDOFEJGZUPORWPUFIHKJQ@AFKHSLWTe@HUHWFOPcABMD[Lo@CaCAcBAi@?AAaAAyACiFImICgCCqDAgBCgEASAuBAiAC_BCwCCoC?WAeBl@VdAh@p@Xv@^tDfB@@dBx@B@THn@VdBx@D@`@PDBj@XzDdBd@RfAgGb@}Bh@_D`@}BjAqGDUP_A?GPaAfAoGt@oEJo@ZkBJm@@E@EFa@vAsIlAcHz@cFIMs@wA"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "Schönblicker Str. (Berlin)",
+                  "location": {
+                    "lat": 52.433074,
+                    "lng": 13.711497
+                  }
+                },
+                "departureStop": {
+                  "name": "Rahnsdorf",
+                  "location": {
+                    "lat": 52.4516143,
+                    "lng": 13.6913293
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 10,
+                      "minute": 47,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 10,
+                      "minute": 39,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "S Erkner",
+                "headway": 0,
+                "numStops": 8,
+                "line": {
+                  "shortName": "161",
+                  "agencies": [
+                    {
+                      "name": "Berliner Verkehrsbetriebe",
+                      "url": "http://www.bvg.de/",
+                      "phone": "011 49 30 19449"
+                    }
+                  ],
+                  "vehicle": {
+                    "name": "Bus",
+                    "type": "BUS",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                    "localIcon": "//maps.gstatic.com/mapfiles/transit/iw2/6/de-berlin-bvg-bus.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Walk to Hochlandstraße 34a, 12589 Berlin, Germany",
+              "distance": {
+                "inMeters": 225,
+                "humanReadable": "0.2 km"
+              },
+              "duration": {
+                "inSeconds": 167,
+                "humanReadable": "3 mins"
+              },
+              "startLocation": {
+                "lat": 52.4330994,
+                "lng": 13.7114555
+              },
+              "endLocation": {
+                "lat": 52.4339944,
+                "lng": 13.7090892
+              },
+              "steps": [
+                {
+                  "htmlInstructions": "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eSchönblicker Str.\u003c/b\u003e toward \u003cb\u003eHochlandstraße\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 25,
+                    "humanReadable": "25 m"
+                  },
+                  "duration": {
+                    "inSeconds": 19,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.4330994,
+                    "lng": 13.7114555
+                  },
+                  "endLocation": {
+                    "lat": 52.4332796,
+                    "lng": 13.7117499
+                  },
+                  "polyline": {
+                    "points": "{y__Is_urAYg@IQ"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eHochlandstraße\u003c/b\u003e\u003cdiv style\u003d\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                  "distance": {
+                    "inMeters": 200,
+                    "humanReadable": "0.2 km"
+                  },
+                  "maneuver": "turn-left",
+                  "duration": {
+                    "inSeconds": 148,
+                    "humanReadable": "2 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.4332796,
+                    "lng": 13.7117499
+                  },
+                  "endLocation": {
+                    "lat": 52.4339944,
+                    "lng": 13.7090892
+                  },
+                  "polyline": {
+                    "points": "_{__ImaurAKj@o@lDQdAETg@vCQdA"
+                  },
+                  "travelMode": "WALKING"
+                }
+              ],
+              "polyline": {
+                "points": "{y__Is_urAYg@IQKj@o@lDQdAETg@vCQdA"
+              },
+              "travelMode": "WALKING"
+            }
+          ],
+          "distance": {
+            "inMeters": 11478,
+            "humanReadable": "11.5 km"
+          },
+          "duration": {
+            "inSeconds": 2307,
+            "humanReadable": "38 mins"
+          },
+          "arrivalTime": {
+            "dateTime": {
+              "date": {
+                "year": 2023,
+                "month": 1,
+                "day": 22
+              },
+              "time": {
+                "hour": 10,
+                "minute": 49,
+                "second": 47,
+                "nano": 0
+              }
+            },
+            "offset": {
+              "totalSeconds": 3600
+            },
+            "zone": {}
+          },
+          "departureTime": {
+            "dateTime": {
+              "date": {
+                "year": 2023,
+                "month": 1,
+                "day": 22
+              },
+              "time": {
+                "hour": 10,
+                "minute": 11,
+                "second": 20,
+                "nano": 0
+              }
+            },
+            "offset": {
+              "totalSeconds": 3600
+            },
+            "zone": {}
+          },
+          "startLocation": {
+            "lat": 52.46854829999999,
+            "lng": 13.6004989
+          },
+          "endLocation": {
+            "lat": 52.4339944,
+            "lng": 13.7090892
+          },
+          "startAddress": "Genovevastraße 64, 12555 Berlin, Germany",
+          "endAddress": "Hochlandstraße 34a, 12589 Berlin, Germany"
+        }
+      ],
+      "waypointOrder": [],
+      "overviewPolyline": {
+        "points": "mwf_Icj_rAVcH~D`ArEhAjCp@d@a@zAq@lE}@ND\\Oz@MnAEx@CpAy@jB_Ax@s@PSR_@p@m@~@aAp@}@FOLDn@F~Cf@tB\\tA\\RJZVJLFPT|AM?DiCBkCXcJFwDDaIFcGJ{KN{QDgKL_O@gHAgKJaNL_LZuXTcL^oOXoIhAg\\fB__@bJykBnEw_Av@eR|@qSt@iOv@aOJ{CDwBNgF^aGNoBBWOGHo@TFh@H\\Pb@j@`@j@`AvAvAjBbCnDpCbEz@lAb@v@f@lBl@jCHP\\`@`@LvBAfEElCC|E?v@?h@@l@@PD^NHJTUfAaAFSRMl@e@v@cA^s@v@kBb@}BLo@CaCCmCGgKSoVU{XAeBl@VvBbAtIbEnD|AxAp@`FxBjBeK|CeQtEsXbBaKhCgO}@eBEFc@y@sAtHy@|E"
+      },
+      "bounds": {
+        "northeast": {
+          "lat": 52.46854829999999,
+          "lng": 13.7117499
+        },
+        "southwest": {
+          "lat": 52.4327632,
+          "lng": 13.6004989
+        }
+      },
+      "copyrights": "Map data ©2023 GeoBasis-DE/BKG (©2009)",
+      "warnings": [
+        "Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths."
+      ]
+    }
+  ]
+}

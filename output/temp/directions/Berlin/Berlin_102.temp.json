@@ -1,0 +1,703 @@
+{
+  "meterpolisName": "Berlin",
+  "route": {
+    "from": {
+      "lat": 52.511576137029294,
+      "lng": 13.753709015235723
+    },
+    "to": {
+      "lat": 52.41598003647408,
+      "lng": 13.586033891826442
+    }
+  },
+  "directions": [
+    {
+      "summary": "",
+      "legs": [
+        {
+          "steps": [
+            {
+              "htmlInstructions": "Walk to Petershagen (b. Berlin), Dorfstr.",
+              "distance": {
+                "inMeters": 1686,
+                "humanReadable": "1.7 km"
+              },
+              "duration": {
+                "inSeconds": 1240,
+                "humanReadable": "21 mins"
+              },
+              "startLocation": {
+                "lat": 52.5116312,
+                "lng": 13.7535555
+              },
+              "endLocation": {
+                "lat": 52.5211043,
+                "lng": 13.7696328
+              },
+              "steps": [
+                {
+                  "htmlInstructions": "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eBirkenstraße\u003c/b\u003e toward \u003cb\u003eVogelbeerstraße\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 675,
+                    "humanReadable": "0.7 km"
+                  },
+                  "duration": {
+                    "inSeconds": 499,
+                    "humanReadable": "8 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.5116312,
+                    "lng": 13.7535555
+                  },
+                  "endLocation": {
+                    "lat": 52.51653779999999,
+                    "lng": 13.7592068
+                  },
+                  "polyline": {
+                    "points": "udo_Iwf}rA][eDsCCC}@u@gAaAcBkAo@k@GM[a@]i@QWAGCEi@gAACEKM]ACQi@IUO]W_@AA[c@ACq@g@KIECYW]]IGSUEEU_@KOMWEIQm@CEGM"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Continue onto \u003cb\u003eMargaretenstraße\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 232,
+                    "humanReadable": "0.2 km"
+                  },
+                  "duration": {
+                    "inSeconds": 167,
+                    "humanReadable": "3 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.51653779999999,
+                    "lng": 13.7592068
+                  },
+                  "endLocation": {
+                    "lat": 52.5183203,
+                    "lng": 13.7609926
+                  },
+                  "polyline": {
+                    "points": "kcp_Iaj~rAY_@{C{C]]_@_@OOm@i@MMc@a@"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eMierwerder Weg\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 623,
+                    "humanReadable": "0.6 km"
+                  },
+                  "maneuver": "turn-right",
+                  "duration": {
+                    "inSeconds": 455,
+                    "humanReadable": "8 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.5183203,
+                    "lng": 13.7609926
+                  },
+                  "endLocation": {
+                    "lat": 52.51971160000001,
+                    "lng": 13.7698875
+                  },
+                  "polyline": {
+                    "points": "onp_Ieu~rAUqCe@kFOeBUwCASGm@Em@Ce@E_@?IQqCO_AG]Kw@WoBUmBIs@IgAK}AIsAGiAAQAg@"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eDorfstraße\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 156,
+                    "humanReadable": "0.2 km"
+                  },
+                  "maneuver": "turn-left",
+                  "duration": {
+                    "inSeconds": 119,
+                    "humanReadable": "2 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.51971160000001,
+                    "lng": 13.7698875
+                  },
+                  "endLocation": {
+                    "lat": 52.5211043,
+                    "lng": 13.7696328
+                  },
+                  "polyline": {
+                    "points": "ewp_Iyl`sAg@FkALm@Fg@FkAL"
+                  },
+                  "travelMode": "WALKING"
+                }
+              ],
+              "polyline": {
+                "points": "udo_Iwf}rA][eDsCCC}@u@gAaAcBkAo@k@GM[a@]i@QWAGCEi@gAACEKM]ACQi@IUO]W_@AA[c@ACq@g@KIECYW]]IGSUEEU_@KOMWEIQm@CEGMY_@{C{C]]_@_@OOm@i@MMc@a@UqCe@kFOeBUwCASGm@Em@Ce@E_@?IQqCO_AG]Kw@WoBUmBIs@IgAK}AIsAGiAAQAg@g@FkALm@Fg@FkAL"
+              },
+              "travelMode": "WALKING"
+            },
+            {
+              "htmlInstructions": "Bus towards S Fredersdorf",
+              "distance": {
+                "inMeters": 1637,
+                "humanReadable": "1.6 km"
+              },
+              "duration": {
+                "inSeconds": 120,
+                "humanReadable": "2 mins"
+              },
+              "startLocation": {
+                "lat": 52.521104,
+                "lng": 13.769628
+              },
+              "endLocation": {
+                "lat": 52.5263151,
+                "lng": 13.7611257
+              },
+              "polyline": {
+                "points": "{_q_Iek`sAE?QBm@DU@KBG@a@Ba@DWDA?a@JGBy@Le@JI@m@HO?A?m@?m@IQ??I?q@AWCIAIAEQ[MYIa@EWAOCgA?MAqA?gACWAWIq@[?[Co@Oe@Ic@GaACkAFw@Bg@@[@k@DG?c@DQBMB]DG@G@OBC@EAE@AH?HL|BJ|CLhDBXThEVvF@F?F@R@TBd@?DJrBH`DD~A@l@@j@BxABnB?N@tB?|@?F@FAPEZEVNb@TfBH|@^M"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "Fredersdorf (b Berlin)",
+                  "location": {
+                    "lat": 52.5263151,
+                    "lng": 13.7611257
+                  }
+                },
+                "departureStop": {
+                  "name": "Petershagen (b. Berlin), Dorfstr.",
+                  "location": {
+                    "lat": 52.521104,
+                    "lng": 13.769628
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 10,
+                      "minute": 39,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 10,
+                      "minute": 37,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "S Fredersdorf",
+                "headway": 0,
+                "numStops": 1,
+                "line": {
+                  "shortName": "951",
+                  "agencies": [
+                    {
+                      "name": "mobus Märkisch-Oderland Bus GmbH",
+                      "url": "http://www.mo-bus.de/",
+                      "phone": "011 49 3341 4494900"
+                    }
+                  ],
+                  "url": "https://www.vbb.de/fahrinformation/liniennetze/",
+                  "vehicle": {
+                    "name": "Bus",
+                    "type": "BUS",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                    "localIcon": "//maps.gstatic.com/mapfiles/transit/iw2/6/de-berlin-bvg-bus.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Commuter train towards S Olympiastadion (Berlin)",
+              "distance": {
+                "inMeters": 10255,
+                "humanReadable": "10.3 km"
+              },
+              "duration": {
+                "inSeconds": 780,
+                "humanReadable": "13 mins"
+              },
+              "startLocation": {
+                "lat": 52.5263151,
+                "lng": 13.7611257
+              },
+              "endLocation": {
+                "lat": 52.5123085,
+                "lng": 13.6119162
+              },
+              "polyline": {
+                "points": "o`r_Iav~rAJABp@HbBHtB`Bja@?@h@|M@x@?@BdCA~BCdDEzF?j@ClN?d@A`J?zFBdLBpEB|@@x@Bz@HxB@b@LdC?D\\fIJdCTdFVlFBd@VdEt@jKh@bHHlAZhEXzDPhBFf@V|Bf@`EXlCJdAPrAJn@p@rFPrAF`@D^Fh@@LFf@BN@HDZBPJt@^xCT`CBNRjCNtCDh@JrBDt@NdDPzDVjGVdEJtBVtFRzEJrCBZBp@NfE@h@?N?b@?BAh@APBdDBj@BbBDjADt@PrDRbE@d@?@Dv@Bj@HlBBTLpB?HT|CZ`EP`EN~CNxDHtALxBd@rHZfHB^N~DL|C@TRbEDx@?DLzC`@jJDhAp@tOJhCd@tK?@@fB@dBA~D@\\D|AFpABf@LfC@^@R@DDx@VfF@J@TBZNfCNrBFhADh@TlD`AfO^fI~@|QLfCThG\\`IbCnm@BbA?@B`B@P?d@?TFhCBd@?NBh@B~@F`ABl@JrB@\\FzANfDHz@LfBVvCFxA`@|IbBh`@Dt@XfHHfBb@fKFhAPvDl@dNb@|JBf@V`GVdGZbJ@RFtBFjC@\\?VFpBJrEFxBHrCLzBHpABZHv@NbBFx@VdCPhBHfAHhA@NFbBDx@@N@^?J?BK@"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "Mahlsdorf Railway Station",
+                  "location": {
+                    "lat": 52.5123085,
+                    "lng": 13.6119162
+                  }
+                },
+                "departureStop": {
+                  "name": "Fredersdorf (b Berlin)",
+                  "location": {
+                    "lat": 52.5263151,
+                    "lng": 13.7611257
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 11,
+                      "minute": 0,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 10,
+                      "minute": 47,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "S Olympiastadion (Berlin)",
+                "headway": 0,
+                "numStops": 4,
+                "line": {
+                  "shortName": "S5",
+                  "color": "#f27822",
+                  "agencies": [
+                    {
+                      "name": "S-Bahn Berlin GmbH",
+                      "url": "http://www.s-bahn-berlin.de/",
+                      "phone": "011 49 30 29743333"
+                    }
+                  ],
+                  "url": "https://www.vbb.de/fahrinformation/liniennetze/",
+                  "vehicle": {
+                    "name": "Commuter train",
+                    "type": "COMMUTER_TRAIN",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/rail2.png",
+                    "localIcon": "//maps.gstatic.com/mapfiles/transit/iw2/6/de-sbahn.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Walk to S Mahlsdorf",
+              "distance": {
+                "inMeters": 186,
+                "humanReadable": "0.2 km"
+              },
+              "duration": {
+                "inSeconds": 143,
+                "humanReadable": "2 mins"
+              },
+              "startLocation": {
+                "lat": 52.5123334,
+                "lng": 13.612122
+              },
+              "endLocation": {
+                "lat": 52.5112433,
+                "lng": 13.611298
+              },
+              "steps": [
+                {
+                  "htmlInstructions": "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eHönower Str.\u003c/b\u003e toward \u003cb\u003eTreskowstraße\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 114,
+                    "humanReadable": "0.1 km"
+                  },
+                  "duration": {
+                    "inSeconds": 86,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.5123334,
+                    "lng": 13.612122
+                  },
+                  "endLocation": {
+                    "lat": 52.5113363,
+                    "lng": 13.6122613
+                  },
+                  "polyline": {
+                    "points": "aio_IwrarAD?R@XCN?LAL?LAHC`AQB?@?D?"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eTreskowstraße\u003c/b\u003e\u003cdiv style\u003d\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                  "distance": {
+                    "inMeters": 72,
+                    "humanReadable": "72 m"
+                  },
+                  "maneuver": "turn-right",
+                  "duration": {
+                    "inSeconds": 57,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.5113363,
+                    "lng": 13.6122613
+                  },
+                  "endLocation": {
+                    "lat": 52.5112433,
+                    "lng": 13.611298
+                  },
+                  "polyline": {
+                    "points": "{bo_IssarADv@Bd@@P@VDv@"
+                  },
+                  "travelMode": "WALKING"
+                }
+              ],
+              "polyline": {
+                "points": "aio_IwrarAD?R@XCN?LAL?LAHC`AQB?@?D?Dv@Bd@@P@VDv@"
+              },
+              "travelMode": "WALKING"
+            },
+            {
+              "htmlInstructions": "Tram towards Wendenschloß",
+              "distance": {
+                "inMeters": 12023,
+                "humanReadable": "12.0 km"
+              },
+              "duration": {
+                "inSeconds": 2280,
+                "humanReadable": "38 mins"
+              },
+              "startLocation": {
+                "lat": 52.5112493,
+                "lng": 13.6112925
+              },
+              "endLocation": {
+                "lat": 52.417308,
+                "lng": 13.589351
+              },
+              "polyline": {
+                "points": "ibo_IqmarAFAM{BCs@?E?C@E?C@E@E@C@ADCFEv@]LIrAs@j@g@`A}@h@q@FGDCDAFALAH?F?RBLDPHh@`@f@\\^Tb@VTLNH\\P`@NTHPDVDZDV?TCTElASd@Mf@Ib@KXGJC\\ObAa@`@Qr@YLGTOvAk@~By@dC{@VKp@Uf@QHCN@HDXRB@ZX|A|AtAnAj@j@NHJFXLTFLDB?LAL?HCD?jBa@t@IVELAP?H@FBPHd@TPJFDRNnChBHFrD~BTN^TlChBHDzBzAzA`AHDxBxA|@l@n@b@f@ZnBrA\\ThAt@`EhCPH^X|CvBLH`BdAzAfANHdAp@xA~@rAv@PLtBtAfBpAJHdBlAd@VNJDBz@j@LH~AbAFDLH|E`DJFb@X|DlCLH|@h@^BnBNlAFP@p@DbAFP@z@BP@t@Br@D|@FRBzBNlCVL?hBRPBlB\\L?x@Dj@HVD`@Dd@HPFZHp@X`@Jb@NFDDHFFBFFLDNFVBNPd@Tj@JXN`@HNHRn@rA\\t@Vx@XxAh@nClA|FN~@f@|Bp@fCbArDV|@h@nBHXRl@Rh@^v@NXHR@BRb@h@dANXR`@j@lANZJNDHBDHJBBl@`An@~@X`@dArAp@z@X^`AjAfAtAn@v@PTNV`AjAJL~@hAVVFHb@h@p@n@NHNHD?`@DvAFlDRh@@N@VAzANn@\\^Z@B\\XLJl@f@ZT`@XTNDBNP@?`@\\HFbCnBvAjAhAdAjApANNnA~At@|@Z^VZJHVPNL`@\\j@b@pCbClB~AHBrGvDzDdCFDd@\\tDpEFLlC|CNNdDtDPVPVfAzA~@rADFBH@HDDF@F?B?DAJCJILS~@aB|@yALSvAeBp@k@\\Ql@[z@[\\Qn@_@RGHCXO^WBAf@e@NOHIFCHCDC@?ZC\\DFBTH|Av@RJzA~@rAp@HFPHj@\\P?HENELAP@NBJCFCFIBCFOD]@Q@a@DuABu@JoEDcADw@@UFs@Bg@Dc@BYDYFYLu@Ns@TeAd@cBd@gBZiAr@iCl@wBHQDIFEFCBAJCF@VF`Df@hBZPBJ@Z?TBVA\\EVC|@M^El@GZCTCRC\\C^ExAQTEfAOrAMrAKDAbDYtDa@RCNAr@Mv@M~@QRE|LaCpHmA`BYLCn@SZKhAa@|@_@`@QtB{@tAg@\\KDCXKx@[jAc@v@Y`A]bA_@\\KfAc@l@UPInBu@nBw@z@[DCvAe@tBy@t@WVIf@K`@KfCm@|A]h@K|A_@zBg@hBa@VGPEzBg@HATGVGPCL@HFDY"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "Wendenschloß (Berlin)",
+                  "location": {
+                    "lat": 52.417308,
+                    "lng": 13.589351
+                  }
+                },
+                "departureStop": {
+                  "name": "S Mahlsdorf",
+                  "location": {
+                    "lat": 52.5112493,
+                    "lng": 13.6112925
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 11,
+                      "minute": 50,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 11,
+                      "minute": 12,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "Wendenschloß",
+                "headway": 0,
+                "numStops": 29,
+                "line": {
+                  "shortName": "62",
+                  "color": "#e30613",
+                  "agencies": [
+                    {
+                      "name": "Berliner Verkehrsbetriebe",
+                      "url": "http://www.bvg.de/",
+                      "phone": "011 49 30 19449"
+                    }
+                  ],
+                  "url": "https://www.bvg.de/de/verbindungen/netzplaene-und-linien/",
+                  "textColor": "#ffffff",
+                  "vehicle": {
+                    "name": "Tram",
+                    "type": "TRAM",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/tram2.png",
+                    "localIcon": "//maps.gstatic.com/mapfiles/transit/iw2/6/de-berlin-bvg-tram.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Walk to Peter-Gast-Weg 2A, 12557 Berlin, Germany",
+              "distance": {
+                "inMeters": 372,
+                "humanReadable": "0.4 km"
+              },
+              "duration": {
+                "inSeconds": 268,
+                "humanReadable": "4 mins"
+              },
+              "startLocation": {
+                "lat": 52.4173039,
+                "lng": 13.5893163
+              },
+              "endLocation": {
+                "lat": 52.4155708,
+                "lng": 13.5867242
+              },
+              "steps": [
+                {
+                  "htmlInstructions": "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eWendenschloßstraße\u003c/b\u003e toward \u003cb\u003eEkhofstraße\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 111,
+                    "humanReadable": "0.1 km"
+                  },
+                  "duration": {
+                    "inSeconds": 81,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.4173039,
+                    "lng": 13.5893163
+                  },
+                  "endLocation": {
+                    "lat": 52.4163574,
+                    "lng": 13.589626
+                  },
+                  "polyline": {
+                    "points": "cw|~Hgd}qAzCq@^K"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eEkhofstraße\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 78,
+                    "humanReadable": "78 m"
+                  },
+                  "maneuver": "turn-right",
+                  "duration": {
+                    "inSeconds": 55,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.4163574,
+                    "lng": 13.589626
+                  },
+                  "endLocation": {
+                    "lat": 52.41626,
+                    "lng": 13.5885674
+                  },
+                  "polyline": {
+                    "points": "gq|~Hef}qADX@NFdADz@?H?H?LAD"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eNiebergallstraße\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 50,
+                    "humanReadable": "50 m"
+                  },
+                  "maneuver": "turn-left",
+                  "duration": {
+                    "inSeconds": 38,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.41626,
+                    "lng": 13.5885674
+                  },
+                  "endLocation": {
+                    "lat": 52.4158051,
+                    "lng": 13.5885846
+                  },
+                  "polyline": {
+                    "points": "sp|~Hq_}qAJLB@B@BA`AQ"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eHugo-Wolf-Steig\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 133,
+                    "humanReadable": "0.1 km"
+                  },
+                  "maneuver": "turn-right",
+                  "duration": {
+                    "inSeconds": 94,
+                    "humanReadable": "2 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.4158051,
+                    "lng": 13.5885846
+                  },
+                  "endLocation": {
+                    "lat": 52.4155708,
+                    "lng": 13.5867242
+                  },
+                  "polyline": {
+                    "points": "ym|~Hs_}qAn@rJ"
+                  },
+                  "travelMode": "WALKING"
+                }
+              ],
+              "polyline": {
+                "points": "cw|~Hgd}qAzCq@^KDX@NFdADz@?H?H?LADJLB@B@BA`AQn@rJ"
+              },
+              "travelMode": "WALKING"
+            }
+          ],
+          "distance": {
+            "inMeters": 26159,
+            "humanReadable": "26.2 km"
+          },
+          "duration": {
+            "inSeconds": 5889,
+            "humanReadable": "1 hour 38 mins"
+          },
+          "arrivalTime": {
+            "dateTime": {
+              "date": {
+                "year": 2023,
+                "month": 1,
+                "day": 22
+              },
+              "time": {
+                "hour": 11,
+                "minute": 54,
+                "second": 29,
+                "nano": 0
+              }
+            },
+            "offset": {
+              "totalSeconds": 3600
+            },
+            "zone": {}
+          },
+          "departureTime": {
+            "dateTime": {
+              "date": {
+                "year": 2023,
+                "month": 1,
+                "day": 22
+              },
+              "time": {
+                "hour": 10,
+                "minute": 16,
+                "second": 20,
+                "nano": 0
+              }
+            },
+            "offset": {
+              "totalSeconds": 3600
+            },
+            "zone": {}
+          },
+          "startLocation": {
+            "lat": 52.5116312,
+            "lng": 13.7535555
+          },
+          "endLocation": {
+            "lat": 52.4155708,
+            "lng": 13.5867242
+          },
+          "startAddress": "Birkenstraße 2, 15370 Fredersdorf-Vogelsdorf, Germany",
+          "endAddress": "Peter-Gast-Weg 2A, 12557 Berlin, Germany"
+        }
+      ],
+      "waypointOrder": [],
+      "overviewPolyline": {
+        "points": "udo_Iwf}rAeGiFgAaAcBkAw@y@y@kAS_@u@}Ak@aBg@}@]e@eAy@uAsA[e@Yg@c@kAY_@{C{C}@}@oBiBaB{RSuCEi@QqCO_ASuAm@}ES{BUqDI{AAg@g@FyBTsBTWBcAFSD}ANi@N_BXiAJm@?m@IQ??IAiAESSa@MYIa@Gg@CuAAyCEo@Iq@[?[Co@OiAQaACgENiBN{@L_@DARXzGPbEl@`MDx@Bj@TtGLrGDrH@NGl@EVNb@^dDj@OLtCtC`t@@z@BdCA~BI`LCxO@h`@FnGDtBXhHvA`\\ZjF~AnTd@vGj@dH`BtNbC|RdAlIXpCb@`HP|CTzElAbWz@`SRxF@x@CbBFpEHnDl@rMRrEf@nHZ`EP`E^xIVnEd@rHZfHR~ENrDf@~KdBta@d@vKBlE?|ELnDTbFv@lNr@tK`AfO^fIlAdVzD~aADzCJtERxEd@tKVbDVvCFxAdCfk@^|IfApVlBlc@r@hRHhCPrHRlIVnGf@hGz@pJXvFB~@K@Cg@X@dAE|AWF?H|AFbBFAM{BCy@BSJO~@c@`B}@lBeBp@y@JETCP?`@HbC~AhAn@~@`@f@Nr@Jl@CpDq@|@Sh@SfDuATOvAk@dGuBzBw@XF\\TzFrFZPn@TPDZANCjBa@t@Id@GZ@pAn@tDfCvJnGzNpJlChBjG~D|EdD`BdAzAfAtAz@lDvBfCbBrBzAjCdB~AdArItFzFxD|@h@^B|DVxCPvDNzIr@vBR~B`@fADbANfANl@PrAd@j@TXf@Lf@Tt@z@vBx@fBt@nB`DfPxAdGzApFr@hCf@vAz@hB`BdDlAbC~@vAhA`BvBnCrExF`@l@lAxAbCtC`Ax@THpIb@f@?zANn@\\`@^j@d@hA|@v@h@x@r@lCvB`DpCzA`BdC|Cr@z@b@ZnFrElB~AHBrGvDzDdCl@b@|D~EtIzJ~CnEDRLFJ?PEJILS|B{DdByBp@k@\\Ql@[z@[lAq@\\Kx@g@dAaAXKZC\\D\\LpBbAnDpBZPj@\\P?XK^?NBJCNMJSFo@V}JTeER_CToAd@yBzC_Lv@iCLOJERAtHnAtABfGq@|@InBWzC]xAMxI{@b@E~Ds@|LaCpHmAnB]jA_@fCaAvCmArBs@dDoAzEcBvFyBhG}BjDqA~@UpHcBzIqBlDw@h@KVHDY@DzD}@TjDAf@NNF?`AQn@rJ"
+      },
+      "bounds": {
+        "northeast": {
+          "lat": 52.5273678,
+          "lng": 13.7723279
+        },
+        "southwest": {
+          "lat": 52.4155708,
+          "lng": 13.5721573
+        }
+      },
+      "copyrights": "Map data ©2023 GeoBasis-DE/BKG (©2009)",
+      "warnings": [
+        "Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths."
+      ]
+    }
+  ]
+}

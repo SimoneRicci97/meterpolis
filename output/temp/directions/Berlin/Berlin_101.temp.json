@@ -1,0 +1,581 @@
+{
+  "meterpolisName": "Berlin",
+  "route": {
+    "from": {
+      "lat": 52.572962352176845,
+      "lng": 13.505397816136306
+    },
+    "to": {
+      "lat": 52.38417479239737,
+      "lng": 13.381154993870812
+    }
+  },
+  "directions": [
+    {
+      "summary": "",
+      "legs": [
+        {
+          "steps": [
+            {
+              "htmlInstructions": "Walk to Wartenberg",
+              "distance": {
+                "inMeters": 62,
+                "humanReadable": "62 m"
+              },
+              "duration": {
+                "inSeconds": 44,
+                "humanReadable": "1 min"
+              },
+              "startLocation": {
+                "lat": 52.57295569999999,
+                "lng": 13.5053832
+              },
+              "endLocation": {
+                "lat": 52.5733957,
+                "lng": 13.5048308
+              },
+              "steps": [
+                {
+                  "htmlInstructions": "Head \u003cb\u003enorthwest\u003c/b\u003e on \u003cb\u003eEgon-Erwin-Kisch-Straße\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 62,
+                    "humanReadable": "62 m"
+                  },
+                  "duration": {
+                    "inSeconds": 44,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.57295569999999,
+                    "lng": 13.5053832
+                  },
+                  "endLocation": {
+                    "lat": 52.5733957,
+                    "lng": 13.5048308
+                  },
+                  "polyline": {
+                    "points": "_d{_IswlqAIJcAtAIJ"
+                  },
+                  "travelMode": "WALKING"
+                }
+              ],
+              "polyline": {
+                "points": "_d{_IswlqAIJcAtAIJ"
+              },
+              "travelMode": "WALKING"
+            },
+            {
+              "htmlInstructions": "Commuter train towards S Ostbahnhof (Berlin)",
+              "distance": {
+                "inMeters": 12155,
+                "humanReadable": "12.2 km"
+              },
+              "duration": {
+                "inSeconds": 1140,
+                "humanReadable": "19 mins"
+              },
+              "startLocation": {
+                "lat": 52.5733139,
+                "lng": 13.5042599
+              },
+              "endLocation": {
+                "lat": 52.503166,
+                "lng": 13.469334
+              },
+              "polyline": {
+                "points": "ef{_IsplqAh@vAlBmC|AwBxCyDrDcFzAsBdA{A^g@fAcAl@m@FIlAaBFIlAgBpAkBvBeDPWbAoA`AyAHIPWBCRWPY~@oAPUrAoBhEyFbB_CdAyAh@w@vAmBhBgCxDmFdCgDNWpCwDtAoBnBsCx@qAz@kA`BqBtA}A`AgAXWDG\\[^a@\\[\\[hAgARSFEBChAy@bBkAHIx@m@dAo@hAq@b@[xAw@fAi@nAi@xAi@fBk@bBi@tBo@zA_@pCu@|@UrFwApCu@nFuAtEqAbG_B`Bc@|Ac@jBa@`B]dB_@vB]j@KrAUhBYx@M\\GnCc@BAbAQf@IdASz@Sl@QvA]r@Ut@StAe@vAe@p@UTI`Be@RE|Be@NCdAUnCi@zEcA|@QdDq@l@Ot@KNE|B[LGz@SfD_At@SFCfD{@HCj@Oj@Qp@W|@a@HEh@Y\\OVMr@c@`Ao@ZWtAgAtAgA~@s@l@a@n@_@z@c@|@YrA]rAOz@EbAA`AF~AR|Ad@j@TNFZNz@h@JFz@p@`@\\\\`@n@p@VVl@|@PTb@v@R^r@xAv@pB^pAZhA\\tAf@~BHn@PjA@Ht@|FNpAVnBJ~@Ht@PzAHnADf@NjB@XBj@BpAB|@?D@lBAbA?ZA|@Gt@C`AEdBKvEBV@VIlGEnDH|AApB?ZEpE?VA`@EbH?BCnDAlCArB@z@?DBnAJlDRfDXbDRnBDXb@dERjBLvAJlALbBFjAL|BRzD^tHRhDXrFP`DPhBHj@TjAT`AXhAV|@n@dBTl@X|@R\\LVHPVd@Td@Rb@pArCr@vArArC`@z@z@lBjBzDXl@rBxErA~C^`Ab@hAh@vAxBbGpA|CTl@x@dB|B`FFL~@~Bp@fBh@pAd@tAj@dBL^Tx@BJt@hDNp@VvAHh@BHDXF^VvA\\`CBNNdADTBVFn@PzANvB?DPzCDpAFdC?J?RB`B?nAAJArAEhCC`AInEA^CtAElACd@Cj@Q`CM`AEZG\\k@vCKn@Kl@E`@_@zD@@"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "Ostkreuz",
+                  "location": {
+                    "lat": 52.503166,
+                    "lng": 13.469334
+                  }
+                },
+                "departureStop": {
+                  "name": "Wartenberg",
+                  "location": {
+                    "lat": 52.5733139,
+                    "lng": 13.5042599
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 10,
+                      "minute": 35,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 10,
+                      "minute": 16,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "S Ostbahnhof (Berlin)",
+                "headway": 0,
+                "numStops": 7,
+                "line": {
+                  "shortName": "S75",
+                  "agencies": [
+                    {
+                      "name": "S-Bahn Berlin GmbH",
+                      "url": "http://www.s-bahn-berlin.de/",
+                      "phone": "011 49 30 29743333"
+                    }
+                  ],
+                  "url": "https://www.vbb.de/fahrinformation/liniennetze/",
+                  "vehicle": {
+                    "name": "Commuter train",
+                    "type": "COMMUTER_TRAIN",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/rail2.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Commuter train towards Ringbahn S 41",
+              "distance": {
+                "inMeters": 10280,
+                "humanReadable": "10.3 km"
+              },
+              "duration": {
+                "inSeconds": 900,
+                "humanReadable": "15 mins"
+              },
+              "startLocation": {
+                "lat": 52.503166,
+                "lng": 13.469334
+              },
+              "endLocation": {
+                "lat": 52.4757159,
+                "lng": 13.3655517
+              },
+              "polyline": {
+                "points": "yom_IiveqAKhA@@VFZFPBF@XDPBn@JTBb@F`@FRDh@H`@JHD\\HrAb@nF|Ax@T`@JlAb@d@TZNtAhALNx@dAzAjBHLNVFJ~AjCb@p@t@jA^j@V`@pApBnArB|@~@z@~@\\`@dA|@VT~@v@f@`@RPB@HDxAx@`@T`@Tb@T\\RDDz@h@FDx@h@FDzA~@RLHF^VVLn@\\NDPFPDx@Np@BR@vAEnAGZCjAG`ACF?d@AX?\\?b@@h@Dt@DTBfBRNBPBTBL@`BR`ALnBTfD`@ZDxAPt@J`BPxEl@fEf@\\DtC\\\\DZD~@JF?|@L`AJvBXhALp@JpFl@\\FdANPBh@Jv@TVJZLB@\\N`@Tp@b@LHx@p@?@TTj@j@d@h@RV\\f@RXh@|@^t@DHTn@Pd@N`@Lf@ThANt@@JBJ@H@HFj@LnANxA?@Fp@H|@H|@p@pHLxA^jEJ~@JjALrA\\fEJhA\\rEH`AFn@@LLdB@DDh@D^D^Hj@Hn@XvBFn@@HFr@Fr@D`@HbA@NHdAD`@Fx@LrAJrA@HH~@@HB\\Db@JnA@DFr@Bb@BRB`@D`@Dl@Fx@@HHx@BTJtA?DBXLxA?BFbADj@Dr@FnATzEFt@@DDb@BV@JX`DDl@Dn@P`CDb@TzCx@dN\\jFNbBBXRzBLpAR~ANnAFr@JdADZJrALbBLjCRjEZrHb@vJBl@HfBFvALdDFjBBb@FjBHhBFbBDz@Bv@?@JfCFvAL~CDvABrA@jA@~A?zAA|ACfACjAIbBGpAOlBGr@Gf@ANMfAG`@U`Be@nCiApGg@jCGZWjA_@bBc@jBu@pCy@lCEH]dAg@zAeA~C}@nCi@zAs@xBo@lB[dASv@Qv@WfAUfAMr@a@`C[tBId@CTOx@E\\G\\SlAEVUxAW`BAFEPUpAEXOt@GZEXWbBAHQrAEZSpBIv@Gd@SdCS|AQhAQ`CYnDIjBE|B?`B?bA?N?xDA~ICvGAdG?zCEbCCf@EbAGx@E\\CXShAQ|@GXc@zAi@vAQ^Q\\a@t@KNc@p@QRUVCBYZSNYTWPMHk@^ULSJMDa@Ra@Pa@Pc@P_Ad@]PD\\"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "Berlin Südkreuz",
+                  "location": {
+                    "lat": 52.4757159,
+                    "lng": 13.3655517
+                  }
+                },
+                "departureStop": {
+                  "name": "Ostkreuz",
+                  "location": {
+                    "lat": 52.503166,
+                    "lng": 13.469334
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 10,
+                      "minute": 55,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 10,
+                      "minute": 40,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "Ringbahn S 41",
+                "headway": 0,
+                "numStops": 6,
+                "line": {
+                  "shortName": "S41",
+                  "color": "#af5a38",
+                  "agencies": [
+                    {
+                      "name": "S-Bahn Berlin GmbH",
+                      "url": "http://www.s-bahn-berlin.de/",
+                      "phone": "011 49 30 29743333"
+                    }
+                  ],
+                  "url": "https://www.vbb.de/fahrinformation/liniennetze/",
+                  "vehicle": {
+                    "name": "Commuter train",
+                    "type": "COMMUTER_TRAIN",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/rail2.png",
+                    "localIcon": "//maps.gstatic.com/mapfiles/transit/iw2/6/de-sbahn.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Commuter train towards S Mahlow",
+              "distance": {
+                "inMeters": 10428,
+                "humanReadable": "10.4 km"
+              },
+              "duration": {
+                "inSeconds": 1200,
+                "humanReadable": "20 mins"
+              },
+              "startLocation": {
+                "lat": 52.4757159,
+                "lng": 13.3655517
+              },
+              "endLocation": {
+                "lat": 52.387442,
+                "lng": 13.3963634
+              },
+              "polyline": {
+                "points": "gdh_IumqpAMlAbAd@v@^dBz@`Af@d@LVHjA^|Ah@pAl@hClA`FhChCrAjCrAXLzDlBtCrAlDbBjCpAnCrA|CxA|CzArB`Az@b@\\NLFdCvA^Nh@Xv@\\t@\\x@\\x@Zh@N`@JpATv@H\\Dr@DJ?`@?bBCbBGxAG@?f@Av@Ef@C`@Cz@ILAd@Gh@G`AO^G\\GDAXGj@Qb@Mj@SVKt@]~@c@p@_@VMvBcAx@c@ZO`B{@fAk@~A}@`Am@zA_A`BcAlBmAxAs@xB_A~@a@d@Ut@[DAVMTIRKv@[LGtAk@JCz@_@|Ac@BATK`Ae@@?LILIVKb@SZODA^UjBaAZQ`Ak@FEtAs@DCbAg@@AlB}@p@_@ZM`Ag@l@YtAs@r@]z@a@tAs@~@e@xCyAbBaArDeBDCFCPI`D_BVKPKxFoCfB}@xAw@`JmE|KqFTMr@_@`HiDhG{C@A~@c@p@]v@]JGh@Wz@_@lAe@\\Ox@]pAs@NItA}@nBgAf@WtBeAfCoAfEuB|As@hAo@rAs@fAi@^QhAk@tAq@dB{@v@]fB}@pAm@xAs@\\OxCyAx@_@`CoAbAe@vAs@xC}A`D_BTMDADC`@SbCmAVMjCmAzB}@~D}AfEgB|BaAzBkAhB}@|E}BvEsBhD{APGLGxAs@n@YvBcAXMVMdB{@@A~@g@bAg@FCrA{@RK@ATMp@_@rAw@tBkAfDeBr@[`@S^SNGl@[rCuAfDcBfDiBpAu@l@]`@Uz@g@|EoCDCfCyAf@[~CaBtCuAtDiBAG"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "S Lichtenrade (Berlin)",
+                  "location": {
+                    "lat": 52.387442,
+                    "lng": 13.3963634
+                  }
+                },
+                "departureStop": {
+                  "name": "Berlin Südkreuz",
+                  "location": {
+                    "lat": 52.4757159,
+                    "lng": 13.3655517
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 11,
+                      "minute": 29,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 11,
+                      "minute": 9,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "S Mahlow",
+                "headway": 0,
+                "numStops": 6,
+                "line": {
+                  "shortName": "S2",
+                  "color": "#4c9046",
+                  "agencies": [
+                    {
+                      "name": "S-Bahn Berlin GmbH",
+                      "url": "http://www.s-bahn-berlin.de/",
+                      "phone": "011 49 30 29743333"
+                    }
+                  ],
+                  "url": "https://www.vbb.de/fahrinformation/liniennetze/",
+                  "vehicle": {
+                    "name": "Commuter train",
+                    "type": "COMMUTER_TRAIN",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/rail2.png",
+                    "localIcon": "//maps.gstatic.com/mapfiles/transit/iw2/6/de-sbahn.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Walk to Straße ohne Straßennamen, 14979 Großbeeren, Germany",
+              "distance": {
+                "inMeters": 1662,
+                "humanReadable": "1.7 km"
+              },
+              "duration": {
+                "inSeconds": 1241,
+                "humanReadable": "21 mins"
+              },
+              "startLocation": {
+                "lat": 52.387442,
+                "lng": 13.3963634
+              },
+              "endLocation": {
+                "lat": 52.382808,
+                "lng": 13.3809134
+              },
+              "steps": [
+                {
+                  "htmlInstructions": "Take exit \u003cspan class\u003d\"location\"\u003e\u003c/span\u003e",
+                  "distance": {
+                    "inMeters": 76,
+                    "humanReadable": "76 m"
+                  },
+                  "duration": {
+                    "inSeconds": 77,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.387442,
+                    "lng": 13.3963634
+                  },
+                  "endLocation": {
+                    "lat": 52.3868003,
+                    "lng": 13.3967773
+                  },
+                  "polyline": {
+                    "points": "o|v~HgnwpA~BsA"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Head \u003cb\u003esouth\u003c/b\u003e toward \u003cb\u003ePrinzessinnenstraße\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 12,
+                    "humanReadable": "12 m"
+                  },
+                  "duration": {
+                    "inSeconds": 8,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.3867826,
+                    "lng": 13.3968041
+                  },
+                  "endLocation": {
+                    "lat": 52.3867243,
+                    "lng": 13.3967404
+                  },
+                  "polyline": {
+                    "points": "kxv~H_qwpAJJ"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003ePrinzessinnenstraße\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 536,
+                    "humanReadable": "0.5 km"
+                  },
+                  "maneuver": "turn-right",
+                  "duration": {
+                    "inSeconds": 395,
+                    "humanReadable": "7 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.3867243,
+                    "lng": 13.3967404
+                  },
+                  "endLocation": {
+                    "lat": 52.3867355,
+                    "lng": 13.3887889
+                  },
+                  "polyline": {
+                    "points": "_xv~HspwpA?l@?xD?ZAV?N?jA?jA?|A?fA?b@?V?N?pB?dC?N?V?N?f@?~C?~@?V?TAxE?f@?V"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eRohrbachstraße\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 497,
+                    "humanReadable": "0.5 km"
+                  },
+                  "maneuver": "turn-left",
+                  "duration": {
+                    "inSeconds": 363,
+                    "humanReadable": "6 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.3867355,
+                    "lng": 13.3887889
+                  },
+                  "endLocation": {
+                    "lat": 52.3822287,
+                    "lng": 13.3887646
+                  },
+                  "polyline": {
+                    "points": "cxv~H}~upAN?H?dA?pB?lB?rC@P?L?X?X?LAv@?fC@P?nA@V?T@"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eright\u003c/b\u003e at \u003cb\u003eWolziger Zeile\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 541,
+                    "humanReadable": "0.5 km"
+                  },
+                  "maneuver": "turn-right",
+                  "duration": {
+                    "inSeconds": 398,
+                    "humanReadable": "7 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.3822287,
+                    "lng": 13.3887646
+                  },
+                  "endLocation": {
+                    "lat": 52.382808,
+                    "lng": 13.3809134
+                  },
+                  "polyline": {
+                    "points": "}{u~Hw~upA?\\?j@?N?b@IdBARCz@Cx@Cp@Cx@GtBCx@GfAKrCCn@GbBM`DQfFCb@An@EhA"
+                  },
+                  "travelMode": "WALKING"
+                }
+              ],
+              "polyline": {
+                "points": "o|v~HgnwpA~BsABCJJ?l@?xD?ZAV?N?jA?jA?|A?fA?b@?V?N?pB?dC?N?V?N?f@?~C?~@?V?TAxE?f@?VN?H?dA?pB?lB?rC@P?L?X?X?LAv@?fC@P?nA@V?T@?\\?j@?N?b@IdBARCz@Cx@Cp@Cx@GtBCx@GfAKrCCn@GbBM`DQfFCb@An@EhA"
+              },
+              "travelMode": "WALKING"
+            }
+          ],
+          "distance": {
+            "inMeters": 34587,
+            "humanReadable": "34.6 km"
+          },
+          "duration": {
+            "inSeconds": 5666,
+            "humanReadable": "1 hour 34 mins"
+          },
+          "arrivalTime": {
+            "dateTime": {
+              "date": {
+                "year": 2023,
+                "month": 1,
+                "day": 22
+              },
+              "time": {
+                "hour": 11,
+                "minute": 49,
+                "second": 42,
+                "nano": 0
+              }
+            },
+            "offset": {
+              "totalSeconds": 3600
+            },
+            "zone": {}
+          },
+          "departureTime": {
+            "dateTime": {
+              "date": {
+                "year": 2023,
+                "month": 1,
+                "day": 22
+              },
+              "time": {
+                "hour": 10,
+                "minute": 15,
+                "second": 16,
+                "nano": 0
+              }
+            },
+            "offset": {
+              "totalSeconds": 3600
+            },
+            "zone": {}
+          },
+          "startLocation": {
+            "lat": 52.57295569999999,
+            "lng": 13.5053832
+          },
+          "endLocation": {
+            "lat": 52.382808,
+            "lng": 13.3809134
+          },
+          "startAddress": "S Wartenberger, 13059 Berlin, Germany",
+          "endAddress": "Straße ohne Straßennamen, 14979 Großbeeren, Germany"
+        }
+      ],
+      "waypointOrder": [],
+      "overviewPolyline": {
+        "points": "_d{_IswlqAmA`BIJPpBh@vAlBmCvFqHtJ{MtBqBtAkB~GcK`DkE`FcH~[wc@fJsMtB}CvDoE~BcCdDaDhBwAlFsDlBmA`DaBhDsAjEuA`L{CjYuHdJcChEeAfE}@bDi@tGeA~FaA`Cg@dCo@vGuB|DkAbJiBlNwCpEu@jPmEbDyAt@]tBsAfG{E|AaAxB}@rA]rAO~BG`DZhCz@rBhA|AnAlArAdAtAt@lAfAxBvAbEx@~Cp@nDxAdL~@`I`@|FJ`EAjGKvBQ|HDn@O|LH|AApBElFG`JE|H?nDBtA^tIl@rGh@~Ez@tJhAzTl@|Kb@jG^vBn@jCV|@n@dBn@jBbAlBnDtH|GxNlCfGrB`FxGbQtEbKpBfFnAfDrAjEfB|Ih@zCv@lFJfA`@rEP`DLvEBpEc@~TGpA_@bEeA`GQnA]|DIjAr@NdANjC^hB`@zK`DnBn@`Ad@bBxAtCpD`C|DpCjE`DdFxB~BbB~AvAlAhAz@`EzBxGfEpBjA`@LjATdADfDMpDO`C?~AJ|BVdALzLxAbZnDbMxAfKpAz@NnA`@~At@xB`BzBbCp@`AhArB|@`Ct@rDt@hHxCr\\jBpUhAvJx@~JfBjTl@lHZrF\\pGFh@d@rFr@pJjBnYdA|Jd@hFZnFn@~Nx@dR`@`L|@bULvIAxDGrCQtDW`D_@`D{@pFqB|KcBvHoB~Gc@nAuEfNcBfFo@|BmAzF}BvNgBnKg@bDk@`Fy@`Ic@jEc@zGErHGv`@E~GIjBMvAWbBYvAmArDqAbCoA`Bm@j@q@f@cBbAsB|@cBv@]PD\\MlAbAd@|CzAfBt@bBh@nDvAhClA`FhCtGfDtEzB~Q|IjNzGpE~BpErBbBj@rB`@tCTdCC|DOhCKpCWhDg@nBi@bA_@tBaAzFuCdHuDlJ_GxHkDhBu@nD{AfAc@`Be@fB{@dBy@rIuEfMkGdGyC|F{CxDiBrEyBlMqGvl@yY~C{A`FsBfHcElNcHbIaEdHkDjI}DrJyEzO_IzC{AfGkCfKeE|BaAzBkAfI{D`KoEhD}AnG{ClCuA~BwAdCwA|GqDdCkA`EqBnImE|EqCrKiGtHwDtDiBAGbCwAJJ?l@?tEAf@?|H?zJAnQrN@xBA`GBT@?\\?z@OxEo@`Rs@jS"
+      },
+      "bounds": {
+        "northeast": {
+          "lat": 52.5733957,
+          "lng": 13.5401296
+        },
+        "southwest": {
+          "lat": 52.3822275,
+          "lng": 13.3561588
+        }
+      },
+      "copyrights": "Map data ©2023 GeoBasis-DE/BKG (©2009)",
+      "warnings": [
+        "Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,608 @@
+{
+  "meterpolisName": "Berlin",
+  "route": {
+    "from": {
+      "lat": 52.56320922875085,
+      "lng": 13.1606523037304
+    },
+    "to": {
+      "lat": 52.478193085484335,
+      "lng": 13.51308188053534
+    }
+  },
+  "directions": [
+    {
+      "summary": "",
+      "legs": [
+        {
+          "steps": [
+            {
+              "htmlInstructions": "Walk to Radelandstr./Pflegeheim (Berlin)",
+              "distance": {
+                "inMeters": 98,
+                "humanReadable": "0.1 km"
+              },
+              "duration": {
+                "inSeconds": 71,
+                "humanReadable": "1 min"
+              },
+              "startLocation": {
+                "lat": 52.5633495,
+                "lng": 13.1608106
+              },
+              "endLocation": {
+                "lat": 52.5639401,
+                "lng": 13.1616231
+              },
+              "steps": [
+                {
+                  "htmlInstructions": "Head \u003cb\u003eeast\u003c/b\u003e toward \u003cb\u003eRadelandstraße\u003c/b\u003e\u003cdiv style\u003d\"font-size:0.9em\"\u003eRestricted usage road\u003c/div\u003e",
+                  "distance": {
+                    "inMeters": 98,
+                    "humanReadable": "0.1 km"
+                  },
+                  "duration": {
+                    "inSeconds": 71,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.5633495,
+                    "lng": 13.1608106
+                  },
+                  "endLocation": {
+                    "lat": 52.5639401,
+                    "lng": 13.1616231
+                  },
+                  "polyline": {
+                    "points": "}gy_IanioA@U@Q?WAMAMGMIIIC_A[YM"
+                  },
+                  "travelMode": "WALKING"
+                }
+              ],
+              "polyline": {
+                "points": "}gy_IanioA@U@Q?WAMAMGMIIIC_A[YM"
+              },
+              "travelMode": "WALKING"
+            },
+            {
+              "htmlInstructions": "Bus towards S Stresow",
+              "distance": {
+                "inMeters": 6343,
+                "humanReadable": "6.3 km"
+              },
+              "duration": {
+                "inSeconds": 1080,
+                "humanReadable": "18 mins"
+              },
+              "startLocation": {
+                "lat": 52.563968,
+                "lng": 13.161579
+              },
+              "endLocation": {
+                "lat": 52.532267,
+                "lng": 13.208667
+              },
+              "polyline": {
+                "points": "yky_I{rioACALaAlAaJBOBOLg@R_ANq@fA{EbAsEBMH[RcAl@oC^cBH]TkAXmAfAeFJe@BMBMPu@VkAHULa@Nk@Le@N_ADUFa@j@wDLu@Lw@Lu@ZkB^_CRsAHe@DWHe@@GJo@D]Fa@J}@BMBSBYFe@@OJ_AHo@TkA^mBp@aDVeA|AmHPs@RaAPaAf@iELcANuAb@mDRiA@EV_BLy@F]h@eDDUDO@CVm@DMDQRLNJZRrAv@fAn@VL`B`Ah@Zp@^fDjB`E~BD@nAt@n@XJLHDh@T@?d@Fh@HrIhAz@J`CZjBT|@HJ@NB@@j@HJB`IbA|C`@@?tEl@lBVfFn@l@HNB^DLDH?~@DB?D?VIJAD?@?lAGR?H?L@H?F@PBLBHBPDHDD@B@DDFBFFRPVZNJFFFFHDHD@?HDJBl@Px@TD@L@Bg@Be@@Q?O?K?CAIFi@@Qb@kER{BN_BPaBD_@?CPsA@KFc@DUFm@Jk@BSTyA?CF[FWLm@j@gCDSFWZuAZyAFWDOPy@F[Lg@BMTiADUBK^wCDYR{APwANqA@MBQFa@Fg@Da@BSHs@NiALeAHm@Fe@BSRgBNiADe@Fo@@MF_A?C@I@O?I?I?O@M@U?C?ED]@]H{@@I@IBMNo@NYLSLOHKJYDURoAPcABO@O?M?MCMAGAGEIGKGO[e@Wa@SYMSQYMSIGEEGIGKCGIMCGISMWM[EKy@sBa@y@u@{AAEAC?E?G@GDQDMTm@Z}@JUL[NUJQLOBEJKFIFId@k@@An@w@BEBCBABCBCFEFCFAJCLA~AGf@G@?JCLGLELIf@g@^UdAq@`@UdAi@@A@YBWB[@G@W?AAC?A?AAA?ACAAAHy@"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "S Stresow [Vorplatz]",
+                  "location": {
+                    "lat": 52.532267,
+                    "lng": 13.208667
+                  }
+                },
+                "departureStop": {
+                  "name": "Radelandstr./Pflegeheim (Berlin)",
+                  "location": {
+                    "lat": 52.563968,
+                    "lng": 13.161579
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 10,
+                      "minute": 26,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 10,
+                      "minute": 8,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "S Stresow",
+                "headway": 0,
+                "numStops": 17,
+                "line": {
+                  "shortName": "130",
+                  "agencies": [
+                    {
+                      "name": "Berliner Verkehrsbetriebe",
+                      "url": "http://www.bvg.de/",
+                      "phone": "011 49 30 19449"
+                    }
+                  ],
+                  "url": "https://www.bvg.de/de/verbindungen/netzplaene-und-linien/",
+                  "vehicle": {
+                    "name": "Bus",
+                    "type": "BUS",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                    "localIcon": "//maps.gstatic.com/mapfiles/transit/iw2/6/de-berlin-bvg-bus.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Walk to S Stresow",
+              "distance": {
+                "inMeters": 68,
+                "humanReadable": "68 m"
+              },
+              "duration": {
+                "inSeconds": 50,
+                "humanReadable": "1 min"
+              },
+              "startLocation": {
+                "lat": 52.53229899999999,
+                "lng": 13.2084248
+              },
+              "endLocation": {
+                "lat": 52.5321938,
+                "lng": 13.207653
+              },
+              "steps": [
+                {
+                  "htmlInstructions": "Head \u003cb\u003ewest\u003c/b\u003e toward \u003cb\u003eStresowstraße\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 47,
+                    "humanReadable": "47 m"
+                  },
+                  "duration": {
+                    "inSeconds": 32,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.53229899999999,
+                    "lng": 13.2084248
+                  },
+                  "endLocation": {
+                    "lat": 52.5322976,
+                    "lng": 13.207783
+                  },
+                  "polyline": {
+                    "points": "{es_IswroAB@@@BD@@?D?B@@?BCV?HCZCVAL"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eStresowstraße\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 18,
+                    "humanReadable": "18 m"
+                  },
+                  "maneuver": "turn-left",
+                  "duration": {
+                    "inSeconds": 12,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.5322976,
+                    "lng": 13.207783
+                  },
+                  "endLocation": {
+                    "lat": 52.5321938,
+                    "lng": 13.207653
+                  },
+                  "polyline": {
+                    "points": "{es_IssroABBDDJN"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eleft\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 3,
+                    "humanReadable": "3 m"
+                  },
+                  "maneuver": "turn-left",
+                  "duration": {
+                    "inSeconds": 6,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.5321938,
+                    "lng": 13.207653
+                  },
+                  "endLocation": {
+                    "lat": 52.5321938,
+                    "lng": 13.207653
+                  },
+                  "polyline": {
+                    "points": "ees_IyrroA"
+                  },
+                  "travelMode": "WALKING"
+                }
+              ],
+              "polyline": {
+                "points": "{es_IswroAB@@@BD@@?D?B@@?BCV?HCZCVALBBDDJN"
+              },
+              "travelMode": "WALKING"
+            },
+            {
+              "htmlInstructions": "Commuter train towards S Erkner Bhf",
+              "distance": {
+                "inMeters": 27599,
+                "humanReadable": "27.6 km"
+              },
+              "duration": {
+                "inSeconds": 2940,
+                "humanReadable": "49 mins"
+              },
+              "startLocation": {
+                "lat": 52.5321702,
+                "lng": 13.2092464
+              },
+              "endLocation": {
+                "lat": 52.48118669999999,
+                "lng": 13.525649
+              },
+              "polyline": {
+                "points": "aes_Iy|roA\\J@KFy@Dy@Fy@PkCJsAXgDb@oFBYB_@J{ALsB\\oFDo@Do@LcCNgDFiABa@?KDg@H_ABUTmBN}@Lk@DULe@XcARe@DKN]Xk@b@w@PWBGV[LMn@q@TSNKHGDEHGHEDCJGDABAd@Qx@Wj@KNAj@EZ@r@@v@LF@hA\\TJJF|@b@ZP\\Pb@Tp@\\pAr@dAl@LFLF^PVNbB`Ax@d@HDxDpBdA`@h@Nh@LzANt@?^@PApAEpAGrDO~BKzBI`@Cz@CLAnCMd@CTA\\EXCXEDAb@I`@KRGHELGd@WLI\\Qx@i@h@i@RQJKt@y@DGt@eA`@o@n@iAXg@R]x@{A`@}@R]`B}CXi@Vg@r@wAJQd@iATg@Ti@Vk@HSZy@Zy@@AJ]V_A@EPq@Lc@BOFYP_A@G@I@IJk@Fi@BMFs@BWBY@KBs@Bs@@c@?k@?YAk@Ag@ACAo@Ew@KgBIkAEu@GaAAUEw@K{AKmAC_@UkCI{@[{DQuBQoBQ_BOyAACGg@YmCSuBGy@Gk@AKEg@C]QyBEe@MqAG{@E]YkDIeAMuAAOGu@Gk@AOGw@AGGq@Gs@?EEe@CQCYCWMmACi@AOGq@AGEe@Ce@Ee@Cc@AUAWAo@Am@?EAo@?g@@W?M@m@?i@Bo@@m@?K@I@{@B{@@i@@c@@[@[@YBY@[B]D]Dc@D[He@Hg@No@J[Tu@L]^{@FKb@w@T[X_@VYTSXWb@_@VU`@a@p@s@v@iABCXe@d@cAFKTc@l@uAXy@Rm@f@wAVw@BCb@}ATu@n@{Bv@gC^cAXs@\\q@b@{@d@w@Ze@\\i@j@w@b@e@h@i@`Aq@~@i@\\ODAbA]|@UrBk@vA]rBi@\\If@OFCf@OTKJGRMDC`@YVWHI^c@PS@AZc@JITYb@m@Za@z@gAT]X_@RYLSLSXe@N[Zq@Tm@Lc@Nc@ZoAVoAJq@BOF[PgA@GT_BTaBD[He@\\eCFq@?ED]Be@@S?W@G?i@?a@Ai@Cw@GcAGm@Ku@o@yCQw@{@aEe@uBOu@Os@Oq@sAiGKg@Ia@Ke@ACESAIGQCKMq@Ke@}@eEc@uBCMMm@Q{@?AGYCIESKg@AEYwAi@aCQcAIc@G_@My@Ks@[oB[{BU}A?CYuBO}AKoAG{@IiAEo@Eo@C]KsAIcAMiBAQKmAKkAEa@CUI}@Gs@KaAKeAMuAWmCC_@E]Ee@SsBCOMeAIi@UeBOeAYiBEWKs@My@Km@QiAK{@EYEYSwA[eCUaBUcBKu@GYIo@Ik@Ii@S_Bc@gDAWC_@KkA?EMsB?ECm@E}AAi@A_@Cq@CiACgAAwAAm@?MAkB?eA@mABeCFsEDiB@[FuD@c@B_@DuBBy@@_@BiB@_@@]DmB?aA@[?}@@q@?GAe@By@@{@?I@o@@{@Bo@?I?CDqCBe@@e@@a@Bu@HoA?E@GB]F_A@M?GBi@@c@@i@@g@DoBBi@@k@DsBB{@By@@WDaCBa@?c@DgB?iA@GAmAAq@Cm@Ca@Cc@Ee@MoAGc@CMOu@?ES}@Oi@K[Qa@CKCCM]CGWe@]g@AA[a@GKUSOQMMg@e@[UCCKKIIAASS_@SAAa@Sk@YSSCCIG_@YSOk@e@OM[WCAq@k@MI]]_@[YUe@a@aAw@II[W_@Yi@_@WQ]Q_@Q{@_@aC_Aq@YMGuB{@KEm@W]Ms@W_@MEASGKCWGOEc@KEAWIME}@]YMAAWIGEa@QUKm@_@_@YEC][k@k@iAsAiAqAcEyE{CoDg@k@SUIKMOGIMMKQGISY?A]m@Sc@Wm@KSIWSo@Sm@Oo@GUKe@My@Ig@OqAGu@Gw@?KCe@CY?_@?o@?U?{@?K@eA@c@?k@@M@{@@u@?Q@[@M@y@@e@@SBi@?EB}@?GDy@JsBHuA@I@[@e@P}EBm@DiAVcJDgA@q@Ag@AaBCcAAMCe@C[?MGo@Ca@CQEYEe@Ks@CQAGMm@Km@UaAUs@Og@[w@aB}DSi@Ui@Qa@cD_ICG}AsDo@_BIUCEQe@Sc@GQGMQ_@Sc@CCi@cAIMc@w@OYWg@IO_@w@i@sACG]cAW{@Ke@K_@Kg@Kk@SiA?CMq@OyAGw@C]Eu@Cw@E_ACe@Cs@EmA?cA?c@?wABwA@W@s@FaA?EFq@Di@BOBULw@Jg@Je@FWRs@BKZgAFOPe@N]JUJQNWXc@NS\\a@JMXYb@c@j@m@lAmAZYBENOXSR[JOHGDEFKLWBGLUL[Pg@@?Lc@La@H]@ELi@Jo@@KHo@De@@KDc@@SB_A@_@@e@AgABkA?o@AeA@M?]?Y@WBe@?A@WBUBa@DYBYHe@Hi@@KH_@L{@TsAHc@Jo@@ETyADSD]Jk@BOD_@BMHo@@GH_AFq@Jw@Hw@Jw@@EHeA@G?GB]B[?M@m@?s@AgAAs@Ae@A]ASIo@Cu@Ao@AYE}A?KAOAOAg@A[C]C_@E_@E[Gk@Ms@S}@]kAa@gACKEIa@eAo@_By@uB[{@Ws@Uu@Mk@Mq@?AGg@Ie@Ei@Ek@Eq@CaAEuEAy@?YAAAk@AKCi@AOC]Ee@Eg@CYEe@E]OoAQyAM_AIs@Kq@CMAGESEYEUKq@Ig@Ik@AGGk@Go@AUASCk@Ai@?KA[@g@?g@Bk@Bi@Bg@BU@QFk@Ly@Jk@FWDQNo@Na@BIJ[HYVy@J]Rk@@EDQHQNg@DK`@uA?CDM|AuC|AsCV]HKl@u@FKj@y@r@iA?AVc@JSDK`@g@^i@h@_A`@g@d@g@FIp@g@DC^SPKPETKl@OTGn@SDAx@c@JIVSTULOj@o@PSJK`@_@`@[NIRKRKPK@APG~@e@XQDETSLMHINM^g@X_@@CVe@HOj@yAVgA`@gBDUj@gCh@aCHYJg@T{@Pu@No@Tu@?CX}@L_@Na@Z{@BG\\cAX_AJc@BGLk@F]DWFc@Fy@BSDo@BkA@??g@@e@@y@?U@cA?G?}@@aA@s@@]BwA@KDm@NkBF_AJ}ADi@@ODg@Bg@BUH_BDc@FkA\\wCB[F_@@CDUNy@Lm@DI@GDOX}@Pi@Pi@b@yADMZ}@`@qAFQTq@@EL[@E@EHUHWL_@BGPi@FUNc@Vu@Ru@BKDQDSDOJ[JYJ]HWFUHYDOHYJc@Rw@XoAR}@`@aBPw@FU`@gBF[Rw@Z{ANcAHi@D_@NoAFg@TuBDi@NqA@MNsAN{AV}BLsALaA@SNkAFg@Fi@NcARmAP}@Jm@@I@INw@NeARqAHu@LaAFu@Fw@JeBDi@DcAHqAHqAFkAFmADc@Fy@DYDi@?AFw@LwAX_DJiAP}ADg@LgAHy@LkAJgA@EJcALoALmA?G^kD^wD|@aJv@uHRiBHs@f@}FFc@Z}C?APyARoBLeAHy@ToBZyC~@sI^gD^iDD[BYRiBLeALgAFi@JaAd@_DFc@l@gDd@}B`@mBHc@VsATmANg@n@mCLg@FUTy@hAcEd@aBNg@j@iBJ[JWFSHWBIHWTq@h@{An@oBr@yBv@mCDQv@kCzAqF~@iDX_Ab@aBTw@h@qBx@cDl@}Bt@_Df@wBt@}CZoA`@qAZ{@\\w@\\u@\\o@FKZe@Zg@Vc@HQ`@o@Rc@\\u@f@sAHWZiAXoATqAb@eDl@wE`@_DRqAb@cCVkA`@eBXaAlAuDtAaE`AyCfBmFd@oAh@uAf@gARc@Vg@z@_BlAqBdAgBpAyBf@{@R[Xc@nAuBb@q@HOXg@Zm@BGNYd@aAp@gBn@eBdB{EbCgHHWPi@n@mBz@cCj@cBtAeEPi@L_@X{@^qAFUf@aBNc@ZcA@EBEFUBG@GRk@@CJN"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "Karlshorst",
+                  "location": {
+                    "lat": 52.48118669999999,
+                    "lng": 13.525649
+                  }
+                },
+                "departureStop": {
+                  "name": "S Stresow",
+                  "location": {
+                    "lat": 52.5321702,
+                    "lng": 13.2092464
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 11,
+                      "minute": 18,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 10,
+                      "minute": 29,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "S Erkner Bhf",
+                "headway": 0,
+                "numStops": 21,
+                "line": {
+                  "shortName": "S3",
+                  "color": "#006cb3",
+                  "agencies": [
+                    {
+                      "name": "S-Bahn Berlin GmbH",
+                      "url": "http://www.s-bahn-berlin.de/",
+                      "phone": "011 49 30 29743333"
+                    }
+                  ],
+                  "url": "https://www.vbb.de/fahrinformation/liniennetze/",
+                  "vehicle": {
+                    "name": "Commuter train",
+                    "type": "COMMUTER_TRAIN",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/rail2.png",
+                    "localIcon": "//maps.gstatic.com/mapfiles/transit/iw2/6/de-sbahn.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Tram towards Krankenhaus Köpenick",
+              "distance": {
+                "inMeters": 979,
+                "humanReadable": "1.0 km"
+              },
+              "duration": {
+                "inSeconds": 240,
+                "humanReadable": "4 mins"
+              },
+              "startLocation": {
+                "lat": 52.48118669999999,
+                "lng": 13.525649
+              },
+              "endLocation": {
+                "lat": 52.4820133,
+                "lng": 13.5167211
+              },
+              "polyline": {
+                "points": "mfi_IivpqAEv@F@NBXFNDhAL\\DVDZBD@pAZVDZDb@Jt@N\\JD@JHDFDD@DBJ@J?J?NABGDELaArDeA~CABsAdEsAfEWt@_ApCyBpG_BzEa@hAOS"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "Stechlinstr. (Berlin)",
+                  "location": {
+                    "lat": 52.4820133,
+                    "lng": 13.5167211
+                  }
+                },
+                "departureStop": {
+                  "name": "Karlshorst",
+                  "location": {
+                    "lat": 52.48118669999999,
+                    "lng": 13.525649
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 11,
+                      "minute": 27,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 11,
+                      "minute": 23,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "Krankenhaus Köpenick",
+                "headway": 0,
+                "numStops": 3,
+                "line": {
+                  "shortName": "27",
+                  "color": "#e30613",
+                  "agencies": [
+                    {
+                      "name": "Berliner Verkehrsbetriebe",
+                      "url": "http://www.bvg.de/",
+                      "phone": "011 49 30 19449"
+                    }
+                  ],
+                  "url": "https://www.bvg.de/de/verbindungen/netzplaene-und-linien/",
+                  "textColor": "#ffffff",
+                  "vehicle": {
+                    "name": "Tram",
+                    "type": "TRAM",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/tram2.png",
+                    "localIcon": "//maps.gstatic.com/mapfiles/transit/iw2/6/de-berlin-bvg-tram.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Walk to Liepnitzstraße 57, 10318 Berlin, Germany",
+              "distance": {
+                "inMeters": 514,
+                "humanReadable": "0.5 km"
+              },
+              "duration": {
+                "inSeconds": 376,
+                "humanReadable": "6 mins"
+              },
+              "startLocation": {
+                "lat": 52.48199349999999,
+                "lng": 13.5166965
+              },
+              "endLocation": {
+                "lat": 52.4782557,
+                "lng": 13.5129389
+              },
+              "steps": [
+                {
+                  "htmlInstructions": "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eEhrlichstraße\u003c/b\u003e toward \u003cb\u003eLiepnitzstraße\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 32,
+                    "humanReadable": "32 m"
+                  },
+                  "duration": {
+                    "inSeconds": 23,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.48199349999999,
+                    "lng": 13.5166965
+                  },
+                  "endLocation": {
+                    "lat": 52.48180259999999,
+                    "lng": 13.5171291
+                  },
+                  "polyline": {
+                    "points": "mki_Ik~nqAHYPg@HS"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eLiepnitzstraße\u003c/b\u003e\u003cdiv style\u003d\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                  "distance": {
+                    "inMeters": 482,
+                    "humanReadable": "0.5 km"
+                  },
+                  "maneuver": "turn-right",
+                  "duration": {
+                    "inSeconds": 353,
+                    "humanReadable": "6 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.48180259999999,
+                    "lng": 13.5171291
+                  },
+                  "endLocation": {
+                    "lat": 52.4782557,
+                    "lng": 13.5129389
+                  },
+                  "polyline": {
+                    "points": "gji_IaaoqAJL?@|BtChAtA@@FHpA~ALN~@jAd@j@JLz@fA~ArBHHJLf@l@x@dA"
+                  },
+                  "travelMode": "WALKING"
+                }
+              ],
+              "polyline": {
+                "points": "mki_Ik~nqAHYPg@HSJL?@|BtChAtA@@FHpA~ALN~@jAd@j@JLz@fA~ArBHHJLf@l@x@dA"
+              },
+              "travelMode": "WALKING"
+            }
+          ],
+          "distance": {
+            "inMeters": 35601,
+            "humanReadable": "35.6 km"
+          },
+          "duration": {
+            "inSeconds": 5189,
+            "humanReadable": "1 hour 26 mins"
+          },
+          "arrivalTime": {
+            "dateTime": {
+              "date": {
+                "year": 2023,
+                "month": 1,
+                "day": 22
+              },
+              "time": {
+                "hour": 11,
+                "minute": 33,
+                "second": 18,
+                "nano": 0
+              }
+            },
+            "offset": {
+              "totalSeconds": 3600
+            },
+            "zone": {}
+          },
+          "departureTime": {
+            "dateTime": {
+              "date": {
+                "year": 2023,
+                "month": 1,
+                "day": 22
+              },
+              "time": {
+                "hour": 10,
+                "minute": 6,
+                "second": 49,
+                "nano": 0
+              }
+            },
+            "offset": {
+              "totalSeconds": 3600
+            },
+            "zone": {}
+          },
+          "startLocation": {
+            "lat": 52.5633495,
+            "lng": 13.1608106
+          },
+          "endLocation": {
+            "lat": 52.4782557,
+            "lng": 13.5129389
+          },
+          "startAddress": "Radelandstraße 199-203, 13589 Berlin, Germany",
+          "endAddress": "Liepnitzstraße 57, 10318 Berlin, Germany"
+        }
+      ],
+      "waypointOrder": [],
+      "overviewPolyline": {
+        "points": "}gy_IanioA@mAI[SMyAi@IDbBcM~EwT~EeUbByGnC_Q`BmKt@qGpBkKfCgLzAqKhAsIvA}Id@wAJ_@b@XnEhClTzL`Ah@~MfB`KpAja@hFvBPl@KjCEvA\\`BzAxC~@L@Bg@Dw@Ai@hBiRx@gGlBsJpBcJ~@cGz@_Hx@}GtAuLLoCVoDTgAt@iAv@cED{@Mg@cAcBaB_CwBeF{A_DFg@bAoCv@sAzBqCr@]vCQt@[fA}@fBgAfAk@@YJsAAGEGF{@Ar@FNA`@IjAHHJNB_I\\J@KLsB~@aMnBiY|@aPx@mF`A{C~AyCxAcBzAgAhBm@z@MfACjBNpA^zBhAfIhE~D|B~FrCrA\\pCNp@?vMi@rLg@vAQbBc@~A{@bCqBrCwDvCkFhGuLlDqIbBcHh@kELmC?uCo@_M_B{S}BoUaAiLwBgWk@yGUaGFsHNsGf@qFz@iDxA}C|AiBvBoBfCgDpBiEzEkOnCqHbCcEnA}AjB{AfDyArNwDz@e@bB_BlEuFpAkBrAgCnAeEn@mDtBkOLiEUsEiCiMkEkSgEeScCiMyA}Ju@gHeAeOaAwKyAqOwBkO{Fib@i@oKSaLBeKVoOX{LZeXZ_HXeJ^{NF}EKoE_@}Dg@gCq@sBm@oAcAwA{AyAmB{AeBeAiBwAgEmDmC{B_C}AmMmFaKeDmBcAcAy@{Q}SuAkBuAsCaAeDk@}C_@kEGoC@cDJkGRcHv@kR\\eOKyEk@aG_@uBwAuEsMo[iBiEmDwGcB{Eo@yCq@yEUcESgFBwG`@uGl@}Cz@wCx@kBx@oA`GiGhAoAd@q@p@aBf@cB\\kBVeCHyC?iGLsDz@mGzAeJv@_Hj@eG?wDGkC[yHKaCa@{CwA}EqCeHwAqE_@aCUiEIkH]wFuAaLu@yE[cGHeDP{Bf@oCn@wBrAgEv@mC`EwHvAkBvBiDrAqBjAgBl@q@hBkAjBi@zBcAfBiB`B{AhAm@lBaAr@q@jAyA`@u@bAaD|BgK|@sD|BmHfAoDb@eCTiEDgCFsHv@uMVeEn@cHz@cExFiQnDuLpCmLdAqEz@iFdBgPdBiOhB}Kf@eF`@eHr@oKjBaSbJ}}@pHsq@fBmLhBcJbBkHlCuJrBsGbDwJpE}OrCcKfEsPzCwLtByEtDyGfBeGhCoRpBgK~FsQlC}HpA}CtD}GjJuOhAwBvAiDtCaInEwMnEwMdDsKPk@To@JNEv@VDh@LzC\\hGrAX\\Dr@qAjEoFpPqHtTa@hAOSLUZ{@JNpEvFvJzLlB`C"
+      },
+      "bounds": {
+        "northeast": {
+          "lat": 52.5639855,
+          "lng": 13.5257287
+        },
+        "southwest": {
+          "lat": 52.4782557,
+          "lng": 13.1608106
+        }
+      },
+      "copyrights": "Map data ©2023 GeoBasis-DE/BKG (©2009)",
+      "warnings": [
+        "Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths."
+      ]
+    }
+  ]
+}

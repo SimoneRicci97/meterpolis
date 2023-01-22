@@ -1,0 +1,388 @@
+{
+  "meterpolisName": "Berlin",
+  "route": {
+    "from": {
+      "lat": 52.56135625050438,
+      "lng": 13.468045594259666
+    },
+    "to": {
+      "lat": 52.55488712212103,
+      "lng": 13.408039251195476
+    }
+  },
+  "directions": [
+    {
+      "summary": "",
+      "legs": [
+        {
+          "steps": [
+            {
+              "htmlInstructions": "Walk to Weißer See",
+              "distance": {
+                "inMeters": 1393,
+                "humanReadable": "1.4 km"
+              },
+              "duration": {
+                "inSeconds": 1091,
+                "humanReadable": "18 mins"
+              },
+              "startLocation": {
+                "lat": 52.5613647,
+                "lng": 13.4680138
+              },
+              "endLocation": {
+                "lat": 52.55158669999999,
+                "lng": 13.4646921
+              },
+              "steps": [
+                {
+                  "htmlInstructions": "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eBerliner Allee\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eB2\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 471,
+                    "humanReadable": "0.5 km"
+                  },
+                  "duration": {
+                    "inSeconds": 349,
+                    "humanReadable": "6 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.5613647,
+                    "lng": 13.4680138
+                  },
+                  "endLocation": {
+                    "lat": 52.5573529,
+                    "lng": 13.4667252
+                  },
+                  "polyline": {
+                    "points": "o{x_IaneqA@?^VJFBBPHTLJFVNHBl@Zr@Z`@TLF`@Pp@ZJDRHx@^h@RLFNDLBH@F@\\@X@L?LAH?DANCVG`@KZKf@Q"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Slight \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eBerliner Allee\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eB2\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 828,
+                    "humanReadable": "0.8 km"
+                  },
+                  "maneuver": "turn-slight-left",
+                  "duration": {
+                    "inSeconds": 660,
+                    "humanReadable": "11 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.5573529,
+                    "lng": 13.4667252
+                  },
+                  "endLocation": {
+                    "lat": 52.5511096,
+                    "lng": 13.4635495
+                  },
+                  "polyline": {
+                    "points": "mbx_IafeqA@EDIBC@CNKNMDENI@CFCNKFETKTIBCx@[PGTEZGLClAQzASLAJABAF?N?PAT?VAT?D?B?B?F@H@JBB@ZHPFD@NHHBzAn@b@RHDPHJFHFFDJJRFDFHJHLN\\PVJRJRPd@HT@?D@H@HAFA@BFRA?MBK@EANR@PR_@^~@@DSP@D@HDLFNJZf@tAJZFRHVDR@@FRDPBFHVHb@CBMJ"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Cross the road\u003cdiv style\u003d\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                  "distance": {
+                    "inMeters": 94,
+                    "humanReadable": "94 m"
+                  },
+                  "duration": {
+                    "inSeconds": 82,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.5511096,
+                    "lng": 13.4635495
+                  },
+                  "endLocation": {
+                    "lat": 52.55158669999999,
+                    "lng": 13.4646921
+                  },
+                  "polyline": {
+                    "points": "m{v_IerdqAESK[Kc@K]ISQi@GOQc@"
+                  },
+                  "travelMode": "WALKING"
+                }
+              ],
+              "polyline": {
+                "points": "o{x_IaneqA@?^VJFBBPHTLJFVNHBl@Zr@Z`@TLF`@Pp@ZJDRHx@^h@RLFNDLBH@F@\\@X@L?LAH?DANCVG`@KZKf@Q@EDIBC@CNKNMDENI@CFCNKFETKTIBCx@[PGTEZGLClAQzASLAJABAF?N?PAT?VAT?D?B?B?F@H@JBB@ZHPFD@NHHBzAn@b@RHDPHJFHFFDJJRFDFHJHLN\\PVJRJRPd@HT@?D@H@HAFA@BFRA?MBK@EANR@PR_@^~@@DSP@D@HDLFNJZf@tAJZFRHVDR@@FRDPBFHVHb@CBMJESK[Kc@K]ISQi@GOQc@"
+              },
+              "travelMode": "WALKING"
+            },
+            {
+              "htmlInstructions": "Tram towards Wedding, Virchow-Klinikum",
+              "distance": {
+                "inMeters": 4442,
+                "humanReadable": "4.4 km"
+              },
+              "duration": {
+                "inSeconds": 960,
+                "humanReadable": "16 mins"
+              },
+              "startLocation": {
+                "lat": 52.5515903,
+                "lng": 13.4646876
+              },
+              "endLocation": {
+                "lat": 52.5541028,
+                "lng": 13.4092337
+              },
+              "polyline": {
+                "points": "m~v_IiydqAGH~@jCPf@Lh@@@Ll@Ll@DXH^PfATbB~@dH?Dn@vENhAN~@Jt@Hh@NdATbBDX?@d@rDjAvIx@jG\\bCDXb@`DFd@D^?N?PAJAJ?@GPMPGFILGNKZoC~LETq@bDWnA_@fBEJgCjL{AbHiAbFAHq@~CAD_@`Bi@fCABQ~@oBhJAF{AjH]xAg@xBiDjOGVETCLGVA^A^?n@A\\?Z?X?rA?P@L@FBN@FDLBJDHVPHBJ?fMuBNCNCPCLAJ@LBLFNDFLBJBF@F@F?L?LIZCFOf@ENm@tBwA|EK\\GTCPGZGXCTE\\C^IpASnDEz@SvDI|A[rFCr@[zFUdE[vFG`Aq@jMATAZG`AGhAEf@El@?LAl@AVCt@CbAEnCA^EtAAv@GxBCzAKhEARGhCE?"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "Schönfließer Str.",
+                  "location": {
+                    "lat": 52.5541028,
+                    "lng": 13.4092337
+                  }
+                },
+                "departureStop": {
+                  "name": "Weißer See",
+                  "location": {
+                    "lat": 52.5515903,
+                    "lng": 13.4646876
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 10,
+                      "minute": 46,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 10,
+                      "minute": 30,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "Wedding, Virchow-Klinikum",
+                "headway": 0,
+                "numStops": 9,
+                "line": {
+                  "shortName": "M13",
+                  "color": "#e30613",
+                  "agencies": [
+                    {
+                      "name": "Berliner Verkehrsbetriebe",
+                      "url": "http://www.bvg.de/",
+                      "phone": "011 49 30 19449"
+                    }
+                  ],
+                  "url": "https://www.bvg.de/de/verbindungen/netzplaene-und-linien/",
+                  "textColor": "#ffffff",
+                  "vehicle": {
+                    "name": "Tram",
+                    "type": "TRAM",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/tram2.png",
+                    "localIcon": "//maps.gstatic.com/mapfiles/transit/iw2/6/de-berlin-bvg-tram.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Walk to Aalesunder Str. 4, 10439 Berlin, Germany",
+              "distance": {
+                "inMeters": 162,
+                "humanReadable": "0.2 km"
+              },
+              "duration": {
+                "inSeconds": 127,
+                "humanReadable": "2 mins"
+              },
+              "startLocation": {
+                "lat": 52.5541385,
+                "lng": 13.4088087
+              },
+              "endLocation": {
+                "lat": 52.5549064,
+                "lng": 13.4076926
+              },
+              "steps": [
+                {
+                  "htmlInstructions": "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eSchönfließer Str.\u003c/b\u003e toward \u003cb\u003eBornholmer Str.\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 8,
+                    "humanReadable": "8 m"
+                  },
+                  "duration": {
+                    "inSeconds": 6,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.5541385,
+                    "lng": 13.4088087
+                  },
+                  "endLocation": {
+                    "lat": 52.5543108,
+                    "lng": 13.4088223
+                  },
+                  "polyline": {
+                    "points": "knw_Ia|ypAE??SOCC??LG??F"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eBornholmer Str.\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 84,
+                    "humanReadable": "84 m"
+                  },
+                  "maneuver": "turn-left",
+                  "duration": {
+                    "inSeconds": 72,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.5543108,
+                    "lng": 13.4088223
+                  },
+                  "endLocation": {
+                    "lat": 52.5543434,
+                    "lng": 13.4076084
+                  },
+                  "polyline": {
+                    "points": "mow_Ic|ypAAT?LD?EfBCdB"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eAalesunder Str.\u003c/b\u003e\u003cdiv style\u003d\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                  "distance": {
+                    "inMeters": 70,
+                    "humanReadable": "70 m"
+                  },
+                  "maneuver": "turn-right",
+                  "duration": {
+                    "inSeconds": 49,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.5543434,
+                    "lng": 13.4076084
+                  },
+                  "endLocation": {
+                    "lat": 52.5549064,
+                    "lng": 13.4076926
+                  },
+                  "polyline": {
+                    "points": "sow_IqtypAOAOAqAK"
+                  },
+                  "travelMode": "WALKING"
+                }
+              ],
+              "polyline": {
+                "points": "knw_Ia|ypAE??SOCC??LG??FAT?LD?EfBCdBOAOAqAK"
+              },
+              "travelMode": "WALKING"
+            }
+          ],
+          "distance": {
+            "inMeters": 5997,
+            "humanReadable": "6.0 km"
+          },
+          "duration": {
+            "inSeconds": 1955,
+            "humanReadable": "33 mins"
+          },
+          "arrivalTime": {
+            "dateTime": {
+              "date": {
+                "year": 2023,
+                "month": 1,
+                "day": 22
+              },
+              "time": {
+                "hour": 10,
+                "minute": 48,
+                "second": 7,
+                "nano": 0
+              }
+            },
+            "offset": {
+              "totalSeconds": 3600
+            },
+            "zone": {}
+          },
+          "departureTime": {
+            "dateTime": {
+              "date": {
+                "year": 2023,
+                "month": 1,
+                "day": 22
+              },
+              "time": {
+                "hour": 10,
+                "minute": 15,
+                "second": 32,
+                "nano": 0
+              }
+            },
+            "offset": {
+              "totalSeconds": 3600
+            },
+            "zone": {}
+          },
+          "startLocation": {
+            "lat": 52.5613647,
+            "lng": 13.4680138
+          },
+          "endLocation": {
+            "lat": 52.5549064,
+            "lng": 13.4076926
+          },
+          "startAddress": "Berliner Allee 266, 13088 Berlin, Germany",
+          "endAddress": "Aalesunder Str. 4, 10439 Berlin, Germany"
+        }
+      ],
+      "waypointOrder": [],
+      "overviewPolyline": {
+        "points": "o{x_IaneqA|BrAzFlCdCdAn@Lv@BZAv@M|@Wf@Q@EHMPOf@a@t@a@dBq@lCc@xBY~@Av@A`@Fv@TxCpAp@^RPXNRX`@t@r@bBF@R?FA@BDRYDEANR@PR_@`@dASP@DFVfA|Ct@fCHb@CBMJESW_AUq@k@}AGH~@jC^pAb@vBZfBtAhKnAfJz@hGxFrb@LdA?`@CVGRg@v@{CzMw@xDeEnRyEpTmHp]wFvVIb@GVA^AnAAx@@lCLl@HTVPHBJ?fMuB^G^EXD\\LJXFd@?LIZSn@wC`K[|AIr@MpBw@`OqAhVoBj^I`COhHSbJM|EGhCE?GrAE??SOCC??LG??FAb@D?EfBCdBOAaBM"
+      },
+      "bounds": {
+        "northeast": {
+          "lat": 52.5613647,
+          "lng": 13.4680138
+        },
+        "southwest": {
+          "lat": 52.5483826,
+          "lng": 13.4076084
+        }
+      },
+      "copyrights": "Map data ©2023 GeoBasis-DE/BKG (©2009), Google",
+      "warnings": [
+        "Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,894 @@
+{
+  "meterpolisName": "Berlin",
+  "route": {
+    "from": {
+      "lat": 52.42562004059176,
+      "lng": 13.602345464643943
+    },
+    "to": {
+      "lat": 52.58819820383379,
+      "lng": 13.668663156004781
+    }
+  },
+  "directions": [
+    {
+      "summary": "",
+      "legs": [
+        {
+          "steps": [
+            {
+              "htmlInstructions": "Walk to Kienappelweg (Berlin)",
+              "distance": {
+                "inMeters": 1208,
+                "humanReadable": "1.2 km"
+              },
+              "duration": {
+                "inSeconds": 907,
+                "humanReadable": "15 mins"
+              },
+              "startLocation": {
+                "lat": 52.4253248,
+                "lng": 13.6035744
+              },
+              "endLocation": {
+                "lat": 52.4343121,
+                "lng": 13.603759
+              },
+              "steps": [
+                {
+                  "htmlInstructions": "Head \u003cb\u003enortheast\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 209,
+                    "humanReadable": "0.2 km"
+                  },
+                  "duration": {
+                    "inSeconds": 165,
+                    "humanReadable": "3 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.4253248,
+                    "lng": 13.6035744
+                  },
+                  "endLocation": {
+                    "lat": 52.426739,
+                    "lng": 13.6054964
+                  },
+                  "polyline": {
+                    "points": "gi~~Hi}_rAIEMIg@]w@m@A?KMGGGKO[IOWi@KUKUKYo@gB"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eleft\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 420,
+                    "humanReadable": "0.4 km"
+                  },
+                  "maneuver": "turn-left",
+                  "duration": {
+                    "inSeconds": 306,
+                    "humanReadable": "5 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.426739,
+                    "lng": 13.6054964
+                  },
+                  "endLocation": {
+                    "lat": 52.430466,
+                    "lng": 13.6048416
+                  },
+                  "polyline": {
+                    "points": "cr~~Hki`rA[Fc@Jy@NKBQBA?O@G?G?e@EKAq@EqAC_@?S@O?O?m@F}@Ry@RwBr@G@"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eKienappelweg\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 17,
+                    "humanReadable": "17 m"
+                  },
+                  "maneuver": "turn-left",
+                  "duration": {
+                    "inSeconds": 13,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.430466,
+                    "lng": 13.6048416
+                  },
+                  "endLocation": {
+                    "lat": 52.4304739,
+                    "lng": 13.6045893
+                  },
+                  "polyline": {
+                    "points": "mi__Ige`rA?D?j@"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eKienappelweg\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 163,
+                    "humanReadable": "0.2 km"
+                  },
+                  "maneuver": "turn-right",
+                  "duration": {
+                    "inSeconds": 119,
+                    "humanReadable": "2 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.4304739,
+                    "lng": 13.6045893
+                  },
+                  "endLocation": {
+                    "lat": 52.4314647,
+                    "lng": 13.6029803
+                  },
+                  "polyline": {
+                    "points": "mi__Iuc`rAu@r@WTORABQ\\GJO\\O`@k@tB"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eKienappelweg\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 341,
+                    "humanReadable": "0.3 km"
+                  },
+                  "maneuver": "turn-right",
+                  "duration": {
+                    "inSeconds": 252,
+                    "humanReadable": "4 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.4314647,
+                    "lng": 13.6029803
+                  },
+                  "endLocation": {
+                    "lat": 52.4345495,
+                    "lng": 13.6031393
+                  },
+                  "polyline": {
+                    "points": "so__Isy_rAE?m@CE?{AA]?yAAg@AS?aBCoAAkA@QAOO"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eMüggelheimer Damm\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 58,
+                    "humanReadable": "58 m"
+                  },
+                  "maneuver": "turn-right",
+                  "duration": {
+                    "inSeconds": 52,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.4345495,
+                    "lng": 13.6031393
+                  },
+                  "endLocation": {
+                    "lat": 52.4343121,
+                    "lng": 13.603759
+                  },
+                  "polyline": {
+                    "points": "}b`_Isz_rAn@{B"
+                  },
+                  "travelMode": "WALKING"
+                }
+              ],
+              "polyline": {
+                "points": "gi~~Hi}_rAIEMIg@]w@m@A?KMGGGKO[IOWi@KUKUKYo@gB[Fc@Jy@NKBQBA?O@G?G?e@EKAq@EqAC_@?S@O?O?m@F}@Ry@RwBr@G@?D?j@u@r@WTORABQ\\GJO\\O`@k@tBE?m@CE?{AA]?yAAg@AS?aBCoAAkA@QAOOn@{B"
+              },
+              "travelMode": "WALKING"
+            },
+            {
+              "htmlInstructions": "Bus towards Schloßplatz Köpenick",
+              "distance": {
+                "inMeters": 2291,
+                "humanReadable": "2.3 km"
+              },
+              "duration": {
+                "inSeconds": 240,
+                "humanReadable": "4 mins"
+              },
+              "startLocation": {
+                "lat": 52.434413,
+                "lng": 13.603863
+              },
+              "endLocation": {
+                "lat": 52.4443369,
+                "lng": 13.5752138
+              },
+              "polyline": {
+                "points": "ab`_Ic_`rAZZw@nCuA|EK`@qBhHMd@Qj@mB|GENSp@Mb@YbAw@pCU|@aAjD_BvFg@jBENu@jCCJSz@U|@Oh@EJ{@rCMb@Of@kAjESl@i@jBQn@Oj@w@nCSp@ENEPMb@ITEJKXITGNCD?@CFUd@S^EHCDMXMVKVADKTGNCFYz@]nAKd@YjA]pAW`ACJIVOh@O`@Sh@CHM`@IXGTKXGRGXENCNELCL[dAOl@EJ[hAMf@GXCHYnAW`Aa@tASv@EJERGTEXKf@ADCPEXCREXEZCVCTAPEd@AZCRE|@Cn@Ct@C`ACfA?@EfAZD"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "Schloßplatz Köpenick",
+                  "location": {
+                    "lat": 52.4443369,
+                    "lng": 13.5752138
+                  }
+                },
+                "departureStop": {
+                  "name": "Kienappelweg (Berlin)",
+                  "location": {
+                    "lat": 52.434413,
+                    "lng": 13.603863
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 23
+                    },
+                    "time": {
+                      "hour": 4,
+                      "minute": 28,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 23
+                    },
+                    "time": {
+                      "hour": 4,
+                      "minute": 24,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "Schloßplatz Köpenick",
+                "headway": 0,
+                "numStops": 4,
+                "line": {
+                  "shortName": "N69",
+                  "agencies": [
+                    {
+                      "name": "Berliner Verkehrsbetriebe",
+                      "url": "http://www.bvg.de/",
+                      "phone": "011 49 30 19449"
+                    }
+                  ],
+                  "url": "https://www.bvg.de/de/verbindungen/netzplaene-und-linien/",
+                  "vehicle": {
+                    "name": "Bus",
+                    "type": "BUS",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                    "localIcon": "//maps.gstatic.com/mapfiles/transit/iw2/6/de-berlin-bvg-bus.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Bus towards S Köpenick",
+              "distance": {
+                "inMeters": 2159,
+                "humanReadable": "2.2 km"
+              },
+              "duration": {
+                "inSeconds": 480,
+                "humanReadable": "8 mins"
+              },
+              "startLocation": {
+                "lat": 52.4443369,
+                "lng": 13.5752138
+              },
+              "endLocation": {
+                "lat": 52.4587371,
+                "lng": 13.5799507
+              },
+              "polyline": {
+                "points": "c`b_IalzqAH?BgAB_AD_B@QBa@@]@]@SDg@Da@B]@SGE[MICE?G@IDIDMHEBaAn@q@b@a@ZOWKQMUMOKMIGGG?V@N?V?\\?V@P?HBVABCBCFEHEFCFKLEFEDMPKJGHEDC@CBCBC@GBG@E@G?G@C?C?K?E?Q?I@K?G@C@E@C@EBEBEFCDKNIPGJCFCFETG@C@A@WFI@G?C?A?SPKJMLURMJKFMHQLIDk@VGBa@Pe@VSHOFm@XQHOJMJIDIFIHMNKJMNMNY\\SV[d@MPUb@OTSZ]j@c@t@_@i@GIm@y@IM}@mAe@i@UYiAmAWYQSq@q@WYSSm@o@MMu@_AAAGIECIMKOsA{Ac@g@WYUQWQCCiAm@wAcA[SuAu@?AoBoAu@a@OKIG][II}CkC_Aw@WSs@k@R_A"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "Köpenick",
+                  "location": {
+                    "lat": 52.4587371,
+                    "lng": 13.5799507
+                  }
+                },
+                "departureStop": {
+                  "name": "Schloßplatz Köpenick",
+                  "location": {
+                    "lat": 52.4443369,
+                    "lng": 13.5752138
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 23
+                    },
+                    "time": {
+                      "hour": 4,
+                      "minute": 43,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 23
+                    },
+                    "time": {
+                      "hour": 4,
+                      "minute": 35,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "S Köpenick",
+                "headway": 0,
+                "numStops": 4,
+                "line": {
+                  "shortName": "164",
+                  "agencies": [
+                    {
+                      "name": "Berliner Verkehrsbetriebe",
+                      "url": "http://www.bvg.de/",
+                      "phone": "011 49 30 19449"
+                    }
+                  ],
+                  "url": "https://www.bvg.de/de/verbindungen/netzplaene-und-linien/",
+                  "vehicle": {
+                    "name": "Bus",
+                    "type": "BUS",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                    "localIcon": "//maps.gstatic.com/mapfiles/transit/iw2/6/de-berlin-bvg-bus.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Commuter train towards S+U Warschauer Str. (Berlin)",
+              "distance": {
+                "inMeters": 9069,
+                "humanReadable": "9.1 km"
+              },
+              "duration": {
+                "inSeconds": 780,
+                "humanReadable": "13 mins"
+              },
+              "startLocation": {
+                "lat": 52.4587371,
+                "lng": 13.5799507
+              },
+              "endLocation": {
+                "lat": 52.503166,
+                "lng": 13.469334
+              },
+              "polyline": {
+                "points": "czd_Iui{qAIACj@?`@A^O~BAVGx@ARGd@E^SjBIn@Gn@AHQfACL?@AF?BW|AO|@c@zBe@|BU~@Qv@Ol@c@fBGTIVQ~@Of@c@bBSp@k@dBk@rAg@vAqAnDo@jBsAzDm@hBUn@Qf@GTSn@c@nA[~@o@fBgAhDeAzCaArCKZkAlDiAdDm@fBuAbE}AtE}CzIk@zAc@bA_@~@a@|@cAtCENUn@CFe@vAM^W~@Md@Kn@Ql@AHmA~DABi@~AUn@y@`CyF|P{CzIk@|Am@fBsA|DeBhFe@rA_@jAw@|BYz@mApDo@lBq@nBeA|C]dAu@|BKXIRm@fBq@pBM\\qDbKaBnEqBnFyBtGgBnFg@zA}AnEk@`BCHe@tAi@|AABSj@AFCFGTCDAD[bAOb@g@`BGT_@pAYz@M^Qh@uAdEk@bB{@bCo@lBQh@IVcCfHeBzEo@dBq@fBe@`AOXCF[l@Yf@INc@p@oAtBYb@SZg@z@qAxBeAfBmApB{@~AWf@Sb@g@fAi@tAe@nAgBlFaAxCuA`EmAtDY`Aa@dBWjAc@bCSpAa@~Cm@vEc@dDUpAYnA[hAIVg@rA]t@Sb@a@n@IPWb@[f@[d@GJ]n@]t@]v@[z@a@pA[nAu@|Cg@vBu@~Cm@|By@bDi@pBUv@c@`BY~@_AhD{ApFw@jCEPw@lCs@xBo@nBi@zAUp@IVCHIVGRKVKZk@hBOf@e@`BiAbEUx@GTMf@o@lCOf@UlAWrAIb@a@lBe@|Bm@fDGb@e@~CK`AGh@MfAMdAShBCXEZ_@hD_@fD_ArI[xCUnBIx@MdASnBa@O"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "Ostkreuz",
+                  "location": {
+                    "lat": 52.503166,
+                    "lng": 13.469334
+                  }
+                },
+                "departureStop": {
+                  "name": "Köpenick",
+                  "location": {
+                    "lat": 52.4587371,
+                    "lng": 13.5799507
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 23
+                    },
+                    "time": {
+                      "hour": 5,
+                      "minute": 3,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 23
+                    },
+                    "time": {
+                      "hour": 4,
+                      "minute": 50,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "S+U Warschauer Str. (Berlin)",
+                "headway": 0,
+                "numStops": 5,
+                "line": {
+                  "shortName": "S3",
+                  "color": "#006cb3",
+                  "agencies": [
+                    {
+                      "name": "S-Bahn Berlin GmbH",
+                      "url": "http://www.s-bahn-berlin.de/",
+                      "phone": "011 49 30 29743333"
+                    }
+                  ],
+                  "url": "https://www.vbb.de/fahrinformation/liniennetze/",
+                  "vehicle": {
+                    "name": "Commuter train",
+                    "type": "COMMUTER_TRAIN",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/rail2.png",
+                    "localIcon": "//maps.gstatic.com/mapfiles/transit/iw2/6/de-sbahn.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Train towards Werneuchen, Bahnhof",
+              "distance": {
+                "inMeters": 21626,
+                "humanReadable": "21.6 km"
+              },
+              "duration": {
+                "inSeconds": 1980,
+                "humanReadable": "33 mins"
+              },
+              "startLocation": {
+                "lat": 52.503166,
+                "lng": 13.469334
+              },
+              "endLocation": {
+                "lat": 52.61823500000001,
+                "lng": 13.675816
+              },
+              "polyline": {
+                "points": "yom_IiveqAJw@UKcAa@k@UQGc@Sm@[[Q[Sw@m@oAiAk@i@OMc@g@_@g@_@i@[i@]o@Ue@Qc@ACe@aBYkA[}AMiACSMuAEwAA{@A_BDuBFmA?AHy@V_CLs@BIF[Ha@BI@GDQH_@Jg@VeAFWJa@No@Z}ATkAD_@@OBQPcAL_AL}@DUPiBH}B@{AAk@A{CGgCMkBOqAUwAUyAk@eD]{AK_@Ok@g@qBi@cBs@yBGOy@eBWk@Uo@u@_BCEm@{@{@uAm@oAy@cB?A}B{FiAsCKUsAiDyA}DUi@CG[q@IQMWQi@aAkCQg@k@aBw@aC]eAqAcFgAcFcAuFS_BU}AQoAKgAQmBKkAKmBKaBKcBI{AMeEIaDAsF@yE@eADwJ?E@yBLgG?C@yA@o@@m@@g@?G?m@@YByG?cAHoO@u@BuB?gA@U?W@gFF_DAiA?}ACmCEsDACI_DIkBIoASqBMcAKy@Ms@Oy@UkAi@wBa@iAm@eB_@u@k@oAo@cA[g@{@kAo@s@gAcA}B{AeAe@iA]eB]iAIW?m@A{AByANs@Fk@Fm@Hw@JwARsAVsAVkAVeARm@Lm@HoAVSFqDj@iA^eAXE@{A`@sA\\GBuAPKB]H_AV_BPcB`@_AVaEdAuD`A{A\\a@Js@JS@cAJK?a@@e@?c@Ec@EKC[AMCy@Mi@OaAWg@OOEICmA_@]Kg@OoCy@gDiAeBk@c@Ow@_@o@a@wCaCaAu@c@_@IEKKYUII}BiB{BoBiA}@yAeAcAu@kA}@w@o@mDaDaC_CcCoBcC_CoCwBeC{BkBaBkC_CsC_CiA_Aa@]_Au@_@[o@i@OK_@[a@[}@w@_@Y_BsAqAcAkDwCCAcBuA{@s@[Wo@i@OMsBcBeA{@_EeDc@_@_Au@}CiC_Au@_Aw@_Aw@OMOK]Yy@q@oB_BuAiAaAy@mAaAo@i@EEYU}@w@w@o@g@a@CC[W]YAA_@YUSSOMKMMOMOKe@a@YU_@[kB}Ak@e@EE{@s@i@c@gDoCKOOQKKy@w@o@g@i@e@GI{@}@yCkC{AoAeA{@k@e@oAcAaBsAm@g@k@e@mAcA_BqAyAmAAAeA{@w@q@aAq@eAq@E?QO_@[_@Y[]w@k@_Ak@yAkA}BmBYUeA}@c@[}@u@sAgAgA{@kAcACC_Aw@{AmAkA_AqAeAqAeAECGGECCCyF{ECC{CgC_@Y]Y_@[m@e@EEwAgAaMgKm@i@{@u@cAy@_BqASQi@e@]WsBeBmAaAi@a@CCEC{BiBoAcAyBiBcByAEEeA}@w@q@k@c@OM}AmA]WeCaCsAwAACAAkAaB}@yAg@w@U]Yg@Yi@Wg@Sa@IQYm@IYEMk@cBM]}@qCM_@kCiIK[{@oCGS_CeHy@cCc@sAiCaI}BgHEIIU}D_MqEgNa@kAu@}Ba@sAsBkGk@iBQe@Uo@?AIUIU?ASg@k@cBSo@i@_BGQa@mAsAaE_@kAIScBgFiEsMACgBmFUo@cA}CuDcLUo@{B{GAEU{@eCcIGSGQuAgE_@gA{@iCCE}@mCa@oAi@cB}@kDMi@Qu@Qw@]gBk@eDm@uF]wDO{CEqAEyAKeFBwF@qAD_FP_PH{G?KHgHLyM@WVgVDgE@a@?e@D{CJaJ@oA@uA?EBcBAgC?g@Ac@K_DQsBCe@CQk@eEoCmNgAyEAE_CuJAEqCmMyB}JAKYkAc@uBkCmL[{AI[ESQy@a@iBe@wB[yAa@iBQ}@eBkH}@}DESw@yDc@oBEQKc@BC"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "Seefeld (Mark), Bahnhof",
+                  "location": {
+                    "lat": 52.61823500000001,
+                    "lng": 13.675816
+                  }
+                },
+                "departureStop": {
+                  "name": "Ostkreuz",
+                  "location": {
+                    "lat": 52.503166,
+                    "lng": 13.469334
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 23
+                    },
+                    "time": {
+                      "hour": 5,
+                      "minute": 50,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 23
+                    },
+                    "time": {
+                      "hour": 5,
+                      "minute": 17,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "Werneuchen, Bahnhof",
+                "headway": 0,
+                "numStops": 7,
+                "line": {
+                  "shortName": "RB25",
+                  "agencies": [
+                    {
+                      "name": "NEB Betriebsgesellschaft mbH",
+                      "url": "http://www.neb.de/",
+                      "phone": "011 49 30 396011344"
+                    }
+                  ],
+                  "url": "https://www.vbb.de/fahrinformation/liniennetze/",
+                  "vehicle": {
+                    "name": "Train",
+                    "type": "HEAVY_RAIL",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/rail2.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Walk to Seefeld (Mark), Dorf",
+              "distance": {
+                "inMeters": 450,
+                "humanReadable": "0.4 km"
+              },
+              "duration": {
+                "inSeconds": 450,
+                "humanReadable": "8 mins"
+              },
+              "startLocation": {
+                "lat": 52.6184003,
+                "lng": 13.675513
+              },
+              "endLocation": {
+                "lat": 52.62236249999999,
+                "lng": 13.6769403
+              },
+              "steps": [
+                {
+                  "distance": {
+                    "inMeters": 450,
+                    "humanReadable": "0.4 km"
+                  },
+                  "duration": {
+                    "inSeconds": 450,
+                    "humanReadable": "8 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.6184003,
+                    "lng": 13.675513
+                  },
+                  "endLocation": {
+                    "lat": 52.62236249999999,
+                    "lng": 13.6769403
+                  },
+                  "polyline": {
+                    "points": "_`d`I}~mrAwW}G"
+                  },
+                  "travelMode": "WALKING"
+                }
+              ],
+              "polyline": {
+                "points": "_`d`I}~mrAwW}G"
+              },
+              "travelMode": "WALKING"
+            },
+            {
+              "htmlInstructions": "Bus towards Bernau via Krummensee",
+              "distance": {
+                "inMeters": 3644,
+                "humanReadable": "3.6 km"
+              },
+              "duration": {
+                "inSeconds": 360,
+                "humanReadable": "6 mins"
+              },
+              "startLocation": {
+                "lat": 52.622398,
+                "lng": 13.676935
+              },
+              "endLocation": {
+                "lat": 52.595114,
+                "lng": 13.689412
+              },
+              "polyline": {
+                "points": "_yd`IygnrARCFtCA\\DjADr@@^BNFr@VrBD`@HGf@SFCNMTC~@El@CPAdCIVEJA`@I@?PCNEv@WLE`@ORIFCRMx@e@p@g@^YNMj@g@hAoAhAuAlAwAv@y@XU`@[BCh@_@VOFCzBmAr@]^Sh@YxAw@jCwAn@]dB}@D?B@BAl@WhBaAZSVSDCBCBIv@a@l@]`@SbAi@`@UBAZQ?A`@UtAu@jAo@jB_A~Ay@HEzBmAdB}@pBeAt@a@`@U^U@?^SxDoB^SdB_A`Ai@`@S`@UhAm@z@c@fCsAzBmAj@Y`@U`@S^U`@StAu@d@WHEJGTMn@a@NKr@e@PKnA{@\\WVYZ[FIDEDGRYZm@Lc@r@{BL]To@L[L]`AcCBCP_@LUZa@PSJMJO@?PSFGF\\@HHZn@lCDLLh@H\\FV@@DRDX@DDVFd@Jz@DRNnA?DFf@DAJDB@@BBBHS"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "Krummensee (BAR), Wendestelle",
+                  "location": {
+                    "lat": 52.595114,
+                    "lng": 13.689412
+                  }
+                },
+                "departureStop": {
+                  "name": "Seefeld (Mark), Dorf",
+                  "location": {
+                    "lat": 52.622398,
+                    "lng": 13.676935
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 23
+                    },
+                    "time": {
+                      "hour": 6,
+                      "minute": 14,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 23
+                    },
+                    "time": {
+                      "hour": 6,
+                      "minute": 8,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "Bernau via Krummensee",
+                "headway": 0,
+                "numStops": 2,
+                "line": {
+                  "shortName": "898",
+                  "agencies": [
+                    {
+                      "name": "Barnimer Busgesellschaft mbH",
+                      "url": "http://www.bbg-eberswalde.de/",
+                      "phone": "011 49 3334 235003"
+                    }
+                  ],
+                  "url": "https://www.vbb.de/fahrinformation/liniennetze/",
+                  "vehicle": {
+                    "name": "Bus",
+                    "type": "BUS",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                    "localIcon": "//maps.gstatic.com/mapfiles/transit/iw2/6/de-berlin-bvg-bus.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Walk to Straße ohne Straßennamen, 16356 Werneuchen, Germany",
+              "distance": {
+                "inMeters": 1724,
+                "humanReadable": "1.7 km"
+              },
+              "duration": {
+                "inSeconds": 1233,
+                "humanReadable": "21 mins"
+              },
+              "startLocation": {
+                "lat": 52.5951271,
+                "lng": 13.6894733
+              },
+              "endLocation": {
+                "lat": 52.5882343,
+                "lng": 13.6686476
+              },
+              "steps": [
+                {
+                  "htmlInstructions": "Head \u003cb\u003enorth\u003c/b\u003e toward \u003cb\u003eRingstraße\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 20,
+                    "humanReadable": "20 m"
+                  },
+                  "duration": {
+                    "inSeconds": 16,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.5951271,
+                    "lng": 13.6894733
+                  },
+                  "endLocation": {
+                    "lat": 52.595297,
+                    "lng": 13.6893755
+                  },
+                  "polyline": {
+                    "points": "qn_`IevprAKDOHE@"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eRingstraße\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 831,
+                    "humanReadable": "0.8 km"
+                  },
+                  "maneuver": "turn-left",
+                  "duration": {
+                    "inSeconds": 590,
+                    "humanReadable": "10 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.595297,
+                    "lng": 13.6893755
+                  },
+                  "endLocation": {
+                    "lat": 52.5902047,
+                    "lng": 13.6810963
+                  },
+                  "polyline": {
+                    "points": "so_`IsuprAHj@NnALbAj@vEJv@Jv@Dd@D\\Jt@BH@HBFDLHLZb@BBZ`@B@^b@vA|ANPh@n@DBPR`AhAPR`@d@\\^TV`BjBz@`A`@f@VV^b@b@h@TV\\`@\\`@\\`@\\^"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eright\u003c/b\u003e\u003cdiv style\u003d\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                  "distance": {
+                    "inMeters": 873,
+                    "humanReadable": "0.9 km"
+                  },
+                  "maneuver": "turn-right",
+                  "duration": {
+                    "inSeconds": 627,
+                    "humanReadable": "10 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.5902047,
+                    "lng": 13.6810963
+                  },
+                  "endLocation": {
+                    "lat": 52.5882343,
+                    "lng": 13.6686476
+                  },
+                  "polyline": {
+                    "points": "wo~_I{aorA?Z@TJlAJnANpB@NFh@\\jEBX@FDp@@^BXHr@FdAFbA@RBVBRDPHRDVDNDPBP@L@HBLBZ@HLxABVPnBp@tFJ`@Fp@FjBJjAFr@BVLtARhCB\\B`@AP?J@XFv@NdB@@"
+                  },
+                  "travelMode": "WALKING"
+                }
+              ],
+              "polyline": {
+                "points": "qn_`IevprAKDOHE@Hj@NnALbAj@vEJv@Jv@Dd@D\\Jt@BH@HBFDLHLZb@BBZ`@B@^b@vA|ANPh@n@DBPR`AhAPR`@d@\\^TV`BjBz@`A`@f@VV^b@b@h@TV\\`@\\`@\\`@\\^?Z@TJlAJnANpB@NFh@\\jEBX@FDp@@^BXHr@FdAFbA@RBVBRDPHRDVDNDPBP@L@HBLBZ@HLxABVPnBp@tFJ`@Fp@FjBJjAFr@BVLtARhCB\\B`@AP?J@XFv@NdB@@"
+              },
+              "travelMode": "WALKING"
+            }
+          ],
+          "distance": {
+            "inMeters": 42171,
+            "humanReadable": "42.2 km"
+          },
+          "duration": {
+            "inSeconds": 8740,
+            "humanReadable": "2 hours 26 mins"
+          },
+          "arrivalTime": {
+            "dateTime": {
+              "date": {
+                "year": 2023,
+                "month": 1,
+                "day": 23
+              },
+              "time": {
+                "hour": 6,
+                "minute": 34,
+                "second": 33,
+                "nano": 0
+              }
+            },
+            "offset": {
+              "totalSeconds": 3600
+            },
+            "zone": {}
+          },
+          "departureTime": {
+            "dateTime": {
+              "date": {
+                "year": 2023,
+                "month": 1,
+                "day": 23
+              },
+              "time": {
+                "hour": 4,
+                "minute": 8,
+                "second": 53,
+                "nano": 0
+              }
+            },
+            "offset": {
+              "totalSeconds": 3600
+            },
+            "zone": {}
+          },
+          "startLocation": {
+            "lat": 52.4253248,
+            "lng": 13.6035744
+          },
+          "endLocation": {
+            "lat": 52.5882343,
+            "lng": 13.6686476
+          },
+          "startAddress": "Neue Wiesen 2, 12557 Berlin, Germany",
+          "endAddress": "Straße ohne Straßennamen, 16356 Werneuchen, Germany"
+        }
+      ],
+      "waypointOrder": [],
+      "overviewPolyline": {
+        "points": "gi~~Hi}_rAwB{A]a@}@kBWo@o@gB[F}AZ]Fa@@uDQsA@kBZqDfAGF?j@u@r@g@h@S`@sA`EiIIoGEOOn@{BSSZZmClJ}BjIsC~JsIxZ}Lhc@iArDiAdCeAbCwC|KaBhFkAhEyEfRc@hD_@lIChAEfAZDH?BgAH_DHoBP{BEYe@Qa@LgC`Ba@ZOWYg@k@m@@|ADjAOXcArAk@XeAB]DUPa@r@Uf@g@La@PsB~A_FzBcBzA_DrEaA`Bg@s@{C_EuGeH}DwEiBeBaEiC{FiDaAy@iHcGR_AIAClA[pFc@dEk@lEqBtK{AlGs@tCw@tCwAxD}FnP}AvE_J|WyG~RkIpUkCbHmAnDcAbE{BlHyVxt@mKf[iKlZsE~LaFdOuDvKwBnGeDrK_Ln\\uC`IwAhDiAvBkJtOuD|GqA|CmC|H_GrQqBfKiCnRgBdGuDxGuBxE{CvLgErPsCbKqE|OcDvJsBrGmCtJcBjHiBbJgBlLaChT{BvSa@tDa@OJw@yAm@}@]iCuAcEoD_CcDgA}B_AmDi@gDY}FJeHr@wFVoArBgJtAeJZgF?gCIcH]}Dk@qDiAaGmBaH{@iCqAqCkAoCq@aAcDkGgHoQ{FaOsCqIyCgMwAuIeAcJo@_KWaHKuKH}SVmRTab@B}I@uM[cMw@_I}AqHoAoDkAeCkAkBkB_CeE_DoCcAoDg@eAAuDR_BNqG`AsGpAcItAqF|A}Dv@}A`@cEr@sO|DmDd@sA@oBQsDy@oCy@}J_DiC{@gBaAgG}EmDuCcJiHcCmBoHaH}OcNuMaLcG}E_RmOu]oY}UyReDoCwM}KmKwJgP{MaG}EeEuCmBcBwBwAwEyDaEeDkFkE_LaJkj@ud@g\\iX{BeByEyEmCaEqBgDoAiCmHaUoPug@oXcz@_`@}jA_JeYmCgIoBcIiAmGkAmLg@mP~@sbAt@}q@BgI_@_JGw@k@eEoCmNiA_FaC{JgHc\\uE{SuG}Y_D{NQu@[x@_X{GRCFtCBhBFrAh@xEhAm@tCOjE[fDeA~CuBnE{EdCqCz@q@lAw@nOgIrB}@jEaCdAs@tDqBnLkGf_@_SxUkMrDeC`AeAbAsBdBeFdBeEfAyAf@k@bApEt@bD^lCNtALd@TND_@[NBl@\\rChAlJVfBn@fAzEnFfQhS\\^?ZLbBd@zF`ArMPbCZlAd@hETfC|@vGb@|Gh@tGBxAX~C"
+      },
+      "bounds": {
+        "northeast": {
+          "lat": 52.622398,
+          "lng": 13.6925939
+        },
+        "southwest": {
+          "lat": 52.4253248,
+          "lng": 13.4692525
+        }
+      },
+      "copyrights": "Map data ©2023 GeoBasis-DE/BKG (©2009)",
+      "warnings": [
+        "Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths."
+      ]
+    }
+  ]
+}

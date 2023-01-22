@@ -1,0 +1,917 @@
+{
+  "meterpolisName": "Berlin",
+  "route": {
+    "from": {
+      "lat": 52.37885994795622,
+      "lng": 13.237958699305166
+    },
+    "to": {
+      "lat": 52.599310335530745,
+      "lng": 13.554416009933293
+    }
+  },
+  "directions": [
+    {
+      "summary": "",
+      "legs": [
+        {
+          "steps": [
+            {
+              "htmlInstructions": "Walk to Stahnsdorf, Green Park",
+              "distance": {
+                "inMeters": 733,
+                "humanReadable": "0.7 km"
+              },
+              "duration": {
+                "inSeconds": 533,
+                "humanReadable": "9 mins"
+              },
+              "startLocation": {
+                "lat": 52.3795838,
+                "lng": 13.2380055
+              },
+              "endLocation": {
+                "lat": 52.38374109999999,
+                "lng": 13.2423709
+              },
+              "steps": [
+                {
+                  "htmlInstructions": "Head \u003cb\u003eeast\u003c/b\u003e toward \u003cb\u003eKastanienweg\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 418,
+                    "humanReadable": "0.4 km"
+                  },
+                  "duration": {
+                    "inSeconds": 307,
+                    "humanReadable": "5 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.3795838,
+                    "lng": 13.2380055
+                  },
+                  "endLocation": {
+                    "lat": 52.38161890000001,
+                    "lng": 13.2427589
+                  },
+                  "polyline": {
+                    "points": "kku~HqpxoAgB_LG_@cAeGOq@CKCIOYyA{A[YYIk@M"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eKastanienweg\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 30,
+                    "humanReadable": "30 m"
+                  },
+                  "maneuver": "turn-left",
+                  "duration": {
+                    "inSeconds": 23,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.38161890000001,
+                    "lng": 13.2427589
+                  },
+                  "endLocation": {
+                    "lat": 52.38166769999999,
+                    "lng": 13.2423232
+                  },
+                  "polyline": {
+                    "points": "cxu~HgnyoAIvA"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eTannenweg\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 201,
+                    "humanReadable": "0.2 km"
+                  },
+                  "maneuver": "turn-right",
+                  "duration": {
+                    "inSeconds": 142,
+                    "humanReadable": "2 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.38166769999999,
+                    "lng": 13.2423232
+                  },
+                  "endLocation": {
+                    "lat": 52.3833068,
+                    "lng": 13.2433814
+                  },
+                  "polyline": {
+                    "points": "mxu~HokyoA}Ck@_@KUO_@e@o@}@ACa@c@"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eRuhlsdorfer Str.\u003c/b\u003e\u003cdiv style\u003d\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                  "distance": {
+                    "inMeters": 84,
+                    "humanReadable": "84 m"
+                  },
+                  "maneuver": "turn-left",
+                  "duration": {
+                    "inSeconds": 61,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.3833068,
+                    "lng": 13.2433814
+                  },
+                  "endLocation": {
+                    "lat": 52.38374109999999,
+                    "lng": 13.2423709
+                  },
+                  "polyline": {
+                    "points": "ubv~HcryoACJqA|D"
+                  },
+                  "travelMode": "WALKING"
+                }
+              ],
+              "polyline": {
+                "points": "kku~HqpxoAgB_LG_@cAeGOq@CKCIOYyA{A[YYIk@MIvA}Ck@_@KUO_@e@o@}@ACa@c@CJqA|D"
+              },
+              "travelMode": "WALKING"
+            },
+            {
+              "htmlInstructions": "Bus towards S Teltow Stadt",
+              "distance": {
+                "inMeters": 5123,
+                "humanReadable": "5.1 km"
+              },
+              "duration": {
+                "inSeconds": 660,
+                "humanReadable": "11 mins"
+              },
+              "startLocation": {
+                "lat": 52.38371,
+                "lng": 13.242335
+              },
+              "endLocation": {
+                "lat": 52.396999,
+                "lng": 13.274678
+              },
+              "polyline": {
+                "points": "eev~HskyoAEEpA}DBKHWRo@Rk@^kA@ERk@z@qCRo@@CL_@DMRo@@Cb@wAXw@r@oBFEBGDMDMDOHa@BGBE@E@G?G?E?GZkAb@aAXm@d@kAFMVk@Vk@\\w@L[dAeCj@}ATm@BEXy@v@eCNm@XmAf@cC@GPaARoAHa@L{@BMBW@I\\sCj@wGDM@EFq@Jy@?_@?EAIDw@Fo@XiDDg@?Cn@aIDs@JEp@[fAe@JGbAc@n@WBAp@Wd@Qv@Wj@KZAL?d@@`BDP?j@GlAY`ASDABNBF@?A?CGCOE@aARmAXk@FQ?aBEe@AM?[@k@Jw@Ve@Pq@VC@o@VcAb@KFgAd@q@ZKDqAf@o@VMDw@V[JUBY@o@Bm@?s@AI?E?s@IuAUCAc@KEASIA?yA_@_@M}Aa@_@KUGSEm@MiA[wAa@oA]qA]w@S{Ac@iA_@iA[EC{@Ug@QeCq@s@SUEYGUCSAOISAu@Ic@EIAODUEE?KAQAA?SAOAM?S?S@I?Y?g@AG?C?OAOC_@E]Ea@OOGSIq@[MGmAk@m@Wk@YICg@WQIKEw@]g@UECKEy@_@MEa@QQGy@_@[MSGc@Os@Ug@QCAQIa@OKAg@QKCYKSGSE]SEESMWQWe@?A?A?A?A?A?A?CA??C?AAA?AAA?AAAAA?AAAA?AA?AA?AAA??AA?A?A?AUAGAEEUACCWAMIs@AAKo@Kk@Mk@Ic@?EKs@Ms@Io@Ks@K{@QkAMaAAKESGe@CUAE?EGi@E[CWIy@CWASAMg@yFAIGa@EQGOEO?A"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "S Teltow Stadt/Gonfrevillestr.",
+                  "location": {
+                    "lat": 52.396999,
+                    "lng": 13.274678
+                  }
+                },
+                "departureStop": {
+                  "name": "Stahnsdorf, Green Park",
+                  "location": {
+                    "lat": 52.38371,
+                    "lng": 13.242335
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 10,
+                      "minute": 39,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 10,
+                      "minute": 28,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "S Teltow Stadt",
+                "headway": 0,
+                "numStops": 9,
+                "line": {
+                  "shortName": "626",
+                  "agencies": [
+                    {
+                      "name": "Regiobus Potsdam-Mittelmark",
+                      "url": "http://www.vbb.de/",
+                      "phone": "011 49 331 749130"
+                    }
+                  ],
+                  "url": "https://www.vbb.de/fahrinformation/liniennetze/",
+                  "vehicle": {
+                    "name": "Bus",
+                    "type": "BUS",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                    "localIcon": "//maps.gstatic.com/mapfiles/transit/iw2/6/de-berlin-bvg-bus.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Walk to S Teltow Stadt",
+              "distance": {
+                "inMeters": 231,
+                "humanReadable": "0.2 km"
+              },
+              "duration": {
+                "inSeconds": 232,
+                "humanReadable": "4 mins"
+              },
+              "startLocation": {
+                "lat": 52.3970496,
+                "lng": 13.2745999
+              },
+              "endLocation": {
+                "lat": 52.39684800000001,
+                "lng": 13.2762749
+              },
+              "steps": [
+                {
+                  "distance": {
+                    "inMeters": 171,
+                    "humanReadable": "0.2 km"
+                  },
+                  "duration": {
+                    "inSeconds": 171,
+                    "humanReadable": "3 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.3970496,
+                    "lng": 13.2745999
+                  },
+                  "endLocation": {
+                    "lat": 52.3970048,
+                    "lng": 13.2771271
+                  },
+                  "polyline": {
+                    "points": "qxx~Hgu_pAHyN"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Take entrance \u003cspan class\u003d\"location\"\u003e\u003c/span\u003e",
+                  "distance": {
+                    "inMeters": 60,
+                    "humanReadable": "60 m"
+                  },
+                  "duration": {
+                    "inSeconds": 61,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.3970048,
+                    "lng": 13.2771271
+                  },
+                  "endLocation": {
+                    "lat": 52.39684800000001,
+                    "lng": 13.2762749
+                  },
+                  "polyline": {
+                    "points": "gxx~Hae`pA\\jD"
+                  },
+                  "travelMode": "WALKING"
+                }
+              ],
+              "polyline": {
+                "points": "qxx~Hgu_pAHyN\\jD"
+              },
+              "travelMode": "WALKING"
+            },
+            {
+              "htmlInstructions": "Commuter train towards S Priesterweg (Berlin)",
+              "distance": {
+                "inMeters": 5505,
+                "humanReadable": "5.5 km"
+              },
+              "duration": {
+                "inSeconds": 420,
+                "humanReadable": "7 mins"
+              },
+              "startLocation": {
+                "lat": 52.39684800000001,
+                "lng": 13.2762749
+              },
+              "endLocation": {
+                "lat": 52.4298611,
+                "lng": 13.3280842
+              },
+              "polyline": {
+                "points": "iwx~Hu_`pAGBMgAIy@[eCIgA?ACQIiAo@oIOuA{A{MmAgKEa@[kCIs@AMGi@Ks@_@kDOiAQ}AGs@MgACWkB}PKcA_@aDYiCOqAsAoL_AqJw@cIAOSgBWyB[sBMm@QaAu@mCe@uAk@yAs@yAm@aAu@eAMMa@g@s@o@cA}@{@m@wBgAYK[Kc@OcAYeAWMEy@YsCaAy@[SIqBu@yAk@gA_@mAc@iCaAoDsAEAu@YWI}B_AUKg@YgB}@kCwAQI]QECc@UgAk@i@WoCwAyCiB}DoC{AeA_Aq@MKkAy@GEMKMKUOMIq@i@QMMKu@g@KKUSUSgAgA?AyA_BAAkBuBaBmBs@y@e@i@UY}CoDQS]g@c@i@q@}@c@m@AAs@aAm@{@s@cAm@_Ae@u@u@kAe@y@We@IOUa@Ua@Uc@Sc@_@w@Wm@[o@M[[o@Ue@Ui@Wi@We@MUCGk@aAUa@W]MQMSOWSWW[IMKMKK_AeA]]s@o@EEy@u@a@c@e@o@]a@g@u@W_@FM"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "Lichterfelde Ost",
+                  "location": {
+                    "lat": 52.4298611,
+                    "lng": 13.3280842
+                  }
+                },
+                "departureStop": {
+                  "name": "S Teltow Stadt",
+                  "location": {
+                    "lat": 52.39684800000001,
+                    "lng": 13.2762749
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 10,
+                      "minute": 52,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 10,
+                      "minute": 45,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "S Priesterweg (Berlin)",
+                "headway": 0,
+                "numStops": 3,
+                "line": {
+                  "shortName": "S25",
+                  "color": "#4c9046",
+                  "agencies": [
+                    {
+                      "name": "S-Bahn Berlin GmbH",
+                      "url": "http://www.s-bahn-berlin.de/",
+                      "phone": "011 49 30 29743333"
+                    }
+                  ],
+                  "url": "https://www.vbb.de/fahrinformation/liniennetze/",
+                  "vehicle": {
+                    "name": "Commuter train",
+                    "type": "COMMUTER_TRAIN",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/rail2.png",
+                    "localIcon": "//maps.gstatic.com/mapfiles/transit/iw2/6/de-sbahn.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Train towards Schwedt, Bahnhof",
+              "distance": {
+                "inMeters": 5920,
+                "humanReadable": "5.9 km"
+              },
+              "duration": {
+                "inSeconds": 300,
+                "humanReadable": "5 mins"
+              },
+              "startLocation": {
+                "lat": 52.4298611,
+                "lng": 13.3280842
+              },
+              "endLocation": {
+                "lat": 52.4757159,
+                "lng": 13.3655517
+              },
+              "polyline": {
+                "points": "se__IocjpA|@sB_@k@iCiEe@y@sA{BkAoB]k@kAqBm@cAaDqF_@o@c@y@iAqBKSOUiAmB_@o@oAuBEIaBkC{AcCcBsC[g@cAcB_@o@GKMSm@cAc@u@_@o@kAmBCE}AiCGMcAcBg@y@KOEKeAgBKOS[u@oAYg@g@{@wBoDcCaEcBmCaA{AaAyAcB_CMQKQ_@g@MSc@m@UY[c@QUIK_@g@i@q@i@s@OSi@o@W[oA{Ac@g@gBkBwAwAmAgAk@g@sAgAo@e@e@_@kA{@wAeAw@k@iAw@gAy@q@a@YOo@a@q@_@m@[i@Wy@]gAa@u@Wy@Wo@QsA[}@WmAWwBo@gAYaBa@_Ba@gBe@WGeAYo@OKC]IeAYeAWUGwA]wAa@mAYuA]mBg@_Ba@mBg@yCu@iAYyEmAoCq@OEUAo@Os@WkAU_ASi@OmBe@gCo@g@QkBe@cCo@OE_Ck@gD{@kCs@mBe@cD_AoA]gA]iBs@qAg@c@Om@UMEsHqD@I"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "Berlin Südkreuz",
+                  "location": {
+                    "lat": 52.4757159,
+                    "lng": 13.3655517
+                  }
+                },
+                "departureStop": {
+                  "name": "Lichterfelde Ost",
+                  "location": {
+                    "lat": 52.4298611,
+                    "lng": 13.3280842
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 11,
+                      "minute": 17,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 11,
+                      "minute": 12,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "Schwedt, Bahnhof",
+                "headway": 0,
+                "numStops": 1,
+                "line": {
+                  "shortName": "RE3",
+                  "agencies": [
+                    {
+                      "name": "DB Regio",
+                      "url": "http://www.bahn.de/brandenburg",
+                      "phone": "011 49 331 2356881"
+                    }
+                  ],
+                  "url": "https://www.vbb.de/fahrinformation/liniennetze/",
+                  "vehicle": {
+                    "name": "Train",
+                    "type": "HEAVY_RAIL",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/rail2.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Commuter train towards Ringbahn S 42",
+              "distance": {
+                "inMeters": 10280,
+                "humanReadable": "10.3 km"
+              },
+              "duration": {
+                "inSeconds": 900,
+                "humanReadable": "15 mins"
+              },
+              "startLocation": {
+                "lat": 52.4757159,
+                "lng": 13.3655517
+              },
+              "endLocation": {
+                "lat": 52.503166,
+                "lng": 13.469334
+              },
+              "polyline": {
+                "points": "gdh_IumqpAE]\\Q~@e@b@Q`@Q`@Q`@SLERKTMj@_@LIVQXUROX[BCTWPSb@q@JO`@u@P]P_@h@wAb@{AFYP}@RiABYD]Fy@DcABg@DcC?{C@eGBwG@_J?yD?O?cA?aBD}BHkBXoDPaCPiAR}AReCFe@Hw@RqBD[PsA@IVcBDYF[Nu@DYTqADQ@GVaBTyADWRmAF]D]Ny@BUHe@ZuB`@aCLs@TgAVgAPw@Rw@ZeAn@mBr@yBh@{A|@oCdA_Df@{A\\eADIx@mCt@qCb@kB^cBVkAF[f@kChAqGd@oCTaBFa@LgA@OFg@Fs@NmBFqAHcBBkABgA@}A?{AA_BAkACsAEwAM_DGwAKgC?ACw@E{@GcBIiBGkBCc@GkBMeDGwAIgBCm@c@wJ[sHSkEMkCMcBKsAE[KeAGs@OoAS_BMqAS{BCYOcB]kFy@eNU{CEc@QaCEo@Em@YaDAKCWEc@AEGu@U{EGoAEs@Ek@GcA?CMyACY?EKuACUIy@AIGy@Em@Ea@Ca@CSCc@Gs@AEKoAEc@C]AII_AAIKsAMsAGy@Ea@IeAAOIcAEa@Gs@Gs@AIGo@YwBIo@Ik@E_@E_@Ei@AEMeBAMGo@IaA]sEKiA]gEMsAKkAK_A_@kEMyAq@qHI}@I}@Gq@?AOyAMoAGk@AIAICKAKOu@UiAMg@Oa@Qe@Uo@EI_@u@i@}@SY]g@SWe@i@k@k@UU?Ay@q@MIq@c@a@U]OCA[MWKw@Ui@KQCeAO]GqFm@q@KiAMwBYaAK}@MG?_AK[E]EuC]]EgEg@yEm@aBQu@KyAQ[EgDa@oBUaAMaBSMAUCQCOCgBSUCu@Ei@Ec@A]?Y?e@@G?aABkAF[BoAFwADSAq@Cy@OQEQGOEo@]WM_@WIGSM{A_AGEy@i@GE{@i@EE]Sc@Ua@Ua@UyAy@IECASQg@a@_Aw@WUeA}@]a@{@_A}@_AoAsBqAqBWa@_@k@u@kAc@q@_BkCGKOWIM{AkBy@eAMOuAiA[Oe@UmAc@a@Ky@UoF}AsAc@]IIEa@Ki@ISEa@Gc@GUCo@KQCYEGAQC[GWGAAJiA"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "Ostkreuz",
+                  "location": {
+                    "lat": 52.503166,
+                    "lng": 13.469334
+                  }
+                },
+                "departureStop": {
+                  "name": "Berlin Südkreuz",
+                  "location": {
+                    "lat": 52.4757159,
+                    "lng": 13.3655517
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 11,
+                      "minute": 45,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 11,
+                      "minute": 30,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "Ringbahn S 42",
+                "headway": 0,
+                "numStops": 6,
+                "line": {
+                  "shortName": "S42",
+                  "color": "#cc6319",
+                  "agencies": [
+                    {
+                      "name": "S-Bahn Berlin GmbH",
+                      "url": "http://www.s-bahn-berlin.de/",
+                      "phone": "011 49 30 29743333"
+                    }
+                  ],
+                  "url": "https://www.vbb.de/fahrinformation/liniennetze/",
+                  "vehicle": {
+                    "name": "Commuter train",
+                    "type": "COMMUTER_TRAIN",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/rail2.png",
+                    "localIcon": "//maps.gstatic.com/mapfiles/transit/iw2/6/de-sbahn.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Train towards Templin, Stadt Bhf",
+              "distance": {
+                "inMeters": 11196,
+                "humanReadable": "11.2 km"
+              },
+              "duration": {
+                "inSeconds": 780,
+                "humanReadable": "13 mins"
+              },
+              "startLocation": {
+                "lat": 52.503166,
+                "lng": 13.469334
+              },
+              "endLocation": {
+                "lat": 52.5664265,
+                "lng": 13.5133337
+              },
+              "polyline": {
+                "points": "yom_IiveqAJw@UKcAa@k@UQGc@Sm@[[Q[Sw@m@oAiAk@i@OMc@g@_@g@_@i@[i@]o@Ue@Qc@ACe@aBYkA[}AMiACSMuAEwAA{@A_BDuBFmA?AHy@V_CLs@BIF[Ha@BI@GDQH_@Jg@VeAFWJa@No@Z}ATkAD_@@OBQPcAL_AL}@DUPiBH}B@{AAk@A{CGgCMkBOqAUwAUyAk@eD]{AK_@Ok@g@qBi@cBs@yBGOy@eBWk@Uo@u@_BCEm@{@{@uAm@oAy@cB?A}B{FiAsCKUsAiDyA}DUi@CG[q@IQMWQi@aAkCQg@k@aBw@aC]eAqAcFgAcFcAuFS_BU}AQoAKgAQmBKkAKmBKaBKcBI{AMeEIaDAsF@yE@eADwJ?E@yBLgG?C@yA@o@@m@@g@?G?m@@YByG?cAHoO@u@BuB?gA@U?W@gFF_DAiA?}ACmCEsDACI_DIkBIoASqBMcAKy@Ms@Oy@UkAi@wBa@iAm@eB_@u@k@oAo@cA[g@{@kAo@s@gAcA}B{AeAe@iA]eB]iAIW?m@A{AByANs@Fk@Fm@Hw@JwARsAVsAVkAVeARm@Lm@HoAVSFQDmA\\qA\\a@L_Cl@oCt@k@N{A^eJ`CcAViD|@cD|@{A\\_EfAyBj@m@NeCr@sBf@q@Pg@Ha@De@HKB{A^sCv@_AVeCn@i@NqD`A_@JsFxAcPfEuL|CuBj@uPlEmPnEiAZaBj@{Bz@uCtAw@d@wBpA}@j@o@d@o@b@w@l@aAx@u@p@gAbAmAnAaBfBaEfFaEvFkDxEcChD}DpFoCvDwApB}AxBm@v@oAbBSZ[Zg@f@}CjEe@n@_@h@qAgD"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "S-Bahnhof Hohenschönhausen",
+                  "location": {
+                    "lat": 52.5664265,
+                    "lng": 13.5133337
+                  }
+                },
+                "departureStop": {
+                  "name": "Ostkreuz",
+                  "location": {
+                    "lat": 52.503166,
+                    "lng": 13.469334
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 12,
+                      "minute": 3,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 11,
+                      "minute": 50,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "Templin, Stadt Bhf",
+                "headway": 0,
+                "numStops": 2,
+                "line": {
+                  "shortName": "RB12",
+                  "agencies": [
+                    {
+                      "name": "NEB Betriebsgesellschaft mbH",
+                      "url": "http://www.neb.de/",
+                      "phone": "011 49 30 396011344"
+                    }
+                  ],
+                  "url": "https://www.vbb.de/fahrinformation/liniennetze/",
+                  "vehicle": {
+                    "name": "Train",
+                    "type": "HEAVY_RAIL",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/rail2.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Bus towards S Zepernick via S Buch",
+              "distance": {
+                "inMeters": 5102,
+                "humanReadable": "5.1 km"
+              },
+              "duration": {
+                "inSeconds": 780,
+                "humanReadable": "13 mins"
+              },
+              "startLocation": {
+                "lat": 52.5664265,
+                "lng": 13.5133337
+              },
+              "endLocation": {
+                "lat": 52.598835,
+                "lng": 13.554973
+              },
+              "polyline": {
+                "points": "e{y_IiinqA\\_@CMEKOi@Wy@Mc@AIIWcAqDQo@{@uCW}@CEESIWk@sBSq@Mg@G[COMk@O}@Ig@CSIw@?AIaACO?KKuAEw@AOC_@SFC@UF{@PE@g@LC@QBK@OBM?G?I?C?K?IAIAG?MCaASWGu@QSEKAMCQCI?IAK?I?M?K?Q@YDg@H_AROBc@HE@QDWDSDC?G@SB?@O@WBE@WBC?OBA?K?_@@KAS?[?E?E?E?KHCDEDEH?@GHMVYl@CDYl@?@GPCFELITENCJCFCNKr@ADEh@CTA^APOG}As@sAm@GCm@Ya@SEACAICC?QEq@IQC[Cq@KCAMCOCSE{BaAk@U{@a@CGa@cAuAsDUk@_AeCSi@?AOa@oBgFAAiB{EUm@_BeEWs@a@eAm@_BYs@GSGOO_@Wo@gAyCO_@GOEIKWEMQc@GO]aAO_@Um@Sk@Wq@gBuEs@kB_@cAEKIMWw@Se@g@sAKWWs@IQg@sAIUCGCIUk@wD{JQe@Wo@Wk@kA_D_@_A]}@]_AIS]}@GQSe@o@eBg@qAQc@GMIYy@uBWm@AAO_@IUIUEIO_@IU]u@Ug@ISIQIOIOMUMS_@i@c@o@aB_CMSgD}ESYqAmBIO}@qAMQACGESY_B{Bm@_A}@oAKQcAyA{A}By@mAkA_BeA_BkBmCMSeA}A{BaDIKIMiBqC]g@OSYe@GICCu@gA?A"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "Neu-Lindenberg, Birkholzer Allee",
+                  "location": {
+                    "lat": 52.598835,
+                    "lng": 13.554973
+                  }
+                },
+                "departureStop": {
+                  "name": "S-Bahnhof Hohenschönhausen",
+                  "location": {
+                    "lat": 52.5664265,
+                    "lng": 13.5133337
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 12,
+                      "minute": 28,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 12,
+                      "minute": 15,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "S Zepernick via S Buch",
+                "headway": 0,
+                "numStops": 8,
+                "line": {
+                  "shortName": "893",
+                  "agencies": [
+                    {
+                      "name": "Barnimer Busgesellschaft mbH",
+                      "url": "http://www.bbg-eberswalde.de/",
+                      "phone": "011 49 3334 235003"
+                    }
+                  ],
+                  "url": "https://www.vbb.de/fahrinformation/liniennetze/",
+                  "vehicle": {
+                    "name": "Bus",
+                    "type": "BUS",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                    "localIcon": "//maps.gstatic.com/mapfiles/transit/iw2/6/de-berlin-bvg-bus.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Walk to Gudrunstraße 6A, 16356 Ahrensfelde, Germany",
+              "distance": {
+                "inMeters": 57,
+                "humanReadable": "57 m"
+              },
+              "duration": {
+                "inSeconds": 13,
+                "humanReadable": "1 min"
+              },
+              "startLocation": {
+                "lat": 52.5988801,
+                "lng": 13.5548827
+              },
+              "endLocation": {
+                "lat": 52.5993103,
+                "lng": 13.554416
+              },
+              "steps": [
+                {
+                  "distance": {
+                    "inMeters": 57,
+                    "humanReadable": "57 m"
+                  },
+                  "duration": {
+                    "inSeconds": 13,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.5988801,
+                    "lng": 13.5548827
+                  },
+                  "endLocation": {
+                    "lat": 52.5993103,
+                    "lng": 13.554416
+                  },
+                  "polyline": {
+                    "points": "_f``I_mvqAuAzA"
+                  },
+                  "travelMode": "WALKING"
+                }
+              ],
+              "polyline": {
+                "points": "_f``I_mvqAuAzA"
+              },
+              "travelMode": "WALKING"
+            }
+          ],
+          "distance": {
+            "inMeters": 44147,
+            "humanReadable": "44.1 km"
+          },
+          "duration": {
+            "inSeconds": 7746,
+            "humanReadable": "2 hours 9 mins"
+          },
+          "arrivalTime": {
+            "dateTime": {
+              "date": {
+                "year": 2023,
+                "month": 1,
+                "day": 22
+              },
+              "time": {
+                "hour": 12,
+                "minute": 28,
+                "second": 13,
+                "nano": 0
+              }
+            },
+            "offset": {
+              "totalSeconds": 3600
+            },
+            "zone": {}
+          },
+          "departureTime": {
+            "dateTime": {
+              "date": {
+                "year": 2023,
+                "month": 1,
+                "day": 22
+              },
+              "time": {
+                "hour": 10,
+                "minute": 19,
+                "second": 7,
+                "nano": 0
+              }
+            },
+            "offset": {
+              "totalSeconds": 3600
+            },
+            "zone": {}
+          },
+          "startLocation": {
+            "lat": 52.3795838,
+            "lng": 13.2380055
+          },
+          "endLocation": {
+            "lat": 52.5993103,
+            "lng": 13.554416
+          },
+          "startAddress": "Ruhlsdorfer Straße 95, Hausnummer 81, 14532 Stahnsdorf, Germany",
+          "endAddress": "Gudrunstraße 6A, 16356 Ahrensfelde, Germany"
+        }
+      ],
+      "waypointOrder": [],
+      "overviewPolyline": {
+        "points": "kku~HqpxoAcEwVGUiBuBu@c@k@MIvA}Dw@u@u@q@aAa@c@CJkAbEjAcEt@_CpBoG|BeHdAkCXgAF[?M~@mC~AsDbA_CjCwGzB{HnBaLfBuQJwBnAwOPy@xBaAbCeAzDmApDDlEu@NTOUmEt@qDE{DlA{ItDqC`AmCHwBKcCe@wHsBoQ_FcKsCsAWwBSoBGmC?}AQwB}@eGqC{EuB_GwBaDeAkAm@o@{@AKGQIIK_@{ByNeBcOw@wHM_@ILHyN\\jDGBMgAe@_EIiAmAaOkEq_@iBgPgHoo@mCmXaA{GgAoEqAoDaB{CcAsAuEcEqEoBqEqAsI}C}RkHcHcDaEwBeHqDsNqJsEgDuE_EwPsRmGqI{GwK}DkIoDaHeCkDeHoHeAwAW_@FM|@sB_@k@oDcGiGiKsG_LgKeQiVga@oFcJaL{Q_E}F_EqFmCiDsFkGeHoGyFgE{F_EiDmBaFoB{F}AuSmFii@_NoM{CeYkHmNwDgHiC{@[qH{DE]\\QbBw@rB}@bBcA~AsAnAaBpAcClAsDXwAd@{DNkKLkj@b@{Gb@kEx@aIrAeKfBoK|BwNlA{FrCeJtEgNrCoJbBwHlDoS^aDh@wIHmIMwI}@cU{Ag_@kAoVe@iFeA}JkBoYyAeRaAoPwAkQwBmWiAwJkBqUoE}e@u@sD}@aC{BuD{BcCyBaB_Bu@kCq@gKqAcMyAcZoDaOgB}Ec@aC?qDNgDLeAEmBc@qBkAyGgEaE{BiA{@{DmDyB_CaDeFqCkEaC}DuCqDcByAqDuA{KaDiBa@qEo@s@OHkAJw@UKoBw@_CiAoEuDsBgCaBcD}AoGQ}ASmDC{CLcEn@oFv@sDz@oDx@yEp@sEV_CJyECgEUsFgBiLaByG_DsIgBaEiBqCgBsDsEgLgEyKeAeCwDwKoBiHkCyMgAuIu@iKm@gPFk[NkKHoHToc@FoPUeNu@qJ_AsFkAaEmA{C{AsCwAsBwBwBcEaCoD{@aBIiC@mCViFp@yNrCkRbF{d@vLsIvBoDr@mj@~Nos@fRkDfAqGpC}GhE_F|DuCrCcHnIoTlZsJzMgDbEcEzF_@h@qAgD\\_@CMUu@q@_CiDuLmBkHk@eDWkCSiDC_@SFYHmBb@{@HkAGyE}@m@A_BP{Dt@eBR_CB[NSZwAbDo@lDEt@APOGqDaBu@]u@[yAS_BUkEaB_Ai@wBwFiB}E{KuYwEaMuJaWw[gz@qB}E_FuHgWg_@oWs_@}AjB"
+      },
+      "bounds": {
+        "northeast": {
+          "lat": 52.5993103,
+          "lng": 13.5549627
+        },
+        "southwest": {
+          "lat": 52.3730443,
+          "lng": 13.2380055
+        }
+      },
+      "copyrights": "Map data ©2023 GeoBasis-DE/BKG (©2009)",
+      "warnings": [
+        "Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths."
+      ]
+    }
+  ]
+}

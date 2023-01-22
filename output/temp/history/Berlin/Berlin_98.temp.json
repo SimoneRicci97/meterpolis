@@ -1,0 +1,25 @@
+{
+  "meterpolisName": "Berlin",
+  "route": {
+    "from": {
+      "lat": 52.61089640822312,
+      "lng": 13.111326389684013
+    },
+    "to": {
+      "lat": 52.655369680638756,
+      "lng": 13.238507106817734
+    }
+  },
+  "stats": {
+    "changeNumber": 6,
+    "bigChangeNumber": 4,
+    "alternatives": 0,
+    "totalDuration": 7340,
+    "walkingDuration": 2229,
+    "cost": {
+      "value": 0,
+      "currency": "EUR"
+    }
+  },
+  "filename": "Berlin_98.temp.json"
+}

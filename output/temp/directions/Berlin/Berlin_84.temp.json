@@ -1,0 +1,555 @@
+{
+  "meterpolisName": "Berlin",
+  "route": {
+    "from": {
+      "lat": 52.55816394402407,
+      "lng": 13.390505026941218
+    },
+    "to": {
+      "lat": 52.5449044638362,
+      "lng": 13.10672839219755
+    }
+  },
+  "directions": [
+    {
+      "summary": "",
+      "legs": [
+        {
+          "steps": [
+            {
+              "htmlInstructions": "Walk to Prinzenallee/Soldiner Str. (Berlin)",
+              "distance": {
+                "inMeters": 349,
+                "humanReadable": "0.3 km"
+              },
+              "duration": {
+                "inSeconds": 275,
+                "humanReadable": "5 mins"
+              },
+              "startLocation": {
+                "lat": 52.5583402,
+                "lng": 13.3899123
+              },
+              "endLocation": {
+                "lat": 52.5583636,
+                "lng": 13.3858748
+              },
+              "steps": [
+                {
+                  "htmlInstructions": "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eWriezener Str.\u003c/b\u003e toward \u003cb\u003eSoldiner Str.\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 67,
+                    "humanReadable": "67 m"
+                  },
+                  "duration": {
+                    "inSeconds": 48,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.5583402,
+                    "lng": 13.3899123
+                  },
+                  "endLocation": {
+                    "lat": 52.5578335,
+                    "lng": 13.389484
+                  },
+                  "polyline": {
+                    "points": "shx_I}evpAdBtA"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eSoldiner Str.\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 238,
+                    "humanReadable": "0.2 km"
+                  },
+                  "maneuver": "turn-right",
+                  "duration": {
+                    "inSeconds": 184,
+                    "humanReadable": "3 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.5578335,
+                    "lng": 13.389484
+                  },
+                  "endLocation": {
+                    "lat": 52.5587627,
+                    "lng": 13.3861624
+                  },
+                  "polyline": {
+                    "points": "mex_IgcvpAERcDrQGTGX"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003ePrinzenallee\u003c/b\u003e\u003cdiv style\u003d\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                  "distance": {
+                    "inMeters": 44,
+                    "humanReadable": "44 m"
+                  },
+                  "maneuver": "turn-left",
+                  "duration": {
+                    "inSeconds": 43,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.5587627,
+                    "lng": 13.3861624
+                  },
+                  "endLocation": {
+                    "lat": 52.5583636,
+                    "lng": 13.3858748
+                  },
+                  "polyline": {
+                    "points": "gkx_IonupAJHb@X^T"
+                  },
+                  "travelMode": "WALKING"
+                }
+              ],
+              "polyline": {
+                "points": "shx_I}evpAdBtAERcDrQGTGXJHb@X^T"
+              },
+              "travelMode": "WALKING"
+            },
+            {
+              "htmlInstructions": "Bus towards S+U Jungfernheide",
+              "distance": {
+                "inMeters": 9809,
+                "humanReadable": "9.8 km"
+              },
+              "duration": {
+                "inSeconds": 1800,
+                "humanReadable": "30 mins"
+              },
+              "startLocation": {
+                "lat": 52.5583684,
+                "lng": 13.3858414
+              },
+              "endLocation": {
+                "lat": 52.530705,
+                "lng": 13.3004976
+              },
+              "polyline": {
+                "points": "yhx_IolupADSb@XfBjApBnAXPrAz@l@b@JHXPJHAZC|@Cr@I`CSfGNHDDPJLH@]DiAB[FqBJeC@a@@YD_A?]|A~@d@XZRLHh@\\v@f@PHJHNH~@l@HFfAr@VPbAn@ZTNNJHHJRV@@PXNXN\\LTPZx@zAJPP\\DHXf@~@`BfBbDLVXh@HRZj@^n@NX\\n@T`@j@hAv@xAPZJPNVHLXj@HNJRlA`CFJt@vAR`@HNHNDHFP`@p@Zj@JPFJFJ^r@~@fB`@t@T`@pAbC?@x@bBHPLRHNHH@BFDFBFDB?B?JF^NPFjAn@VNZRJH~@l@BBD@HDLAR?N?J?JAP?X?h@?L?@?VAh@Cn@G~@Gf@CF?D?PBPFHFHLBBHLRf@JXTp@h@~ADHJXLYLUFMd@aAVe@n@oA`@u@j@cALSDKJUOc@SVQV_@r@Ud@EHc@z@e@|@[p@Sb@EHMVQ^DHJXXp@Pb@LNlBfFPd@nBlFxA~D|@bCRh@Tj@Xv@Tl@Zz@BD@L?B@B@B?BDLN\\L\\Tn@Ld@J\\Tl@\\dAd@pAHN@@v@dBBHBFRh@Rh@BHDJ\\~@BFr@pBHRBDFNFPb@pAf@lAVn@Tj@N\\N`@DDJXRd@Xr@t@jBLXh@rARf@HRP`@Pd@Tf@n@`BxApDXt@FXHVj@rATn@`@`ARj@FL@BN^HPJRHPJLbAbCjBrEl@xA`@`AZv@z@zBb@fARf@Tl@j@xAv@fBN^`@bAj@rABHN\\P^FL@D@D@D?F@\\pCAX?x@A|A?T?J?^BL@VDD?P@F@J@ZDAr@?r@Az@AvAAZAh@?X?ZAnBElCG|CEdCAN?DATInBA`@EhAQhEM`CAPc@~JA`@G`ASbFC^ANCr@CXIlBCj@MhCCj@C\\Ch@C^?F?@?BEp@M~CC~@@ZAXEj@AR?@APARCl@c@hII|AIzAATM~BUvEOvC?HCd@Et@Ej@Ez@?HAJCZA^C\\EfAEb@g@`FE`@Eb@CRCTGh@E^CRGXYlAI\\[rAcAfEEPCHI`@kA^YHQD_@JHt@Jr@DTDVFd@Ln@h@O`@IfAWTGdBa@zAa@p@QfFsArA]bBe@ZG?|A?D@\\?b@?P?@?Z?XBrI?bC?T?t@?dA?x@?r@?|@?vB@X?fA?pB@~DCRAB?F?JAX?pA?R?R?h@?F@H?J?H?@@NFf@?F?z@@j@@t@@XHz@Dn@UGcBk@kAa@C?KCMEsBm@GCeA[g@Oe@MICUIq@Sw@UA\\AT?JANARCN?HUnCI`AEt@KpAO`BQjCIjAOCKCMCQCI?Q?_@BSDA?ECGj@AB?B?B@LBh@IBK@c@FMBSD[FC@?A"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "Jungfernheide",
+                  "location": {
+                    "lat": 52.530705,
+                    "lng": 13.3004976
+                  }
+                },
+                "departureStop": {
+                  "name": "Prinzenallee/Soldiner Str. (Berlin)",
+                  "location": {
+                    "lat": 52.5583684,
+                    "lng": 13.3858414
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 11,
+                      "minute": 9,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 10,
+                      "minute": 37,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "S+U Jungfernheide",
+                "headway": 0,
+                "numStops": 22,
+                "line": {
+                  "shortName": "M27",
+                  "agencies": [
+                    {
+                      "name": "Berliner Verkehrsbetriebe",
+                      "url": "http://www.bvg.de/",
+                      "phone": "011 49 30 19449"
+                    }
+                  ],
+                  "url": "https://www.bvg.de/de/verbindungen/netzplaene-und-linien/",
+                  "vehicle": {
+                    "name": "Bus",
+                    "type": "BUS",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                    "localIcon": "//maps.gstatic.com/mapfiles/transit/iw2/6/de-berlin-bvg-bus.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Train towards Nauen, Bahnhof",
+              "distance": {
+                "inMeters": 13079,
+                "humanReadable": "13.1 km"
+              },
+              "duration": {
+                "inSeconds": 900,
+                "humanReadable": "15 mins"
+              },
+              "startLocation": {
+                "lat": 52.530705,
+                "lng": 13.3004976
+              },
+              "endLocation": {
+                "lat": 52.5528876,
+                "lng": 13.1158217
+              },
+              "polyline": {
+                "points": "{{r_IcwdpAp@QX`ERvCJnAHfANdBFv@XjDDd@H~@Dr@`@pFBb@b@~GHtATtEJvBN|DNjG@h@R|H@r@BfADlAJhDDzAFbCBj@BbA@`@B~@?FFvBD|AHlC@d@PnGHtDLxG@X@V@`@BpA@BHlDJ`E@f@@HJ`EDxABfADhBJ~DH~CHnDDpBFjCRbIHtDD~@DzAT~I@ZHbDNxFF~BJvDBlALvEFrBHbDH~CLlEBbAHpDLlE@JHnDHpDDnB@nA@`@@rC?zE?B?F?D?lCCjBAd@Cz@?TGzAMzBQ~BKbAOpAIp@QlAG^O|@AD]jB}@vE]fBETUlAm@vDUbBa@~C_@bDO|AE`@MjB?@IfASpDI~AATCRUrEMfDAHM~BGrAQxDi@tK]|GAb@aAfPWjDWtDC\\IhAG|@C`@?@g@|Hm@nJGn@Ep@m@`JEx@GbAEn@[`F_@vFm@rIOxBKbAGx@CREb@Ip@K~@Gj@CJMz@a@jC[fBETOt@I`@EROr@Ot@Or@uBtJWnAOv@WpAQdAKt@GZE`@ETKv@In@AFIv@Iv@ADGr@It@C`@WjCYjDSpBu@vIQpBIv@Ix@C^Gx@O~B_@pEa@|E[xDe@|EQlB?BIv@Gx@e@|E_@jE{@tJIx@Ej@SpBUbCM~A_@~Du@zHq@dHcAtK[bD[pDU`C_@tEGj@q@hHIr@Kv@Gj@[~BAH[rBaB|KWfBW|AWjBo@dEc@xCUrAGf@I`@Mz@QdAMv@YjBi@bD[jBWzAG`@I`@CPKn@]rBIf@QbAe@lCq@`EKj@Kl@k@jDCPWzAMt@Mt@Y~AKj@ERG^G`@g@vCO|@Kl@CJE\\Q`AG\\O|@o@rDO|@Kn@CRo@vDQbAMt@CNId@Mt@Mt@Mv@CJKh@G\\AJIb@Id@Mt@[jBq@|DEZOt@UvAW|AQ~@YhBG\\O|@UtACLc@fCa@fCi@bDI`@SpAi@~C_@xBQhAwApIk@hDGZa@fCi@`DMv@Mt@Mt@Mt@AFYdBGZCLIf@G^G^ETqGh`@q@zDEXMt@ETG^Mv@W|AMv@Kj@AHe@vCCJ[jBUpASpAMt@I`@QjACNETOI"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "Seegefeld",
+                  "location": {
+                    "lat": 52.5528876,
+                    "lng": 13.1158217
+                  }
+                },
+                "departureStop": {
+                  "name": "Jungfernheide",
+                  "location": {
+                    "lat": 52.530705,
+                    "lng": 13.3004976
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 11,
+                      "minute": 32,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 11,
+                      "minute": 17,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "Nauen, Bahnhof",
+                "headway": 0,
+                "numStops": 3,
+                "line": {
+                  "shortName": "RB10",
+                  "agencies": [
+                    {
+                      "name": "DB Regio AG",
+                      "url": "http://www.bahn.de/brandenburg",
+                      "phone": "011 49 331 2356881"
+                    }
+                  ],
+                  "url": "https://www.vbb.de/fahrinformation/liniennetze/",
+                  "vehicle": {
+                    "name": "Train",
+                    "type": "HEAVY_RAIL",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/rail2.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Walk to Chemnitzer Str. 16, 14612 Falkensee, Germany",
+              "distance": {
+                "inMeters": 2400,
+                "humanReadable": "2.4 km"
+              },
+              "duration": {
+                "inSeconds": 1770,
+                "humanReadable": "30 mins"
+              },
+              "startLocation": {
+                "lat": 52.5528629,
+                "lng": 13.1159187
+              },
+              "endLocation": {
+                "lat": 52.5457116,
+                "lng": 13.1074295
+              },
+              "steps": [
+                {
+                  "htmlInstructions": "Head \u003cb\u003esouthwest\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 61,
+                    "humanReadable": "61 m"
+                  },
+                  "duration": {
+                    "inSeconds": 46,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.5528629,
+                    "lng": 13.1159187
+                  },
+                  "endLocation": {
+                    "lat": 52.5526631,
+                    "lng": 13.1153358
+                  },
+                  "polyline": {
+                    "points": "kfw_Iou`oAVPXP@??@@@?B@BABAJKr@"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Slight \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eStr. d. Einheit\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 41,
+                    "humanReadable": "41 m"
+                  },
+                  "maneuver": "turn-slight-left",
+                  "duration": {
+                    "inSeconds": 28,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.5526631,
+                    "lng": 13.1153358
+                  },
+                  "endLocation": {
+                    "lat": 52.5524716,
+                    "lng": 13.1149238
+                  },
+                  "polyline": {
+                    "points": "cew_I{q`oACJ?F?DBN@DBF@DFDHFJF"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eStr. d. Einheit\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 74,
+                    "humanReadable": "74 m"
+                  },
+                  "maneuver": "turn-right",
+                  "duration": {
+                    "inSeconds": 53,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.5524716,
+                    "lng": 13.1149238
+                  },
+                  "endLocation": {
+                    "lat": 52.5519659,
+                    "lng": 13.1143515
+                  },
+                  "polyline": {
+                    "points": "}cw_Igo`oAAJ?H@FBHBDzAbA"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eStr. d. Einheit\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 1026,
+                    "humanReadable": "1.0 km"
+                  },
+                  "maneuver": "turn-right",
+                  "duration": {
+                    "inSeconds": 766,
+                    "humanReadable": "13 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.5519659,
+                    "lng": 13.1143515
+                  },
+                  "endLocation": {
+                    "lat": 52.55328919999999,
+                    "lng": 13.0999581
+                  },
+                  "polyline": {
+                    "points": "y`w_Iuk`oAMz@[dB[lByBfNoBxK?@Id@WvAERO`AEVOv@Ij@CXA^?\\?NLtC@RAb@JzB@J@d@FT@JFpA^lGD|@BZ@\\Fx@PnDF~@FpA"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003ePotterstraße\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 738,
+                    "humanReadable": "0.7 km"
+                  },
+                  "maneuver": "turn-left",
+                  "duration": {
+                    "inSeconds": 546,
+                    "humanReadable": "9 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.55328919999999,
+                    "lng": 13.0999581
+                  },
+                  "endLocation": {
+                    "lat": 52.5468172,
+                    "lng": 13.1009938
+                  },
+                  "polyline": {
+                    "points": "aiw_Iwq}nArCk@~@S~A[HAfAQz@Ob@GhB[JCREtB]VGp@QFApB_@xEy@H@JJJJfBxA"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eleft\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 460,
+                    "humanReadable": "0.5 km"
+                  },
+                  "maneuver": "turn-left",
+                  "duration": {
+                    "inSeconds": 331,
+                    "humanReadable": "6 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.5468172,
+                    "lng": 13.1009938
+                  },
+                  "endLocation": {
+                    "lat": 52.5457116,
+                    "lng": 13.1074295
+                  },
+                  "polyline": {
+                    "points": "s`v_Iex}nADe@V{BJqBN}BBULwARyAXiD@]NqHDWJUDIFMXm@Ni@FU"
+                  },
+                  "travelMode": "WALKING"
+                }
+              ],
+              "polyline": {
+                "points": "kfw_Iou`oAVPXP@??@@@?B@BABAJKr@CJ?F?DBN@DBF@DFDHFJFAJ?H@FBHBDzAbAMz@[dB[lByBfNoBxK?@Id@WvAERO`AEVOv@Ij@CXA^?\\?NLtC@RAb@JzB@J@d@FT@JFpA^lGD|@BZ@\\Fx@PnDF~@FpArCk@~@S~A[HAfAQz@Ob@GhB[JCREtB]VGp@QFApB_@xEy@H@JJJJfBxADe@V{BJqBN}BBULwARyAXiD@]NqHDWJUDIFMXm@Ni@FU"
+              },
+              "travelMode": "WALKING"
+            }
+          ],
+          "distance": {
+            "inMeters": 25637,
+            "humanReadable": "25.6 km"
+          },
+          "duration": {
+            "inSeconds": 5346,
+            "humanReadable": "1 hour 29 mins"
+          },
+          "arrivalTime": {
+            "dateTime": {
+              "date": {
+                "year": 2023,
+                "month": 1,
+                "day": 22
+              },
+              "time": {
+                "hour": 12,
+                "minute": 1,
+                "second": 30,
+                "nano": 0
+              }
+            },
+            "offset": {
+              "totalSeconds": 3600
+            },
+            "zone": {}
+          },
+          "departureTime": {
+            "dateTime": {
+              "date": {
+                "year": 2023,
+                "month": 1,
+                "day": 22
+              },
+              "time": {
+                "hour": 10,
+                "minute": 32,
+                "second": 24,
+                "nano": 0
+              }
+            },
+            "offset": {
+              "totalSeconds": 3600
+            },
+            "zone": {}
+          },
+          "startLocation": {
+            "lat": 52.5583402,
+            "lng": 13.3899123
+          },
+          "endLocation": {
+            "lat": 52.5457116,
+            "lng": 13.1074295
+          },
+          "startAddress": "Wriezener Str. 19, 13359 Berlin, Germany",
+          "endAddress": "Chemnitzer Str. 16, 14612 Falkensee, Germany"
+        }
+      ],
+      "waypointOrder": [],
+      "overviewPolyline": {
+        "points": "shx_I}evpAdBtAERkDhRGXJHbAn@ADDSjCdBjC`B`C~Ad@ZJHAZGpB]hKt@d@RuFTaG?]|A~@`Al@`CxAdBhA~DjCZX\\b@RZ^v@dB~CjGjLtFfK~@bBjBpD|AxCjAxBdG`LpAjCRXHHRH`A^bB~@f@\\rAx@~CCpFYVBPFRTLP~ArEPb@Zo@dAuBjC}EPa@Oc@SVq@jA[n@yBnES`@Q^DHd@jAPb@LN~BlGhElL`CpGp@hBDRBNx@xBXbAr@rBn@`Bx@fBn@dBj@|AhAzCj@bB~@|Bz@pBnB~E~DzJrBfFPp@vBpFb@bATd@JLbAbCxClH|@xBhCxGfF`ML^@d@jDAxDAjAJ`AJEzFCzBG|FMbHMzCg@vLmA|Xo@pME~@Q~E?t@IrAs@hNiAfU]~GoA~LKl@c@jBiBvHI`@kA^k@N_@JHt@PhAL|@Ln@h@OhBa@zBi@hMeD~Bm@?bB@tABlO@nM?xD@~DCRAJAd@?bD@f@H`A@fBBnANjByBs@iBk@aJmCw@UA\\A`@G|@q@xIa@lFIjAOCYG[CgAHECGj@AF@PBh@IBo@Ha@H_@Hp@SbApNv@nJt@hKl@tJ`@lI^hMTfJDzBPvFTnIL`F~@b`@l@zU|@x_@jDrsA\\nMZ`PBtKCfGMrE_@zF[tCs@|E{BpL[bBcAzGaAbIU~Bk@fJe@|IaCvg@yArU[rEUjDeD~g@{@xM}@lM]tDa@hDo@fEa@|Bo@~CuC~MqA~G_@hCa@fD]fDeDf_@{@jLuBbVcDz^wAtOgEzc@yAtP{@|ISbB]hC}BpOwBvNsC|Q}CdRkH|b@eO`}@wTdsAwOb`Am@rDETOIDSVPZP@BAVO~@?LJb@PLJFAJ@PFNzAbAMz@w@rEyBfNoBxKIf@s@dEYbBEx@?l@NhDAb@JzBBp@H`@f@~IRpDXnFFpArCk@~Co@pAStEw@hCc@hAYxBa@bFw@VVfBxADe@V{BJqBRsC`@qDZgENqHDWP_@`@{@V_A"
+      },
+      "bounds": {
+        "northeast": {
+          "lat": 52.5587627,
+          "lng": 13.3899123
+        },
+        "southwest": {
+          "lat": 52.5255977,
+          "lng": 13.0999581
+        }
+      },
+      "copyrights": "Map data ©2023 GeoBasis-DE/BKG (©2009)",
+      "warnings": [
+        "Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths."
+      ]
+    }
+  ]
+}

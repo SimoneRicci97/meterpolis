@@ -1,0 +1,363 @@
+{
+  "meterpolisName": "Berlin",
+  "route": {
+    "from": {
+      "lat": 52.413674821552995,
+      "lng": 13.42830857927692
+    },
+    "to": {
+      "lat": 52.44109049477891,
+      "lng": 13.26842753803834
+    }
+  },
+  "directions": [
+    {
+      "summary": "",
+      "legs": [
+        {
+          "steps": [
+            {
+              "htmlInstructions": "Walk to Quarzweg/Marienfelder Chaussee (Berlin)",
+              "distance": {
+                "inMeters": 1156,
+                "humanReadable": "1.2 km"
+              },
+              "duration": {
+                "inSeconds": 870,
+                "humanReadable": "15 mins"
+              },
+              "startLocation": {
+                "lat": 52.4140504,
+                "lng": 13.4280439
+              },
+              "endLocation": {
+                "lat": 52.41824920000001,
+                "lng": 13.4168207
+              },
+              "steps": [
+                {
+                  "htmlInstructions": "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eGerlinger Str.\u003c/b\u003e toward \u003cb\u003eWarmensteinacher Str.\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 479,
+                    "humanReadable": "0.5 km"
+                  },
+                  "duration": {
+                    "inSeconds": 351,
+                    "humanReadable": "6 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.4140504,
+                    "lng": 13.4280439
+                  },
+                  "endLocation": {
+                    "lat": 52.41311229999999,
+                    "lng": 13.4211183
+                  },
+                  "polyline": {
+                    "points": "yb|~Hgt}pANv@Hl@@HJr@B\\BVBNHlADx@Ft@@VBd@JbB?FBTBj@BTHzAN`CFjANhCPrCBd@Dx@BT"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eDrusenheimer Weg\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 677,
+                    "humanReadable": "0.7 km"
+                  },
+                  "maneuver": "turn-right",
+                  "duration": {
+                    "inSeconds": 519,
+                    "humanReadable": "9 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.41311229999999,
+                    "lng": 13.4211183
+                  },
+                  "endLocation": {
+                    "lat": 52.41824920000001,
+                    "lng": 13.4168207
+                  },
+                  "polyline": {
+                    "points": "}|{~H_i|pAq@FqBRSBM@eBRi@NQFIBOD]R[T]VMLGHKLIHGHMPCDEFOVQ\\MVSf@O`@Qf@K^IX_@tA?@IVCHIRILMNEFWPk@\\KFKFuBtAc@VQHA?A@"
+                  },
+                  "travelMode": "WALKING"
+                }
+              ],
+              "polyline": {
+                "points": "yb|~Hgt}pANv@Hl@@HJr@B\\BVBNHlADx@Ft@@VBd@JbB?FBTBj@BTHzAN`CFjANhCPrCBd@Dx@BTq@FqBRSBM@eBRi@NQFIBOD]R[T]VMLGHKLIHGHMPCDEFOVQ\\MVSf@O`@Qf@K^IX_@tA?@IVCHIRILMNEFWPk@\\KFKFuBtAc@VQHA?A@"
+              },
+              "travelMode": "WALKING"
+            },
+            {
+              "htmlInstructions": "Bus towards U Krumme Lanke via S Marienfelde",
+              "distance": {
+                "inMeters": 14529,
+                "humanReadable": "14.5 km"
+              },
+              "duration": {
+                "inSeconds": 2280,
+                "humanReadable": "38 mins"
+              },
+              "startLocation": {
+                "lat": 52.418262,
+                "lng": 13.416859
+              },
+              "endLocation": {
+                "lat": 52.438053,
+                "lng": 13.2710657
+              },
+              "polyline": {
+                "points": "c}|~Hkn{pAG@L~@p@rELx@Jt@p@nEXlBRxAHf@\\zBb@zCTxAZxBNdAN|@Fd@z@|FPlA`@fCPnA@JNbAp@pEJr@@FBN@LxAzJJt@Jl@@FPpADV?BPfABTHt@ThALp@F`@@@@DBVBNJr@Hf@ZzBJn@L`AZxBBRHd@Hj@T~A?@b@`D@BNfAPjAd@bDL~@Fb@PnAFd@@NDb@@H@J@\\KFKFKDGBQHSHQHKBKBQDQBOBKBOBSBE?O?Q@U?S?C?A?O?KAg@Ei@GWCYEgAUeAUi@Mg@IWE_@Gi@GKASAC?e@Ci@?O@M?K@M@UB_@FQDIBSDIBIDm@TIDIFSJSN]TGFEDCBYVQPOPQTIJCBKNCDEFMP]j@Yf@e@fAQn@KVI\\GRAHEJEPKd@EPOj@Ot@Kh@?DW|AQ|@QfAO|@Kj@Ov@Ot@Mf@YbAK\\Mb@Of@Sd@M\\EFCHCDM\\GNCDEHOZINEJA@EJGJO\\OZKRMXGLELGLITIPM\\GRM`@ENCDK\\Ol@Kb@eAfEYlAi@vBSz@Mj@Sx@Mf@IVAFKTk@`BOb@a@jAENsAvDKZ[~@[z@M\\GTM^Yv@A@O^Qb@ENMLCHEHENCNEPCX?FCb@RF@?NF@?HDLFJDB@HFFDLFJFDDPJBBBBLJHHRRLNT^b@n@T^N[f@gAJU?AFOXo@NOHIHEHCDALCVE\\IDADAHEDAfAi@l@OBKEUAG?AA??AA?A?C?IB[Lq@RUFEBmAZ_@JIDEBA@ABABAD?@ANAL?F@PYn@GN?@KTg@fAOZRZLVT^PTDFDFBBB@B@B@B?D?NNFDJLHFRPDDnA`AzAjA\\Xf@`@fAx@hA~@ZVpB~Ar@j@b@Zd@\\LLBBNLPNdCnBLJlCtBhFdEp@h@BBJHPLd@ZFDTPh@\\RPlAz@|BfBb@ZZVj@b@rA`Aj@b@r@h@LJRRFFDFFFDHDFFLDJFPBHDJDRBVBP?N@N?R?LCj@Er@Cf@A^RDhARf@JNBbA`@ZPEZK|@CRK~@Gj@MdAK`ACRMtAA\\CZAXEt@M~CAXUrGEx@GtAAVATCZAXGp@CVEZEXIj@Gb@WhBETUxAE`@GXUfBGl@[fCE\\E^OhA?@?@OlAE`@[rCK`AAFGh@KnAKnA?@?@?B@RG^?FAHE\\Ed@Gj@C`@Ef@WvCC\\CRALKt@w@`Gi@bEQrAOhAEXs@lGIx@i@xEEZWhCEAC?C?EBOHcDzBmAx@cAr@iAv@aC`BaAp@eGdEwCfBCBoAt@a@VqAv@w@d@[Pq@FODWDUHUJSHKHgAn@]REBUNKDEDa@TMHULa@Vq@`@QJi@ZGBEDGDs@`@GBIFa@RQLeBbAiAp@[PQL[PGDc@VEBC@eDnBa@Vd@~CD\\@B@JMLEHIPCTM`@Yt@?@Uj@A?k@xAAAA?C?C@A@A@AFa@vAHHHHpApAZXfBbBvAvAo@~BSv@YbAq@lCCDc@dB_@rAOj@Kf@e@dBoBzHeA~DU|@Kd@KZGh@E`@C`@?P?N?T?T@T@LBN@V?T@V^pIRhE?PFxACJAH@J?X?V@nA?l@Eh@C^C\\E^CNIh@GVOj@ELELIVIRe@fAe@bAIPQ`@SXMTKPA?W`@[`@wA`B_@b@m@p@IHONUVc@d@GHEFC@KHJ\\DLFVhAzDnAlEFTFXFV?BDN@LBP@R?VAv@Cz@?PAt@KfHExDG~EC`CCtCA^GlFCnCAf@EdDA\\A\\?JAXClACfAG|CEhBM?eDKEbCAdAEnDGjFAz@IdH?\\CtBAZLDHBD@NBLBNBL@F?F@N?F?F?H?F?FAF?HAF?ZGB|@@BBx@@L?JC~@KdD?LKnDIzBGnB?LCdBAR?p@?V@`@Bh@LdATzA?Bv@tEF`@BPFVN|@H\\BPBJ@F`@~BLx@O^MLQPUTgAdAYVUVEDuBpBm@n@[\\UVMNcBlBoAjAED]Z_@\\c@`@SPu@p@GFKJg@d@]ZA@IHYVc@`@SPcB|AkCbC_Ax@]ZXrABHj@e@"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "Winfriedstr. (Berlin)",
+                  "location": {
+                    "lat": 52.438053,
+                    "lng": 13.2710657
+                  }
+                },
+                "departureStop": {
+                  "name": "Quarzweg/Marienfelder Chaussee (Berlin)",
+                  "location": {
+                    "lat": 52.418262,
+                    "lng": 13.416859
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 11,
+                      "minute": 10,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 10,
+                      "minute": 32,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "U Krumme Lanke via S Marienfelde",
+                "headway": 0,
+                "numStops": 17,
+                "line": {
+                  "shortName": "X11",
+                  "agencies": [
+                    {
+                      "name": "Berliner Verkehrsbetriebe",
+                      "url": "http://www.bvg.de/",
+                      "phone": "011 49 30 19449"
+                    }
+                  ],
+                  "url": "https://www.bvg.de/de/verbindungen/netzplaene-und-linien/",
+                  "vehicle": {
+                    "name": "Bus",
+                    "type": "BUS",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                    "localIcon": "//maps.gstatic.com/mapfiles/transit/iw2/6/de-berlin-bvg-bus.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Walk to Sundgauer Str. 56, 14169 Berlin, Germany",
+              "distance": {
+                "inMeters": 442,
+                "humanReadable": "0.4 km"
+              },
+              "duration": {
+                "inSeconds": 351,
+                "humanReadable": "6 mins"
+              },
+              "startLocation": {
+                "lat": 52.4380855,
+                "lng": 13.2710445
+              },
+              "endLocation": {
+                "lat": 52.44091719999999,
+                "lng": 13.2684952
+              },
+              "steps": [
+                {
+                  "htmlInstructions": "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eBerliner Str.\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eB1\u003c/b\u003e toward \u003cb\u003eSundgauer Str.\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 36,
+                    "humanReadable": "36 m"
+                  },
+                  "duration": {
+                    "inSeconds": 26,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.4380855,
+                    "lng": 13.2710445
+                  },
+                  "endLocation": {
+                    "lat": 52.4382145,
+                    "lng": 13.2714702
+                  },
+                  "polyline": {
+                    "points": "ay`_I___pAIa@Ms@"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eSundgauer Str.\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 284,
+                    "humanReadable": "0.3 km"
+                  },
+                  "maneuver": "turn-left",
+                  "duration": {
+                    "inSeconds": 238,
+                    "humanReadable": "4 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.4382145,
+                    "lng": 13.2714702
+                  },
+                  "endLocation": {
+                    "lat": 52.44064640000001,
+                    "lng": 13.2701739
+                  },
+                  "polyline": {
+                    "points": "yy`_Iua_pAOLOLOLIHQLOLSLc@Z_@TWL_@P]N_A\\OBcARm@F[D"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eleft\u003c/b\u003e\u003cdiv style\u003d\"font-size:0.9em\"\u003eRestricted usage road\u003c/div\u003e",
+                  "distance": {
+                    "inMeters": 122,
+                    "humanReadable": "0.1 km"
+                  },
+                  "maneuver": "turn-left",
+                  "duration": {
+                    "inSeconds": 87,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.44064640000001,
+                    "lng": 13.2701739
+                  },
+                  "endLocation": {
+                    "lat": 52.44091719999999,
+                    "lng": 13.2684952
+                  },
+                  "polyline": {
+                    "points": "aia_Iqy~oA@|AGTAH]fCOfA"
+                  },
+                  "travelMode": "WALKING"
+                }
+              ],
+              "polyline": {
+                "points": "ay`_I___pAIa@Ms@OLOLOLIHQLOLSLc@Z_@TWL_@P]N_A\\OBcARm@F[D@|AGTAH]fCOfA"
+              },
+              "travelMode": "WALKING"
+            }
+          ],
+          "distance": {
+            "inMeters": 16127,
+            "humanReadable": "16.1 km"
+          },
+          "duration": {
+            "inSeconds": 3503,
+            "humanReadable": "58 mins"
+          },
+          "arrivalTime": {
+            "dateTime": {
+              "date": {
+                "year": 2023,
+                "month": 1,
+                "day": 22
+              },
+              "time": {
+                "hour": 11,
+                "minute": 15,
+                "second": 52,
+                "nano": 0
+              }
+            },
+            "offset": {
+              "totalSeconds": 3600
+            },
+            "zone": {}
+          },
+          "departureTime": {
+            "dateTime": {
+              "date": {
+                "year": 2023,
+                "month": 1,
+                "day": 22
+              },
+              "time": {
+                "hour": 10,
+                "minute": 17,
+                "second": 29,
+                "nano": 0
+              }
+            },
+            "offset": {
+              "totalSeconds": 3600
+            },
+            "zone": {}
+          },
+          "startLocation": {
+            "lat": 52.4140504,
+            "lng": 13.4280439
+          },
+          "endLocation": {
+            "lat": 52.44091719999999,
+            "lng": 13.2684952
+          },
+          "startAddress": "Gerlinger Str. 32, 12349 Berlin, Germany",
+          "endAddress": "Sundgauer Str. 56, 14169 Berlin, Germany"
+        }
+      ],
+      "waypointOrder": [],
+      "overviewPolyline": {
+        "points": "yb|~Hgt}pAf@bDTrCf@zIpA|TBTq@FeCVsBT{@VYHy@h@k@d@SVc@j@u@tAc@hA]fAs@hCM\\W\\]Xw@d@aC|Au@`@C@AGG@~@rGXnBhB~LvEr[vCbSpCnR^vCl@~CtAvJnBfNtAvJb@hDJvAk@XcA`@_APu@JkA@a@AqAMq@I_FcAaBUiAGsABuARq@RuAn@_Ar@_A~@k@t@u@jAYf@e@fA]fAYfAg@tBs@bE_AnF_@lBg@jBY`Ac@lA[t@_@|@oAjCg@hAi@rA_@jAmBvHsCnLkFjO_AnC[x@a@bAENMLIRI^Ij@Cj@TFh@T`Aj@f@^\\\\b@n@x@nAv@cBl@wANOROt@Or@SlAk@l@OBKG]AAGAmBl@}Bp@KLEd@@Xa@~@cAzBhAhBRTPBl@j@|KzIlH|F~Q~NtA`AhGrE~DxC~AlA`@^Z`@Zr@R`ADdAMtCA^RDpB^rAd@ZPEZOpASjBk@pFMhCk@fOO~CS~Bo@rEi@jD_AzHsArLa@tE@VGf@UxBe@~FiAxIqAzJmB|PWhCEAC?IBsDdC}IfGgIvF{CjB{FjD[Pq@Fg@Jk@T_@RaCvA}D~BgDlBwHrEqElCn@lESVMf@g@vAUl@m@xACAKDc@~ARRtEnEvAvAo@~Bm@zByBlIeHtXMjACr@@pAD\\@l@t@dQFxACJ?T@nDSfCMx@WbA_@fAgB~Do@`As@bAwBdC}AbBu@x@KHJ\\Ld@hDxLNx@Dd@AnAQjLUpTYrTQlIEhBsDKUdROtNAZLDNDl@Jl@B`@?`@CZGB|@D|@@XOdF]hLExD@x@PnBtAvId@dCj@dDLx@O^_@^mCjC{BvBiAlAc@f@cBlBoAjAc@`@cA~@}AvAqAlAuDhDkE|D]ZXrABHj@e@GDIa@Ms@OL_@Z_Ar@cAp@w@^}Al@sAViAL@|AGT_@pCOfA"
+      },
+      "bounds": {
+        "northeast": {
+          "lat": 52.44091719999999,
+          "lng": 13.4280439
+        },
+        "southwest": {
+          "lat": 52.4125824,
+          "lng": 13.2684952
+        }
+      },
+      "copyrights": "Map data ©2023 GeoBasis-DE/BKG (©2009)",
+      "warnings": [
+        "Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths."
+      ]
+    }
+  ]
+}

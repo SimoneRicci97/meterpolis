@@ -1,0 +1,436 @@
+{
+  "meterpolisName": "Berlin",
+  "route": {
+    "from": {
+      "lat": 52.64301315781431,
+      "lng": 13.105428438563429
+    },
+    "to": {
+      "lat": 52.517556297093584,
+      "lng": 13.280095717490356
+    }
+  },
+  "directions": [
+    {
+      "summary": "",
+      "legs": [
+        {
+          "steps": [
+            {
+              "htmlInstructions": "Walk to Wansdorf, Bahnstr.",
+              "distance": {
+                "inMeters": 393,
+                "humanReadable": "0.4 km"
+              },
+              "duration": {
+                "inSeconds": 285,
+                "humanReadable": "5 mins"
+              },
+              "startLocation": {
+                "lat": 52.6434972,
+                "lng": 13.1053695
+              },
+              "endLocation": {
+                "lat": 52.64340360000001,
+                "lng": 13.0996034
+              },
+              "steps": [
+                {
+                  "htmlInstructions": "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eZu den Koppeln\u003c/b\u003e toward \u003cb\u003eWansdorfer Dorfstraße\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 381,
+                    "humanReadable": "0.4 km"
+                  },
+                  "duration": {
+                    "inSeconds": 276,
+                    "humanReadable": "5 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.6434972,
+                    "lng": 13.1053695
+                  },
+                  "endLocation": {
+                    "lat": 52.64346219999999,
+                    "lng": 13.0997456
+                  },
+                  "polyline": {
+                    "points": "{|h`Iqs~nA@R?P?TAb@?Z?J?L?R?ZA`@AbAA^?N?J?J?J@H?J@H@N@N?L?R?xB?\\?d@?r@?f@?n@@f@@r@DbB?n@?v@CN"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eWansdorfer Dorfstraße\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 12,
+                    "humanReadable": "12 m"
+                  },
+                  "maneuver": "turn-left",
+                  "duration": {
+                    "inSeconds": 9,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.64346219999999,
+                    "lng": 13.0997456
+                  },
+                  "endLocation": {
+                    "lat": 52.64340360000001,
+                    "lng": 13.0996034
+                  },
+                  "polyline": {
+                    "points": "s|h`Imp}nADPDJ"
+                  },
+                  "travelMode": "WALKING"
+                }
+              ],
+              "polyline": {
+                "points": "{|h`Iqs~nA@R?P?TAb@?Z?J?L?R?ZA`@AbAA^?N?J?J?J@H?J@H@N@N?L?R?xB?\\?d@?r@?f@?n@@f@@r@DbB?n@?v@CNDPDJ"
+              },
+              "travelMode": "WALKING"
+            },
+            {
+              "htmlInstructions": "Bus towards Galenstr. (Berlin)",
+              "distance": {
+                "inMeters": 23313,
+                "humanReadable": "23.3 km"
+              },
+              "duration": {
+                "inSeconds": 2520,
+                "humanReadable": "42 mins"
+              },
+              "startLocation": {
+                "lat": 52.643412,
+                "lng": 13.099594
+              },
+              "endLocation": {
+                "lat": 52.5347564,
+                "lng": 13.1990191
+              },
+              "polyline": {
+                "points": "i|h`Imo}nA@AEKEQGOyAwEc@uAsAiE[cAUo@g@eBKa@c@uASo@s@}BaA_DCGAE_A{C_CuHW{@Wy@g@cBS{@M}@Ga@}@kMoAeR]oFCaA?c@?W?WHwCBqA@g@FkBDiBJqD@_@M{IAg@EuAAIGkBSqEC}@K}CCs@GyACmAG}BAOKuC?CG_BGmBCeA?a@DU@C@EFGNGDCNG^MNGJCLEJEFEFCDGDI@U?_@Cm@EyBEsAE}AK_CGmAC]QaDMgCGu@CUIq@OwAMiAU}@ACMWOSSYc@eAGSSw@AK]oBWyAW_BG]g@qCQ_AG]_@mBG_@c@_CAGm@aDtDeC~AkAPM`@Wt@e@d@WFEB?JGDAzAw@BCFCvC}Av@c@xCcBJE`@Uf@U^U|@g@dB_Ab@S@ALGLIzAu@x@a@f@WnAm@DCNE`@QLEv@YPGr@Sj@QXGb@KPEf@G`BS\\APA^AbAAlBFd@D\\BXBH@b@Dz@NjB`@f@PXJn@T`A`@`Bp@TLx@`@~@d@fCtAj@XxAv@XNn@ZDBTPn@\\rAp@h@Zn@b@h@d@n@v@NRX`@LRLPt@jAjAfB`@l@l@l@`@VFBh@Rd@Lb@HTBF?d@?j@Gb@In@M^K~Bi@DAfBa@bBa@FAL@d@Md@IFCPCVEFAp@CP?J@^Bd@Dz@PT?LFlAXx@NXJXJXNf@^JHTRJLNP^l@Tb@bBpDjAfCj@nAJTLVO\\ELITCPAVEdC?b@@X@XB\\DZ@FDXF\\L`@p@`Cf@bB@HHVXz@d@~ATx@Jh@p@~BBHPn@T|@h@dDRhADTLl@@HHh@Hb@H`@@F@HFZPbAXbBn@`DHp@Fb@DZ?VE`AK~AGlAEdAAb@APCRA?A?A?A??@A??@A??@A??@?@A??@?@?@A??@?@?@?@?@?@?@@??@?@?@@??@?@@??@@@@??@@?@?@?@?@A@??A@??A?A@??AZ\\j@RVJTHNDHBRHHBh@PNF|@VZHTFjAXzBd@z@Rf@Lh@JRDNBH@tCGDPLZ@FNZLZHJP\\Zf@TZZb@NV`@h@PTX^v@dA^d@RVb@h@PT^^?@FF\\b@v@x@b@b@b@`@VTRJb@RLDJDf@Ll@Jp@HfAFzAJP@|BLL@fAJXBh@HhBLX@fBZJFTLFFJJPRT\\JRJVVl@Zr@Zv@h@nAn@|AbA|B@@z@rBn@zAp@|ADHDJ~@~BXt@Pb@rAnDZ~@J^Rz@VpATfBTjCRzCJ~@RjCH~@RvCHt@DXDR\\lA\\x@bBbDDPVh@^z@p@vAb@~@LVTj@Xl@f@bAvA|C`@v@Zt@^n@R\\^l@t@lA@@Zd@Zf@X^@@^Xb@XTF`@NfCn@Eo@C}@Ay@IcBGkAAMSyF?AOyEGoBQmG_@uN[_JQwFQiEAIUcEEm@Q{D?S?IMaDSaG?[KaBQiFQaGK}EEyAi@sNQyFE}@QcFAOUgHGoACu@K{CI}CGmBA[Aa@GoBSeAQ]KKPk@BK?AB[@i@@SCoA?MAIAc@ASI}BGsAIkB?UCc@CcA?GAo@?q@Be@@_@?CDi@Ho@NgBXmCLoAb@XDFb@PNHTNVPTTX^d@eBHYh@oBRu@Ng@xAkFn@}BFQJ_@BERa@@AHMTYXW@AROBCLGLGUoAQ_Ak@sCESS{@zB{Hh@mBPu@jAgEHU@G@EBK@C@IBM@MD]@Y?CD{@@M@QHcB@i@@A?SB{@Bw@H}BBe@@UBq@FsADy@J{CFuABs@Dy@RqFBq@@OB{@Bm@FaCXgIf@uJFm@?IBUDQBODSDMDQVcAR_@v@oAfD}ExBmD`C_E^m@DIv@kAn@_A|@qAt@kAb@s@`@o@d@w@j@eA^s@FOVk@@?Tk@P_@Zs@Ti@Te@Vm@Tg@DKJSDCNa@FK?AdAaCn@wAPa@DIj@mA@E@E@CBEJS@CBIDIFMNa@P]JYN]HODODOBATg@@ETe@@CN[Tg@JSBCBGLOd@YLOh@i@RMRG?A`@I^KB?`@I@?`@Ir@KB?H@L@NDTJv@^tAn@B@~@`@`@Rl@Zv@\\B@d@LZFD@d@?ZCL?TCHAf@Md@SNK\\U`@[FEt@y@NOLO\\_@\\_@\\_@^]lAoAvAyAhAiAh@s@RWhBcCz@iAhAgBVa@^e@RWd@o@Zc@Ze@Zc@TYFIZe@Zc@f@s@j@y@v@iAPUHM`@m@Ra@HOh@aANYbAmBr@sAp@oAfAoBHIZc@d@o@bAmAf@g@p@o@xBsB^c@vEgFxAoAdBoA`BmA@Ct@k@lA_AjAaAx@u@VYVSTWJIPQl@o@TYNS|A_B`BkB`DiD~CoDd@g@TYbDsCJEn@W`@MRGfA]NAd@GDANAhGaA`@G`AOvASfFu@vGeAtEq@`AMTClEk@t@Sr@SXI\\MfEgArBo@BAtAg@HEJCTGpAWRG`@G|AYxAWn@KXGtB_@DAJAXGVGDADCt@k@n@e@lA{@dA{@~AwA|@cABChAoA`AgAh@o@VW^c@`@c@lAkAn@o@XYl@k@rAuAZ]tAaBNFH@HDFBFB~@^TJLFFDB@NJPNLLPP^l@Zj@Zl@Xl@JNJXFRFZHh@PfAAJ?HAJ?H?J?H@J@HBPDPDNHLFLHHJFJDD@F@D@F?D?FADCDAHHBDFDHDFFJNP\\Zr@Zj@R^Vd@X`@JNHL`@b@LLTNBBHFJFB@PHLHZJRFPDNB\\@XBb@@bADd@Dl@FD?^FLB`@Hj@J`@JJB|@R@@`@Lh@Tl@TD@RHVJOn@CLAH?BVJ"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "Rathaus Spandau",
+                  "location": {
+                    "lat": 52.5347564,
+                    "lng": 13.1990191
+                  }
+                },
+                "departureStop": {
+                  "name": "Wansdorf, Bahnstr.",
+                  "location": {
+                    "lat": 52.643412,
+                    "lng": 13.099594
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 11,
+                      "minute": 1,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 10,
+                      "minute": 19,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "Galenstr. (Berlin)",
+                "headway": 0,
+                "numStops": 28,
+                "line": {
+                  "shortName": "671",
+                  "agencies": [
+                    {
+                      "name": "Havelbus",
+                      "url": "http://www.havelbus.de/",
+                      "phone": "011 49 331 7491400"
+                    }
+                  ],
+                  "url": "https://www.vbb.de/fahrinformation/liniennetze/",
+                  "vehicle": {
+                    "name": "Bus",
+                    "type": "BUS",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                    "localIcon": "//maps.gstatic.com/mapfiles/transit/iw2/6/de-berlin-bvg-bus.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Bus towards S+U Zoologischer Garten",
+              "distance": {
+                "inMeters": 6368,
+                "humanReadable": "6.4 km"
+              },
+              "duration": {
+                "inSeconds": 1080,
+                "humanReadable": "18 mins"
+              },
+              "startLocation": {
+                "lat": 52.5347564,
+                "lng": 13.1990191
+              },
+              "endLocation": {
+                "lat": 52.518347,
+                "lng": 13.280296
+              },
+              "polyline": {
+                "points": "gus_I{|poANmATJPFbBv@f@X\\T|AdAFBVPTPTPNNx@n@N_@i@k@MMACGEGIECWSJk@D[Jc@He@Pw@Nm@XcATo@Pg@Pg@\\}@`AoCRg@HUf@qAl@}Ap@cBp@cBv@kBPa@x@qB|BqFVo@DKTm@d@oAPm@L[Le@ZaAX}@V{@XiAZmALg@?ANo@VgANo@Ha@Lo@PeAJo@Fe@Hg@Da@Hu@Fo@JeAF_A@WDu@B]Bg@@a@@a@Bm@?]@cA?s@A]?UASAu@Gs@C[CYEa@CQKw@EOG_@Ki@IW]kAm@oBi@eB[cASq@_@wAMs@QeAO}@CKGi@Ik@AOMsAKuAE}@Cy@E}A?e@A[@gA?y@@m@By@B_@@_@F}@@WBWFy@N_BBONcBZmDJeABQB]|AyPBUBYDk@H{@B]RoBJgADk@Da@N}A`@wE\\uDTeC`@_ETsBPwALiA@MRwAF]DYRkAJo@PoAJm@Jk@Jk@D]DSDYDUFa@XwAXyAPy@TeAXaBZuBTcB@E?EJw@TqBJu@LcAF_@BYj@}CXyAZuA@ELm@Z}AHc@Hg@ZcBD[Lu@VaBXkBNeANgABSF[XcBHm@L}@D_@BWBQFi@Hw@BYHu@LkAT{BJiAHo@T{BRoBNsARwBDg@Hq@l@{Ff@eFV{BFk@Hq@\\iDB[j@sFd@kEZ_D?A\\eDx@_IlAsLFi@D_@LoA@E~@kJv@sHPaBV_CHw@T_CHu@Da@@A@O@O?Q@QAO?UCgAEiAEeAAm@C?"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "Elisabeth-Str./Spandauer Damm",
+                  "location": {
+                    "lat": 52.518347,
+                    "lng": 13.280296
+                  }
+                },
+                "departureStop": {
+                  "name": "Rathaus Spandau",
+                  "location": {
+                    "lat": 52.5347564,
+                    "lng": 13.1990191
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 11,
+                      "minute": 24,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 11,
+                      "minute": 6,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "S+U Zoologischer Garten",
+                "headway": 0,
+                "numStops": 16,
+                "line": {
+                  "shortName": "M45",
+                  "agencies": [
+                    {
+                      "name": "Berliner Verkehrsbetriebe",
+                      "url": "http://www.bvg.de/",
+                      "phone": "011 49 30 19449"
+                    }
+                  ],
+                  "url": "https://www.bvg.de/de/verbindungen/netzplaene-und-linien/",
+                  "vehicle": {
+                    "name": "Bus",
+                    "type": "BUS",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                    "localIcon": "//maps.gstatic.com/mapfiles/transit/iw2/6/de-berlin-bvg-bus.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Walk to Königin-Elisabeth-Straße 55, 14059 Berlin, Germany",
+              "distance": {
+                "inMeters": 100,
+                "humanReadable": "0.1 km"
+              },
+              "duration": {
+                "inSeconds": 102,
+                "humanReadable": "2 mins"
+              },
+              "startLocation": {
+                "lat": 52.518375,
+                "lng": 13.2803264
+              },
+              "endLocation": {
+                "lat": 52.51758479999999,
+                "lng": 13.2802198
+              },
+              "steps": [
+                {
+                  "htmlInstructions": "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eSpandauer Damm\u003c/b\u003e toward \u003cb\u003eKönigin-Elisabeth-Straße\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 18,
+                    "humanReadable": "18 m"
+                  },
+                  "duration": {
+                    "inSeconds": 34,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.518375,
+                    "lng": 13.2803264
+                  },
+                  "endLocation": {
+                    "lat": 52.5182699,
+                    "lng": 13.2800039
+                  },
+                  "polyline": {
+                    "points": "{np_Iay`pA?OPA@\\?V@\\"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eKönigin-Elisabeth-Straße\u003c/b\u003e\u003cdiv style\u003d\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                  "distance": {
+                    "inMeters": 82,
+                    "humanReadable": "82 m"
+                  },
+                  "maneuver": "turn-left",
+                  "duration": {
+                    "inSeconds": 68,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.5182699,
+                    "lng": 13.2800039
+                  },
+                  "endLocation": {
+                    "lat": 52.51758479999999,
+                    "lng": 13.2802198
+                  },
+                  "polyline": {
+                    "points": "enp_I_w`pABARCn@KJCLCFAJEFCFCBA"
+                  },
+                  "travelMode": "WALKING"
+                }
+              ],
+              "polyline": {
+                "points": "{np_Iay`pA?OPA@\\?V@\\BARCn@KJCLCFAJEFCFCBA"
+              },
+              "travelMode": "WALKING"
+            }
+          ],
+          "distance": {
+            "inMeters": 30174,
+            "humanReadable": "30.2 km"
+          },
+          "duration": {
+            "inSeconds": 4289,
+            "humanReadable": "1 hour 11 mins"
+          },
+          "arrivalTime": {
+            "dateTime": {
+              "date": {
+                "year": 2023,
+                "month": 1,
+                "day": 22
+              },
+              "time": {
+                "hour": 11,
+                "minute": 25,
+                "second": 43,
+                "nano": 0
+              }
+            },
+            "offset": {
+              "totalSeconds": 3600
+            },
+            "zone": {}
+          },
+          "departureTime": {
+            "dateTime": {
+              "date": {
+                "year": 2023,
+                "month": 1,
+                "day": 22
+              },
+              "time": {
+                "hour": 10,
+                "minute": 14,
+                "second": 14,
+                "nano": 0
+              }
+            },
+            "offset": {
+              "totalSeconds": 3600
+            },
+            "zone": {}
+          },
+          "startLocation": {
+            "lat": 52.6434972,
+            "lng": 13.1053695
+          },
+          "endLocation": {
+            "lat": 52.51758479999999,
+            "lng": 13.2802198
+          },
+          "startAddress": "Zu den Koppeln 1-13, Germany",
+          "endAddress": "Königin-Elisabeth-Straße 55, 14059 Berlin, Germany"
+        }
+      ],
+      "waypointOrder": [],
+      "overviewPolyline": {
+        "points": "{|h`Iqs~nAE~JFzEHnK?fB@`@BLCMkCoImDcL_GoRwEoOa@yBeAmNmBuYCeBLyGN}FLqEOcKc@}K[iJm@iSHaAl@[hA_@`@WF_@CmA]kLk@uKe@uEc@gCO[c@m@k@yAkAmGyAoIsAkHo@iDtGqEnCcB\\O~NaIlH{DlG}CdAa@hDgAvBa@~BUp@CpDDbAHbCZrCr@hA`@rFbClIlEdB`A|EnChBpBjBrClBtCnAdAzBn@\\BpAGrFmAxEgAr@Kl@MbBObBJpAPzA`@rAZr@ZtAjAn@~@xBtEpCdGc@rAEzELzAlAzElA`ExBbITx@~@bFh@vC^vBt@lEfArGExASlDMnCC?C?EDCHBTJFFC@CZZhBn@pEtAbKxBtCGDPNb@x@`BbFdHnDjEvCtCpAj@tAXxBPxF\\tFf@X@rBb@z@t@dAvBbIhR|BrFzChI^zAl@xDhArNl@fHb@`B`C|EnBnE`BpD|DnIhChErAnB`@Zx@`@hD~@ImBUwFkCa|@o@eM_@{Jq@iR]_No@mQk@kPm@iQUiIGoBSeA]i@XuA?mCa@cLI_DD{Bx@oILoAb@Xh@XrA`AX^d@eBr@iClDgMj@yAz@aAf@]LGUoA}@sEYoAdDiLhB{GH_@VsDb@{Lp@uP\\oJJoD`A}TJmATcA\\uAjAoB`HkK`DmFlBuCxDaGxBaE`AwB~AqDl@kApEcK`@aAzAuDdBqDFKr@i@v@y@f@U`AWf@IxAU|@TxI`EdAVfAAtASt@_@~@q@zA_BxB}BxGgH|B{CdCqDpBoChBgCfFoHhBaDxDkHpAyB`AsAjBuBjDcDvFkG~D_DfF}DtDeD`BcBbRuSnDyCpAe@zAe@t@I`ImAxS_DzNoB`D_AzHwBxAi@|Bi@rLwBbASxDqCdDsC`AgAlE_FvJ}JtAaBNFRFnAf@n@Z`Az@pBtDf@xAZpBATAj@Lx@`@t@d@PZ?JELNd@b@|A|CfAdBhAdAj@ZnAb@jBJ|CRzB`@lBd@~Bz@j@TS|@AHVNNmATJtB~@jDxBrAdAx@n@N_@w@y@WWWSJk@P_AdAoEvA}DpIqT`FuLrAwD~CuKnBiJb@_Dd@kFVcH?kDOyCYeCYyA_CyHo@uBm@kCm@yDe@eFO{F@kEPwD\\iEdDg^bAeLdBqRvAuM`BwKpAsHzA{Hr@eFz@cHpAqH|BsLdCePz@qH`Heq@|McrAlAqLQoIIE?OPA@t@DZ|AWb@OBA"
+      },
+      "bounds": {
+        "northeast": {
+          "lat": 52.6507289,
+          "lng": 13.2804161
+        },
+        "southwest": {
+          "lat": 52.51758479999999,
+          "lng": 13.099594
+        }
+      },
+      "copyrights": "Map data ©2023 GeoBasis-DE/BKG (©2009)",
+      "warnings": [
+        "Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,628 @@
+{
+  "meterpolisName": "Berlin",
+  "route": {
+    "from": {
+      "lat": 52.364574694139534,
+      "lng": 13.601606782655693
+    },
+    "to": {
+      "lat": 52.36673850429364,
+      "lng": 13.36981231051273
+    }
+  },
+  "directions": [
+    {
+      "summary": "",
+      "legs": [
+        {
+          "steps": [
+            {
+              "htmlInstructions": "Walk to Schulzendorf (LDS), Flutgraben",
+              "distance": {
+                "inMeters": 145,
+                "humanReadable": "0.1 km"
+              },
+              "duration": {
+                "inSeconds": 102,
+                "humanReadable": "2 mins"
+              },
+              "startLocation": {
+                "lat": 52.3647735,
+                "lng": 13.6012919
+              },
+              "endLocation": {
+                "lat": 52.3654158,
+                "lng": 13.6024776
+              },
+              "steps": [
+                {
+                  "htmlInstructions": "Head \u003cb\u003enorth\u003c/b\u003e toward \u003cb\u003eErnst-Thälmann-Straße\u003c/b\u003e\u003cdiv style\u003d\"font-size:0.9em\"\u003eRestricted usage road\u003c/div\u003e",
+                  "distance": {
+                    "inMeters": 46,
+                    "humanReadable": "46 m"
+                  },
+                  "duration": {
+                    "inSeconds": 31,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.3647735,
+                    "lng": 13.6012919
+                  },
+                  "endLocation": {
+                    "lat": 52.3651665,
+                    "lng": 13.6010798
+                  },
+                  "polyline": {
+                    "points": "ynr~Hao_rAoAh@"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eErnst-Thälmann-Straße\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 99,
+                    "humanReadable": "0.1 km"
+                  },
+                  "maneuver": "turn-right",
+                  "duration": {
+                    "inSeconds": 71,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.3651665,
+                    "lng": 13.6010798
+                  },
+                  "endLocation": {
+                    "lat": 52.3654158,
+                    "lng": 13.6024776
+                  },
+                  "polyline": {
+                    "points": "iqr~Hwm_rAWiCGq@CWCSIo@"
+                  },
+                  "travelMode": "WALKING"
+                }
+              ],
+              "polyline": {
+                "points": "ynr~Hao_rAoAh@WiCGq@CWCSIo@"
+              },
+              "travelMode": "WALKING"
+            },
+            {
+              "htmlInstructions": "Bus towards S Wildau",
+              "distance": {
+                "inMeters": 3898,
+                "humanReadable": "3.9 km"
+              },
+              "duration": {
+                "inSeconds": 540,
+                "humanReadable": "9 mins"
+              },
+              "startLocation": {
+                "lat": 52.365415,
+                "lng": 13.602478
+              },
+              "endLocation": {
+                "lat": 52.343671,
+                "lng": 13.59541
+              },
+              "polyline": {
+                "points": "{rr~Hov_rAHn@BRBVFp@VhCD`@NrAJfAZnCB\\NvAx@fIB\\l@nF@HDb@PxAb@tDBV@Lf@~EJ|@ZvC@XJx@?@VxBFd@T~AX`AN\\dD_EvAeBrBiCx@cAvAgB\\a@x@eAJMjCcDxDgFlE_GXp@lBlF`@jAN\\NXLNPRTJRDVAXENMz@eAp@{@JMX]@CX]vAkBT]DEv@kABEFK~AcCBCPYBC~BwDf@y@Va@R]HMj@}@@?b@s@t@mAdBsBBEBAvAoB~@rCxDrKNb@`AvCz@jCbB`FNb@b@pAd@jAj@~ATn@@DTn@j@~ANd@L\\d@rAPf@DLDJr@tBXk@r@}AjA}Bv@eBN[FK\\u@Tg@P_@BERc@Xo@`@{@P_@Zq@Rc@BB"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "Schulzendorf (LDS), Bremer Str.",
+                  "location": {
+                    "lat": 52.343671,
+                    "lng": 13.59541
+                  }
+                },
+                "departureStop": {
+                  "name": "Schulzendorf (LDS), Flutgraben",
+                  "location": {
+                    "lat": 52.365415,
+                    "lng": 13.602478
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 10,
+                      "minute": 54,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 10,
+                      "minute": 45,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "S Wildau",
+                "headway": 0,
+                "numStops": 6,
+                "line": {
+                  "shortName": "738",
+                  "agencies": [
+                    {
+                      "name": "Regionale Verkehrsgesellschaft Dahme-Spreewald",
+                      "url": "http://www.rvs-lds.de/",
+                      "phone": "011 49 3544 50010"
+                    }
+                  ],
+                  "url": "https://www.vbb.de/fahrinformation/liniennetze/",
+                  "vehicle": {
+                    "name": "Bus",
+                    "type": "BUS",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                    "localIcon": "//maps.gstatic.com/mapfiles/transit/iw2/6/de-berlin-bvg-bus.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Bus towards Flughafen BER - Terminal 1-2",
+              "distance": {
+                "inMeters": 8295,
+                "humanReadable": "8.3 km"
+              },
+              "duration": {
+                "inSeconds": 900,
+                "humanReadable": "15 mins"
+              },
+              "startLocation": {
+                "lat": 52.343671,
+                "lng": 13.59541
+              },
+              "endLocation": {
+                "lat": 52.363446,
+                "lng": 13.5126093
+              },
+              "polyline": {
+                "points": "}jn~Hij~qACCSb@[p@Q^a@z@Yn@Sb@CDQ^Uf@]t@GJOZw@dBkA|Bs@|AYj@o@tA?@]p@CFCD]r@GLo@pAABg@hAUj@Wl@A@Wf@CDeAvBS^aArBuAnCUj@m@nAcAxBIRKTc@bAcAtBAB_@x@Q\\GNkCtFeAzBw@xAqC`GoApCYf@Ud@iA~BWj@oB~D{@jBGJS`@MPEDq@\\SFeAVEBiAZUHi@NkBj@c@L[H[JiA\\KBa@No@j@a@^y@z@c@b@eBbBY^EJEJCXAX@V?FFzAF|@JrBFh@Nl@@JFL^nA@@BNBFXr@Xh@P\\MXcApBUd@c@|@S^INUd@_@v@ABSb@A@]jAWhAY`ACNCDADGRa@|@ADIPO`@CDM^c@fASp@Q~@QbAGv@AFGfAGdBCZEdAE~@ARCZMfBC\\G`BALAxAAN?f@ARArAAFEf@CZALE\\AHARKjACTCRMbACTIpA?N?P?v@A`A?n@?BAzA_@PQHQFu@Bk@@Y@_@@[@sABC?c@@c@@]?[@Y?g@@E?Q@A?O@MBA?MBC?EBMDIBEDIBGFIDIFQJ[VQRe@p@ILU^Yd@GHmAhBKLYb@c@p@ILIJ]h@EFMP_@f@KJi@l@MNc@^]Vc@Zo@`@o@d@QPS?EBo@j@SRQT?AAAAC?AAAAAAAAAAACAACCAA?CAC?AAC?C?A@C?C@A?C@A@GDGFEHEHCJCLAL?L?L?LBL?B@@?B@@@B?@@@@BBFDDDDFDD@F@F?D?H\\D`@?@Ft@@p@BvC@\\?P?F@b@?N?L?@?F?F@z@@^Aj@Ed@CVCLKd@I\\ELCFSr@Ut@Mf@GZABCXEd@AV?V?@@Z?@BZ@Z?VCt@A??@A@A@A@?@A@?@A@?@AB?@A@?B?@?B?@?B?@?B?@?B?@?B@@?@@B?@@@?@@@@@?@@@@@@@@@@?@?NnA?NPfC?B@NVzCN~@Bd@Dd@A?A@A@?@A@A@?@?@A@?@?@?@?B?@?@?@?@?@?B?@?@@@?B?@@@?@?@@@?@@@@@?@@@@?@@@@@?@@@?@?@?ZvANt@bAhHF^BTx@|FLv@?BVhB@JBt@A??@A@A@?@A@?@A@?@A@?B?@A@?B?@?@?B?@?B?@?@?B@@?@?B@@?@@@?@@@?@@@@@?@@?@@@??@DbAEvA?^DV?@F\\X`ARp@BDb@`B@DT`ADT^pBTdBRrAn@jETvA`AvGn@nEp@lEVhBF^b@zCN`A~@lG?BTvAJp@TtAh@rDHf@t@hFBP`@pCF^ARAJAJCJCNCJGNCBEF_@JSF_AVO@UFOFOFA?OHUL_@TYNGBa@TaAh@MF_Ah@WNONMLMRKREHQTOPQNMHINIJOHYLMHSL?@GHELENCNAFAHAZADBj@Lx@DNDVFd@Lz@b@vCJf@@HPdABNDZBRDPBHFJBFBFFHHDJDFDLBLAJCHELG`@URMPKRI\\Qj@YRKHGDALIb@UPKfAm@VMRMZQ^SJGj@[BAd@WVdBT|AHb@v@c@"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "BER Airport – Terminal 1-2",
+                  "location": {
+                    "lat": 52.363446,
+                    "lng": 13.5126093
+                  }
+                },
+                "departureStop": {
+                  "name": "Schulzendorf (LDS), Bremer Str.",
+                  "location": {
+                    "lat": 52.343671,
+                    "lng": 13.59541
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 11,
+                      "minute": 27,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 11,
+                      "minute": 12,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "Flughafen BER - Terminal 1-2",
+                "headway": 0,
+                "numStops": 8,
+                "line": {
+                  "shortName": "736",
+                  "agencies": [
+                    {
+                      "name": "Regionale Verkehrsgesellschaft Dahme-Spreewald",
+                      "url": "http://www.rvs-lds.de/",
+                      "phone": "011 49 3544 50010"
+                    }
+                  ],
+                  "url": "https://www.vbb.de/fahrinformation/liniennetze/",
+                  "vehicle": {
+                    "name": "Bus",
+                    "type": "BUS",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                    "localIcon": "//maps.gstatic.com/mapfiles/transit/iw2/6/de-berlin-bvg-bus.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Commuter train towards S+U Gesundbrunnen Bhf (Berlin)",
+              "distance": {
+                "inMeters": 3892,
+                "humanReadable": "3.9 km"
+              },
+              "duration": {
+                "inSeconds": 180,
+                "humanReadable": "3 mins"
+              },
+              "startLocation": {
+                "lat": 52.363446,
+                "lng": 13.5126093
+              },
+              "endLocation": {
+                "lat": 52.36838100000001,
+                "lng": 13.4636211
+              },
+              "polyline": {
+                "points": "qfr~HydnqAeEjVtThcBXhVc@x[iBbc@cA~KSrAW~AYvBS~AGl@OpAO|AE\\QrBIbAKtAK`BGfAIpAGdBKnCKvBGpAEr@ObBWpBYvAQv@Oj@Ql@Ob@Un@O^GNYh@Yj@i@z@SZIHILSTSRIHc@`@QNg@^KF[RC?q@ZMDC@k@Ps@NC?]DE@SBI?[@i@?Q?]ASCOAOCQEi@KWIc@OYMDW"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "S Waßmannsdorf",
+                  "location": {
+                    "lat": 52.36838100000001,
+                    "lng": 13.4636211
+                  }
+                },
+                "departureStop": {
+                  "name": "BER Airport – Terminal 1-2",
+                  "location": {
+                    "lat": 52.363446,
+                    "lng": 13.5126093
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 11,
+                      "minute": 40,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 11,
+                      "minute": 37,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "S+U Gesundbrunnen Bhf (Berlin)",
+                "headway": 0,
+                "numStops": 1,
+                "line": {
+                  "shortName": "S45",
+                  "agencies": [
+                    {
+                      "name": "S-Bahn Berlin GmbH",
+                      "url": "http://www.s-bahn-berlin.de/",
+                      "phone": "011 49 30 29743333"
+                    }
+                  ],
+                  "url": "https://www.vbb.de/fahrinformation/liniennetze/",
+                  "vehicle": {
+                    "name": "Commuter train",
+                    "type": "COMMUTER_TRAIN",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/rail2.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Bus towards S Teltow Stadt",
+              "distance": {
+                "inMeters": 9980,
+                "humanReadable": "10.0 km"
+              },
+              "duration": {
+                "inSeconds": 1260,
+                "humanReadable": "21 mins"
+              },
+              "startLocation": {
+                "lat": 52.36838100000001,
+                "lng": 13.4636211
+              },
+              "endLocation": {
+                "lat": 52.364996,
+                "lng": 13.377833
+              },
+              "polyline": {
+                "points": "kes~HsrdqAHiAF@D@B@B?B@J?FALGIU]aAGSA?i@qAcAyCQc@EKQk@Ik@AQ?M@KB]DWD_@Jc@N_AdAr@HFJDrAx@^RVPHDDBF@D?J@D?B?JALAH|@\\lEJnALfBPdBHv@@JJx@XdBP`AXvA@BH`@DLPp@Tx@Tv@Zz@Xv@Zt@?@Zl@^v@l@fA~@`Bz@xAz@|AJPXf@Xf@@@n@fAZl@\\n@P^h@lAp@nB@Dx@tCZbBTdAJf@LdAVvCDb@@RHhAFbC@vBC|BEjACt@?BKfBSnBKdAIf@ObA]hBWbAQr@Yx@AFm@hBQb@Un@A@Sh@k@|Ac@jAGPUn@Ul@Qd@Wn@Un@GPCF_@rAg@fBSt@Ux@GXTPLLHDLFLBB?D@@?HAHARAHADCDCJGJKDGFKHS@ABKDOLi@@CRi@PWNMJIDARGJADA\\ClDAD?b@?D?RDLFLFTRHHp@v@j@v@O`@CFK^M^]dA[bASj@CDsAfEIVQh@GNEJSp@CLALALANAL?T@L@LBN@D@FFPBJJRFJZ\\FH`@f@j@p@NNBDh@l@V\\^b@PR`@b@X\\\\d@BB^`@Z^n@v@l@t@VZTVTXVZDFf@n@`@d@JL^b@PPDFDFJLNVDIBGL]Rm@La@FUNc@BGBKFk@@OD]NATCJ?d@?~@@^?L@L?VDNLNRBDDLFVXbAf@jBJ`@Lf@BNBF?@DPDN@@@B@H@DBHBLFf@@L@j@?DCPEVITEJS\\ILc@t@ILgAdBEHOTCDwA`CINY`@}AdCaA`BKNOVWb@ABWj@?@Sl@AFMf@CLIl@EZGj@G`AGr@Kn@M`@CLGNIPEJONCDCBe@pAHPl@`Ap@|Ax@hB\\v@`@x@~@jBzDlI~@nB?@p@tAP^fA~BBFhAxBBDx@bBFLf@`AHLBFn@nA|@fBFJU^]j@uDjGm@bAy@pAWd@[f@{@xAU^CFILo@jAcAlBg@rAOb@OGwG_BgFmABZV|ED`AIRABAFAH?D?HNdA`@KHC?[Cc@K[ACACAACAQGEaAW}EC[yEiAaAWkAYgAWkBc@uA[k@KYGyAYu@IICGAaB]ICEz@ElDAjAC|BAx@CpAAt@EbBIxDATApA?h@A~@Az@AT?VA~@C|@C|@CfBG`CCxACbA?R?\\Bn@D~ABxAFhB?DJ`H@V@RDrBDnAF`CB|@@\\BdA@`@?J@NPrBRxB@`@?LALCTFFDBBBB@@DHJ@B@BBDDLRh@Z~@Pf@BJBJFTDTDN@H@F@FHt@PlBBZJfA@PJxA@L@RHnAB^?J@R@f@@T?R?@Cn@?JC\\AXCv@MnCC`@E~@C^AVS~DAHEt@?@KrBInAALALOxBKxAKtAEv@QlBAPA`@Cv@An@?nAARDfC?D?\\@lCA|BAdGAtB?x@K?"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "Mahlow, Teltower Str.",
+                  "location": {
+                    "lat": 52.364996,
+                    "lng": 13.377833
+                  }
+                },
+                "departureStop": {
+                  "name": "S Waßmannsdorf",
+                  "location": {
+                    "lat": 52.36838100000001,
+                    "lng": 13.4636211
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 12,
+                      "minute": 26,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 12,
+                      "minute": 5,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "S Teltow Stadt",
+                "headway": 0,
+                "numStops": 10,
+                "line": {
+                  "shortName": "600",
+                  "agencies": [
+                    {
+                      "name": "Verkehrsgesellschaft Teltow-Fläming",
+                      "url": "http://www.vtf-online.de/"
+                    }
+                  ],
+                  "url": "https://www.vbb.de/fahrinformation/liniennetze/",
+                  "vehicle": {
+                    "name": "Bus",
+                    "type": "BUS",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                    "localIcon": "//maps.gstatic.com/mapfiles/transit/iw2/6/de-berlin-bvg-bus.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Walk to L76, 15831 Großbeeren, Germany",
+              "distance": {
+                "inMeters": 689,
+                "humanReadable": "0.7 km"
+              },
+              "duration": {
+                "inSeconds": 505,
+                "humanReadable": "8 mins"
+              },
+              "startLocation": {
+                "lat": 52.3649447,
+                "lng": 13.3778314
+              },
+              "endLocation": {
+                "lat": 52.36664760000001,
+                "lng": 13.3713539
+              },
+              "steps": [
+                {
+                  "htmlInstructions": "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eTeltower Str.\u003c/b\u003e toward \u003cb\u003eAn d. Badeanstalt\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 456,
+                    "humanReadable": "0.5 km"
+                  },
+                  "duration": {
+                    "inSeconds": 331,
+                    "humanReadable": "6 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.3649447,
+                    "lng": 13.3778314
+                  },
+                  "endLocation": {
+                    "lat": 52.3645592,
+                    "lng": 13.3711784
+                  },
+                  "polyline": {
+                    "points": "{or~HmzspAAz@AtC?\\ARAtA?JAx@?BAl@?d@@d@Dj@Bj@HlAB^LdBNdCF|@Dh@F`AHvD"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eright\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 233,
+                    "humanReadable": "0.2 km"
+                  },
+                  "maneuver": "turn-right",
+                  "duration": {
+                    "inSeconds": 174,
+                    "humanReadable": "3 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.3645592,
+                    "lng": 13.3711784
+                  },
+                  "endLocation": {
+                    "lat": 52.36664760000001,
+                    "lng": 13.3713539
+                  },
+                  "polyline": {
+                    "points": "omr~H{prpAK@G@SDc@@gBIA?_@CkE_@"
+                  },
+                  "travelMode": "WALKING"
+                }
+              ],
+              "polyline": {
+                "points": "{or~HmzspAAz@AtC?\\ARAtA?JAx@?BAl@?d@@d@Dj@Bj@HlAB^LdBNdCF|@Dh@F`AHvDK@G@SDc@@gBIA?_@CkE_@"
+              },
+              "travelMode": "WALKING"
+            }
+          ],
+          "distance": {
+            "inMeters": 26899,
+            "humanReadable": "26.9 km"
+          },
+          "duration": {
+            "inSeconds": 6667,
+            "humanReadable": "1 hour 51 mins"
+          },
+          "arrivalTime": {
+            "dateTime": {
+              "date": {
+                "year": 2023,
+                "month": 1,
+                "day": 22
+              },
+              "time": {
+                "hour": 12,
+                "minute": 34,
+                "second": 25,
+                "nano": 0
+              }
+            },
+            "offset": {
+              "totalSeconds": 3600
+            },
+            "zone": {}
+          },
+          "departureTime": {
+            "dateTime": {
+              "date": {
+                "year": 2023,
+                "month": 1,
+                "day": 22
+              },
+              "time": {
+                "hour": 10,
+                "minute": 43,
+                "second": 18,
+                "nano": 0
+              }
+            },
+            "offset": {
+              "totalSeconds": 3600
+            },
+            "zone": {}
+          },
+          "startLocation": {
+            "lat": 52.3647735,
+            "lng": 13.6012919
+          },
+          "endLocation": {
+            "lat": 52.36664760000001,
+            "lng": 13.3713539
+          },
+          "startAddress": "Hans-Sachs-Straße 11, 15732 Schulzendorf, Germany",
+          "endAddress": "L76, 15831 Großbeeren, Germany"
+        }
+      ],
+      "waypointOrder": [],
+      "overviewPolyline": {
+        "points": "ynr~Hao_rAoAh@WiCKiAMcArAtMbDh[z@tHpAnMj@zEn@`DN\\dD_EjEoFpCkDnFyGfKgNfC~Gp@hB\\h@f@^j@Bh@SlBaC`AmAjD{ElHiL`BkCd@s@zCaEFGvAoB~@rChEvL|BbH|DbLxAdE`EnLdM_XqCdGeFnKkJfS}JvSyDnIeRl`@kEbJa@r@w@b@iD~@oErAmCv@a@No@j@{AzAiCfC_@j@Id@?p@ZtG`@pBh@hBr@|AP\\MXyAvCw@|A_AlBu@tBy@`DyAvDw@xBc@bCYlFo@xLE~CKvCc@zE[zDAzDA~Aq@ZgAJeABsCFaCD{BHgAb@aAp@wArBmEvGq@bAcBpBuCtBaAv@YBuArAEISO[?OHWf@Ev@D`@P^ZNL?N~@L`GBzABjCKhB_@~A{@xCS~AD~CGx@EFER?TN^TpARjDf@zEHjAEBEL?PH^LF^vA~AtK~AbLBbAIN@j@FNDB?zDf@xBz@xC|@nEnB|MvHjh@dDzTh@pDC^Mr@KRe@RcB`@w@V_B|@yBjAgBhAg@t@y@`Aq@n@{@f@Wv@Gr@PdBJf@dA`Hj@jDVd@j@Tp@SzAy@pDmBjFuCd@WVdB^`Cv@c@eEjVtThcBXhVc@x[iBbc@wArNmAdJw@`Ii@bIi@~LMdCg@tEmAhF}@bCqBlD{@`AgBzA}Av@qBh@{@JaB@aAGcB_@}@]NaBTDd@Gq@kBeC{G[wAA_@PaBZcBnAz@vCdB\\J`@?LAH|@h@|Gj@pGpAxHb@dB`BdFvA|CfHdMzBdEzA|Dz@zCjAvGh@xGHzFIhEc@pGUlBm@lDeAxDcEdLuArDaA|CyApFl@d@d@Lh@E`@Qb@s@XgATm@`@e@p@UvEGh@?`@L~A|Aj@v@O`@Of@{AtEyCjJGx@F`ANj@v@fAtErFhEdFxE|FbAjAPTNVDIPe@`@oA^mAH{@D]NA`@CdB@rAF^`@HRtAhFT`AZnAJfBYjAmDzFoIfNm@~A]jB]|De@nBc@r@i@tAv@rAjDxHzHjP~GnNdBfDdArBs@jAuHfMqBhDy@xAkB`EOb@OG_OmDZxFD`AIRCJANNnAj@OC_AM_@YO]_HC[yEiAmCq@sD{@uFiAiDm@ICEz@GxFK~HSdKOnKSfKH`Ef@zUPbHTpDTzCAZCTFFHFPV^`At@~BTdA|@bKVnF[pIk@xKaAjO[xEGjEFxHErPK?J?CpECfCCvBJbDj@xILfBPxFkAJuIm@"
+      },
+      "bounds": {
+        "northeast": {
+          "lat": 52.369851,
+          "lng": 13.6024776
+        },
+        "southwest": {
+          "lat": 52.3436864,
+          "lng": 13.3711195
+        }
+      },
+      "copyrights": "Map data ©2023 GeoBasis-DE/BKG (©2009)",
+      "warnings": [
+        "Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths."
+      ]
+    }
+  ]
+}

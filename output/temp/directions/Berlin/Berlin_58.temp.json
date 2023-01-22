@@ -1,0 +1,386 @@
+{
+  "meterpolisName": "Berlin",
+  "route": {
+    "from": {
+      "lat": 52.65747332626816,
+      "lng": 13.144007098087268
+    },
+    "to": {
+      "lat": 52.58841407420206,
+      "lng": 13.136662266804976
+    }
+  },
+  "directions": [
+    {
+      "summary": "",
+      "legs": [
+        {
+          "steps": [
+            {
+              "htmlInstructions": "Walk to Bötzow, Kirche",
+              "distance": {
+                "inMeters": 880,
+                "humanReadable": "0.9 km"
+              },
+              "duration": {
+                "inSeconds": 641,
+                "humanReadable": "11 mins"
+              },
+              "startLocation": {
+                "lat": 52.6575114,
+                "lng": 13.143078
+              },
+              "endLocation": {
+                "lat": 52.6503104,
+                "lng": 13.1417907
+              },
+              "steps": [
+                {
+                  "htmlInstructions": "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eMarwitzer Str.\u003c/b\u003e toward \u003cb\u003eVeltener Str.\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 588,
+                    "humanReadable": "0.6 km"
+                  },
+                  "duration": {
+                    "inSeconds": 424,
+                    "humanReadable": "7 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.6575114,
+                    "lng": 13.143078
+                  },
+                  "endLocation": {
+                    "lat": 52.6522789,
+                    "lng": 13.1429327
+                  },
+                  "polyline": {
+                    "points": "mtk`Ig_foAx@DlAFN@rAHx@DT@nAFp@DlAHj@Bt@Dd@BR?r@AlBCj@AV@dB@HA@?@A@?@ABC@A@C@A@GBK"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVeltener Str.\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 48,
+                    "humanReadable": "48 m"
+                  },
+                  "maneuver": "turn-right",
+                  "duration": {
+                    "inSeconds": 35,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.6522789,
+                    "lng": 13.1429327
+                  },
+                  "endLocation": {
+                    "lat": 52.6518638,
+                    "lng": 13.1427555
+                  },
+                  "polyline": {
+                    "points": "wsj`Ii~eoAVLPHh@H"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Continue onto \u003cb\u003eSchönwalder Str.\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 133,
+                    "humanReadable": "0.1 km"
+                  },
+                  "duration": {
+                    "inSeconds": 97,
+                    "humanReadable": "2 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.6518638,
+                    "lng": 13.1427555
+                  },
+                  "endLocation": {
+                    "lat": 52.6507289,
+                    "lng": 13.1432781
+                  },
+                  "polyline": {
+                    "points": "cqj`Ig}eoA\\@j@Cb@OZQbAs@RO"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eDorfaue\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 111,
+                    "humanReadable": "0.1 km"
+                  },
+                  "maneuver": "turn-right",
+                  "duration": {
+                    "inSeconds": 85,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.6507289,
+                    "lng": 13.1432781
+                  },
+                  "endLocation": {
+                    "lat": 52.6503104,
+                    "lng": 13.1417907
+                  },
+                  "polyline": {
+                    "points": "ajj`Io`foAl@`D@Fb@~B"
+                  },
+                  "travelMode": "WALKING"
+                }
+              ],
+              "polyline": {
+                "points": "mtk`Ig_foAx@DlAFN@rAHx@DT@nAFp@DlAHj@Bt@Dd@BR?r@AlBCj@AV@dB@HA@?@A@?@ABC@A@C@A@GBKVLPHh@H\\@j@Cb@OZQbAs@ROl@`D@Fb@~B"
+              },
+              "travelMode": "WALKING"
+            },
+            {
+              "htmlInstructions": "Bus towards Galenstr. (Berlin)",
+              "distance": {
+                "inMeters": 11541,
+                "humanReadable": "11.5 km"
+              },
+              "duration": {
+                "inSeconds": 1140,
+                "humanReadable": "19 mins"
+              },
+              "startLocation": {
+                "lat": 52.65031,
+                "lng": 13.141791
+              },
+              "endLocation": {
+                "lat": 52.5959817,
+                "lng": 13.151547
+              },
+              "polyline": {
+                "points": "mgj`IeweoAc@_CAGm@aDtDeC~AkAPM`@Wt@e@d@WFEB?JGDAzAw@BCFCvC}Av@c@xCcBJE`@Uf@U^U|@g@dB_Ab@S@ALGLIzAu@x@a@f@WnAm@DCNE`@QLEv@YPGr@Sj@QXGb@KPEf@G`BS\\APA^AbAAlBFd@D\\BXBH@b@Dz@NjB`@f@PXJn@T`A`@`Bp@TLx@`@~@d@fCtAj@XxAv@XNn@ZDBTPn@\\rAp@h@Zn@b@h@d@n@v@NRX`@LRLPt@jAjAfB`@l@l@l@`@VFBh@Rd@Lb@HTBF?d@?j@Gb@In@M^K~Bi@DAfBa@bBa@FAL@d@Md@IFCPCVEFAp@CP?J@^Bd@Dz@PT?LFlAXx@NXJXJXNf@^JHTRJLNP^l@Tb@bBpDjAfCj@nAJTLVO\\ELITCPAVEdC?b@@X@XB\\DZ@FDXF\\L`@p@`Cf@bB@HHVXz@d@~ATx@Jh@p@~BBHPn@T|@h@dDRhADTLl@@HHh@Hb@H`@@F@HFZPbAXbBn@`DHp@Fb@DZ?VE`AK~AGlAEdAAb@APCRA?A?A?A??@A??@A??@A??@?@A??@?@?@A??@?@?@?@?@?@?@@??@?@?@@??@?@@??@@@@??@@?@?@?@?@A@??A@??A?A@??AZ\\j@RVJTHNDHBRHHBh@PNF|@VZHTFjAXzBd@z@Rf@Lh@JRDNBH@tCGDPLZ@FNZLZHJP\\Zf@TZZb@NV`@h@PTX^v@dA^d@RVb@h@PT^^?@FF\\b@v@x@b@b@b@`@VTRJb@RLDJDf@Ll@Jp@HfAFzAJP@|BLL@fAJXBh@HhBLX@fBZJFTLFFJJPRT\\JRJVVl@Zr@Zv@h@nAn@|AbA|B@@z@rBn@zAp@|ADHDJ~@~BXt@Pb@rAnDZ~@J^Rz@VpATfBTjCRzCJ~@RjCH~@RvCHt@DXDR\\lA\\x@bBbDDPVh@^z@p@vAb@~@LVTj@Xl@f@bAvA|C`@v@Zt@^n@R\\^l@t@lA@@Zd@Zf@X^@@^Xb@XTF`@NfCn@Eo@C}@Ay@IcBGkAAMSyF?AOyEGoBQmG_@uN[_JQwFQiEAIUcEEm@Q{D?S?IMaDSaG?[KaBQiFQaGK}EEyAi@sNQyFE}@QcFAOUgHGoACu@K{CI}CGmBA[Aa@GoBSeAQ]KKPk@BK?AB[@i@@SCoA?MAIAc@ASI}BGsAIkB?UCc@CcA?GAo@?q@Be@@_@?CDi@Ho@NgBXmCLoAb@XDFb@PNHTNVPTTX^d@eBHYh@oBRu@Ng@xAkFn@}BFQJ_@BERa@@AHMTYXW@AROBCLGLGUoAQ_Ak@sCESS{@zB{Hh@mBPu@jAgEHU@G@EBK@C@IBM@MD]@Y?CD{@@M@QHcB@i@@AA?"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "Schönwalde (HVL), Steinerne Brücke",
+                  "location": {
+                    "lat": 52.5959817,
+                    "lng": 13.151547
+                  }
+                },
+                "departureStop": {
+                  "name": "Bötzow, Kirche",
+                  "location": {
+                    "lat": 52.65031,
+                    "lng": 13.141791
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 10,
+                      "minute": 42,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 10,
+                      "minute": 23,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "Galenstr. (Berlin)",
+                "headway": 0,
+                "numStops": 14,
+                "line": {
+                  "shortName": "671",
+                  "agencies": [
+                    {
+                      "name": "Havelbus",
+                      "url": "http://www.havelbus.de/",
+                      "phone": "011 49 331 7491400"
+                    }
+                  ],
+                  "url": "https://www.vbb.de/fahrinformation/liniennetze/",
+                  "vehicle": {
+                    "name": "Bus",
+                    "type": "BUS",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                    "localIcon": "//maps.gstatic.com/mapfiles/transit/iw2/6/de-berlin-bvg-bus.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Walk to Eiskeller Weg 78, 13587 Berlin, Germany",
+              "distance": {
+                "inMeters": 1500,
+                "humanReadable": "1.5 km"
+              },
+              "duration": {
+                "inSeconds": 1086,
+                "humanReadable": "18 mins"
+              },
+              "startLocation": {
+                "lat": 52.5959772,
+                "lng": 13.1515189
+              },
+              "endLocation": {
+                "lat": 52.5886811,
+                "lng": 13.1364058
+              },
+              "steps": [
+                {
+                  "htmlInstructions": "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eBerliner Allee\u003c/b\u003e toward \u003cb\u003eZaunkönigsteig\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 92,
+                    "humanReadable": "92 m"
+                  },
+                  "duration": {
+                    "inSeconds": 69,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.5959772,
+                    "lng": 13.1515189
+                  },
+                  "endLocation": {
+                    "lat": 52.5958766,
+                    "lng": 13.1528645
+                  },
+                  "polyline": {
+                    "points": "{s_`I_tgoA?C@UB{@Bw@H}B"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eright\u003c/b\u003e\u003cdiv style\u003d\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                  "distance": {
+                    "inMeters": 1408,
+                    "humanReadable": "1.4 km"
+                  },
+                  "maneuver": "turn-right",
+                  "duration": {
+                    "inSeconds": 1017,
+                    "humanReadable": "17 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.5958766,
+                    "lng": 13.1528645
+                  },
+                  "endLocation": {
+                    "lat": 52.5886811,
+                    "lng": 13.1364058
+                  },
+                  "polyline": {
+                    "points": "gs_`Ik|goALLlAzAZ^@BZb@\\b@n@|@`AlAx@fA`AlAjAxANRHNVXr@~@RTr@`AJLNPBDBFBD@BDHv@rBPd@HXHVLh@XrAP`AF\\DVJd@@JDN@FBL`@vBXvA^xBXxA`@zBN~@FVFZLj@ZhB\\nBDZDTVjAJj@FVBRX~AP|@PdA`@pBH`@Hb@ZhB`@lBTfA@HDLDJ@D"
+                  },
+                  "travelMode": "WALKING"
+                }
+              ],
+              "polyline": {
+                "points": "{s_`I_tgoA?C@UB{@Bw@H}BLLlAzAZ^@BZb@\\b@n@|@`AlAx@fA`AlAjAxANRHNVXr@~@RTr@`AJLNPBDBFBD@BDHv@rBPd@HXHVLh@XrAP`AF\\DVJd@@JDN@FBL`@vBXvA^xBXxA`@zBN~@FVFZLj@ZhB\\nBDZDTVjAJj@FVBRX~AP|@PdA`@pBH`@Hb@ZhB`@lBTfA@HDLDJ@D"
+              },
+              "travelMode": "WALKING"
+            }
+          ],
+          "distance": {
+            "inMeters": 13921,
+            "humanReadable": "13.9 km"
+          },
+          "duration": {
+            "inSeconds": 2868,
+            "humanReadable": "48 mins"
+          },
+          "arrivalTime": {
+            "dateTime": {
+              "date": {
+                "year": 2023,
+                "month": 1,
+                "day": 22
+              },
+              "time": {
+                "hour": 11,
+                "minute": 0,
+                "second": 6,
+                "nano": 0
+              }
+            },
+            "offset": {
+              "totalSeconds": 3600
+            },
+            "zone": {}
+          },
+          "departureTime": {
+            "dateTime": {
+              "date": {
+                "year": 2023,
+                "month": 1,
+                "day": 22
+              },
+              "time": {
+                "hour": 10,
+                "minute": 12,
+                "second": 18,
+                "nano": 0
+              }
+            },
+            "offset": {
+              "totalSeconds": 3600
+            },
+            "zone": {}
+          },
+          "startLocation": {
+            "lat": 52.6575114,
+            "lng": 13.143078
+          },
+          "endLocation": {
+            "lat": 52.5886811,
+            "lng": 13.1364058
+          },
+          "startAddress": "Marwitzer Str. 40, 16727 Oberkrämer, Germany",
+          "endAddress": "Eiskeller Weg 78, 13587 Berlin, Germany"
+        }
+      ],
+      "waypointOrder": [],
+      "overviewPolyline": {
+        "points": "mtk`Ig_foA|Ln@tEVtDErD?FCHKDSh@Vh@H\\@j@Cb@O~AeAROl@`Dd@fCe@gCm@aDtDeCpByAvA}@|@e@lBaAtJkF`IgEjEyBtAq@p@WjC{@zBk@hC[n@CbBCrCLdBNfDp@`A\\hFvBlHvDhDfBdAn@|BlAxAhAn@v@dAzA`CrD`@l@l@l@h@ZnA`@x@Ll@?nAQnAYpIoBT?jAWx@ObACj@D`BVT?LFfCh@r@V`An@`@\\Z^t@pAfF~KLVO\\Ob@Eh@EhDBr@Hx@\\`BdBfG~@zC`@bB|AvFpBlL\\pBhAdGPtADr@Q`DQhEERA?A?C@EFAJDRDBFADE?AZ\\j@Rl@Tv@VrCz@xGzAtBb@~CERl@h@jAl@dAp@~@|AvBnClDx@~@tA|AfAdAj@`@p@Xr@R~ATrHb@tALbALbCNfBZ`@TRRf@p@Vj@xBhFpDpIlBnE~DhKf@~Aj@lCj@rF^zEz@xKJl@\\lA\\x@hBtDv@dBxBzEzDfIz@dBr@jAnB|CZ`@bAr@v@VfCn@Eo@EwBQoDe@cNuAse@c@aMWmEWgGa@cLK}Bc@kNQwHsAo_@c@}L_@cMIqCSeAQ]KKPk@BMFyAGkC]qIGeCAaBDeA^eEf@}Eh@`@r@Zl@`@n@t@n@_C|@eDhBsGfAuDTc@^g@r@m@ZOg@oCq@gDS{@zB{Hz@cDtA}EH]LcAHgBNaDAD@YFsBH}BLLhBzB\\f@hEvFfDjEvD~EbAfCZ~@V`Ax@jEThArDdSnA`Hn@hD~BfMtAhHL^"
+      },
+      "bounds": {
+        "northeast": {
+          "lat": 52.6575114,
+          "lng": 13.1528645
+        },
+        "southwest": {
+          "lat": 52.5886811,
+          "lng": 13.1012733
+        }
+      },
+      "copyrights": "Map data ©2023 GeoBasis-DE/BKG (©2009)",
+      "warnings": [
+        "Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths."
+      ]
+    }
+  ]
+}

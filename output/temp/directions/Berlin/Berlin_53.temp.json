@@ -1,0 +1,628 @@
+{
+  "meterpolisName": "Berlin",
+  "route": {
+    "from": {
+      "lat": 52.40133182611451,
+      "lng": 13.096501176363358
+    },
+    "to": {
+      "lat": 52.519911305507875,
+      "lng": 13.125060897301386
+    }
+  },
+  "directions": [
+    {
+      "summary": "",
+      "legs": [
+        {
+          "steps": [
+            {
+              "htmlInstructions": "Walk to Potsdam, Spindelstr.",
+              "distance": {
+                "inMeters": 723,
+                "humanReadable": "0.7 km"
+              },
+              "duration": {
+                "inSeconds": 510,
+                "humanReadable": "9 mins"
+              },
+              "startLocation": {
+                "lat": 52.4011772,
+                "lng": 13.0966433
+              },
+              "endLocation": {
+                "lat": 52.3964615,
+                "lng": 13.0943325
+              },
+              "steps": [
+                {
+                  "htmlInstructions": "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eAllee nach Glienicke\u003c/b\u003e toward \u003cb\u003eKarl-Liebknecht-Straße\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 99,
+                    "humanReadable": "0.1 km"
+                  },
+                  "duration": {
+                    "inSeconds": 81,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.4011772,
+                    "lng": 13.0966433
+                  },
+                  "endLocation": {
+                    "lat": 52.4016296,
+                    "lng": 13.0979071
+                  },
+                  "polyline": {
+                    "points": "kry~H_}|nAWiAI[e@cBQs@"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Sharp \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eKarl-Liebknecht-Straße\u003c/b\u003e\u003cdiv style\u003d\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                  "distance": {
+                    "inMeters": 624,
+                    "humanReadable": "0.6 km"
+                  },
+                  "maneuver": "turn-sharp-right",
+                  "duration": {
+                    "inSeconds": 429,
+                    "humanReadable": "7 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.4016296,
+                    "lng": 13.0979071
+                  },
+                  "endLocation": {
+                    "lat": 52.3964615,
+                    "lng": 13.0943325
+                  },
+                  "polyline": {
+                    "points": "euy~H}d}nA^X^XLFFFpAz@`@XnAz@^VDBhAr@z@l@TNNJp@T~@d@RJt@b@@@x@f@`@Zn@\\nC~AbAj@"
+                  },
+                  "travelMode": "WALKING"
+                }
+              ],
+              "polyline": {
+                "points": "kry~H_}|nAWiAI[e@cBQs@^X^XLFFFpAz@`@XnAz@^VDBhAr@z@l@TNNJp@T~@d@RJt@b@@@x@f@`@Zn@\\nC~AbAj@"
+              },
+              "travelMode": "WALKING"
+            },
+            {
+              "htmlInstructions": "Bus towards Potsdam, Stern-Center/Gerlachstr.",
+              "distance": {
+                "inMeters": 3318,
+                "humanReadable": "3.3 km"
+              },
+              "duration": {
+                "inSeconds": 540,
+                "humanReadable": "9 mins"
+              },
+              "startLocation": {
+                "lat": 52.396471,
+                "lng": 13.094293
+              },
+              "endLocation": {
+                "lat": 52.3948943,
+                "lng": 13.12847
+              },
+              "polyline": {
+                "points": "}tx~Hin|nA@GcAk@~FmUDMJq@r@mCj@{BVcAdAgE?C?C?E@[IeFqBjAGDOHwBnAy@h@?cABgD?K?GAG?AAA?ACAGIqBm@gA[iBg@a@Mi@O[MaA_@CADkADgABo@Do@HsABUH}@Hi@b@iCDc@b@_DVwBTqBPaBXqC@Q@M@_F?_J?g@CuD?UAkBAqA?iAC{@AkAAa@AmBAcC?e@A}Ap@Fb@DB?RBB@@@BD?D@f@@T?B?@@@@@@@@?x@EvB?p@?`@@b@?~A@n@@IcBC_@IiBG{@M{BACCaASiDAUA]Cc@AYGiB?OAQQeFAuAAu@?SAgA?[EoDAyAAaAAaB?iAC_BCo@^[BE@C@E?E?E`@G"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "Griebnitzsee",
+                  "location": {
+                    "lat": 52.3948943,
+                    "lng": 13.12847
+                  }
+                },
+                "departureStop": {
+                  "name": "Potsdam, Spindelstr.",
+                  "location": {
+                    "lat": 52.396471,
+                    "lng": 13.094293
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 10,
+                      "minute": 42,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 10,
+                      "minute": 33,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "Potsdam, Stern-Center/Gerlachstr.",
+                "headway": 0,
+                "numStops": 6,
+                "line": {
+                  "shortName": "694",
+                  "agencies": [
+                    {
+                      "name": "Verkehrsbetrieb Potsdam GmbH",
+                      "url": "http://www.vip-potsdam.de/",
+                      "phone": "011 49 331 6614694"
+                    }
+                  ],
+                  "url": "https://www.vbb.de/fahrinformation/liniennetze/",
+                  "vehicle": {
+                    "name": "Bus",
+                    "type": "BUS",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                    "localIcon": "//maps.gstatic.com/mapfiles/transit/iw2/6/de-berlin-bvg-bus.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Commuter train towards S Ahrensfelde Bhf (Berlin)",
+              "distance": {
+                "inMeters": 17602,
+                "humanReadable": "17.6 km"
+              },
+              "duration": {
+                "inSeconds": 1200,
+                "humanReadable": "20 mins"
+              },
+              "startLocation": {
+                "lat": 52.3948943,
+                "lng": 13.12847
+              },
+              "endLocation": {
+                "lat": 52.5050174,
+                "lng": 13.302653
+              },
+              "polyline": {
+                "points": "akx~H}ccoAj@M?AEo@Ae@KqCK_DOwDKmCI{BOiCKiAMmAMeASwAc@cC[uAOo@m@yBEIY{@i@}Ai@oAi@eAe@}@We@i@{@uAkBmA}AQU[_@q@aAMQKOIMEIQUa@k@GGSWSWAAACu@_ASYAAOSMM[c@QSqCoDKMm@u@iFsGyBqCs@}@eAoAkA{Am@y@KKaByBCAMQMOcC_DuAgBsAeBsCqDg@o@iB}ByBsCs@}@_BoBeCaDgB_C}@gAo@y@i@s@a@m@CC_@i@]e@c@u@s@oAm@qAg@iAYw@m@cBM]m@mBI[Su@U{@s@wCa@_By@mD{CsMk@aC_@cB_AyDWeAc@kBAGOo@eAmEc@iBMm@Oi@WeAY_AUw@w@}Bw@{BAEk@}AQe@Yw@M_@k@}Ae@oAg@qAUq@ISGM[{@Oa@KW_@eASe@O]AEEIO[M]IKMY]q@AEm@kAAAuAoC[m@EKCIKQo@sAMUQ_@_@y@Um@a@cAq@aBWo@KWm@}Aq@gBg@oACGiBiEm@{A_CwFQ_@Ue@Ua@CEi@{@w@iA}@iAeByBa@g@iAsAoB}BkB}Bm@u@i@q@gB_Cq@w@GG]c@[_@EC[YQSOMOOOOa@_@i@i@[][_@EEWWUSIIWSg@WAAMGQEKCGCOAgAOc@I_@Em@IAAgAQ{Ac@CAw@UMGk@W_@SQKOKg@Ue@YWOw@i@GEo@g@iByAe@e@MMy@{@oAuAQUcB}B}@gAIOWYiA_B[e@m@{@w@uAGGo@}@}@oAmAaBi@u@QUy@gA}@mA[c@[c@eAyAq@_Ac@k@u@cAqAgByAoBaB{B_BwBiA}AQWiAyAaAuAkAaBmAaB}@kAkAaBcAsAy@kAkAaBaAqAaAsAkA}AMQe@o@u@cAoAcB[a@e@s@iBcC}AuBm@{@cCeDiCmDeAuA]g@sBqC[c@IMKOsAgBGKo@{@_@i@cB{Bm@y@e@s@q@}@o@y@}@oAcAuAaAsAmAaBuAiBoAeBqBoC}AwB{AuBi@s@{B}CsCyDSYaAoAIKGKe@m@}AuBuAqBe@o@oIeLoBkCuBwCyEsGqEiGwAoB]e@w@gA]c@_AqAGGIMQUsAiBi@s@k@w@uC_EsBqCuAkBeBaCqAgBiBeCsBoC{@kAc@o@CE_AuAg@}@{@_BwA{CgAeCgBeEm@yA]y@[u@CEe@aAiAwBi@y@u@mAQUg@q@y@eA{@eAa@i@{BmCqBoBgA}@wA_A_@WGE[SkAu@_CwAGEaAm@A?_Am@a@YyA}@GEw@i@GEa@Y_@[_@YOO_AaAk@o@u@cAMQW]e@q@CGSYwAwBAEMSe@w@q@qAWi@]w@Wk@KUWm@_@_A_@y@w@oBYo@O]Ys@]w@_@w@c@y@u@oA_A{Ao@}@aAiAsAuAiAaAGGgAcAsAiAu@q@i@e@a@]w@s@gA_A}@{@mAoA_AoAqAgBwAqBoAaBAAkAaBGI_AqAa@k@c@k@EKi@cAIOQ[Qa@K_@c@sAAIOs@ACS_Aq@cC?CQcAi@sCOu@g@gCUkA[cB_AcF_@aBGWeA{E]uAo@{CUcAc@oBe@wBOo@WkAI_@Ss@GWEQCOCQKg@CIiA{FScAg@cCOo@OaAU{AIe@SkAWiBU}AGq@?CM_AQeBEk@Em@]}EAWUgDI}@WmDYgEIsAI}@AAEc@Gk@o@}EEU_@oCY{BQkAQsAUaBGe@MaAAIAIEUCUMaAEOUaBSaBEYWkBIk@eAh@"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "Charlottenburg",
+                  "location": {
+                    "lat": 52.5050174,
+                    "lng": 13.302653
+                  }
+                },
+                "departureStop": {
+                  "name": "Griebnitzsee",
+                  "location": {
+                    "lat": 52.3948943,
+                    "lng": 13.12847
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 11,
+                      "minute": 7,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 10,
+                      "minute": 47,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "S Ahrensfelde Bhf (Berlin)",
+                "headway": 0,
+                "numStops": 5,
+                "line": {
+                  "shortName": "S7",
+                  "color": "#7a6dac",
+                  "agencies": [
+                    {
+                      "name": "S-Bahn Berlin GmbH",
+                      "url": "http://www.s-bahn-berlin.de/",
+                      "phone": "011 49 30 29743333"
+                    }
+                  ],
+                  "url": "https://www.vbb.de/fahrinformation/liniennetze/",
+                  "vehicle": {
+                    "name": "Commuter train",
+                    "type": "COMMUTER_TRAIN",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/rail2.png",
+                    "localIcon": "//maps.gstatic.com/mapfiles/transit/iw2/6/de-sbahn.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Walk to Kaiser-Friedrich-Str./Kantstr.",
+              "distance": {
+                "inMeters": 139,
+                "humanReadable": "0.1 km"
+              },
+              "duration": {
+                "inSeconds": 140,
+                "humanReadable": "2 mins"
+              },
+              "startLocation": {
+                "lat": 52.5050174,
+                "lng": 13.302653
+              },
+              "endLocation": {
+                "lat": 52.50623909999999,
+                "lng": 13.302413
+              },
+              "steps": [
+                {
+                  "htmlInstructions": "Take exit \u003cspan class\u003d\"location\"\u003e\u003c/span\u003e",
+                  "distance": {
+                    "inMeters": 11,
+                    "humanReadable": "11 m"
+                  },
+                  "duration": {
+                    "inSeconds": 12,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.5050174,
+                    "lng": 13.302653
+                  },
+                  "endLocation": {
+                    "lat": 52.505084,
+                    "lng": 13.3025191
+                  },
+                  "polyline": {
+                    "points": "k{m_IqdepAKX"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "distance": {
+                    "inMeters": 128,
+                    "humanReadable": "0.1 km"
+                  },
+                  "duration": {
+                    "inSeconds": 128,
+                    "humanReadable": "2 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.505084,
+                    "lng": 13.3025191
+                  },
+                  "endLocation": {
+                    "lat": 52.50623909999999,
+                    "lng": 13.302413
+                  },
+                  "polyline": {
+                    "points": "w{m_IwcepAgFT"
+                  },
+                  "travelMode": "WALKING"
+                }
+              ],
+              "polyline": {
+                "points": "k{m_IqdepAKXgFT"
+              },
+              "travelMode": "WALKING"
+            },
+            {
+              "htmlInstructions": "Bus towards Heerstr./Nennhauser Damm",
+              "distance": {
+                "inMeters": 13116,
+                "humanReadable": "13.1 km"
+              },
+              "duration": {
+                "inSeconds": 1980,
+                "humanReadable": "33 mins"
+              },
+              "startLocation": {
+                "lat": 52.50600859999999,
+                "lng": 13.3029133
+              },
+              "endLocation": {
+                "lat": 52.5263538,
+                "lng": 13.1328022
+              },
+              "polyline": {
+                "points": "qan_IefepADVYLA@SJKDCBC@GBOFIBMDKBA?SDUB?d@@^?HAbD@nA?^?V?XAfE?p@?z@AjF?hG?V?LAL?LAJ?LAL?H?P?PAP?B?R?j@@z@?R?D?J@N?D?F@JBP@N?D?F@H?N@nCBlBFjG@V?F?Z@\\BjC@h@?L@bB@T?\\@X@tAB|A?H?N@j@?X@XDjEDpD@X?^@d@@n@@z@@jB?P?T?d@@r@@L?R?R@t@?B?T@nA?@@t@?t@@d@?F@h@Ap@?@AN?LAVCTCn@Cj@MhBC`@E^C\\E\\G\\?@GZKb@I`@K^Qp@}@lDOj@aBpG_@tAKb@Mf@p@`AHWTu@Vy@HWh@sBp@iC@KFSFYDQc@a@WUOj@aBpG_@tAKb@Mf@c@`BYhAGTGLELGHCDIHEBGBEBI@I?O?MKMEa@OKCGAMDGDEBKJMPCTYzCCZIjAAR@N@JBPDLFLDDLLNBNFR^DJDLFPFX@X@HBVFVLxGDdBB`APdHHxCDnBBj@FnCZjMLfFHjD?V@LBxBBZBrA@x@Bf@@b@BjAFdBJdEB`@HnCJbF@TD`BDzAJnETlJHhCBfA@ZHlDHnDNjFDlB?DXzKNnGBn@DtB@`@HbDb@hQRnHDtA@n@@j@DlA@x@Bn@RdIFhCJfDFdCBbA@h@@zAEj@ARANANCxAGpAANCl@?FCXAd@]rCuGhj@y@bHEZc@rDYhCK~@OfAEZYdC]pCs@`GKv@{BhRE^Y|B?Da@dDiAhJKv@UnBKv@Iv@AFIp@Kv@E^E^]xCWnBo@pFIp@OnAAHKv@QzA[fCW`CSfBKP?@ABADKv@If@O|@G^ALKx@CVGd@Q|AQpACXCXCZAJIhAM|@a@fDOvASbBQrA[zCCPa@nD{@dH]tCUnBSbBa@fDKXCR?@E^EVGh@In@CPE\\SMc@Wc@WM~@dAr@TNE\\?@Gd@MjA?ZMdAMz@mAlKKr@UtBM`Aa@xCXh@h@dAP\\m@v@CFCLS~@CFADEDC@E@OA_@GIr@U`Bo@pFcAdIAHM|@QtAYvBWpBOpAIr@A?K|@Kn@]~BIf@AJIl@A@ShBIt@SfB?@M`AEXoAxJUfBWlBY|BCNS~AMnAIl@MtAa@MKCA?OIQGOEOCOCK?OAO@K@C?I@MBMB[JSFDd@PGXIFCFAFAFAPCN?R?RBRBPFRHBBB@HB^TE\\O`AO`AUbBCHKx@It@CNYbCa@zC}@vG{@~GQxAWpBCT[rCGb@M~@IVADAFM`ACZWpBU`BcAfIuBfPOpA}@nGG`@?F?FW|BCLGd@c@fDSdBG^OnAoAtJGb@u@~FQpAKt@Kv@Y|BCTy@nG_@pCs@vFEVGb@i@nEOdALF"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "Buschower Weg",
+                  "location": {
+                    "lat": 52.5263538,
+                    "lng": 13.1328022
+                  }
+                },
+                "departureStop": {
+                  "name": "Kaiser-Friedrich-Str./Kantstr.",
+                  "location": {
+                    "lat": 52.50600859999999,
+                    "lng": 13.3029133
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 11,
+                      "minute": 53,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 11,
+                      "minute": 20,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "Heerstr./Nennhauser Damm",
+                "headway": 0,
+                "numStops": 26,
+                "line": {
+                  "shortName": "M49",
+                  "agencies": [
+                    {
+                      "name": "Berliner Verkehrsbetriebe",
+                      "url": "http://www.bvg.de/",
+                      "phone": "011 49 30 19449"
+                    }
+                  ],
+                  "url": "https://www.bvg.de/de/verbindungen/netzplaene-und-linien/",
+                  "vehicle": {
+                    "name": "Bus",
+                    "type": "BUS",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                    "localIcon": "//maps.gstatic.com/mapfiles/transit/iw2/6/de-berlin-bvg-bus.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Walk to Fahrlander Weg 74, 13591 Berlin, Germany",
+              "distance": {
+                "inMeters": 1243,
+                "humanReadable": "1.2 km"
+              },
+              "duration": {
+                "inSeconds": 920,
+                "humanReadable": "15 mins"
+              },
+              "startLocation": {
+                "lat": 52.5263746,
+                "lng": 13.1328142
+              },
+              "endLocation": {
+                "lat": 52.5198963,
+                "lng": 13.1253882
+              },
+              "steps": [
+                {
+                  "htmlInstructions": "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eHeerstraße\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eB5\u003c/b\u003e toward \u003cb\u003eDöberitzer Weg\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 272,
+                    "humanReadable": "0.3 km"
+                  },
+                  "duration": {
+                    "inSeconds": 197,
+                    "humanReadable": "3 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.5263746,
+                    "lng": 13.1328142
+                  },
+                  "endLocation": {
+                    "lat": 52.52716820000001,
+                    "lng": 13.1290695
+                  },
+                  "polyline": {
+                    "points": "y`r_Ia_doAYpBCVIl@i@~DcAfIIj@"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eDöberitzer Weg\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 282,
+                    "humanReadable": "0.3 km"
+                  },
+                  "maneuver": "turn-left",
+                  "duration": {
+                    "inSeconds": 210,
+                    "humanReadable": "4 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.52716820000001,
+                    "lng": 13.1290695
+                  },
+                  "endLocation": {
+                    "lat": 52.525887,
+                    "lng": 13.1255458
+                  },
+                  "polyline": {
+                    "points": "yer_IugcoADDB@BFHNFNPt@Ld@@BFXTbA`@bBNr@Tz@@DJf@H`@Hd@FVFXLXVz@"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eleft\u003c/b\u003e\u003cdiv style\u003d\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                  "distance": {
+                    "inMeters": 689,
+                    "humanReadable": "0.7 km"
+                  },
+                  "maneuver": "turn-left",
+                  "duration": {
+                    "inSeconds": 513,
+                    "humanReadable": "9 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.525887,
+                    "lng": 13.1255458
+                  },
+                  "endLocation": {
+                    "lat": 52.5198963,
+                    "lng": 13.1253882
+                  },
+                  "polyline": {
+                    "points": "y}q_IuqboABATU@A@?@A@?@??@@??@BF@BB@F?N?NCN@JAH@B?F?BAH?D?D?D?N@LBF@HBB@B?V@TB^BPBJ?D?B?B?ZDd@Fh@Dp@FVBZBn@DNBJBHBF?D@F?D?N?RB\\DTD@?D@B?B?F?B?B?D?F?@?D?H?PBH@B?B?D?BAZIBABABA@A?CBC?C@GBEDK@EBE@CBC@A@AB?B?TCP?R@ZBJ@\\@NBVBV@P@R?L@"
+                  },
+                  "travelMode": "WALKING"
+                }
+              ],
+              "polyline": {
+                "points": "y`r_Ia_doAYpBCVIl@i@~DcAfIIj@DDB@BFHNFNPt@Ld@@BFXTbA`@bBNr@Tz@@DJf@H`@Hd@FVFXLXVz@BATU@A@?@A@?@??@@??@BF@BB@F?N?NCN@JAH@B?F?BAH?D?D?D?N@LBF@HBB@B?V@TB^BPBJ?D?B?B?ZDd@Fh@Dp@FVBZBn@DNBJBHBF?D@F?D?N?RB\\DTD@?D@B?B?F?B?B?D?F?@?D?H?PBH@B?B?D?BAZIBABABA@A?CBC?C@GBEDK@EBE@CBC@A@AB?B?TCP?R@ZBJ@\\@NBVBV@P@R?L@"
+              },
+              "travelMode": "WALKING"
+            }
+          ],
+          "distance": {
+            "inMeters": 36141,
+            "humanReadable": "36.1 km"
+          },
+          "duration": {
+            "inSeconds": 6232,
+            "humanReadable": "1 hour 44 mins"
+          },
+          "arrivalTime": {
+            "dateTime": {
+              "date": {
+                "year": 2023,
+                "month": 1,
+                "day": 22
+              },
+              "time": {
+                "hour": 12,
+                "minute": 8,
+                "second": 21,
+                "nano": 0
+              }
+            },
+            "offset": {
+              "totalSeconds": 3600
+            },
+            "zone": {}
+          },
+          "departureTime": {
+            "dateTime": {
+              "date": {
+                "year": 2023,
+                "month": 1,
+                "day": 22
+              },
+              "time": {
+                "hour": 10,
+                "minute": 24,
+                "second": 29,
+                "nano": 0
+              }
+            },
+            "offset": {
+              "totalSeconds": 3600
+            },
+            "zone": {}
+          },
+          "startLocation": {
+            "lat": 52.4011772,
+            "lng": 13.0966433
+          },
+          "endLocation": {
+            "lat": 52.5198963,
+            "lng": 13.1253882
+          },
+          "startAddress": "Karl-Liebknecht-Straße 69, 14482 Potsdam, Germany",
+          "endAddress": "Fahrlander Weg 74, 13591 Berlin, Germany"
+        }
+      ],
+      "waypointOrder": [],
+      "overviewPolyline": {
+        "points": "kry~H_}|nAyA}FtAbAdK~G`A`@rAp@rChB~D|BbAj@AF@GcAk@dG{UbC_KdAuEGaGyBpAgCxAy@h@?cABsDAOEGGIqBm@qDcAiDkA@mAHwB\\wEvAwJxA}MB_@@_QE_JM}QA}Ap@Ff@D\\LBfADF@?pDEvEBn@@IcBMiC[}Fe@uKWcKAwBKmLCiDCo@^[DI@K?ElAUSiFq@aR[sE[sCw@{Ek@eCs@cCcAyCsAuC}@cB_CgD_BsBgBcCcAyAq@y@yCyDkc@oj@mWi\\_GuHcBaCwAeCuA{CcCgHgBeHcHcZwG_YoA}EgCwHuFmOmCaH{AaDyDyHoBcEaCcGsCmH{GePaAmBaBeCcDcEgIwJqF_HuC{CgEiEkAw@s@U{Ca@o@KcDu@uBw@iBaA}ByAmEuDiCqCuBsCiDqEiAaB_A}AeFeH}IyLiQ_Vu]ye@_^if@wvA}mBya@}j@cDwEcB}C_DaHoEoKi@gAsBqDgAcBaBwB}AoB{BmCqBoB_D}Bg@]oFgDgIiFqB_BkBqBcAuAuAqBmCiE_C_FcB}D{BqF}@oByAiCoByCuC_DmFwEyDiDeC{BmC_D{F}HuDiFi@w@s@sAc@}@o@sBg@aCq@gC{@wEiBmJ_BeImAsFgCeLwAsGcCmL{AyHkAwHk@sE{@}KiBgWiF{`@u@mFa@wCeAh@KXgFTl@cBDV[N_@P_@Pe@Li@H@dA?|GCtZElB?|DH|A\\`^`@|^JrNAlBIjB[vEQzAi@`CaE|Ok@xBMf@p@`A^mA`@qAdB}GLk@{@w@}CvLsAhFYj@]TS@O?MKo@USEg@ZMPCT]vDK~ABZH^LR\\PNFR^JXNj@NrAh@fVnA|h@XhMpCjgArCnjAn@|VDlBCfCIlCMvCE~@sH|n@}B|RuG~i@}Gfk@}CzWSfBKPADg@bDiAnJSjCsA`LwE`a@q@vE]pCIn@w@e@c@WM~@zAbA[pCM`B{AhMqAdKbAnBP\\m@v@GTWfAQNOA_@GIr@eArIeAnIqA|Jg@bEu@bFi@nE_Er[o@lFMtAa@MMCaA[{@Cg@Fi@NSFDd@j@QNEp@Gf@Bd@Jd@R^TE\\_@bCo@|EgFha@c@vDWvAUjB}Hnm@c@xDoA|JuEl^sCpTq@rFOdALF]nBMdAmBfOIj@DDFHP^h@xB|AvG`@tBt@fCZYFAJPxAAXAj@FpBRdCRtCTl@JlBPfBFf@OHKVq@JCvA@|CP"
+      },
+      "bounds": {
+        "northeast": {
+          "lat": 52.52716820000001,
+          "lng": 13.3029133
+        },
+        "southwest": {
+          "lat": 52.3944752,
+          "lng": 13.094293
+        }
+      },
+      "copyrights": "Map data ©2023 GeoBasis-DE/BKG (©2009)",
+      "warnings": [
+        "Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths."
+      ]
+    }
+  ]
+}

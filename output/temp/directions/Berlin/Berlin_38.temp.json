@@ -1,0 +1,657 @@
+{
+  "meterpolisName": "Berlin",
+  "route": {
+    "from": {
+      "lat": 52.568667363637715,
+      "lng": 13.427179084409783
+    },
+    "to": {
+      "lat": 52.51322011460476,
+      "lng": 13.602467246523101
+    }
+  },
+  "directions": [
+    {
+      "summary": "",
+      "legs": [
+        {
+          "steps": [
+            {
+              "htmlInstructions": "Walk to Prenzlauer Prom./Kissingenstr. (Berlin)",
+              "distance": {
+                "inMeters": 100,
+                "humanReadable": "0.1 km"
+              },
+              "duration": {
+                "inSeconds": 74,
+                "humanReadable": "1 min"
+              },
+              "startLocation": {
+                "lat": 52.5685735,
+                "lng": 13.427701
+              },
+              "endLocation": {
+                "lat": 52.56787689999999,
+                "lng": 13.42716
+              },
+              "steps": [
+                {
+                  "htmlInstructions": "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003ePrenzlauer Promenade\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eB109\u003c/b\u003e toward \u003cb\u003eKissingenstraße\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 68,
+                    "humanReadable": "68 m"
+                  },
+                  "duration": {
+                    "inSeconds": 51,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.5685735,
+                    "lng": 13.427701
+                  },
+                  "endLocation": {
+                    "lat": 52.567918,
+                    "lng": 13.4275227
+                  },
+                  "polyline": {
+                    "points": "qhz_Icr}pALBlATVDLB"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eKissingenstraße\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 32,
+                    "humanReadable": "32 m"
+                  },
+                  "maneuver": "turn-right",
+                  "duration": {
+                    "inSeconds": 23,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.567918,
+                    "lng": 13.4275227
+                  },
+                  "endLocation": {
+                    "lat": 52.56787689999999,
+                    "lng": 13.42716
+                  },
+                  "polyline": {
+                    "points": "odz_I_q}pAFfA"
+                  },
+                  "travelMode": "WALKING"
+                }
+              ],
+              "polyline": {
+                "points": "qhz_Icr}pALBlATVDLBFfA"
+              },
+              "travelMode": "WALKING"
+            },
+            {
+              "htmlInstructions": "Bus towards Weißensee, Schwarzelfenweg",
+              "distance": {
+                "inMeters": 5186,
+                "humanReadable": "5.2 km"
+              },
+              "duration": {
+                "inSeconds": 840,
+                "humanReadable": "14 mins"
+              },
+              "startLocation": {
+                "lat": 52.567903,
+                "lng": 13.427152
+              },
+              "endLocation": {
+                "lat": 52.5575634,
+                "lng": 13.4651997
+              },
+              "polyline": {
+                "points": "kdz_Iun}pAA?I{A|AVTDfBVr@Lf@FLB^FZDXFv@LrARF?R@ZANAx@GNCXEpEo@hEo@NCj@E\\G@?JCRC^G~@OrB_@\\EXG`@G@A~Ci@~Ck@`AQhASn@MVE`ASh@KREd@Kn@M@?NAESEQMe@IW[eAWaAg@iBs@qCI]WaAI_@WgACMx@u@`@uA?EBILu@n@sDv@oEP_ARkAJg@DWf@sCDUVuA`@eCBIFO@GFUB@B?@?B@DABADE@CBCBE@K@E@M@G?GAKAICIAEACCEBY@G?A?AAE@C@GRiAn@oD^sBHa@lAaHHe@n@kDRgANaAFWLq@N}@XaBDSTwALs@jAsGDSHg@PCNGPKJGJKBe@@Q?QAWCMEKCEEEICb@cCX_BJi@RiAF]Ny@RkABMXcBP_ALw@VuAp@wDBQLq@DWHa@N{@j@_DFa@ZiBHa@Hc@BMN}@RgA\\qBFY?ABI@C?A@ABIBEFKNjAFh@Fb@L~@RvAJz@?BJGDCBAFCCOCSS}AIi@Ik@CWCMGUEOAEEMEOEUIi@Im@OiAGa@Gc@Gi@CUGa@Ga@UgBIk@Ea@EWGe@SuAWsBUsACGEUESQk@GSEMEOQg@Qe@Oc@]_AM]KYESM_@?AK[CGGSGOM[Qe@KSIQWa@W[GKEGECUSGEIGIGQIIEe@S{Ao@OGUKKCYICAKCIAE?C?CAE?U@W?U@Q?O?E@E?QBaBRuATa@FUFQDy@\\C@UHSJKFSLMHAT?TIb@IXc@vAY~@IXAH?D?HM^FH"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "Berliner Allee/Rennbahnstr.",
+                  "location": {
+                    "lat": 52.5575634,
+                    "lng": 13.4651997
+                  }
+                },
+                "departureStop": {
+                  "name": "Prenzlauer Prom./Kissingenstr. (Berlin)",
+                  "location": {
+                    "lat": 52.567903,
+                    "lng": 13.427152
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 10,
+                      "minute": 45,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 10,
+                      "minute": 31,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "Weißensee, Schwarzelfenweg",
+                "headway": 0,
+                "numStops": 11,
+                "line": {
+                  "shortName": "255",
+                  "agencies": [
+                    {
+                      "name": "Berliner Verkehrsbetriebe",
+                      "url": "http://www.bvg.de/",
+                      "phone": "011 49 30 19449"
+                    }
+                  ],
+                  "url": "https://www.bvg.de/de/verbindungen/netzplaene-und-linien/",
+                  "vehicle": {
+                    "name": "Bus",
+                    "type": "BUS",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                    "localIcon": "//maps.gstatic.com/mapfiles/transit/iw2/6/de-berlin-bvg-bus.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Tram towards Krankenhaus Köpenick",
+              "distance": {
+                "inMeters": 7392,
+                "humanReadable": "7.4 km"
+              },
+              "duration": {
+                "inSeconds": 1200,
+                "humanReadable": "20 mins"
+              },
+              "startLocation": {
+                "lat": 52.5575634,
+                "lng": 13.4651997
+              },
+              "endLocation": {
+                "lat": 52.5138156,
+                "lng": 13.52008
+              },
+              "polyline": {
+                "points": "wcx_Io|dqAEABUvAwERo@J]BKDIDGBCBCJIt@[`@O`@M\\G`BWx@M^E^A~@Az@AN?N@JBH?DAB?FCFIBIBMDWP_F@UHaCBs@@_@@SXyJPkHJmHBsABqCN_NB_A?W@g@@gA?W@a@@[@e@@g@@W?IBc@@QHiAB]Fk@v@kIp@{GTqBVoCBSJeAJ_AhAmM^wDFk@Fm@Ho@^qCHi@zA{Kx@}FR}A|@wGNiA@IHg@BSXiB@IHi@RyAZyBd@eDf@iDDYBWDUBOBQ@M@QB[@Q@c@F{E?{@?gAFaCDmBB_@?AHsA\\oEBe@BsD?M?O@Q@E?E@E@EDKBEFGFEDEHEN?VC\\G^Ij@Sb@S`@SlAm@t@_@XSNGbAi@n@[z@a@ZOr@_@p@]b@W~@i@`@UbBgApCkBn@a@f@]f@]PMNKdAo@r@e@x@i@`@YlCgBp@e@bBkA@A`Aq@f@]tA_AfBmAdBkAlBsA`Aw@x@o@fAw@n@c@VQDCFCJEPIXMh@_@TO\\Un@e@|CuBb@WLGZOLGLETGf@M^E?AzAIl@AlCItCMp@EjBGfAG`@AbAEt@C|CM^AlCOlAEv@Ch@Cd@CLAD?PAl@Cp@CD?l@Cv@Et@C^A^?z@@pBF|BFj@B`ADjAB|@Bz@BvADdADbABnADf@@vAFZ@b@@j@@zHV`ADH?V@`ADz@Bl@Bh@@B?Z?`@?~@Cp@?h@?h@@N?R@BeE"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "Friedrichsfelde Ost",
+                  "location": {
+                    "lat": 52.5138156,
+                    "lng": 13.52008
+                  }
+                },
+                "departureStop": {
+                  "name": "Berliner Allee/Rennbahnstr.",
+                  "location": {
+                    "lat": 52.5575634,
+                    "lng": 13.4651997
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 11,
+                      "minute": 11,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 10,
+                      "minute": 51,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "Krankenhaus Köpenick",
+                "headway": 0,
+                "numStops": 13,
+                "line": {
+                  "shortName": "27",
+                  "color": "#e30613",
+                  "agencies": [
+                    {
+                      "name": "Berliner Verkehrsbetriebe",
+                      "url": "http://www.bvg.de/",
+                      "phone": "011 49 30 19449"
+                    }
+                  ],
+                  "url": "https://www.bvg.de/de/verbindungen/netzplaene-und-linien/",
+                  "textColor": "#ffffff",
+                  "vehicle": {
+                    "name": "Tram",
+                    "type": "TRAM",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/tram2.png",
+                    "localIcon": "//maps.gstatic.com/mapfiles/transit/iw2/6/de-berlin-bvg-tram.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Commuter train towards S Strausberg Nord",
+              "distance": {
+                "inMeters": 4881,
+                "humanReadable": "4.9 km"
+              },
+              "duration": {
+                "inSeconds": 420,
+                "humanReadable": "7 mins"
+              },
+              "startLocation": {
+                "lat": 52.5138156,
+                "lng": 13.52008
+              },
+              "endLocation": {
+                "lat": 52.512128,
+                "lng": 13.5905228
+              },
+              "polyline": {
+                "points": "kro_IosoqAo@C?WDqE?[@qBI}ADoDHmGAWCWJwEDeBBaAFu@@}@?[@cAAmB?EC}@CqACk@AYOkBEg@IoAQ{AIu@K_AWoBi@uG?II}@QiDASOmCUeEMgBIeAOgBEo@AEEm@Ee@E_@AOIiAKqAAIEk@C_AEq@GuBA}A?oBB}A?AB}@FuA@[LmBToD?C@GBWB]TyBXeCNkABOZgB`@iBx@gDjBaINs@ZoBTsBPeBBW@UFeAHcBBg@@w@B{@?c@@q@@a@@y@?EBsC@WBqDDsCBqBF}GDyEH_H?S?M@_@?MB{A@gADoD@qB@[JeLDaD?a@@k@?IB}B@K?qECiC?s@KqG?[A{C?kC?k@@aC?A?a@@sABuEBwBB}A?i@D}@?K@c@L_CH}A@IP}ATiCF}@@iAH_KBqB@oBFwK@mA@u@D_IFcIK?"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "Berlin-Kaulsdorf",
+                  "location": {
+                    "lat": 52.512128,
+                    "lng": 13.5905228
+                  }
+                },
+                "departureStop": {
+                  "name": "Friedrichsfelde Ost",
+                  "location": {
+                    "lat": 52.5138156,
+                    "lng": 13.52008
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 11,
+                      "minute": 30,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 11,
+                      "minute": 23,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "S Strausberg Nord",
+                "headway": 0,
+                "numStops": 3,
+                "line": {
+                  "shortName": "S5",
+                  "color": "#f27822",
+                  "agencies": [
+                    {
+                      "name": "S-Bahn Berlin GmbH",
+                      "url": "http://www.s-bahn-berlin.de/",
+                      "phone": "011 49 30 29743333"
+                    }
+                  ],
+                  "url": "https://www.vbb.de/fahrinformation/liniennetze/",
+                  "vehicle": {
+                    "name": "Commuter train",
+                    "type": "COMMUTER_TRAIN",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/rail2.png",
+                    "localIcon": "//maps.gstatic.com/mapfiles/transit/iw2/6/de-sbahn.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Bus towards Grottkauer Str. - Uckermarkstr.",
+              "distance": {
+                "inMeters": 1278,
+                "humanReadable": "1.3 km"
+              },
+              "duration": {
+                "inSeconds": 180,
+                "humanReadable": "3 mins"
+              },
+              "startLocation": {
+                "lat": 52.512128,
+                "lng": 13.5905228
+              },
+              "endLocation": {
+                "lat": 52.514771,
+                "lng": 13.60318
+              },
+              "polyline": {
+                "points": "ygo_Iwk}qA?d@Af@U??@A@?B?^AJ?DA@AB?@[f@CEAACCCAC?CAC@A@C@ABm@z@Wb@c@w@CIWc@KSi@eAGKAAEKGKS_@_@s@[i@g@{@eAiBQ]eBaD_@q@EGACAEAACICMAEAGIi@]sBQkAc@sCa@gCk@qDAC?EAM?G?E?GBMBKF_@^_CPeAHe@`@cCx@{EN}@N}@b@gCLu@h@eDHk@PaA@CAA"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "Giesestr./Landrestr. (Berlin)",
+                  "location": {
+                    "lat": 52.514771,
+                    "lng": 13.60318
+                  }
+                },
+                "departureStop": {
+                  "name": "Berlin-Kaulsdorf",
+                  "location": {
+                    "lat": 52.512128,
+                    "lng": 13.5905228
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 11,
+                      "minute": 38,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 11,
+                      "minute": 35,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "Grottkauer Str. - Uckermarkstr.",
+                "headway": 0,
+                "numStops": 3,
+                "line": {
+                  "shortName": "399",
+                  "agencies": [
+                    {
+                      "name": "Berliner Verkehrsbetriebe",
+                      "url": "http://www.bvg.de/",
+                      "phone": "011 49 30 19449"
+                    }
+                  ],
+                  "url": "https://www.bvg.de/de/verbindungen/netzplaene-und-linien/",
+                  "vehicle": {
+                    "name": "Bus",
+                    "type": "BUS",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                    "localIcon": "//maps.gstatic.com/mapfiles/transit/iw2/6/de-berlin-bvg-bus.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Walk to Rahnestraße 8, 12621 Berlin, Germany",
+              "distance": {
+                "inMeters": 232,
+                "humanReadable": "0.2 km"
+              },
+              "duration": {
+                "inSeconds": 174,
+                "humanReadable": "3 mins"
+              },
+              "startLocation": {
+                "lat": 52.51473069999999,
+                "lng": 13.6031516
+              },
+              "endLocation": {
+                "lat": 52.5136158,
+                "lng": 13.6027436
+              },
+              "steps": [
+                {
+                  "htmlInstructions": "Head \u003cb\u003enorthwest\u003c/b\u003e on \u003cb\u003eGiesestraße\u003c/b\u003e toward \u003cb\u003eLandrestraße\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 42,
+                    "humanReadable": "42 m"
+                  },
+                  "duration": {
+                    "inSeconds": 31,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.51473069999999,
+                    "lng": 13.6031516
+                  },
+                  "endLocation": {
+                    "lat": 52.5148659,
+                    "lng": 13.6026307
+                  },
+                  "polyline": {
+                    "points": "axo_Iuz_rAABO`AI`@"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eLandrestraße\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 125,
+                    "humanReadable": "0.1 km"
+                  },
+                  "maneuver": "turn-left",
+                  "duration": {
+                    "inSeconds": 94,
+                    "humanReadable": "2 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.5148659,
+                    "lng": 13.6026307
+                  },
+                  "endLocation": {
+                    "lat": 52.5138306,
+                    "lng": 13.6019132
+                  },
+                  "polyline": {
+                    "points": "}xo_Imw_rAdCzAz@h@LH"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eRahnestraße\u003c/b\u003e\u003cdiv style\u003d\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                  "distance": {
+                    "inMeters": 65,
+                    "humanReadable": "65 m"
+                  },
+                  "maneuver": "turn-left",
+                  "duration": {
+                    "inSeconds": 49,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.5138306,
+                    "lng": 13.6019132
+                  },
+                  "endLocation": {
+                    "lat": 52.5136158,
+                    "lng": 13.6027436
+                  },
+                  "polyline": {
+                    "points": "mro_I}r_rAh@eD"
+                  },
+                  "travelMode": "WALKING"
+                }
+              ],
+              "polyline": {
+                "points": "axo_Iuz_rAABO`AI`@dCzAz@h@LHh@eD"
+              },
+              "travelMode": "WALKING"
+            }
+          ],
+          "distance": {
+            "inMeters": 19069,
+            "humanReadable": "19.1 km"
+          },
+          "duration": {
+            "inSeconds": 4270,
+            "humanReadable": "1 hour 11 mins"
+          },
+          "arrivalTime": {
+            "dateTime": {
+              "date": {
+                "year": 2023,
+                "month": 1,
+                "day": 22
+              },
+              "time": {
+                "hour": 11,
+                "minute": 40,
+                "second": 55,
+                "nano": 0
+              }
+            },
+            "offset": {
+              "totalSeconds": 3600
+            },
+            "zone": {}
+          },
+          "departureTime": {
+            "dateTime": {
+              "date": {
+                "year": 2023,
+                "month": 1,
+                "day": 22
+              },
+              "time": {
+                "hour": 10,
+                "minute": 29,
+                "second": 45,
+                "nano": 0
+              }
+            },
+            "offset": {
+              "totalSeconds": 3600
+            },
+            "zone": {}
+          },
+          "startLocation": {
+            "lat": 52.5685735,
+            "lng": 13.427701
+          },
+          "endLocation": {
+            "lat": 52.5136158,
+            "lng": 13.6027436
+          },
+          "startAddress": "Prenzlauer Promenade 124, 13189 Berlin, Germany",
+          "endAddress": "Rahnestraße 8, 12621 Berlin, Germany"
+        }
+      ],
+      "waypointOrder": [],
+      "overviewPolyline": {
+        "points": "qhz_Icr}pA`Cb@FfAC@K{AnGbApBXlDh@n@?hAIdMiBzAQlIuAbKiBrE{@rCk@PAKe@kAeE}B{Ia@gBCMx@u@`@{AP_AlCoO~@iFx@{EJYH]F@NANSFg@Gg@CICEBY@I?A?ITqAfDgRbCcNbAaGpAgHHg@PC`@SVSDw@Ai@IYIKICb@cCd@iC~@mF|@iFfDgR|BwMV}@FKNjANlAl@vE\\Qe@kDYgBSs@i@wD[eCwAmKm@gEI]e@aBy@aCk@}AQm@]eAo@eBUe@o@}@i@k@m@_@{CqA_A[_@EuBBoEl@w@NkAb@y@^a@VAj@S|@}@vCKb@?NM^FHEABUjBgGNi@RY`Ae@bA]~B_@xASjDEZDNAJCJSHe@RuFPiFj@eTNaKViULkHNiCtBqT|@{I|BqVz@yGfFo_@xAgK`CsPHmAH_G?cCPqGf@cHFyEBu@H]XYXEt@KjA]dAg@lDiBjEwBhE_CfIkFpBuAtEyCdH{EfH}ErE_DzBgBtCqB~@a@lCkB`EmCh@WZM|@U^GhCKbHW|CMbFSnPs@xGW~@AlDHvHTjPf@lQj@vCHnDCvBBBeEo@CDiF@mCI}ADoDHmGAWCWJwEHgDHsB?sEMuEUsC[kDUuBWoBi@uGIgAS}De@sIWmD]kEW_DWgEMgDAmENsFd@}H^wDh@qE^wBzAqGzBuJZoBTsBT}BVgFN_Mf@{f@j@gi@C{IKeIAoJByFJuMTmFJgBf@gFHgCLqNLkSLcSK??d@Af@U?ABAn@CL[f@CEEEOAu@bAWb@c@w@[m@_AgBaAkB{CmFmC_FK_@oDeUC_@Fg@~DgVdBoKReADBQdAI`@dCzAhAr@h@eD"
+      },
+      "bounds": {
+        "northeast": {
+          "lat": 52.5685735,
+          "lng": 13.6031748
+        },
+        "southwest": {
+          "lat": 52.512068,
+          "lng": 13.426927
+        }
+      },
+      "copyrights": "Map data ©2023 GeoBasis-DE/BKG (©2009)",
+      "warnings": [
+        "Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths."
+      ]
+    }
+  ]
+}

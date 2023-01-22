@@ -1,0 +1,800 @@
+{
+  "meterpolisName": "Berlin",
+  "route": {
+    "from": {
+      "lat": 52.37051697287108,
+      "lng": 13.197642294765725
+    },
+    "to": {
+      "lat": 52.60062772955272,
+      "lng": 13.428389828670078
+    }
+  },
+  "directions": [
+    {
+      "summary": "",
+      "legs": [
+        {
+          "steps": [
+            {
+              "htmlInstructions": "Walk to Güterfelde, Berliner Str.",
+              "distance": {
+                "inMeters": 239,
+                "humanReadable": "0.2 km"
+              },
+              "duration": {
+                "inSeconds": 175,
+                "humanReadable": "3 mins"
+              },
+              "startLocation": {
+                "lat": 52.36995899999999,
+                "lng": 13.1966611
+              },
+              "endLocation": {
+                "lat": 52.3682731,
+                "lng": 13.1967955
+              },
+              "steps": [
+                {
+                  "htmlInstructions": "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eAn den Seematen\u003c/b\u003e toward \u003cb\u003eFeldstraße\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eSeematenweg\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 86,
+                    "humanReadable": "86 m"
+                  },
+                  "duration": {
+                    "inSeconds": 64,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.36995899999999,
+                    "lng": 13.1966611
+                  },
+                  "endLocation": {
+                    "lat": 52.3691907,
+                    "lng": 13.1965067
+                  },
+                  "polyline": {
+                    "points": "gos~HcnpoAz@Nb@Dx@F"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eFeldstraße\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 75,
+                    "humanReadable": "75 m"
+                  },
+                  "maneuver": "turn-left",
+                  "duration": {
+                    "inSeconds": 54,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.3691907,
+                    "lng": 13.1965067
+                  },
+                  "endLocation": {
+                    "lat": 52.3688481,
+                    "lng": 13.1974565
+                  },
+                  "polyline": {
+                    "points": "mjs~HempoANy@^uADML_@"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eBerliner Str.\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 78,
+                    "humanReadable": "78 m"
+                  },
+                  "maneuver": "turn-right",
+                  "duration": {
+                    "inSeconds": 57,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.3688481,
+                    "lng": 13.1974565
+                  },
+                  "endLocation": {
+                    "lat": 52.3682731,
+                    "lng": 13.1967955
+                  },
+                  "polyline": {
+                    "points": "ihs~HcspoAz@bAv@~@"
+                  },
+                  "travelMode": "WALKING"
+                }
+              ],
+              "polyline": {
+                "points": "gos~HcnpoAz@Nb@Dx@FNy@^uADML_@z@bAv@~@"
+              },
+              "travelMode": "WALKING"
+            },
+            {
+              "htmlInstructions": "Bus towards Stahnsdorf Waldschänke",
+              "distance": {
+                "inMeters": 5399,
+                "humanReadable": "5.4 km"
+              },
+              "duration": {
+                "inSeconds": 720,
+                "humanReadable": "12 mins"
+              },
+              "startLocation": {
+                "lat": 52.368272,
+                "lng": 13.196798
+              },
+              "endLocation": {
+                "lat": 52.39237809999999,
+                "lng": 13.2215232
+              },
+              "polyline": {
+                "points": "uds~H_opoAw@_A{@cAQSAAgDyDi@s@U]U[SWc@i@MQEC]a@GG_@e@[[GK[[ACAAa@e@OQUW_@a@c@g@]]SSUUQOGGGGGI]_@gBuBm@q@u@}@{@aACCuBcC{@aAkEeF_@a@]a@AAQUyA{AKKwBqB_@]{DyDw@u@mAiAwAuAmBgBUQ]]_@]}ByB[[yA{AEEP]FIBC^]~BsBJI@A|@y@|BsBZ[lEmD|AqAz@s@bDoCNMzAmA\\Yv@m@TYNONKJGJEpAgAf@c@r@q@LMvC}BrBgBj@e@Zc@Ve@J]Jk@kB?sF?E?gA?G?E?aDF}A@a@@kB@yC@}@@gECeB?}DFG?eA?{A?}C@kD?mB@GAO?}AAA?q@?S?qABe@?}B@a@BG@K@KBE@mA`AqAjAQLGF]ZWTkAfA_@`@EDe@p@aA~Ai@_@wC}BQOKKe@e@OOq@y@_AyAeAiBEKOUoAyB_@o@KUEMCGI_@Me@O_AGYCM?EAKAMESCIEMCGGOO[OYEKEGCEAZANCVMlAIj@TL"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "Stahnsdorf, Stahnsdorfer Hof",
+                  "location": {
+                    "lat": 52.39237809999999,
+                    "lng": 13.2215232
+                  }
+                },
+                "departureStop": {
+                  "name": "Güterfelde, Berliner Str.",
+                  "location": {
+                    "lat": 52.368272,
+                    "lng": 13.196798
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 10,
+                      "minute": 39,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 10,
+                      "minute": 27,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "Stahnsdorf Waldschänke",
+                "headway": 0,
+                "numStops": 11,
+                "line": {
+                  "shortName": "627",
+                  "agencies": [
+                    {
+                      "name": "Regiobus Potsdam-Mittelmark",
+                      "url": "http://www.vbb.de/",
+                      "phone": "011 49 331 749130"
+                    }
+                  ],
+                  "url": "https://www.vbb.de/fahrinformation/liniennetze/",
+                  "vehicle": {
+                    "name": "Bus",
+                    "type": "BUS",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                    "localIcon": "//maps.gstatic.com/mapfiles/transit/iw2/6/de-berlin-bvg-bus.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Bus towards BER Terminal 1-2",
+              "distance": {
+                "inMeters": 20688,
+                "humanReadable": "20.7 km"
+              },
+              "duration": {
+                "inSeconds": 1980,
+                "humanReadable": "33 mins"
+              },
+              "startLocation": {
+                "lat": 52.39237809999999,
+                "lng": 13.2215232
+              },
+              "endLocation": {
+                "lat": 52.3910389,
+                "lng": 13.5140748
+              },
+              "polyline": {
+                "points": "k{w~HoiuoAKGHg@BM@ODa@Da@@W@SBc@?SAIEW?iD?k@?M?A?gA?i@@s@@s@Bw@@Y@WDu@BWFs@Hq@Hq@Hg@Fa@NcA@CD[Fc@@QD[Bk@@Y?W@i@Ac@Ag@Ce@Gw@Io@Gc@Gc@I_@Kk@YwAWqAYoAO{@Ow@s@mDEWCYM{@UqAiAsGUqAOq@GUKUI[_@oAEMGUKUGOYm@Wg@IQGMIMGYEGaAmB?A?A?A@A?A?A?A?A?A?A?A?A?A?A?A?A?AAA?A?A?AAAAA?AAAAA?AA?AAA??AA?A?A?A?A?A@A?A?Wo@KWYq@Qa@CIs@eBSYIY[eAOa@Me@So@K[?IAIOa@M_@O]}AgFGSsBwGUk@W{@Ww@]gAa@mAu@cCQg@?AKYo@uBEQSi@EKe@{Am@kBy@kCqAaEGQ]gAc@uAEMWw@CG}@qC_@kAGOQg@CKQm@CKAGKo@CUOsAQeBI}@Ea@OsAMkAKgAE[E[AUAK?O?Q?Q@i@F_AFYVyALg@Jc@`@{ANg@J_@XiADMJa@Ja@Fm@BQ?iAB_A?SBm@DgB@QDyBBw@@w@?K@Y@e@?k@BcA?Q@K@I?E@GNaA@ETkAFYBSFWLs@DW@KD[?GBUBg@Bc@?G@[?U?YAQAY@ACQAIC[Ge@E]AW?O?OBg@Lw@DWDWFWHYBEBINUPWFGZc@Xa@ROj@u@`BoBh@y@FKXk@HS^iAV}@Ni@Ru@ZcAt@{CZgADQLc@T_Av@cDFUNi@XiABIFQDOF[Nm@Hc@Le@FYBSDYPw@\\oA^wA?A@EZsALk@@G?EBELYH_@VaADMLk@V}@f@wBFYBQp@qCPm@T_AFKL_@DKBMJ_@Ps@\\qABO@EBG@K@K@G?ILe@Ni@Pq@TaAb@aBBK^yA`@eBzAaGn@iCt@sCDUPo@Jc@Rs@VcAZqAf@wBfAmEPq@Ja@DQf@oB^{AJg@b@eB`@gBb@eBdAmEPu@DO\\wAh@wBTaALk@Z?ZH?AsMuzh@"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "BER Airport - Terminal 5 (Schönefeld)",
+                  "location": {
+                    "lat": 52.3910389,
+                    "lng": 13.5140748
+                  }
+                },
+                "departureStop": {
+                  "name": "Stahnsdorf, Stahnsdorfer Hof",
+                  "location": {
+                    "lat": 52.39237809999999,
+                    "lng": 13.2215232
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 11,
+                      "minute": 20,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 10,
+                      "minute": 47,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "BER Terminal 1-2",
+                "headway": 0,
+                "numStops": 4,
+                "line": {
+                  "shortName": "BER2",
+                  "agencies": [
+                    {
+                      "name": "Günter Anger Güterverkehrs GmbH \u0026 Co. Omnibusvermietung KG",
+                      "url": "http://www.anger-busvermietung.de/"
+                    }
+                  ],
+                  "url": "https://www.vbb.de/fahrinformation/liniennetze/",
+                  "vehicle": {
+                    "name": "Bus",
+                    "type": "BUS",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                    "localIcon": "//maps.gstatic.com/mapfiles/transit/iw2/6/de-berlin-bvg-bus.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Commuter train towards S+U Gesundbrunnen Bhf (Berlin)",
+              "distance": {
+                "inMeters": 7555,
+                "humanReadable": "7.6 km"
+              },
+              "duration": {
+                "inSeconds": 540,
+                "humanReadable": "9 mins"
+              },
+              "startLocation": {
+                "lat": 52.3910389,
+                "lng": 13.5140748
+              },
+              "endLocation": {
+                "lat": 52.4348328,
+                "lng": 13.5414261
+              },
+              "polyline": {
+                "points": "_sw~H}mnqAaAnAGMmAmDoB}FOa@aAeCeA{B_@y@IMk@mAs@cBe@gA{@qB_AaCGQGOEKCIM[?AGQM[GSIQSk@y@aC[{@sBeGk@kBc@sAs@wCCOg@wCSuASiBMkAMgBe@cGSmC]oEGw@AII_A[aFy@}KIcAm@aIAOIwAc@qGe@uH]cECYKaAEo@AQ_@}CIo@Mu@[mBEWMcACQYmBCKMq@_A_Ey@mDIS[aAOg@sAcEg@mAe@iASa@y@}A_A}AQSk@m@gAeA{@s@MIc@_@MMWYy@}@IIIKIKGIACIIGKw@sACEe@aAWk@]aAACKa@EOKa@CQe@{BGa@?AOiA]wAYoA_@aA_@cAi@wAQ[q@mAAA{@_BQYcAkBSc@_@q@GK]o@iAsBQ_@_AqAYa@}C_EmBcCaAmAiAyAk@s@_AgAaAkA_@a@c@g@u@q@[YQMQKo@a@u@c@}@_@uAe@}Aa@_AQaAEQ@aA@kAHWFM@G@a@J}@Tc@PSF]NSL_@RMFEBGBEBMHKDYN{@x@m@j@c@b@Y\\]\\c@p@QVi@t@cB`COTu@fA}@nAa@j@]h@i@r@OVaA|AeBrCa@j@s@hAw@pAs@nAo@fA{@rAk@x@uBnDa@n@iAhBw@lACD}BxDU\\sAzBEJ{BhEkAhCu@dBQ\\}AxCGJwA~BWd@A@W`@OTwAdCA@s@pA_AbBMTs@jA[h@c@r@k@`AQZs@fAe@x@OVgAhBQZg@x@w@nAKPw@lACD_AtAgA~AaAtA{@tAaAxAw@jAA@e@t@GO"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "S Adlershof",
+                  "location": {
+                    "lat": 52.4348328,
+                    "lng": 13.5414261
+                  }
+                },
+                "departureStop": {
+                  "name": "BER Airport - Terminal 5 (Schönefeld)",
+                  "location": {
+                    "lat": 52.3910389,
+                    "lng": 13.5140748
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 11,
+                      "minute": 34,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 11,
+                      "minute": 25,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "S+U Gesundbrunnen Bhf (Berlin)",
+                "headway": 0,
+                "numStops": 3,
+                "line": {
+                  "shortName": "S45",
+                  "agencies": [
+                    {
+                      "name": "S-Bahn Berlin GmbH",
+                      "url": "http://www.s-bahn-berlin.de/",
+                      "phone": "011 49 30 29743333"
+                    }
+                  ],
+                  "url": "https://www.vbb.de/fahrinformation/liniennetze/",
+                  "vehicle": {
+                    "name": "Commuter train",
+                    "type": "COMMUTER_TRAIN",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/rail2.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Commuter train towards S+U Pankow (Berlin)",
+              "distance": {
+                "inMeters": 20416,
+                "humanReadable": "20.4 km"
+              },
+              "duration": {
+                "inSeconds": 2100,
+                "humanReadable": "35 mins"
+              },
+              "startLocation": {
+                "lat": 52.4348328,
+                "lng": 13.5414261
+              },
+              "endLocation": {
+                "lat": 52.5663978,
+                "lng": 13.4105224
+              },
+              "polyline": {
+                "points": "ud`_I}xsqARd@a@p@SZkAlB{@tAu@nAYj@e@~@Q\\Q^a@z@q@|AITs@dBy@zBWr@i@~AiBhFWp@_@fAaAlCcAvCg@vAaBpEADkBhFyAfEc@nAg@vAqAjDu@nBEHuD|Ia@bA{DtImCdGSd@sAjCi@x@eA|A]b@k@p@o@v@gDxDiD~DuA`BqBbCcCvCcD~Dm@v@mAzAML}A|AgAlAcBdBa@d@k@d@c@`@a@\\k@p@s@`AS\\MRS\\qA~Bs@lA?@oAzBQXaAdBkAtB_A`By@zAu@pA]n@g@~@eAfBaAhB{@xAo@fA}CrFw@vAo@hACDeBzCGLGJeAjB_@p@u@pAYf@o@hAoBjDcB|CYf@o@lAe@~@mAjCyAfDqAtCw@|AUb@U`@]j@g@z@m@bAS^]h@]l@S\\m@bAcAfB_@n@m@bAYf@g@~@e@z@EHMTS^a@t@QZYh@Yf@e@|@m@hAADq@lA_B~Cy@|AOXMVKP[j@qA|BCDOVm@dAq@fACFU^ILk@`A]j@GHs@nAKNYf@w@pA}AhCS\\S^iCdEOVaA|AyAbCw@pAg@z@KN_BjCs@jAqAvBMPOTyBrDo@bAiAhBKRqB`Di@|@GHOVc@t@iBxCm@~@_A~AMPINo@`AEJ}AfC{@vAGJk@~@[f@_@p@y@rAmArBc@r@QV?@_BrCMTOVWh@y@|AKPS^S^g@~@KPm@lAw@vAGNk@bAGLILg@bAQZa@x@aAnBGLc@x@s@pAUZUZc@j@WVa@b@u@j@g@ZA@m@Vu@TA?]Jg@HC?[D]@Y@G@KAe@?a@Eg@E]EMAUEg@I_@EOCQCc@Gs@Ky@OKCo@Oq@SGC}@[GCQI{@g@_@U]Q_@WUOMK{@{@KKo@s@SS[YWYg@e@KK{@}@Y[a@e@k@s@c@o@EEOUg@s@]c@MSSWU[y@cAi@q@sAiBYe@U]QYqAqBMQOOi@g@SSo@m@oAw@A?}@[[M_@Kq@SuCw@cBi@kCw@YIk@Q[Ii@Qa@Qq@Ua@Qa@Oc@QKEUKcAa@k@UQGc@Sm@[[Q[Sw@m@oAiAk@i@OMeAeA][m@i@_B}A?Eu@q@cAaA{@{@eAaAMKMMcB}AQQiAgAUSGEoAmAcAm@]Ss@Wg@Mk@GwAAG@[Jk@B_@Hq@He@HcANA@uAPUD}@LaAJiAReATI@e@R[LWJMFYNcBx@kCjAsCpAo@Z_Ab@iClAsB~@}@h@a@To@`@oAz@aAv@UNQLoA|@kA`A]X]`@y@~@{A~Bi@fAMT]z@Yr@Uv@k@pBUbAQbAUpAW|AWbBEb@AHOpAEd@E`@IpAIlAKtACp@ARM~A?@I`AIj@Iv@UvAUlAU`A]vAc@rA]`Ai@lAWj@c@r@S^U^OTa@h@s@x@c@d@k@j@k@j@[\\STwAxAaA`A]\\sAtAe@d@QNONi@j@qAnAi@h@_A~@g@f@y@x@i@f@oAnASTWT_D`DiCfCuCtCg@f@s@r@wCtCsAvAq@l@a@\\e@f@CDYZGFEHW^k@`Aq@`BYr@Sj@i@xAKZ_@|@ERc@xAeChJs@hCk@|BY|@a@vA]|@s@pBe@rA[|@e@lACJ[r@OXa@hAKZCFABUn@Qj@Y~@Qp@q@~BsA~E[lAEPoAtEc@fBCJSfAe@pCm@lDe@nC]jB[tAYhAc@fBQp@a@bBQt@EPCJGP?BCFERGTQn@e@hBMd@EJi@|AOd@]t@s@`BcAvBMX}@nBcA~BCFi@hAs@zAEJy@~Bc@lAq@xBOl@CNK\\Kd@c@jBU`ACH[vA[pAk@bCCLMd@GZMv@I^Il@Mv@Kt@A@E\\I|@I`A?JGfBAJAVEdA?JElAEfC?lBAp@Az@AnBA|BApB?tA@~ABv@Br@FrCJnC?FFbCHbCDjB?f@@z@Ax@AHCx@ARItAAHIv@Gb@SbA?BSx@Wv@Wp@AB]v@S\\Yf@_@d@_@^y@p@QLOHYNg@Re@Pk@RWHSFq@Tg@PSFODMFwA`@{@Ni@Fc@Nq@RkAXQDKBoARA?k@HiARQBkARcALeAJK@a@@s@AqAQCAaAWEA}@]a@QMEMGu@g@y@s@m@m@CCk@o@c@o@k@_Ag@aA[q@mAeCo@uAc@{@EIQ_@]s@Ym@IQs@{AIOIOw@_BUi@u@}ASc@Q]}CmGWg@]s@Sa@EKe@aACGEIKQUe@a@{@OYg@gAGMYi@EKaAqBkAaCwAwCS\\"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "Pankow",
+                  "location": {
+                    "lat": 52.5663978,
+                    "lng": 13.4105224
+                  }
+                },
+                "departureStop": {
+                  "name": "S Adlershof",
+                  "location": {
+                    "lat": 52.4348328,
+                    "lng": 13.5414261
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 12,
+                      "minute": 18,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 11,
+                      "minute": 43,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "S+U Pankow (Berlin)",
+                "headway": 0,
+                "numStops": 14,
+                "line": {
+                  "shortName": "S85",
+                  "color": "#5ab344",
+                  "agencies": [
+                    {
+                      "name": "S-Bahn Berlin GmbH",
+                      "url": "http://www.s-bahn-berlin.de/",
+                      "phone": "011 49 30 29743333"
+                    }
+                  ],
+                  "url": "https://www.vbb.de/fahrinformation/liniennetze/",
+                  "vehicle": {
+                    "name": "Commuter train",
+                    "type": "COMMUTER_TRAIN",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/rail2.png",
+                    "localIcon": "//maps.gstatic.com/mapfiles/transit/iw2/6/de-sbahn.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Tram towards Franz. Buchholz, Guyotstr.",
+              "distance": {
+                "inMeters": 4867,
+                "humanReadable": "4.9 km"
+              },
+              "duration": {
+                "inSeconds": 720,
+                "humanReadable": "12 mins"
+              },
+              "startLocation": {
+                "lat": 52.5663978,
+                "lng": 13.4105224
+              },
+              "endLocation": {
+                "lat": 52.601732,
+                "lng": 13.431514
+              },
+              "polyline": {
+                "points": "_{y_IwfzpAMuJ_@BG?YBy@Hs@BMBa@Da@He@HYHQFSJUJuAl@q@\\wAp@MHIFIFGDQNSRk@h@iB~AGDQRK?C@EAGAAACAEECEGKIQG[k@cDKk@Km@gAyFs@aEOu@CSO{@Gs@AEAEGKCGIOIKu@mAMQ_BgCgC_EeAaBiAiBKOIOGMEOEMAQCMIq@Ea@uAiLcAoIY{BWyBCKm@eFS}AGa@K_@K_@M[O[Q]OSQWKKq@{@GIcAoAUYIKUUQQQMYOUIYCWCw@Ae@A}A?aBBqC?iA?y@AQ@Q@O@O@YBsALK@Q@I@i@Fc@BY@YAW?a@As@EiBWIC{Aa@i@OOCKCIAkBe@WEkCq@MCIAq@Qm@OeAYeEaAWIu@Qi@QICYIgAWi@OoFqAYIsCo@SGs@K}@W}@WMCa@KWGkAYa@Q[UOIQEuA_@u@QWGiCk@o@O_AWcGyAqA]QCg@KOA[Bc@Hu@\\mAp@E@qNpH?C"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "Blankenfelder Str. (Berlin)",
+                  "location": {
+                    "lat": 52.601732,
+                    "lng": 13.431514
+                  }
+                },
+                "departureStop": {
+                  "name": "Pankow",
+                  "location": {
+                    "lat": 52.5663978,
+                    "lng": 13.4105224
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 12,
+                      "minute": 36,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 12,
+                      "minute": 24,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "Franz. Buchholz, Guyotstr.",
+                "headway": 0,
+                "numStops": 11,
+                "line": {
+                  "shortName": "50",
+                  "color": "#e30613",
+                  "agencies": [
+                    {
+                      "name": "Berliner Verkehrsbetriebe",
+                      "url": "http://www.bvg.de/",
+                      "phone": "011 49 30 19449"
+                    }
+                  ],
+                  "url": "https://www.bvg.de/de/verbindungen/netzplaene-und-linien/",
+                  "textColor": "#ffffff",
+                  "vehicle": {
+                    "name": "Tram",
+                    "type": "TRAM",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/tram2.png",
+                    "localIcon": "//maps.gstatic.com/mapfiles/transit/iw2/6/de-berlin-bvg-tram.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Walk to Le Pavillon-Straße 3, 13127 Berlin, Germany",
+              "distance": {
+                "inMeters": 379,
+                "humanReadable": "0.4 km"
+              },
+              "duration": {
+                "inSeconds": 297,
+                "humanReadable": "5 mins"
+              },
+              "startLocation": {
+                "lat": 52.6017714,
+                "lng": 13.431698
+              },
+              "endLocation": {
+                "lat": 52.60081419999999,
+                "lng": 13.428438
+              },
+              "steps": [
+                {
+                  "htmlInstructions": "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eBerliner Str.\u003c/b\u003e toward \u003cb\u003eHauptstraße\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 62,
+                    "humanReadable": "62 m"
+                  },
+                  "duration": {
+                    "inSeconds": 47,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.6017714,
+                    "lng": 13.431698
+                  },
+                  "endLocation": {
+                    "lat": 52.6022806,
+                    "lng": 13.4314583
+                  },
+                  "polyline": {
+                    "points": "ax``Ick~pAQHu@\\GBI@G@C?"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eBlankenfelder Str.\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 34,
+                    "humanReadable": "34 m"
+                  },
+                  "maneuver": "turn-left",
+                  "duration": {
+                    "inSeconds": 43,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.6022806,
+                    "lng": 13.4314583
+                  },
+                  "endLocation": {
+                    "lat": 52.6022733,
+                    "lng": 13.4309206
+                  },
+                  "polyline": {
+                    "points": "g{``Isi~pAD\\AP?D?`@AR"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eSchönhauser Str.\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 205,
+                    "humanReadable": "0.2 km"
+                  },
+                  "maneuver": "turn-left",
+                  "duration": {
+                    "inSeconds": 147,
+                    "humanReadable": "2 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.6022733,
+                    "lng": 13.4309206
+                  },
+                  "endLocation": {
+                    "lat": 52.600609,
+                    "lng": 13.4295828
+                  },
+                  "polyline": {
+                    "points": "e{``Igf~pARNB?NLPN`Ar@HFvCzBf@^DD"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eLe Pavillon-Straße\u003c/b\u003e\u003cdiv style\u003d\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                  "distance": {
+                    "inMeters": 78,
+                    "humanReadable": "78 m"
+                  },
+                  "maneuver": "turn-right",
+                  "duration": {
+                    "inSeconds": 60,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.600609,
+                    "lng": 13.4295828
+                  },
+                  "endLocation": {
+                    "lat": 52.60081419999999,
+                    "lng": 13.428438
+                  },
+                  "polyline": {
+                    "points": "yp``I{}}pAERG\\Gf@Ef@Gp@Cn@"
+                  },
+                  "travelMode": "WALKING"
+                }
+              ],
+              "polyline": {
+                "points": "ax``Ick~pAQHu@\\GBI@G@C?D\\AP?D?`@ARRNB?NLPN`Ar@HFvCzBf@^DDERG\\Gf@Ef@Gp@Cn@"
+              },
+              "travelMode": "WALKING"
+            }
+          ],
+          "distance": {
+            "inMeters": 59543,
+            "humanReadable": "59.5 km"
+          },
+          "duration": {
+            "inSeconds": 8212,
+            "humanReadable": "2 hours 17 mins"
+          },
+          "arrivalTime": {
+            "dateTime": {
+              "date": {
+                "year": 2023,
+                "month": 1,
+                "day": 22
+              },
+              "time": {
+                "hour": 12,
+                "minute": 40,
+                "second": 57,
+                "nano": 0
+              }
+            },
+            "offset": {
+              "totalSeconds": 3600
+            },
+            "zone": {}
+          },
+          "departureTime": {
+            "dateTime": {
+              "date": {
+                "year": 2023,
+                "month": 1,
+                "day": 22
+              },
+              "time": {
+                "hour": 10,
+                "minute": 24,
+                "second": 5,
+                "nano": 0
+              }
+            },
+            "offset": {
+              "totalSeconds": 3600
+            },
+            "zone": {}
+          },
+          "startLocation": {
+            "lat": 52.36995899999999,
+            "lng": 13.1966611
+          },
+          "endLocation": {
+            "lat": 52.60081419999999,
+            "lng": 13.428438
+          },
+          "startAddress": "Berliner Str. 5C, 14532 Stahnsdorf, Germany",
+          "endAddress": "Le Pavillon-Straße 3, 13127 Berlin, Germany"
+        }
+      ],
+      "waypointOrder": [],
+      "overviewPolyline": {
+        "points": "gos~HcnpoA~ATx@FNy@d@cBL_@z@bAv@~@w@_AwFsG_EgFmC}CeMkN}NwPqQgQmO}NJc@JMlD}CrV{S~FyEzDkDjGeFfAiAb@cAJk@kB?yF?oA?gHJkO@e[JuH?sDHqDrCoAfAwC`DaA~Ai@_@iDmCsB{B}GsLy@gEQy@k@mAKSET]`DTLKGLu@NkBBuAE{FJeIZsDj@_E\\oEE{Ca@oDuDgReDmRqByFcCgF@]IUOCuAyCuAcDmA}DaDkKaIyVgLm^sCcJ_B_O[uEHiB^sBjAoEv@yCRoAB{ALiFL{FJcF|@gFf@}ECsCSiB@_B`@_C`@_AnAeBjEoFjAuCvAaFzDsO|AmGnBoIhAsEhDoNdBgGl@yCnDqNhOkm@pFgU~@yDLk@Z?ZFsMuzh@aAnAGM}DkLwD}I{G}O_AgC}EoNgCgJ}AcLeBiUcDwc@iCa_@eCmQkCkLiCaI{CwGqAqBsBsB{BkBeBmBgCkEcAsC{@_Eu@eEcCmHkGgLaCoEeJwLwFcH{DgEoBuAsBcAsDgAaCWsAByBTwCz@_Bx@a@ToCzB_CpCoDdFoHvK_M`SeOpVcGdMoEbIoG|KyG~KqGlKgL~PGORd@u@lAwE~HkBxDiDtIqKtZ}Nla@yK`WaDjH}BdE_EjFyO~QcLjNwG~GsCjCaCdDiK~QyLjTc[lj@sLzVeGdK_NpVcJxPcEbH_Vt`@sZ~f@uQjZcNbWsG~LsBbCmC`B}Bj@wAHeEY{F{@uBk@sCqA}A_AkBcBaGgG{EqGcHqJyC{DuCyBkQmFmHiCqGsCoEuDaDyCwJoJuEkEyDuC{Ae@cCIoBZiKvA_E~@{Ap@oXnMcFjDcE|C{@z@uC~DoBlEiBpHkAvHaAjMYvD_AhGuBnHyBlE{BxCwCzCgJjJaM~Ly]|]cA`BkAtCiB~EcF`ReCpImFtNwCtJeEtOaBlImC~NqBfIu@zCkAjEkCzG{HzP_DtJ_A~DwChMmApIa@xJOxWn@~VDhGQlDg@hDcAfDmA`CkCdCaGzByAf@aFhA{Cv@gEp@gFp@m@BeCSiCy@sBgAwCuCsCcF{FuLqFeLaMeWmCsFwAwCS\\MuJ_@Ba@B}CVsBd@kHnDyArAoCxBSCUYaF}W]iCWi@qMoS]{@UsByGaj@u@wB_AuAwEqFo@Yq@G}G?sJH{BRaCJy@A}C]_Dy@oJ{BuMgDuS_FeCo@mBk@k@_@uD_A}NmD{Co@_ALcCnAwNnHGe@QH}@`@QB@\\ClAdIdG?XOdAQhC"
+      },
+      "bounds": {
+        "northeast": {
+          "lat": 52.6022733,
+          "lng": 13.5666063
+        },
+        "southwest": {
+          "lat": 52.368272,
+          "lng": 13.1965067
+        }
+      },
+      "copyrights": "Map data ©2023 GeoBasis-DE/BKG (©2009)",
+      "warnings": [
+        "Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths."
+      ]
+    }
+  ]
+}

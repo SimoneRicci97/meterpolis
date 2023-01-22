@@ -1,0 +1,727 @@
+{
+  "meterpolisName": "Berlin",
+  "route": {
+    "from": {
+      "lat": 52.40016647904898,
+      "lng": 13.478012742146365
+    },
+    "to": {
+      "lat": 52.47603977071577,
+      "lng": 13.399294676463608
+    }
+  },
+  "directions": [
+    {
+      "summary": "",
+      "legs": [
+        {
+          "steps": [
+            {
+              "htmlInstructions": "Walk to Leghornweg (Berlin)",
+              "distance": {
+                "inMeters": 978,
+                "humanReadable": "1.0 km"
+              },
+              "duration": {
+                "inSeconds": 702,
+                "humanReadable": "12 mins"
+              },
+              "startLocation": {
+                "lat": 52.4000137,
+                "lng": 13.4781595
+              },
+              "endLocation": {
+                "lat": 52.4066689,
+                "lng": 13.4842336
+              },
+              "steps": [
+                {
+                  "htmlInstructions": "Head \u003cb\u003enortheast\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 41,
+                    "humanReadable": "41 m"
+                  },
+                  "duration": {
+                    "inSeconds": 29,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.4000137,
+                    "lng": 13.4781595
+                  },
+                  "endLocation": {
+                    "lat": 52.4001992,
+                    "lng": 13.4786779
+                  },
+                  "polyline": {
+                    "points": "aky~HomgqAe@gB"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eleft\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 223,
+                    "humanReadable": "0.2 km"
+                  },
+                  "maneuver": "turn-left",
+                  "duration": {
+                    "inSeconds": 156,
+                    "humanReadable": "3 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.4001992,
+                    "lng": 13.4786779
+                  },
+                  "endLocation": {
+                    "lat": 52.402105,
+                    "lng": 13.477691
+                  },
+                  "polyline": {
+                    "points": "gly~HwpgqA_@Ha@HwA^y@^k@\\{@h@_Ah@"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eKlein-Ziethener Weg\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 21,
+                    "humanReadable": "21 m"
+                  },
+                  "maneuver": "turn-right",
+                  "duration": {
+                    "inSeconds": 15,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.402105,
+                    "lng": 13.477691
+                  },
+                  "endLocation": {
+                    "lat": 52.4022555,
+                    "lng": 13.4778789
+                  },
+                  "polyline": {
+                    "points": "cxy~HqjgqA_@e@"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eKlein-Ziethener Weg\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 62,
+                    "humanReadable": "62 m"
+                  },
+                  "maneuver": "turn-left",
+                  "duration": {
+                    "inSeconds": 43,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.4022555,
+                    "lng": 13.4778789
+                  },
+                  "endLocation": {
+                    "lat": 52.402823,
+                    "lng": 13.4776053
+                  },
+                  "polyline": {
+                    "points": "cyy~HwkgqAUH[JODa@NKH"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eKlein-Ziethener Weg\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 449,
+                    "humanReadable": "0.4 km"
+                  },
+                  "maneuver": "turn-right",
+                  "duration": {
+                    "inSeconds": 326,
+                    "humanReadable": "5 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.402823,
+                    "lng": 13.4776053
+                  },
+                  "endLocation": {
+                    "lat": 52.4054733,
+                    "lng": 13.4824563
+                  },
+                  "polyline": {
+                    "points": "s|y~HajgqACIEIEECEIGYUMKOOQQEGGMS_@g@mAc@eAKSSc@MW_@o@EIGKEGMKKKUWMOGIEGCEKWKUOe@Qi@a@uASq@EQMe@CK?GAIGm@FS"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Slight \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eRhodeländerweg\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 182,
+                    "humanReadable": "0.2 km"
+                  },
+                  "maneuver": "turn-slight-left",
+                  "duration": {
+                    "inSeconds": 133,
+                    "humanReadable": "2 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.4054733,
+                    "lng": 13.4824563
+                  },
+                  "endLocation": {
+                    "lat": 52.4066689,
+                    "lng": 13.4842336
+                  },
+                  "polyline": {
+                    "points": "emz~HkhhqASSOSMOEGEGIMOWa@w@m@iAIOEIYi@MUOW"
+                  },
+                  "travelMode": "WALKING"
+                }
+              ],
+              "polyline": {
+                "points": "aky~HomgqAe@gB_@Ha@HwA^y@^k@\\{@h@_Ah@_@e@UH[JODa@NKHCIEIEECEIGYUMKOOQQEGGMS_@g@mAc@eAKSSc@MW_@o@EIGKEGMKKKUWMOGIEGCEKWKUOe@Qi@a@uASq@EQMe@CK?GAIGm@FSSSOSMOEGEGIMOWa@w@m@iAIOEIYi@MUOW"
+              },
+              "travelMode": "WALKING"
+            },
+            {
+              "htmlInstructions": "Bus towards Ringlinie U Rudow",
+              "distance": {
+                "inMeters": 2030,
+                "humanReadable": "2.0 km"
+              },
+              "duration": {
+                "inSeconds": 360,
+                "humanReadable": "6 mins"
+              },
+              "startLocation": {
+                "lat": 52.406686,
+                "lng": 13.484204
+              },
+              "endLocation": {
+                "lat": 52.4162269,
+                "lng": 13.4952892
+              },
+              "polyline": {
+                "points": "ytz~HgshqA?@Yi@Q[U]Q]GRgAxD[hAu@xBgAjCa@z@i@dAMTGHS\\]h@s@bAQRcAlA[\\SRQPk@d@IDMJABMJGWQq@]}AQu@WeA_@aB]}AK_@U_Ac@qBQs@Oq@Sy@ACa@iBOk@YmA]}AI[w@iDq@uCGWEQOs@Im@O{AEk@E_AAYEq@Aa@AWAc@?Y?]A]?WAUAOAWAWAMI_AAMO}AAOG]CUESCIEUEQEMCIACGWGQEIGQK]sAyDKY_BuE]_ASo@k@{ACOACAIK_@M_@I]Oj@CNENCFM^?@Un@A@Yr@EHKXFJ"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "Rudow",
+                  "location": {
+                    "lat": 52.4162269,
+                    "lng": 13.4952892
+                  }
+                },
+                "departureStop": {
+                  "name": "Leghornweg (Berlin)",
+                  "location": {
+                    "lat": 52.406686,
+                    "lng": 13.484204
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 10,
+                      "minute": 30,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 10,
+                      "minute": 24,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "Ringlinie U Rudow",
+                "headway": 0,
+                "numStops": 5,
+                "line": {
+                  "shortName": "271",
+                  "agencies": [
+                    {
+                      "name": "Berliner Verkehrsbetriebe",
+                      "url": "http://www.bvg.de/",
+                      "phone": "011 49 30 19449"
+                    }
+                  ],
+                  "url": "https://www.bvg.de/de/verbindungen/netzplaene-und-linien/",
+                  "vehicle": {
+                    "name": "Bus",
+                    "type": "BUS",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                    "localIcon": "//maps.gstatic.com/mapfiles/transit/iw2/6/de-berlin-bvg-bus.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Subway towards Rathaus Spandau",
+              "distance": {
+                "inMeters": 9581,
+                "humanReadable": "9.6 km"
+              },
+              "duration": {
+                "inSeconds": 960,
+                "humanReadable": "16 mins"
+              },
+              "startLocation": {
+                "lat": 52.4162269,
+                "lng": 13.4952892
+              },
+              "endLocation": {
+                "lat": 52.4815728,
+                "lng": 13.4343046
+              },
+              "polyline": {
+                "points": "mp|~HqxjqAAAELMZIP_@z@u@vAINOTe@v@_@h@ILoC~Ds@bAmBpCgCpDyAxBGFILm@r@i@~@Yf@e@l@o@z@GF{@pAw@nA{@~Aq@xAm@`BY|@_@zA[tAIZWhAMl@GPCRGZGVCTIj@CTALIp@IhAIlAAf@Ah@@x@BlBBpABnC@h@DvDF~DF|E?NBzA@jBLrCBp@?T?vA?D?bDEdGClBApAA^CfAGnCKzBCVMtAAHANEv@Q~AGt@I~@KnAWvCYxCOrBUxBSxACVCLAJEXCLCJKn@Kd@Ot@ABQr@W~@On@Ml@[jAIZc@fBc@bBc@vAELGPc@lAi@~AeArCu@nB_@z@a@bAs@vAq@pAUb@qAxBw@hAMPYf@o@~@k@t@Y\\OTQPGHg@p@iArAo@l@y@v@qAhAEFqAfAABwBvAKHkAr@yBhAqAh@w@\\]N_ATg@J]JcAXA?eAVYHIBWDYDi@NoBj@uAZa@NOHE@UHiBj@_Ch@_@JeBf@WH_AXsA\\KB_@H}@NaA?sAQiAUaAa@m@YWKm@SICi@aAu@cAoAwAa@_@s@i@w@c@}@c@UGmAYG?yAMc@?g@GcDQwDQmD@IAcAN_AVgBPgALiALoDv@sAVKBcAPG@A?E@QDGBA?GBG@g@LyA\\C@kB`@KBuAVcATOBq@LQDo@D[DM@k@Ek@Ck@Bw@M{@k@cAI_ABW@_ANIF{DjCSLWNGDMHGBYPkBrAi@^s@d@s@h@E@eAv@cBjAgAl@gCdBa@XOJA@KF[RCBGDQLEBSLq@d@ED_@VKHKFIF]Xg@b@MJSRaC`CONYVc@X}@`@u@NcBRyCXsANMB}APYBcAFs@Fc@FM@UBK?WDs@HMB_CT{ANcAJm@HSBuCXO@gAJ_@Ha@L}@b@kAj@IBq@XkAn@mAj@MDmA`@_@HuAf@yCfAMFw@\\QL[TkAv@kCdBgC`B{@f@]Ta@ZW`@y@nAuArByA|Bc@p@cAbB_@n@AA"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "U Rathaus Neukölln",
+                  "location": {
+                    "lat": 52.4815728,
+                    "lng": 13.4343046
+                  }
+                },
+                "departureStop": {
+                  "name": "Rudow",
+                  "location": {
+                    "lat": 52.4162269,
+                    "lng": 13.4952892
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 10,
+                      "minute": 51,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 10,
+                      "minute": 35,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "Rathaus Spandau",
+                "headway": 0,
+                "numStops": 11,
+                "line": {
+                  "name": "U-Bahn-Linie 7",
+                  "shortName": "U7",
+                  "color": "#009bd9",
+                  "agencies": [
+                    {
+                      "name": "Berliner Verkehrsbetriebe",
+                      "url": "http://www.bvg.de/",
+                      "phone": "011 49 30 19449"
+                    }
+                  ],
+                  "url": "https://www.bvg.de/de/verbindungen/netzplaene-und-linien/",
+                  "vehicle": {
+                    "name": "Subway",
+                    "type": "SUBWAY",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/subway2.png",
+                    "localIcon": "//maps.gstatic.com/mapfiles/transit/iw2/6/de-metro.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Bus towards U Berliner Str.",
+              "distance": {
+                "inMeters": 2668,
+                "humanReadable": "2.7 km"
+              },
+              "duration": {
+                "inSeconds": 480,
+                "humanReadable": "8 mins"
+              },
+              "startLocation": {
+                "lat": 52.4815728,
+                "lng": 13.4343046
+              },
+              "endLocation": {
+                "lat": 52.4819092,
+                "lng": 13.409354
+              },
+              "polyline": {
+                "points": "yhi_Ik{~pAEKMTJTn@eAXe@JOR]r@cAHe@LSJQRYHMJKz@qA^k@Ze@HOLQHOHKDILMNK?ARMNMb@YNIJ`A@VFt@NhCTlD@LJpA@^BV?HB\\HlAJzA?@Dx@CDABABAF?H@b@@PBZB^BNDp@@LJhBB\\Fx@HrAF~@B^NbCN~BHjALpBNxB@N?DHfALbB@Py@Xa@NQFWFi@LQDI@EBG@KBG@]Fq@LOD]JI@s@Pa@DI@k@JUDq@NUD[FD^Dp@HdAHbBFdAJpBVtEFbA@JHrADp@B\\Dd@Dr@@NH~@B`@Fx@@HDL?b@?b@?f@Ch@ATCd@En@Q~Au@zFKx@ADKt@SxAAJG^[`CkA`J_@xCm@vEEVE\\OhACTCHE^Kr@CPLF"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "Friedhöfe Columbiadamm (Berlin)",
+                  "location": {
+                    "lat": 52.4819092,
+                    "lng": 13.409354
+                  }
+                },
+                "departureStop": {
+                  "name": "U Rathaus Neukölln",
+                  "location": {
+                    "lat": 52.4815728,
+                    "lng": 13.4343046
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 11,
+                      "minute": 5,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 10,
+                      "minute": 57,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "U Berliner Str.",
+                "headway": 0,
+                "numStops": 7,
+                "line": {
+                  "shortName": "M43",
+                  "agencies": [
+                    {
+                      "name": "Berliner Verkehrsbetriebe",
+                      "url": "http://www.bvg.de/",
+                      "phone": "011 49 30 19449"
+                    }
+                  ],
+                  "url": "https://www.bvg.de/de/verbindungen/netzplaene-und-linien/",
+                  "vehicle": {
+                    "name": "Bus",
+                    "type": "BUS",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                    "localIcon": "//maps.gstatic.com/mapfiles/transit/iw2/6/de-berlin-bvg-bus.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Walk to Tempelhofer Feld, Tempelhofer Damm, 12101 Berlin, Germany",
+              "distance": {
+                "inMeters": 1189,
+                "humanReadable": "1.2 km"
+              },
+              "duration": {
+                "inSeconds": 852,
+                "humanReadable": "14 mins"
+              },
+              "startLocation": {
+                "lat": 52.4819044,
+                "lng": 13.4093512
+              },
+              "endLocation": {
+                "lat": 52.47607619999999,
+                "lng": 13.399274
+              },
+              "steps": [
+                {
+                  "htmlInstructions": "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eColumbiadamm\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 150,
+                    "humanReadable": "0.2 km"
+                  },
+                  "duration": {
+                    "inSeconds": 106,
+                    "humanReadable": "2 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.4819044,
+                    "lng": 13.4093512
+                  },
+                  "endLocation": {
+                    "lat": 52.4823536,
+                    "lng": 13.4072813
+                  },
+                  "polyline": {
+                    "points": "{ji_Im_zpASxAG\\Gf@E^Kp@E^E\\ABE\\E^G^AJ"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eleft\u003c/b\u003e\u003cdiv style\u003d\"font-size:0.9em\"\u003eRestricted usage road\u003c/div\u003e",
+                  "distance": {
+                    "inMeters": 467,
+                    "humanReadable": "0.5 km"
+                  },
+                  "maneuver": "turn-left",
+                  "duration": {
+                    "inSeconds": 339,
+                    "humanReadable": "6 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.4823536,
+                    "lng": 13.4072813
+                  },
+                  "endLocation": {
+                    "lat": 52.4785273,
+                    "lng": 13.4050464
+                  },
+                  "polyline": {
+                    "points": "umi_IorypAb@N|DpATJHHDHrBhB|@p@PPJJ~@n@t@h@RJHDTLJDLDPBN@D?NCJCJAD?H?"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eright\u003c/b\u003e\u003cdiv style\u003d\"font-size:0.9em\"\u003eRestricted usage road\u003c/div\u003e",
+                  "distance": {
+                    "inMeters": 85,
+                    "humanReadable": "85 m"
+                  },
+                  "maneuver": "turn-right",
+                  "duration": {
+                    "inSeconds": 61,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.4785273,
+                    "lng": 13.4050464
+                  },
+                  "endLocation": {
+                    "lat": 52.4783673,
+                    "lng": 13.4038273
+                  },
+                  "polyline": {
+                    "points": "yuh_IqdypADv@HhAF|@BVBZ"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eleft\u003c/b\u003e\u003cdiv style\u003d\"font-size:0.9em\"\u003eRestricted usage road\u003c/div\u003e",
+                  "distance": {
+                    "inMeters": 110,
+                    "humanReadable": "0.1 km"
+                  },
+                  "maneuver": "turn-left",
+                  "duration": {
+                    "inSeconds": 80,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.4783673,
+                    "lng": 13.4038273
+                  },
+                  "endLocation": {
+                    "lat": 52.47740109999999,
+                    "lng": 13.4041819
+                  },
+                  "polyline": {
+                    "points": "yth_I}|xpAFCFELE`@MZI`ASb@I"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eright\u003c/b\u003e\u003cdiv style\u003d\"font-size:0.9em\"\u003eRestricted usage road\u003c/div\u003e",
+                  "distance": {
+                    "inMeters": 44,
+                    "humanReadable": "44 m"
+                  },
+                  "maneuver": "turn-right",
+                  "duration": {
+                    "inSeconds": 32,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.47740109999999,
+                    "lng": 13.4041819
+                  },
+                  "endLocation": {
+                    "lat": 52.47729469999999,
+                    "lng": 13.4035563
+                  },
+                  "polyline": {
+                    "points": "wnh_Ic_ypA@`@B`@Hf@DN"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eleft\u003c/b\u003e\u003cdiv style\u003d\"font-size:0.9em\"\u003eRestricted usage road\u003c/div\u003e\u003cdiv style\u003d\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                  "distance": {
+                    "inMeters": 333,
+                    "humanReadable": "0.3 km"
+                  },
+                  "maneuver": "turn-left",
+                  "duration": {
+                    "inSeconds": 234,
+                    "humanReadable": "4 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.47729469999999,
+                    "lng": 13.4035563
+                  },
+                  "endLocation": {
+                    "lat": 52.47607619999999,
+                    "lng": 13.399274
+                  },
+                  "polyline": {
+                    "points": "anh_Ig{xpAFBJBJHNLNTJTNVN~ALpAD\\^jDTpBv@lFBX"
+                  },
+                  "travelMode": "WALKING"
+                }
+              ],
+              "polyline": {
+                "points": "{ji_Im_zpASxAG\\Gf@E^Kp@E^E\\ABE\\E^G^AJb@N|DpATJHHDHrBhB|@p@PPJJ~@n@t@h@RJHDTLJDLDPBN@D?NCJCJAD?H?Dv@HhAF|@BVBZFCFELE`@MZI`ASb@I@`@B`@Hf@DNFBJBJHNLNTJTNVN~ALpAD\\^jDTpBv@lFBX"
+              },
+              "travelMode": "WALKING"
+            }
+          ],
+          "distance": {
+            "inMeters": 16446,
+            "humanReadable": "16.4 km"
+          },
+          "duration": {
+            "inSeconds": 4017,
+            "humanReadable": "1 hour 7 mins"
+          },
+          "arrivalTime": {
+            "dateTime": {
+              "date": {
+                "year": 2023,
+                "month": 1,
+                "day": 22
+              },
+              "time": {
+                "hour": 11,
+                "minute": 19,
+                "second": 13,
+                "nano": 0
+              }
+            },
+            "offset": {
+              "totalSeconds": 3600
+            },
+            "zone": {}
+          },
+          "departureTime": {
+            "dateTime": {
+              "date": {
+                "year": 2023,
+                "month": 1,
+                "day": 22
+              },
+              "time": {
+                "hour": 10,
+                "minute": 12,
+                "second": 16,
+                "nano": 0
+              }
+            },
+            "offset": {
+              "totalSeconds": 3600
+            },
+            "zone": {}
+          },
+          "startLocation": {
+            "lat": 52.4000137,
+            "lng": 13.4781595
+          },
+          "endLocation": {
+            "lat": 52.47607619999999,
+            "lng": 13.399274
+          },
+          "startAddress": "Gockelweg 22, 12355 Berlin, Germany",
+          "endAddress": "Tempelhofer Feld, Tempelhofer Damm, 12101 Berlin, Germany"
+        }
+      ],
+      "waypointOrder": [],
+      "overviewPolyline": {
+        "points": "aky~HomgqAe@gB_@HyBh@eB|@{BrA_@e@UHk@Pm@XISm@i@u@u@gBaEmA_Ca@i@w@}@a@{@wAwEWkAIw@FSSS]c@KOiBgDw@yAOWCDYg@g@y@Q]GRcBbGu@xBgAjCkA`CU^wB~C_BjBe@d@eAz@MJGWo@oCgB{H_D_NiE}QYaBUgCOmDIoEO}B[yCMs@U_AkC{H}DaLS}@W}@Sz@Wx@w@nBKXFJAAELWl@uArC_BfC{HbLsF`Im@r@i@~@_AtAw@bAsB`D{@~Aq@xAgA~C}AvGa@nBYnBK~@SvCCpADfDNbMRhO@jBLrCBfA?|AEhLKfHSjGQlB[pDu@|Ii@lGi@rEOjA_@nB{@lDcAdEgAjEi@dB{CrIuAjDuAzCgAtBqAxBw@hAg@x@{AtBi@r@QPo@z@iArAo@l@kC`CwAnAqExCyBhAqAh@uAl@iEfAkBd@q@JyCz@uAZa@NUJ_Ct@_Dt@qGhBk@L}@NaA?sAQiAUoB{@eA_@ICi@aAu@cAoAwAuAiAuBgAcBa@aBMkAG{Ic@wD?cAN_AVoD^iALoDv@_BZsATc@LmCn@qGrAaAPaAJi@FwAIk@Bw@M{@k@cAIwAD_ANIFoExC_@T{CrBwCpBiDbCgAl@gCdBq@d@MHy@j@iCfB}ApA_E|Dc@X}@`@u@NcBRmFh@kBT}AJwANgAJyPfBwALaAVeElByCzA{Af@uBp@gDnAiAj@gBlAmJdGa@ZW`@oCbEaFbIGMMTJThAkB^m@r@cAHe@Xe@dBeCrAsBR[RWr@i@r@c@LxAn@zJPrCXhEDx@CDCF@fAP|B~@fOpAxR@Py@Xs@V}A\\_Dr@iBZsB`@q@LJpAf@`J`AbPVjDFV?fAIlCWnCaAtHc@`DoC|ScBjMCPLFQxAa@vCS~AM~@AJb@NrE|ANRpDzC\\\\rCjB`@R^HT@ZGPAH?Dv@PfCFr@NIn@S|A]b@I@`@LhADNFBVL^b@Zl@\\pDd@hElA~IBX"
+      },
+      "bounds": {
+        "northeast": {
+          "lat": 52.4823536,
+          "lng": 13.4966267
+        },
+        "southwest": {
+          "lat": 52.4000137,
+          "lng": 13.399274
+        }
+      },
+      "copyrights": "Map data ©2023 GeoBasis-DE/BKG (©2009)",
+      "warnings": [
+        "Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths."
+      ]
+    }
+  ]
+}

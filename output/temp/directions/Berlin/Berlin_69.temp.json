@@ -1,0 +1,745 @@
+{
+  "meterpolisName": "Berlin",
+  "route": {
+    "from": {
+      "lat": 52.43672162089016,
+      "lng": 13.683501896497761
+    },
+    "to": {
+      "lat": 52.616349796625975,
+      "lng": 13.123655942729943
+    }
+  },
+  "directions": [
+    {
+      "summary": "",
+      "legs": [
+        {
+          "steps": [
+            {
+              "htmlInstructions": "Walk to Rahnsdorf",
+              "distance": {
+                "inMeters": 2109,
+                "humanReadable": "2.1 km"
+              },
+              "duration": {
+                "inSeconds": 1567,
+                "humanReadable": "26 mins"
+              },
+              "startLocation": {
+                "lat": 52.4367739,
+                "lng": 13.6834228
+              },
+              "endLocation": {
+                "lat": 52.4516143,
+                "lng": 13.6913293
+              },
+              "steps": [
+                {
+                  "htmlInstructions": "Head \u003cb\u003enortheast\u003c/b\u003e toward \u003cb\u003eAn den Bänken\u003c/b\u003e\u003cdiv style\u003d\"font-size:0.9em\"\u003eRestricted usage road\u003c/div\u003e",
+                  "distance": {
+                    "inMeters": 52,
+                    "humanReadable": "52 m"
+                  },
+                  "duration": {
+                    "inSeconds": 37,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.4367739,
+                    "lng": 13.6834228
+                  },
+                  "endLocation": {
+                    "lat": 52.4371419,
+                    "lng": 13.6839642
+                  },
+                  "polyline": {
+                    "points": "yp`_IkporAg@gAWUIM"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eAn den Bänken\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 84,
+                    "humanReadable": "84 m"
+                  },
+                  "maneuver": "turn-left",
+                  "duration": {
+                    "inSeconds": 62,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.4371419,
+                    "lng": 13.6839642
+                  },
+                  "endLocation": {
+                    "lat": 52.4376448,
+                    "lng": 13.6830234
+                  },
+                  "polyline": {
+                    "points": "cs`_IwsorAEHMXoAvC"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eMüggelwerderweg\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 138,
+                    "humanReadable": "0.1 km"
+                  },
+                  "maneuver": "turn-right",
+                  "duration": {
+                    "inSeconds": 99,
+                    "humanReadable": "2 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.4376448,
+                    "lng": 13.6830234
+                  },
+                  "endLocation": {
+                    "lat": 52.4384412,
+                    "lng": 13.6845639
+                  },
+                  "polyline": {
+                    "points": "gv`_I{morAuCcHIO"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eWiesenstraße\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 82,
+                    "humanReadable": "82 m"
+                  },
+                  "maneuver": "turn-left",
+                  "duration": {
+                    "inSeconds": 61,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.4384412,
+                    "lng": 13.6845639
+                  },
+                  "endLocation": {
+                    "lat": 52.4390218,
+                    "lng": 13.683862
+                  },
+                  "polyline": {
+                    "points": "g{`_IoworAEDMPu@bAWZQR"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eSeestraße\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 374,
+                    "humanReadable": "0.4 km"
+                  },
+                  "maneuver": "turn-right",
+                  "duration": {
+                    "inSeconds": 277,
+                    "humanReadable": "5 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.4390218,
+                    "lng": 13.683862
+                  },
+                  "endLocation": {
+                    "lat": 52.4412929,
+                    "lng": 13.6878299
+                  },
+                  "polyline": {
+                    "points": "{~`_IcsorAQiAOcAIi@E]CKCKGMk@}@}@yAaAyAACiAiBaA}Ag@y@KQEGOK"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eFürstenwalder Allee\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 160,
+                    "humanReadable": "0.2 km"
+                  },
+                  "maneuver": "turn-left",
+                  "duration": {
+                    "inSeconds": 128,
+                    "humanReadable": "2 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.4412929,
+                    "lng": 13.6878299
+                  },
+                  "endLocation": {
+                    "lat": 52.44236009999999,
+                    "lng": 13.6863444
+                  },
+                  "polyline": {
+                    "points": "ama_I}kprAAFGNGTKTO\\IPGLIPILKPIJGHOTUTOP[TIDGD"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Slight \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eFürstenwalder Allee\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 71,
+                    "humanReadable": "71 m"
+                  },
+                  "maneuver": "turn-slight-right",
+                  "duration": {
+                    "inSeconds": 52,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.44236009999999,
+                    "lng": 13.6863444
+                  },
+                  "endLocation": {
+                    "lat": 52.4429622,
+                    "lng": 13.6857562
+                  },
+                  "polyline": {
+                    "points": "wsa_IsbprAIAC@e@\\g@`@ILKPER"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eIngeborg-Hunzinger-Straße\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 1131,
+                    "humanReadable": "1.1 km"
+                  },
+                  "maneuver": "turn-right",
+                  "duration": {
+                    "inSeconds": 835,
+                    "humanReadable": "14 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.4429622,
+                    "lng": 13.6857562
+                  },
+                  "endLocation": {
+                    "lat": 52.4516577,
+                    "lng": 13.6915496
+                  },
+                  "polyline": {
+                    "points": "owa_I__prAUGAAGCC?CAE?G?O?WCK?I?K?I?E?QAU@Y?U?Y?Y?W?U?e@?e@?Y?Q@I?wA@a@?o@@o@?eABu@?aA@IASIMIGGKMCECEGMI]e@oBKi@Ka@CIIUKUWa@a@m@W]{A}BIKSWWc@kAcBy@iAe@o@o@{@[a@EGKOEIOSYc@EGWa@KIGEGEGCIAa@GUGSG"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eleft\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 8,
+                    "humanReadable": "8 m"
+                  },
+                  "maneuver": "turn-left",
+                  "duration": {
+                    "inSeconds": 6,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.4516577,
+                    "lng": 13.6915496
+                  },
+                  "endLocation": {
+                    "lat": 52.4516594,
+                    "lng": 13.6915002
+                  },
+                  "polyline": {
+                    "points": "{mc_IecqrA?H"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Take entrance \u003cspan class\u003d\"location\"\u003e\u003c/span\u003e",
+                  "distance": {
+                    "inMeters": 9,
+                    "humanReadable": "9 m"
+                  },
+                  "duration": {
+                    "inSeconds": 10,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.4516405,
+                    "lng": 13.6914667
+                  },
+                  "endLocation": {
+                    "lat": 52.4516143,
+                    "lng": 13.6913293
+                  },
+                  "polyline": {
+                    "points": "wmc_IubqrADZ"
+                  },
+                  "travelMode": "WALKING"
+                }
+              ],
+              "polyline": {
+                "points": "yp`_IkporAg@gAWUIMEHMXoAvCuCcHIOEDMPu@bAWZQRQiAOcAIi@E]CKCKGMk@}@}@yAaAyAACiAiBaA}Ag@y@KQEGOKAFGNGTKTO\\IPGLIPILKPIJGHOTUTOP[TIDGDIAC@e@\\g@`@ILKPERUGAAGCC?CAE?G?O?WCK?I?K?I?E?QAU@Y?U?Y?Y?W?U?e@?e@?Y?Q@I?wA@a@?o@@o@?eABu@?aA@IASIMIGGKMCECEGMI]e@oBKi@Ka@CIIUKUWa@a@m@W]{A}BIKSWWc@kAcBy@iAe@o@o@{@[a@EGKOEIOSYc@EGWa@KIGEGEGCIAa@GUGSG?HBDDZ"
+              },
+              "travelMode": "WALKING"
+            },
+            {
+              "htmlInstructions": "Commuter train towards S Spandau Bhf (Berlin)",
+              "distance": {
+                "inMeters": 40482,
+                "humanReadable": "40.5 km"
+              },
+              "duration": {
+                "inSeconds": 3960,
+                "humanReadable": "1 hour 6 mins"
+              },
+              "startLocation": {
+                "lat": 52.4516143,
+                "lng": 13.6913293
+              },
+              "endLocation": {
+                "lat": 52.53455899999999,
+                "lng": 13.197884
+              },
+              "polyline": {
+                "points": "qmc_IyaqrANFCVGt@Gx@Ex@AFO|BG`ACb@EjACfAAn@Ab@Ah@Ah@ExAE`Aa@rHUlEShEMfCI~AIvAa@hI[fIInBm@tNCf@Cd@q@tNg@fKm@pM]bHOtCQ~DAFKrBANi@zKYzF_@~HW|FCX[rGc@`JK~BMvB[dH]fHc@zI[dGO`DW|FC^KpBM`CE|@GhASbEObESvF_@dLEdAKxCIzB?BCt@EtAA`@IxDM|EAXA`@GdDI`EEbCCbBEbEEvDAv@AxAAz@?B?JEdB?b@ApAAdA?\\ARA~@?FA`AChB?d@CdAAxA?f@?~@@rCA`A@pD?f@?fA?x@A|BCzDGhF?h@An@ApA?l@AjBAzCCj@AfDCpCCfC?n@AR?T?RAj@C~CAr@CzC?JGvF?`DE~CGtD?@OtEIlCAv@ArAAPCvBAzAElDAfAC|BO`Ea@fGStDIzAG|AEnBElDErDCbCCxAC|DA`B?~BDlE?RD|DH|G@x@BtBDfFCnDCpB?`@GhCCbBATCfACZGtBEjACx@?FGpACj@?`@A^O~BAVGx@ARGd@E^SjBIn@Gn@AHQfACL?@AF?BW|AO|@c@zBe@|BU~@Qv@Ol@c@fBGTIVQ~@Of@c@bBSp@k@dBk@rAg@vAqAnDo@jBsAzDm@hBUn@Qf@GTSn@c@nA[~@o@fBgAhDeAzCaArCKZkAlDiAdDm@fBuAbE}AtE}CzIk@zAc@bA_@~@a@|@cAtCENUn@CFe@vAM^W~@Md@Kn@Ql@AHmA~DABi@~AUn@y@`CyF|P{CzIk@|Am@fBsA|DeBhFe@rA_@jAw@|BYz@mApDo@lBq@nBeA|C]dAu@|BKXIRm@fBq@pBM\\qDbKaBnEqBnFyBtGgBnFg@zA}AnEk@`BCHe@tAi@|AABSj@AFCFGTCDAD[bAOb@g@`BGT_@pAYz@M^Qh@uAdEk@bB{@bCo@lBQh@IVcCfHeBzEo@dBq@fBe@`AOXCF[l@Yf@INc@p@oAtBYb@SZg@z@qAxBeAfBmApB{@~AWf@Sb@g@fAi@tAe@nAgBlFaAxCuA`EmAtDY`Aa@dBWjAc@bCSpAa@~Cm@vEc@dDUpAYnA[hAIVg@rA]t@Sb@a@n@IPWb@[f@[d@GJ]n@]t@]v@[z@a@pA[nAu@|Cg@vBu@~Cm@|By@bDi@pBUv@c@`BY~@_AhD{ApFw@jCEPw@lCs@xBo@nBi@zAUp@IVCHIVGRKVKZk@hBOf@e@`BiAbEUx@GTMf@o@lCOf@UlAWrAIb@a@lBe@|Bm@fDGb@e@~CK`AGh@MfAMdAShBCXEZ_@hD_@fD_ArI[xCUnBIx@MdASnBQxA?@[|CGb@g@|FIr@ShBw@tH}@`J_@vD_@jD?FMlAMnAKbAADKfAMjAIx@MfAEf@Q|AKhAY~CMvAGv@?@Eh@EXGx@Eb@GlAGjAIpAIpAEbAEh@KdBGv@Gt@M`AIt@SpAOdAOv@AHAHKl@Q|@SlAObAGh@Gf@OjAARM`AMrAW|BOzAOrAALOpAEh@UtBGf@OnAE^Ih@ObA[zASv@GZa@fBGTQv@a@`BS|@YnASv@Kb@IXENIXGTIVK\\KXKZENEREPCJSt@Wt@Ob@GTQh@CFM^IVITADADMZADUp@GPa@pA[|@ELc@xAQh@Qh@Y|@ENAFEHMl@Ox@ETABG^CZ]vCGjAEb@I~ACTCf@Ef@ANEh@K|AG~@OjBEl@AJCvAA\\Ar@A`A?|@?FAbA?TAx@Ad@?f@A?CjAEn@CRGx@Gb@EVG\\Mj@CFKb@Y~@]bACF[z@O`@M^Y|@?BUt@On@Qt@Uz@Kf@IXi@`Ck@fCETa@fBWfAk@xAINWd@ABY^_@f@OLIHMLUREDYP_Ad@QFA@QJSJSJOHa@Za@^KJQRk@n@MNUTWRKHy@b@E@o@RUFm@NUJQDQJ_@REBq@f@GHe@f@a@f@i@~@_@h@a@f@EJKRWb@?@s@hAk@x@GJm@t@IJW\\}ArC}AtCEL?Ba@tAEJOf@IPEPADSj@K\\Wx@IXKZCHO`@On@EPGVKj@Mx@Gj@APCTCf@Ch@Cj@?f@Af@@Z?J@h@Bj@@R@TFn@Fj@@FHj@Hf@Jp@DTDXDR@FBLJp@Hr@L~@PxANnAD\\Dd@BXDf@Dd@B\\@NBh@@J@j@@@?X@x@DtEB`ADp@Dj@Dh@Hd@Ff@?@Lp@Lj@Tt@Vr@Zz@x@tBn@~A`@dADHBJ`@fA\\jAR|@Lr@Fj@DZD^B^B\\@Z@f@@N@N?JD|A@X@n@Bt@Hn@@R@\\@d@@r@@fA?r@Al@?LCZC\\?FAFIdAADKv@Iv@Kv@Gp@I~@AFIn@CLE^CNKj@E\\ERUxAADKn@Ib@UrAMz@I^AJIh@Id@CXEXC`@CTAV?@Cd@AV?X?\\AL@dA?n@CjA@fAAd@A^C~@AREb@AJEd@In@AJKn@Mh@ADI\\M`@Mb@A?Qf@MZMTCFMVGJEDIFKNSZYRONCD[XmAlAk@l@c@b@YXKL]`@ORYb@OVKPKTO\\Qd@GN[fACJSr@GVKd@Kf@Mv@CTCNEh@Gp@?DG`AAr@AVCvA?vA?b@?bADlABr@Bd@D~@Bv@Dt@B\\Fv@NxALp@?BRhAJj@Jf@J^Jd@Vz@\\bABFh@rA^v@HNVf@NXb@v@HLh@bABBRb@P^FLFPRb@Pd@BDHTn@~A|ArDBFbD~HP`@Th@Rh@`B|DZv@Nf@Tr@T`AJl@Ll@@FBPJr@Dd@DXBPB`@Fn@?LBZBd@@LBbA@`B@f@Ap@EfAWbJEhACl@Q|EAd@AZAHItAKrBEx@?FC|@?DCh@ARAd@Ax@ALAZ?PAt@Az@AL?j@Ab@AdA?J?z@?T?n@?^BXBd@?JFv@Ft@NpAHf@Lx@Jd@FTNn@Rl@Rn@HVJRVl@Rb@\\l@?@RXFHJPLLFHLNHJRTf@j@zCnDbExEhApAhArAj@j@\\ZDB^Xl@^TJ`@PFDVH@@XL|@\\LDVHD@b@JNDVFJBRFD@^Lr@V\\Ll@VJDtBz@LFp@X`C~@z@^^P\\PVPh@^^XZVHH`Av@d@`@XT^Z\\\\LHp@j@B@ZVNLj@d@RN^XHFBBRRj@X`@R@@^RRR@@HHJJBBZTf@d@LLNPTRFJZ`@@@\\f@Vd@BFL\\BBBJP`@JZNh@R|@?DNt@BLFb@LnADd@Bb@B`@Bl@@p@@lAAF?hAEfB?b@C`@E`CAVCx@Cz@ErBAj@Ch@EnBAf@Ah@Ab@Ch@?FALG~@C\\AF?DInACt@A`@Ad@Cd@EpC?B?HCn@Az@An@?HAz@Cx@@d@?FAp@?|@AZ?`AElBA\\A^ChBA^Cx@EtBC^Ab@GtDAZEhBGrECdCAlA?dA@jB?L@l@@vABfABhABp@@^@h@D|ABl@?DLrB?DJjAB^@Vb@fDR~AHh@Hj@Hn@FXJt@TbBT`BZdCRvADXDXJz@PhAJl@Lx@Jr@DVXhBNdATdBHh@LdABNRrBDd@D\\B^VlCLtAJdAJ`AFr@H|@BTD`@JjAJlA@PLhBHbAJrAB\\Dn@Dn@HhAFz@JnAN|AXtB?BT|AZzBZnBJr@Lx@F^Hb@PbAh@`CXvA@DJf@DRBHFX?@Pz@Ll@BLb@tB|@dEJd@Lp@BJFP@HDR@BJd@H`@Jf@rAhGNp@Nr@Nt@d@tBz@`EPv@n@xCJt@Fl@FbABv@@h@?`@?h@AF?VARCd@E\\?DGp@]dCId@EZU`BU~AAFQfAGZCNKp@WnA[nAOb@Mb@Ul@[p@OZYd@MRMRSXY^U\\{@fA[`@c@l@UXKH[b@A@QR_@b@IHWVa@XEBSLKFUJg@NGBg@N]HsBh@wA\\sBj@}@TcA\\E@]N_Ah@aAp@i@h@c@d@k@v@]h@[d@e@v@c@z@]p@Yr@_@bAw@fCo@zBUt@c@|ACBWv@g@vASl@Yx@m@tAUb@GJe@bAYd@CBw@hAq@r@a@`@WTc@^YVURWXY^UZc@v@GJ_@z@M\\Ut@KZOn@If@Id@EZEb@E\\C\\AZCXAXAZAZAb@Ah@Cz@Az@AH?JAl@Cn@?h@Al@?LAV?f@@n@?D@l@@n@@V@TBb@Dd@Bd@Dd@@FFp@@NBh@LlABVBXBPDd@?DFr@Fp@@FFv@@NFj@Ft@@NLtAHdAXjDD\\Fz@LpADd@PxBB\\Df@@JFj@Fx@RtBXlCFf@@BNxAP~APnBPtBZzDHz@TjCB^JlAJzADv@@TF`ADt@HjAJfBDv@@n@@B@f@@j@?X?j@Ab@Cr@Cr@AJCXCVGr@CLGh@Kj@AHAHAFQ~@GXCNMb@Qp@ADW~@K\\A@[x@[x@IRWj@Uh@Uf@e@hAKPs@vAWf@Yh@aB|CS\\a@|@y@zAS\\Yf@o@hAa@n@u@dAEFu@x@KJSPi@h@y@h@]PMHe@VMFIDSFa@Jc@HE@YDYB]DU@e@BoCLM@{@Ba@B{BH_CJsDNqAFqADQ@_@Au@?{AOi@Mi@OeAa@yDqBIEy@e@cBaAWO_@QMGMGeAm@qAs@q@]c@U]Q[Q}@c@KGUKiA]GAw@Ms@A[Ak@DO@k@Jy@Ve@PC@E@KFEBIDIFEDIFOJURo@p@MLWZCFQVc@v@Yj@O\\EJSd@YbAMd@ETMj@O|@UlBCTI~@Ef@?JC`@GhAOfDMbCEn@En@]nFMrBKzAC^CXc@nFYfDKrAQjCGx@Ex@Gx@AJALC^Ex@OpBEl@CXCXAPABCTC\\Gn@M`AEj@Q`BKj@Y~AETOt@Kf@S`AABMn@a@hBOr@Or@Qr@s@dDWrAOt@SnASnAKr@AFKv@Kv@OfAGd@Kv@E\\CZMlAE^RH"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "Berlin-Spandau",
+                  "location": {
+                    "lat": 52.53455899999999,
+                    "lng": 13.197884
+                  }
+                },
+                "departureStop": {
+                  "name": "Rahnsdorf",
+                  "location": {
+                    "lat": 52.4516143,
+                    "lng": 13.6913293
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 13,
+                      "minute": 17,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 12,
+                      "minute": 11,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "S Spandau Bhf (Berlin)",
+                "headway": 0,
+                "numStops": 27,
+                "line": {
+                  "shortName": "S3",
+                  "color": "#006cb3",
+                  "agencies": [
+                    {
+                      "name": "S-Bahn Berlin GmbH",
+                      "url": "http://www.s-bahn-berlin.de/",
+                      "phone": "011 49 30 29743333"
+                    }
+                  ],
+                  "url": "https://www.vbb.de/fahrinformation/liniennetze/",
+                  "vehicle": {
+                    "name": "Commuter train",
+                    "type": "COMMUTER_TRAIN",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/rail2.png",
+                    "localIcon": "//maps.gstatic.com/mapfiles/transit/iw2/6/de-sbahn.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Walk to Rathaus Spandau",
+              "distance": {
+                "inMeters": 78,
+                "humanReadable": "78 m"
+              },
+              "duration": {
+                "inSeconds": 80,
+                "humanReadable": "1 min"
+              },
+              "startLocation": {
+                "lat": 52.53455899999999,
+                "lng": 13.197884
+              },
+              "endLocation": {
+                "lat": 52.5347564,
+                "lng": 13.1990191
+              },
+              "steps": [
+                {
+                  "htmlInstructions": "Take exit \u003cspan class\u003d\"location\"\u003e\u003c/span\u003e",
+                  "distance": {
+                    "inMeters": 47,
+                    "humanReadable": "47 m"
+                  },
+                  "duration": {
+                    "inSeconds": 48,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.53455899999999,
+                    "lng": 13.197884
+                  },
+                  "endLocation": {
+                    "lat": 52.5346559,
+                    "lng": 13.1985715
+                  },
+                  "polyline": {
+                    "points": "_ts_IwupoASiC"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "distance": {
+                    "inMeters": 27,
+                    "humanReadable": "27 m"
+                  },
+                  "duration": {
+                    "inSeconds": 27,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.5346559,
+                    "lng": 13.1985715
+                  },
+                  "endLocation": {
+                    "lat": 52.534738,
+                    "lng": 13.19896
+                  },
+                  "polyline": {
+                    "points": "sts_IazpoAOmA"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Take entrance \u003cspan class\u003d\"location\"\u003eS-Bahn Spandau\u003c/span\u003e",
+                  "distance": {
+                    "inMeters": 4,
+                    "humanReadable": "4 m"
+                  },
+                  "duration": {
+                    "inSeconds": 5,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.534738,
+                    "lng": 13.19896
+                  },
+                  "endLocation": {
+                    "lat": 52.5347564,
+                    "lng": 13.1990191
+                  },
+                  "polyline": {
+                    "points": "cus_Io|poACK"
+                  },
+                  "travelMode": "WALKING"
+                }
+              ],
+              "polyline": {
+                "points": "_ts_IwupoASiCOmACK"
+              },
+              "travelMode": "WALKING"
+            },
+            {
+              "htmlInstructions": "Bus towards Paaren im Glien, MAFZ",
+              "distance": {
+                "inMeters": 15284,
+                "humanReadable": "15.3 km"
+              },
+              "duration": {
+                "inSeconds": 1740,
+                "humanReadable": "29 mins"
+              },
+              "startLocation": {
+                "lat": 52.5347564,
+                "lng": 13.1990191
+              },
+              "endLocation": {
+                "lat": 52.616159,
+                "lng": 13.125842
+              },
+              "polyline": {
+                "points": "gus_I{|poAWK?C@IBMNo@NYLSe@QSI[Ia@MoA]iAWe@KOCWGu@Me@GSA_@EW?_ACm@CM?SAUCQCYIMEWICEQMCAUUKIWUMOOQIIOSOSGIEGa@{@M]GOOa@a@aBAICMCGCGGS@M@O?M?O?MAMAOCMCMEOEKGKGKIGIGIEA?CAA?C?C?A?C?A?SEKCQIIIOMGKKQS]g@cA[m@Sa@U_@U[QSKMQMOMKGA?KGOI]MSGe@GEAOCADA@E?G?C?C?A@ABABuA`B[\\sAtAm@j@YXo@n@mAjAa@b@_@b@WVi@n@aAfAiAnACB}@bA_BvAeAz@mAz@o@d@u@j@EBE@WFYFK@E@uB^YFo@JyAV}AXa@FSFqAVUFKBIDuAf@C@sBn@gEfA]LYHs@Ru@RmEj@UBaALuEp@wGdAgFt@wARaANa@FiG`AO@E@e@FO@gA\\SFa@Lo@VKDcDrCUXe@f@_DnDaDhDaBjB}A~AORUXm@n@QPKHUVWRWXy@t@kA`AmA~@u@j@ABaBlAeBnAyAnAwEfF_@b@yBrBq@n@g@f@cAlAe@n@[b@IHgAnBq@nAs@rAcAlBOXi@`AINS`@a@l@ILQTw@hAk@x@g@r@[b@[d@GHUX[b@[d@[b@e@n@SV_@d@W`@iAfB{@hAiBbCSVi@r@iAhAwAxAmAnA_@\\]^]^]^MNONu@x@GDa@Z]TOJe@Rg@LI@UBM?[Be@?EA[Ge@MCAw@]m@[a@S_Aa@CAuAo@w@_@UKOEMAIAC?s@Ja@HA?a@HC?_@Ja@H?@SFSLi@h@MNe@XMNCFCBKRUf@OZABUd@ADUf@C@ENENINO\\KXQ\\O`@GLEHCHABKRCDABADADk@lAEHQ`@o@vAeA`C?@GJO`@EBKREJUf@Wl@Ud@Uh@[r@Q^Uj@A?Wj@GN_@r@k@dAe@v@a@n@c@r@u@jA}@pAo@~@w@jAEH_@l@aC~DyBlDgD|Ew@nAS^WbAEPELERCNEPCT?HGl@g@tJYfIG`CCl@Cz@ANCp@SpFEx@Cr@GtAKzCEx@GrACp@ATCd@I|BCv@Cz@?RA@Ah@IbBAPALEz@?BAXE\\ALCLAHABCJADAFITkAfEQt@i@lB{BzHRz@DRj@rCP~@TnAMFMFCBSNA@YVUXILA@S`@CDK^GPo@|ByAjFOf@St@i@nBIXe@dBY_@UUWQUOOIc@QEGc@YMnAYlCOfBIn@Eh@?BA^Cd@?p@@n@?FBbABb@?THjBFrAH|B@R@b@@H?LBnAARAh@CZ?@CJQj@JJP\\RdAFnB@`@@ZFlBH|CJzCBt@FnATfH@NPbFD|@PxFh@rNDxAJ|EP`GPhFJ`B?ZR`GL`D?H?RPzDDl@TbE@HPhEPvFZ~I^tNPlGFnBNxERzF@LFjAHbB@x@B|@Dn@gCo@a@OUGc@Y_@YAAY_@[g@[e@AAu@mA_@m@S]_@o@[u@a@w@wA}Cg@cAYm@Uk@MWc@_Aq@wA_@{@Wi@EQcBcD]y@]mAESEYIu@SwCI_ASkCK_AS{CUkCUgBWqAS{@K_@[_AsAoDQc@Yu@_A_CEKEIq@}Ao@{A{@sBAAcA}Bo@}Ai@oA[w@[s@Wm@KWKSU]QSKKGGUMKGgB[YAiBMi@IYCgAKMA}BMQA{AKgAGq@Im@Kg@MKEMEc@SSKWUc@a@c@c@w@y@]c@GG?A_@_@QUc@i@SW_@e@w@eAY_@QUa@i@OW[c@U[[g@Q]IKM[O[AGM[EQuCFIA?A"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "Schönwalde (HVL), Falkenhagener Weg",
+                  "location": {
+                    "lat": 52.616159,
+                    "lng": 13.125842
+                  }
+                },
+                "departureStop": {
+                  "name": "Rathaus Spandau",
+                  "location": {
+                    "lat": 52.5347564,
+                    "lng": 13.1990191
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 14,
+                      "minute": 8,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 13,
+                      "minute": 39,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "Paaren im Glien, MAFZ",
+                "headway": 0,
+                "numStops": 20,
+                "line": {
+                  "shortName": "671",
+                  "agencies": [
+                    {
+                      "name": "Havelbus",
+                      "url": "http://www.havelbus.de/",
+                      "phone": "011 49 331 7491400"
+                    }
+                  ],
+                  "url": "https://www.vbb.de/fahrinformation/liniennetze/",
+                  "vehicle": {
+                    "name": "Bus",
+                    "type": "BUS",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                    "localIcon": "//maps.gstatic.com/mapfiles/transit/iw2/6/de-berlin-bvg-bus.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Walk to Falkenhagener Weg 2, 14621 Schönwalde-Glien, Germany",
+              "distance": {
+                "inMeters": 160,
+                "humanReadable": "0.2 km"
+              },
+              "duration": {
+                "inSeconds": 117,
+                "humanReadable": "2 mins"
+              },
+              "startLocation": {
+                "lat": 52.6161597,
+                "lng": 13.1258345
+              },
+              "endLocation": {
+                "lat": 52.61634549999999,
+                "lng": 13.123732
+              },
+              "steps": [
+                {
+                  "htmlInstructions": "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eDorfstraße\u003c/b\u003e toward \u003cb\u003eFalkenhagener Weg\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 6,
+                    "humanReadable": "6 m"
+                  },
+                  "duration": {
+                    "inSeconds": 4,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.6161597,
+                    "lng": 13.1258345
+                  },
+                  "endLocation": {
+                    "lat": 52.61610880000001,
+                    "lng": 13.1258223
+                  },
+                  "polyline": {
+                    "points": "_rc`ImsboAH@"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eFalkenhagener Weg\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 142,
+                    "humanReadable": "0.1 km"
+                  },
+                  "maneuver": "turn-right",
+                  "duration": {
+                    "inSeconds": 104,
+                    "humanReadable": "2 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.61610880000001,
+                    "lng": 13.1258223
+                  },
+                  "endLocation": {
+                    "lat": 52.6162399,
+                    "lng": 13.1237503
+                  },
+                  "polyline": {
+                    "points": "uqc`IksboADXBh@?h@Ch@Ch@[zE"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eright\u003c/b\u003e\u003cdiv style\u003d\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                  "distance": {
+                    "inMeters": 12,
+                    "humanReadable": "12 m"
+                  },
+                  "maneuver": "turn-right",
+                  "duration": {
+                    "inSeconds": 9,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.6162399,
+                    "lng": 13.1237503
+                  },
+                  "endLocation": {
+                    "lat": 52.61634549999999,
+                    "lng": 13.123732
+                  },
+                  "polyline": {
+                    "points": "orc`ImfboAKBG?A?"
+                  },
+                  "travelMode": "WALKING"
+                }
+              ],
+              "polyline": {
+                "points": "_rc`ImsboAH@DXBh@?h@Ch@Ch@[zEKBG?A?"
+              },
+              "travelMode": "WALKING"
+            }
+          ],
+          "distance": {
+            "inMeters": 58113,
+            "humanReadable": "58.1 km"
+          },
+          "duration": {
+            "inSeconds": 8705,
+            "humanReadable": "2 hours 25 mins"
+          },
+          "arrivalTime": {
+            "dateTime": {
+              "date": {
+                "year": 2023,
+                "month": 1,
+                "day": 22
+              },
+              "time": {
+                "hour": 14,
+                "minute": 9,
+                "second": 57,
+                "nano": 0
+              }
+            },
+            "offset": {
+              "totalSeconds": 3600
+            },
+            "zone": {}
+          },
+          "departureTime": {
+            "dateTime": {
+              "date": {
+                "year": 2023,
+                "month": 1,
+                "day": 22
+              },
+              "time": {
+                "hour": 11,
+                "minute": 44,
+                "second": 52,
+                "nano": 0
+              }
+            },
+            "offset": {
+              "totalSeconds": 3600
+            },
+            "zone": {}
+          },
+          "startLocation": {
+            "lat": 52.4367739,
+            "lng": 13.6834228
+          },
+          "endLocation": {
+            "lat": 52.61634549999999,
+            "lng": 13.123732
+          },
+          "startAddress": "An den Bänken 43C, 12589 Berlin, Germany",
+          "endAddress": "Falkenhagener Weg 2, 14621 Schönwalde-Glien, Germany"
+        }
+      ],
+      "waypointOrder": [],
+      "overviewPolyline": {
+        "points": "yp`_IkporA_A}AOC}ApD_DsHaBvBQRQiAYmBUcAmDuF_EsGUSIVm@zAg@~@uBtB{A~@U^[JQGu@CsB?}E?qJHmBS[a@iB}GoHwKsEmGeBiBkAMT`Ay@`NcEh`AwThwEcDpaAw@hn@s@~sAShUk@h^MrKw@nSk@~MS~P?lRPhPKd\\qArY_AtHiD~P{DxN_KdYi\\`aAoFvNcDpLkb@boAw`@~iAsGlSiHfTaLbZ_ItMgF`JkCpGmI~VwBvJgCnRuAbGuE`JaBhDoCzJcId[_Ll_@eJx[{E|WmBbQoLfiAgFph@{B|[aE~YmBtQiCtN_FnR_DdKwFpRcCf[_@bTuAjHkC`IiDbOoBxGsApBoD~B{CvBaBhBcBbAsE`BaC`CqB|CcEjGsEfIm@rByAtEsAfFg@rHP~Fz@|FrBtRZvN`B`IpF`O~@rHd@vS_BbPwC`RYdRu@~FwAbEcBxBsFvF_CvDmBbHm@tHFvMx@rK|BjJvH~OzJfVbDpIp@dDj@vFHvKaBxd@KrQfAxJ`C`HhBlCxP|RtEbDdDnApSvHfGhE|E`EpHpF|C~ClB`ErAjIFlLq@dYq@dTe@vZ_@lYRbNh@`LjBtNzFpa@fD|]~@zMjClTdEnTvHh^bDhO^~EKlFcBhM{BlKeDbGqE~F{ClCkMlDeDdAoEjDkC~D{BdFyFxQeB~D{BvDqFpFaBzC_A~Co@~FQ`HInGRjGrAbPlCr[bFnk@n@lLGpHk@|EyAlGsCdHoH~NuFhJ_C`CkC|AkDv@uIb@{Tr@uFoAaJ_FaIgEcCoA_Dy@kCBoCv@kAt@_ErFuBxH_Dhf@_D~b@cAbJaCrLuDjRiApI]fDRHSiCSyAUYp@kBgIyBmHm@mCi@wBqBuBeEs@{DQuBy@{@q@Is@m@cBaDkCcDkCu@YFsGdHmKbLgFzEyDpCiGhAkJjBwP`Fuc@nGsM|BqAd@oDxC}JzKgI|I}KbJ_E~CwFjGwGxGmIxN{LxQuJ|MsKdL{A~AuBpA}CT}MoFaC^aAV_BnA{@t@s@zAwAbDkEzJmHfPsHbMqPnWiBdEUbAyAz\\eB|d@o@vJiBzGeDhLXnA|@rEFvAg@\\gBzCmDfMs@hCe@dBY_@m@g@e@Yi@Yc@YMnAi@tFOxAEzBd@rND|EYtA\\h@ZtDThIl@hQxBxq@pAd^tE|sADn@gCo@w@W_BuA_FoIuHcPaD{GgAuDgCiZsAmF_EiK_HaPyDgIu@i@kFk@mM_AsCi@}A{@wEcFmFeHiCqESm@_DDNZCfDq@~E"
+      },
+      "bounds": {
+        "northeast": {
+          "lat": 52.61634549999999,
+          "lng": 13.6915002
+        },
+        "southwest": {
+          "lat": 52.4367739,
+          "lng": 13.1012733
+        }
+      },
+      "copyrights": "Map data ©2023 GeoBasis-DE/BKG (©2009)",
+      "warnings": [
+        "Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths."
+      ]
+    }
+  ]
+}

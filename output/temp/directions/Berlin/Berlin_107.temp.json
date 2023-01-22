@@ -1,0 +1,993 @@
+{
+  "meterpolisName": "Berlin",
+  "route": {
+    "from": {
+      "lat": 52.43251082695882,
+      "lng": 13.520927057881085
+    },
+    "to": {
+      "lat": 52.35843396750752,
+      "lng": 13.161303854313093
+    }
+  },
+  "directions": [
+    {
+      "summary": "",
+      "legs": [
+        {
+          "steps": [
+            {
+              "htmlInstructions": "Walk to Karl-Ziegler-Str. (Berlin)",
+              "distance": {
+                "inMeters": 522,
+                "humanReadable": "0.5 km"
+              },
+              "duration": {
+                "inSeconds": 388,
+                "humanReadable": "6 mins"
+              },
+              "startLocation": {
+                "lat": 52.4324886,
+                "lng": 13.520961
+              },
+              "endLocation": {
+                "lat": 52.4325565,
+                "lng": 13.5262119
+              },
+              "steps": [
+                {
+                  "htmlInstructions": "Head \u003cb\u003enortheast\u003c/b\u003e toward \u003cb\u003eErnst-Lau-Straße\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 123,
+                    "humanReadable": "0.1 km"
+                  },
+                  "duration": {
+                    "inSeconds": 90,
+                    "humanReadable": "2 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.4324886,
+                    "lng": 13.520961
+                  },
+                  "endLocation": {
+                    "lat": 52.43241219999999,
+                    "lng": 13.5221698
+                  },
+                  "polyline": {
+                    "points": "av__I_yoqAACEIGEMGEECCEKACS]AEAA?E?C@C?ABEfAoBHO"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eErnst-Lau-Straße\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 216,
+                    "humanReadable": "0.2 km"
+                  },
+                  "maneuver": "turn-left",
+                  "duration": {
+                    "inSeconds": 161,
+                    "humanReadable": "3 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.43241219999999,
+                    "lng": 13.5221698
+                  },
+                  "endLocation": {
+                    "lat": 52.43375,
+                    "lng": 13.5244746
+                  },
+                  "polyline": {
+                    "points": "qu__Iq`pqAEG}@mBIO}DeI"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eKarl-Ziegler-Straße\u003c/b\u003e\u003cdiv style\u003d\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                  "distance": {
+                    "inMeters": 183,
+                    "humanReadable": "0.2 km"
+                  },
+                  "maneuver": "turn-right",
+                  "duration": {
+                    "inSeconds": 137,
+                    "humanReadable": "2 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.43375,
+                    "lng": 13.5244746
+                  },
+                  "endLocation": {
+                    "lat": 52.4325565,
+                    "lng": 13.5262119
+                  },
+                  "polyline": {
+                    "points": "}}__I}npqAP[DIR]t@uAFIBGJOP[Vg@NIJMl@cA"
+                  },
+                  "travelMode": "WALKING"
+                }
+              ],
+              "polyline": {
+                "points": "av__I_yoqAACEIGEMGEECCEKACS]AEAA?E?C@C?ABEfAoBHOEG}@mBIO}DeIP[DIR]t@uAFIBGJOP[Vg@NIJMl@cA"
+              },
+              "travelMode": "WALKING"
+            },
+            {
+              "htmlInstructions": "Tram towards S Adlershof",
+              "distance": {
+                "inMeters": 1489,
+                "humanReadable": "1.5 km"
+              },
+              "duration": {
+                "inSeconds": 300,
+                "humanReadable": "5 mins"
+              },
+              "startLocation": {
+                "lat": 52.432543,
+                "lng": 13.5262677
+              },
+              "endLocation": {
+                "lat": 52.4348328,
+                "lng": 13.5414261
+              },
+              "polyline": {
+                "points": "kv__IezpqAIM`AcBLSJMDIRUnEsDdBuArC{BFIHKDKBKBMBI?S?OCQESGSISO]Qi@[{@IUg@sAQg@Sq@aAoDMg@IWEQM[M[MYO[y@{AoA{BGMS_@a@s@GMMUMWkBiDMUMUyDcHo@kAO]M[K[Sk@y@sCk@uBIWi@mB|A_B"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "S Adlershof",
+                  "location": {
+                    "lat": 52.4348328,
+                    "lng": 13.5414261
+                  }
+                },
+                "departureStop": {
+                  "name": "Karl-Ziegler-Str. (Berlin)",
+                  "location": {
+                    "lat": 52.432543,
+                    "lng": 13.5262677
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 10,
+                      "minute": 32,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 10,
+                      "minute": 27,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "S Adlershof",
+                "headway": 0,
+                "numStops": 3,
+                "line": {
+                  "shortName": "27",
+                  "color": "#e30613",
+                  "agencies": [
+                    {
+                      "name": "Berliner Verkehrsbetriebe",
+                      "url": "http://www.bvg.de/",
+                      "phone": "011 49 30 19449"
+                    }
+                  ],
+                  "url": "https://www.bvg.de/de/verbindungen/netzplaene-und-linien/",
+                  "textColor": "#ffffff",
+                  "vehicle": {
+                    "name": "Tram",
+                    "type": "TRAM",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/tram2.png",
+                    "localIcon": "//maps.gstatic.com/mapfiles/transit/iw2/6/de-berlin-bvg-tram.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Commuter train towards S+U Gesundbrunnen Bhf (Berlin)",
+              "distance": {
+                "inMeters": 21252,
+                "humanReadable": "21.3 km"
+              },
+              "duration": {
+                "inSeconds": 1980,
+                "humanReadable": "33 mins"
+              },
+              "startLocation": {
+                "lat": 52.4348328,
+                "lng": 13.5414261
+              },
+              "endLocation": {
+                "lat": 52.5011407,
+                "lng": 13.283135
+              },
+              "polyline": {
+                "points": "ud`_I}xsqARd@a@p@SZkAlB{@tAu@nAYj@e@~@Q\\Q^a@z@q@|AITs@dBy@zBWr@i@~AiBhFWp@_@fAaAlCcAvCg@vAaBpEADkBhFyAfEc@nAg@vAqAjDu@nBEHuD|Ia@bA{DtImCdGSd@sAjCi@x@eA|A]b@k@p@o@v@gDxDiD~DuA`BqBbCcCvCcD~Dm@v@mAzAML}A|AgAlAcBdBa@d@k@d@c@`@a@\\k@p@s@`AS\\MRS\\qA~Bs@lA?@oAzBQXaAdBkAtB_A`By@zAu@pA]n@g@~@eAfBaAhB{@xAo@fA}CrFw@vAo@hACDeBzCGLGJeAjB_@p@u@pAYf@o@hAoBjDcB|CYf@o@lAe@~@mAjCyAfDqAtCw@|AUb@U`@]j@g@z@m@bAS^]h@]l@S\\m@bAcAfB_@n@m@bAYf@g@~@e@z@EHMTS^a@t@QZYh@Yf@e@|@m@hAAD_@z@Wh@MZMVQb@ILWf@aAhBCFKTe@~@{@dBIPi@lAs@zAk@pBGR?DQt@I\\K~@AFCVEh@El@Ev@AfB@r@@X@h@FjA?@Ft@NrB@^D`@F|@^fFPbCj@hI\\~E?D^fF@L?B@H@RH`AZdEBf@BPNpBD^RdBPbBFn@Fx@Db@PfCFx@HpAFp@LbBF~@@JFx@Dn@F~@J|AB^DnA?BBv@?B@jA@h@?TC~A?n@At@?BEz@I~AKfAI~@ALGh@Eb@CRKv@EVG\\Mv@ETWrA]jBOv@]fBETERKj@Ox@CHEX_@nBO|@EZQfAI|@Gx@E~@An@?l@?p@@fANhBD`@Dh@LhAPnAFf@@LVjC@HNnCNdDVhEHdAP|BRtBDh@Bl@@f@@R@ZJbAJrAHjAH|@PzBB\\LrABZJrAD\\D\\Dt@Dr@ZhDNrBDb@\\`ENjBH~@LzAJnAHbATlCDb@Db@XpD@FFn@PpBPfCXrBJ`AXjDHhABZ@J\\`E^jFFfAx@jMJzA\\hFV|EP~CNzAVnC@BH`AXxCTdDPtD^lJb@zJd@bM@JLdDL`DJhCFpAXtGHdDFfEEbGE~BGxAUrDStBCPGn@WjBk@nD_@tBo@pDs@xDgAzEi@|BGPY~@]lA{AhEa@lAe@rAg@`BUn@GNQh@Qh@g@vAYz@Of@]fA]nAW~@Op@YnAG`@CJEVId@QdAIj@QdAARKp@W`BObASvAETKt@Kv@Kp@Mz@Kv@ADIj@CRWjBMx@AFIf@ADKv@M|@Gp@YnBQfDCvDAzF?LAxDAvE?JAtC?nC?fB?~B?D?hBGbBCR?fB@`C?fAAL?rAAr@C|@GdAKfAAHKbAQbAQ~@Mf@IZITUr@KTQd@[r@Wh@CDc@x@KPc@r@o@|@]b@GF]`@q@n@GFm@d@QL_@Xa@V_@VE@}@h@aAj@CB]P_@TIDQJEB[RE@k@Zg@T[PQJKFYP]VWREB]\\YX?@WXSVMRS\\U\\QZw@~AELmBvFIXi@pBMb@Sv@On@Op@u@rEAFSrBIlAGdB?bBDnCF~B@l@Bh@Bj@Dh@Dr@Hr@D`@JbAJbABTR`B@NJ|@Ff@LhAFd@ZdCT|A@Hb@rCXrBBFHl@XbB@NBPJp@Ff@Fh@B\\Dj@Dl@Bf@@h@@^@p@?hC@n@?X?x@?T?T?xA?t@?t@?nA?jC?B?V@nE?nA?lG?r@?X@`@?d@@l@Bf@FrBRfHFzAFpBLxEBv@HdC?@@P?N@d@@`A@n@?bD?pD@jAApC?dA?t@?\\ApD?tB?v@AzB?\\A~J?@?bF?|CA`C?zB?VAvA?x@Av@Cr@C~@Ex@Ex@G`AGz@I~@K`AKv@In@Kt@In@Kl@Ov@Kh@Kf@Kj@On@Qn@Sr@Qn@Sl@Qh@ABWr@Uh@Sf@GNUf@[n@g@`ACBg@z@EHy@nA[f@]d@qAjB[f@KNg@t@_@h@[b@QVeAzAW`@[d@{@pAq@bAKPk@x@U\\EF{CrEe@p@}@nAsCdEU^wBbDiBjCa@j@ILYd@CBs@hACBQX{@lA[f@?@ORILKNQTEFSXmAfBGJaAtAQXUZgA`B{AzB]d@qCdEMPMReAzAo@`AmAdBCBg@t@kAtAQTe@f@[^y@dAgA~A{@pASVsArBoAjBwB~CkAfBkBrCA@y@fAgA|AaAxAm@|@_D~EEFe@z@e@`AMTy@`B]t@Ud@q@tAi@`AKJW\\UXm@d@a@\\CBED]VKHq@f@Pv@"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "Westkreuz",
+                  "location": {
+                    "lat": 52.5011407,
+                    "lng": 13.283135
+                  }
+                },
+                "departureStop": {
+                  "name": "S Adlershof",
+                  "location": {
+                    "lat": 52.4348328,
+                    "lng": 13.5414261
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 11,
+                      "minute": 13,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 10,
+                      "minute": 40,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "S+U Gesundbrunnen Bhf (Berlin)",
+                "headway": 0,
+                "numStops": 15,
+                "line": {
+                  "shortName": "S46",
+                  "agencies": [
+                    {
+                      "name": "S-Bahn Berlin GmbH",
+                      "url": "http://www.s-bahn-berlin.de/",
+                      "phone": "011 49 30 29743333"
+                    }
+                  ],
+                  "url": "https://www.vbb.de/fahrinformation/liniennetze/",
+                  "vehicle": {
+                    "name": "Commuter train",
+                    "type": "COMMUTER_TRAIN",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/rail2.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Commuter train towards S Griebnitzsee Bhf",
+              "distance": {
+                "inMeters": 16240,
+                "humanReadable": "16.2 km"
+              },
+              "duration": {
+                "inSeconds": 1020,
+                "humanReadable": "17 mins"
+              },
+              "startLocation": {
+                "lat": 52.5011407,
+                "lng": 13.283135
+              },
+              "endLocation": {
+                "lat": 52.3948943,
+                "lng": 13.12847
+              },
+              "polyline": {
+                "points": "ccm_IsjapA`BwAFVRr@H^VjANn@d@vBb@nBTbAn@zC\\tAdAzEFV^`B~@bFZbBTjAf@fCNt@h@rCPbA?Bp@bCR~@@BNr@@Hb@rAJ^P`@PZHNh@bADJb@j@`@j@~@pAFHjA`B@@nA`BvApBpAfB~@nAlAnA|@z@fA~@v@r@`@\\h@d@t@p@rAhAfAbAFFhA`ArAtA`AhAn@|@~@zAt@nAb@x@^v@\\v@Xr@N\\Xn@v@nB^x@^~@Vl@JTVj@\\v@Vh@p@pAd@v@LR@DvAvBRXBFd@p@V\\LPt@bAj@n@~@`ANN^X^Z`@XFDv@h@FDxA|@`@X~@l@@?`Al@FD~BvAjAt@ZRFD^VvA~@fA|@pBnBzBlC`@h@z@dAx@dAf@p@PTt@lAh@x@hAvBd@`ABDZt@\\x@l@xAfBdEfAdCvAzCz@~Af@|@~@tABDb@n@z@jArBnChBdCpAfBdB`CtAjBrBpCtC~Dj@v@h@r@rAhBPTHLFF~@pA\\b@v@fA\\d@vAnBpEhGxErGtBvCnBjCnIdLd@n@tApB|AtBd@l@FJHJ`AnARXrCxDzB|Ch@r@zAtB|AvBpBnCnAdBtAhBlA`B`ArAbAtA|@nAn@x@p@|@d@r@l@x@bBzB^h@n@z@FJrAfBJNHLZb@rBpC\\f@dAtAhClDbCdDl@z@|AtBhBbCd@r@Z`@nAbBt@bAd@n@LPjA|A`ArA`ApAjA`Bx@jAbArAjA`B|@jAlA`BjA`B`AtAhAxAPVhA|A~AvB`BzBxAnBpAfBt@bAb@j@p@~@dAxAZb@Zb@|@lAx@fAPTh@t@lA`B|@nAn@|@FFv@tAl@z@Zd@hA~AVXHN|@fAbB|BPTnAtAx@z@LLd@d@hBxAn@f@FDv@h@VNd@Xf@TNJPJ^Rj@VLFv@TB@zAb@fAP@@l@H^Db@HfANN@FBJBPDLF@@f@VVRHHTRVVDDZ^Z\\h@h@`@^NNNNNLPRZXDBZ^\\b@FFp@v@fB~Bh@p@l@t@jB|BnB|BhArA`@f@dBxB|@hAv@hAh@z@BDT`@Td@P^~BvFl@zAhBhEBFf@nAp@fBl@|AJVVn@p@`B`@bATl@^x@P^LTn@rAJPBHDJZl@tAnC@@l@jA@D\\p@LXHJL\\NZDH@DN\\Rd@^dAJVN`@Zz@FLHRTp@f@pAd@nAj@|AL^Xv@Pd@j@|A@Dv@zBv@|BTv@X~@VdANh@Ll@b@hBdAlENn@@Fb@jBVdA~@xD^bBj@`CzCrMx@lD`@~Ar@vCTz@Rt@HZl@lBL\\l@bBXv@f@hAl@pAr@nAb@t@\\d@^h@BB`@l@h@r@n@x@|@fAfB~BdC`D~AnBr@|@xBrChB|Bf@n@rCpDrAdBtAfBbC~CLNLPB@`BxBJJl@x@jAzAdAnAr@|@xBpChFrGl@t@JLpCnDPRZb@LLNR@@RXt@~@@B@@RVRVFF`@j@PTDHHLJNLPp@`AZ^PTlA|AtAjBh@z@Vd@d@|@h@dAh@nAh@|AXz@DHl@xBNn@ZtAb@bCRvALdALlAJhANhCHzBJlCNvDJ~CJpC@d@Dn@?@k@L"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "Griebnitzsee",
+                  "location": {
+                    "lat": 52.3948943,
+                    "lng": 13.12847
+                  }
+                },
+                "departureStop": {
+                  "name": "Westkreuz",
+                  "location": {
+                    "lat": 52.5011407,
+                    "lng": 13.283135
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 11,
+                      "minute": 37,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 11,
+                      "minute": 20,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "S Griebnitzsee Bhf",
+                "headway": 0,
+                "numStops": 4,
+                "line": {
+                  "shortName": "S7",
+                  "color": "#7a6dac",
+                  "agencies": [
+                    {
+                      "name": "S-Bahn Berlin GmbH",
+                      "url": "http://www.s-bahn-berlin.de/",
+                      "phone": "011 49 30 29743333"
+                    }
+                  ],
+                  "url": "https://www.vbb.de/fahrinformation/liniennetze/",
+                  "vehicle": {
+                    "name": "Commuter train",
+                    "type": "COMMUTER_TRAIN",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/rail2.png",
+                    "localIcon": "//maps.gstatic.com/mapfiles/transit/iw2/6/de-sbahn.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Bus towards Potsdam, Stern-Center/Gerlachstr.",
+              "distance": {
+                "inMeters": 4926,
+                "humanReadable": "4.9 km"
+              },
+              "duration": {
+                "inSeconds": 720,
+                "humanReadable": "12 mins"
+              },
+              "startLocation": {
+                "lat": 52.3948943,
+                "lng": 13.12847
+              },
+              "endLocation": {
+                "lat": 52.3754376,
+                "lng": 13.1290921
+              },
+              "polyline": {
+                "points": "akx~H}ccoAa@FKyB?CAC?AAAEGEEICC?WBHdAHjADx@Bn@B~A?hA@`B@`A@xADnD?Z@fA?R@t@@tAPdFfASbBW^IZCXC\\ClD_@B?d@EPC^EZEJAn@Ih@EAwAAuBAsCEgH?K?yCAkBAa@?S?q@AoAA{@AuAA{CAuB?_@Ai@?U?SAqA?ST\\V\\fBbCzAjB`@f@f@j@ZZDD@@BB@?@@@?@?@A@?@?@A@A@A@A@CBCRa@Ra@@A@EBC@A@ABA@?D?FDB@DBNLPL^XfCnBf@`@JJN[nCeGN_@BKFQDU@K@CDg@FaAFqAF_BDo@Dy@Ds@F{@F}@FkADy@Bc@@OL{BHsA@GBi@HqAHwAFkAD]DUFUDMBIHOFG@CTSFETQVQhHwFHGZUNM`Aq@`Aq@BCf@a@xBeB`Aw@HGLMfCiBVQNOJKBCDEFKDMFU@A@EDMHOFIDGFEHGHAJ@T?I~@ADEp@Cd@A^?LAV?@AV?J?DAJA^?JCl@?TC~@?\\AXGtHAtBAz@?BA`B?`@Ap@Ah@Cz@E`D?n@CrA?h@ErCCjEAvBE`CG~CDBTJr@Xn@XB@THJDZNRHf@VHBZNHFNHnAr@LHr@b@d@ZHBFBLDHFLJJFz@j@v@f@\\PFD|@XNDLTB@VFr@JrBD~@@P?F?HAT@?a@?}@?_@A}@G?"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "Johannes-Kepler-Platz",
+                  "location": {
+                    "lat": 52.3754376,
+                    "lng": 13.1290921
+                  }
+                },
+                "departureStop": {
+                  "name": "Griebnitzsee",
+                  "location": {
+                    "lat": 52.3948943,
+                    "lng": 13.12847
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 11,
+                      "minute": 54,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 11,
+                      "minute": 42,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "Potsdam, Stern-Center/Gerlachstr.",
+                "headway": 0,
+                "numStops": 13,
+                "line": {
+                  "shortName": "694",
+                  "agencies": [
+                    {
+                      "name": "Verkehrsbetrieb Potsdam GmbH",
+                      "url": "http://www.vip-potsdam.de/",
+                      "phone": "011 49 331 6614694"
+                    }
+                  ],
+                  "url": "https://www.vbb.de/fahrinformation/liniennetze/",
+                  "vehicle": {
+                    "name": "Bus",
+                    "type": "BUS",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                    "localIcon": "//maps.gstatic.com/mapfiles/transit/iw2/6/de-berlin-bvg-bus.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Tram towards Potsdam, Marie-Juchacz-Str.",
+              "distance": {
+                "inMeters": 1530,
+                "humanReadable": "1.5 km"
+              },
+              "duration": {
+                "inSeconds": 240,
+                "humanReadable": "4 mins"
+              },
+              "startLocation": {
+                "lat": 52.3754376,
+                "lng": 13.1290921
+              },
+              "endLocation": {
+                "lat": 52.369772,
+                "lng": 13.1405826
+              },
+              "polyline": {
+                "points": "oqt~HygcoAE??C?E?{BAaA?EC}F?K?y@CwHCiE?o@A}C?SAoG?KA_C?C?EAgC?O?g@C{D?aACwBAmC@_@@SBODQFMBEJQDCLITITGt@AH?p@A@?H?~DGL?f@AR?|@?n@?j@?D?H?@?N?H?F?DAH@b@?n@DF?XBTFTJzAh@h@XLHp@b@j@h@d@d@T^GN"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "Hans-Albers-Str.",
+                  "location": {
+                    "lat": 52.369772,
+                    "lng": 13.1405826
+                  }
+                },
+                "departureStop": {
+                  "name": "Johannes-Kepler-Platz",
+                  "location": {
+                    "lat": 52.3754376,
+                    "lng": 13.1290921
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 12,
+                      "minute": 9,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 12,
+                      "minute": 5,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "Potsdam, Marie-Juchacz-Str.",
+                "headway": 0,
+                "numStops": 3,
+                "line": {
+                  "shortName": "92",
+                  "agencies": [
+                    {
+                      "name": "Verkehrsbetrieb Potsdam GmbH",
+                      "url": "http://www.vip-potsdam.de/",
+                      "phone": "011 49 331 6614694"
+                    }
+                  ],
+                  "url": "https://www.vbb.de/fahrinformation/liniennetze/",
+                  "vehicle": {
+                    "name": "Tram",
+                    "type": "TRAM",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/tram2.png",
+                    "localIcon": "//maps.gstatic.com/mapfiles/transit/iw2/6/de-berlin-bvg-tram.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Walk to Straße ohne Straßennamen, 14532 Stahnsdorf, Germany",
+              "distance": {
+                "inMeters": 2644,
+                "humanReadable": "2.6 km"
+              },
+              "duration": {
+                "inSeconds": 1946,
+                "humanReadable": "32 mins"
+              },
+              "startLocation": {
+                "lat": 52.369812,
+                "lng": 13.1404868
+              },
+              "endLocation": {
+                "lat": 52.3586642,
+                "lng": 13.1613038
+              },
+              "steps": [
+                {
+                  "htmlInstructions": "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eKonrad-Wolf-Allee\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 23,
+                    "humanReadable": "23 m"
+                  },
+                  "duration": {
+                    "inSeconds": 17,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.369812,
+                    "lng": 13.1404868
+                  },
+                  "endLocation": {
+                    "lat": 52.3696438,
+                    "lng": 13.1402841
+                  },
+                  "polyline": {
+                    "points": "ins~HaoeoAPTBBJN"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "At the roundabout, take the \u003cb\u003e1st\u003c/b\u003e exit onto \u003cb\u003eFritz-Lang-Straße\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 385,
+                    "humanReadable": "0.4 km"
+                  },
+                  "maneuver": "roundabout-right",
+                  "duration": {
+                    "inSeconds": 295,
+                    "humanReadable": "5 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.3696438,
+                    "lng": 13.1402841
+                  },
+                  "endLocation": {
+                    "lat": 52.3672079,
+                    "lng": 13.1441581
+                  },
+                  "polyline": {
+                    "points": "gms~HwmeoA?A@??A@?@?@?@?@@@@?@@??@?@@??@HSFIDKXg@Xk@DGHOHSRc@r@}A|@eBb@{@zCaGHQDIHKLW"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003ePriesterweg\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 236,
+                    "humanReadable": "0.2 km"
+                  },
+                  "maneuver": "turn-left",
+                  "duration": {
+                    "inSeconds": 174,
+                    "humanReadable": "3 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.3672079,
+                    "lng": 13.1441581
+                  },
+                  "endLocation": {
+                    "lat": 52.368519,
+                    "lng": 13.146892
+                  },
+                  "polyline": {
+                    "points": "a~r~H_ffoAKW[{@]u@e@kA_@}@M]ACc@uA[}@i@wA"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eright\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 222,
+                    "humanReadable": "0.2 km"
+                  },
+                  "maneuver": "turn-right",
+                  "duration": {
+                    "inSeconds": 184,
+                    "humanReadable": "3 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.368519,
+                    "lng": 13.146892
+                  },
+                  "endLocation": {
+                    "lat": 52.3669816,
+                    "lng": 13.1485491
+                  },
+                  "polyline": {
+                    "points": "gfs~HawfoAfAEb@ALARKFCXQJQh@wADMLa@FOFUDIBI?AFQFQJ]BG"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eright\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 515,
+                    "humanReadable": "0.5 km"
+                  },
+                  "maneuver": "turn-right",
+                  "duration": {
+                    "inSeconds": 362,
+                    "humanReadable": "6 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.3669816,
+                    "lng": 13.1485491
+                  },
+                  "endLocation": {
+                    "lat": 52.3627137,
+                    "lng": 13.1470095
+                  },
+                  "polyline": {
+                    "points": "s|r~HmagoANAVERAX@jBnChCzDzECzGKP?"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eleft\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 246,
+                    "humanReadable": "0.2 km"
+                  },
+                  "maneuver": "turn-left",
+                  "duration": {
+                    "inSeconds": 177,
+                    "humanReadable": "3 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.3627137,
+                    "lng": 13.1470095
+                  },
+                  "endLocation": {
+                    "lat": 52.36257699999999,
+                    "lng": 13.1506258
+                  },
+                  "polyline": {
+                    "points": "}ar~HywfoAXsU"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eright\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 119,
+                    "humanReadable": "0.1 km"
+                  },
+                  "maneuver": "turn-right",
+                  "duration": {
+                    "inSeconds": 86,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.36257699999999,
+                    "lng": 13.1506258
+                  },
+                  "endLocation": {
+                    "lat": 52.361567,
+                    "lng": 13.151213
+                  },
+                  "polyline": {
+                    "points": "car~HmngoAhEsB"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eleft\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 235,
+                    "humanReadable": "0.2 km"
+                  },
+                  "maneuver": "turn-left",
+                  "duration": {
+                    "inSeconds": 172,
+                    "humanReadable": "3 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.361567,
+                    "lng": 13.151213
+                  },
+                  "endLocation": {
+                    "lat": 52.3616274,
+                    "lng": 13.1546752
+                  },
+                  "polyline": {
+                    "points": "yzq~HargoACwHA_DA_CC}A"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eright\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 115,
+                    "humanReadable": "0.1 km"
+                  },
+                  "maneuver": "turn-right",
+                  "duration": {
+                    "inSeconds": 84,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.3616274,
+                    "lng": 13.1546752
+                  },
+                  "endLocation": {
+                    "lat": 52.3606604,
+                    "lng": 13.1552941
+                  },
+                  "polyline": {
+                    "points": "e{q~HwghoA`EyB"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eleft\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 230,
+                    "humanReadable": "0.2 km"
+                  },
+                  "maneuver": "turn-left",
+                  "duration": {
+                    "inSeconds": 165,
+                    "humanReadable": "3 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.3606604,
+                    "lng": 13.1552941
+                  },
+                  "endLocation": {
+                    "lat": 52.3606899,
+                    "lng": 13.1586753
+                  },
+                  "polyline": {
+                    "points": "cuq~HqkhoAAyC?yCAiBAgG"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eright\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 251,
+                    "humanReadable": "0.3 km"
+                  },
+                  "maneuver": "turn-right",
+                  "duration": {
+                    "inSeconds": 181,
+                    "humanReadable": "3 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.3606899,
+                    "lng": 13.1586753
+                  },
+                  "endLocation": {
+                    "lat": 52.3586641,
+                    "lng": 13.1603165
+                  },
+                  "polyline": {
+                    "points": "iuq~Hw`ioAtKgI"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eleft\u003c/b\u003e\u003cdiv style\u003d\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                  "distance": {
+                    "inMeters": 67,
+                    "humanReadable": "67 m"
+                  },
+                  "maneuver": "turn-left",
+                  "duration": {
+                    "inSeconds": 49,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.3586641,
+                    "lng": 13.1603165
+                  },
+                  "endLocation": {
+                    "lat": 52.3586642,
+                    "lng": 13.1613038
+                  },
+                  "polyline": {
+                    "points": "shq~H_kioA?cE"
+                  },
+                  "travelMode": "WALKING"
+                }
+              ],
+              "polyline": {
+                "points": "ins~HaoeoAPTBBJN?A@??A@?@?@?@?@@@@?@@??@?@@??@HSFIDKXg@Xk@DGHOHSRc@r@}A|@eBb@{@zCaGHQDIHKLWKW[{@]u@e@kA_@}@M]ACc@uA[}@i@wAfAEb@ALARKFCXQJQh@wADMLa@FOFUDIBI?AFQFQJ]BGNAVERAX@jBnChCzDzECzGKP?XsUhEsBCwHA_DA_CC}A`EyBAyC?yCAiBAgGtKgI?cE"
+              },
+              "travelMode": "WALKING"
+            }
+          ],
+          "distance": {
+            "inMeters": 48603,
+            "humanReadable": "48.6 km"
+          },
+          "duration": {
+            "inSeconds": 8455,
+            "humanReadable": "2 hours 21 mins"
+          },
+          "arrivalTime": {
+            "dateTime": {
+              "date": {
+                "year": 2023,
+                "month": 1,
+                "day": 22
+              },
+              "time": {
+                "hour": 12,
+                "minute": 41,
+                "second": 26,
+                "nano": 0
+              }
+            },
+            "offset": {
+              "totalSeconds": 3600
+            },
+            "zone": {}
+          },
+          "departureTime": {
+            "dateTime": {
+              "date": {
+                "year": 2023,
+                "month": 1,
+                "day": 22
+              },
+              "time": {
+                "hour": 10,
+                "minute": 20,
+                "second": 31,
+                "nano": 0
+              }
+            },
+            "offset": {
+              "totalSeconds": 3600
+            },
+            "zone": {}
+          },
+          "startLocation": {
+            "lat": 52.4324886,
+            "lng": 13.520961
+          },
+          "endLocation": {
+            "lat": 52.3586642,
+            "lng": 13.1613038
+          },
+          "startAddress": "Ernst-Lau-Straße 12, 12489 Berlin, Germany",
+          "endAddress": "Straße ohne Straßennamen, 14532 Stahnsdorf, Germany"
+        }
+      ],
+      "waypointOrder": [],
+      "overviewPolyline": {
+        "points": "av__I_yoqAo@u@Uu@jAuBBWgA}B}DeIP[Xg@|@_Bx@{AZWp@oAIM`AcBXa@nIiHjD}CJw@QiA_D{I_BaGy@mBkFuJaIyNyAaDcCmIi@mB|A_BRd@a@p@_BhCqBdDcBhDqCtGeFxNuLx\\wFzOsGzOqLlWyDlF_\\f`@aGtGuErEuCnDgD~F_LbSoOnXeItN}GzL}D`IyF~LiClEcHtLcEtHoE`JyDxHcD`HeA`E[|BSvFf@nK|Etq@bBpR~@vMb@xKAnEQtE{@fIeC`NaBfJi@~F?vE|ApOx@hOt@bJt@fLdAnMpEbj@dA|Kr@rIbEpn@z@nKjAvPzC|u@b@zL@jMMxEi@hHoA|IkE|TiB|GkElMqDvK{B|JwBzNaD`Ua@`DU~IEzSIlVIxOa@zE{@fE}@dC{A|C}BfD_B`BgHtE_CtAkEbCoCvCsBvDgDpKaA|Dw@zE]`EGhELnGNlDfAxK|AbMvBtNf@zHBdM@bSNlR`A`\\DzUIdw@IdF[pF}AtL_CnJoCzG_HtK{FpIu[re@gJfNkMfRqEvGiCdDcElFsFhIcPzUqFdJ{BrE_C`EiB`BaBnAPv@`BwAZjAvArGfCdLvGf\\tC`NrApD|AjCpLfPlC~CdCzBxDhDlFvEtC~CnBxCvCxFzBpFbF|KbFzHnDfEpB~AfIhFnFfDfEzClF|F|AnBhDzE|CxFnEnKbG~LbDvE`Xt^tl@tx@j}@|mAldAtvA|IxLdFdHhC~DhDpE~FdHlEtD|BxA~ExBrE`AzC`@r@TjAv@fEhEtCzCxPvSdGhI`AlBnLrYpFfMxDxHhFbMtFlOfCvHnA|EvG~XjKhc@bCfHlD`HbJvLbd@tk@n[|`@|LrPpCxFvB|GbB`Jv@fJdAjYmATK}BIOk@E\\zFNrRDfFPdFfASbCa@`Gk@zAO`CWKiSGeOImP?ST\\~B`D`EzERLLIv@yALC`@X`FxDJJN[~CeHR_AV_Ev@}Nv@_NZuCZo@|KwIdK}HzE{Dn@{Af@MT?I~@Gv@GjBAj@MrFk@np@M`HZN|B~@bD|A`FrClCfBbBp@\\ZZHfDPpA@PAT@?a@?}@A}AMIEaMKy`@GqOCgJRcAb@e@jBSfIKdE?z@?fBPhDxA|AlAz@dAO`@TXJLBA@?B?BDZc@rEgJnEyIVc@g@sAqB}EkBoFjBG`@M`@Ut@iBZ_APk@^iAtAGtFjIvNOP?XsUhEsBCwHC_HC}A`EyBAsHCqJtKgI?cE"
+      },
+      "bounds": {
+        "northeast": {
+          "lat": 52.50122709999999,
+          "lng": 13.5414261
+        },
+        "southwest": {
+          "lat": 52.3586641,
+          "lng": 13.1224583
+        }
+      },
+      "copyrights": "Map data ©2023 GeoBasis-DE/BKG (©2009)",
+      "warnings": [
+        "Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths."
+      ]
+    }
+  ]
+}

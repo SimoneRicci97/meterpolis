@@ -1,0 +1,410 @@
+{
+  "meterpolisName": "Berlin",
+  "route": {
+    "from": {
+      "lat": 52.4812778115889,
+      "lng": 13.327996076795491
+    },
+    "to": {
+      "lat": 52.4793053156436,
+      "lng": 13.287908107799659
+    }
+  },
+  "directions": [
+    {
+      "summary": "",
+      "legs": [
+        {
+          "steps": [
+            {
+              "htmlInstructions": "Walk to Am Volkspark (Berlin)",
+              "distance": {
+                "inMeters": 674,
+                "humanReadable": "0.7 km"
+              },
+              "duration": {
+                "inSeconds": 490,
+                "humanReadable": "8 mins"
+              },
+              "startLocation": {
+                "lat": 52.4816878,
+                "lng": 13.3280292
+              },
+              "endLocation": {
+                "lat": 52.4837304,
+                "lng": 13.3210354
+              },
+              "steps": [
+                {
+                  "htmlInstructions": "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eHildegardstraße\u003c/b\u003e toward \u003cb\u003eLivländische Str.\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 354,
+                    "humanReadable": "0.4 km"
+                  },
+                  "duration": {
+                    "inSeconds": 265,
+                    "humanReadable": "4 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.4816878,
+                    "lng": 13.3280292
+                  },
+                  "endLocation": {
+                    "lat": 52.4817466,
+                    "lng": 13.3228414
+                  },
+                  "polyline": {
+                    "points": "qii_IecjpAAt@@^A|A?h@Af@?r@?XAb@Dd@@H?H?b@?P?lABf@AbCGZAbA@XC|B?P?NCP"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eSchrammstraße\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 104,
+                    "humanReadable": "0.1 km"
+                  },
+                  "maneuver": "turn-right",
+                  "duration": {
+                    "inSeconds": 68,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.4817466,
+                    "lng": 13.3228414
+                  },
+                  "endLocation": {
+                    "lat": 52.4827775,
+                    "lng": 13.3228879
+                  },
+                  "polyline": {
+                    "points": "}ii_IwbipAQIiD@QA"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eAm Volkspark\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 111,
+                    "humanReadable": "0.1 km"
+                  },
+                  "maneuver": "turn-left",
+                  "duration": {
+                    "inSeconds": 81,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.4827775,
+                    "lng": 13.3228879
+                  },
+                  "endLocation": {
+                    "lat": 52.4831184,
+                    "lng": 13.3212827
+                  },
+                  "polyline": {
+                    "points": "kpi_IacipAAL_@vCGf@If@OjA"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eUhlandstraße\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 90,
+                    "humanReadable": "90 m"
+                  },
+                  "maneuver": "turn-right",
+                  "duration": {
+                    "inSeconds": 65,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.4831184,
+                    "lng": 13.3212827
+                  },
+                  "endLocation": {
+                    "lat": 52.4837842,
+                    "lng": 13.3212083
+                  },
+                  "polyline": {
+                    "points": "ori_I_yhpAIEGAWFC?E@E@SBC@ECE?EAC?E?C?EBGBC@"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eUhlandstraße\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 15,
+                    "humanReadable": "15 m"
+                  },
+                  "maneuver": "turn-left",
+                  "duration": {
+                    "inSeconds": 11,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.4837842,
+                    "lng": 13.3212083
+                  },
+                  "endLocation": {
+                    "lat": 52.4837304,
+                    "lng": 13.3210354
+                  },
+                  "polyline": {
+                    "points": "svi_IqxhpAH`@"
+                  },
+                  "travelMode": "WALKING"
+                }
+              ],
+              "polyline": {
+                "points": "qii_IecjpAAt@@^A|A?h@Af@?r@?XAb@Dd@@H?H?b@?P?lABf@AbCGZAbA@XC|B?P?NCPQIiD@QAAL_@vCGf@If@OjAIEGAWFC?E@E@SBC@ECE?EAC?E?C?EBGBC@H`@"
+              },
+              "travelMode": "WALKING"
+            },
+            {
+              "htmlInstructions": "Bus towards Grunewald, Roseneck",
+              "distance": {
+                "inMeters": 3098,
+                "humanReadable": "3.1 km"
+              },
+              "duration": {
+                "inSeconds": 600,
+                "humanReadable": "10 mins"
+              },
+              "startLocation": {
+                "lat": 52.4837149,
+                "lng": 13.3210561
+              },
+              "endLocation": {
+                "lat": 52.47929300000001,
+                "lng": 13.285741
+              },
+              "polyline": {
+                "points": "evi_IswhpAk@d@Nv@Lp@@LBLRdAJ`@H\\J^HVFRFLFPVt@t@fBn@xADHDLDJRf@DNBFFTFTJ\\Lf@BHFVT|@Pv@FV@FFTZjAL^JXFTPf@Tn@HPDJ^|@Rd@b@z@LTXp@LXZl@Th@p@zABHNZDJVh@HRFNHRHLJT`@`AnAvCdA|BLVlAlCXn@Xl@FLBFLXh@lAt@`BVj@t@~At@bBd@dAXn@pArCb@bAn@tAN^JTHPLZP`@NZTh@Xn@Xt@\\z@p@dBVj@f@pATh@\\|@^`ALXFPFTFVDT@J@X@^AVAZGt@Gx@EXIj@}AtLo@vEEXG`@Kj@AFCFOr@ENw@bDg@tBKd@YfAMp@G`@CLIh@Kt@E^CLOHMJQPOR]f@INCLGLIP]h@?@W`@[f@i@x@MNq@`Aa@l@a@h@GHOTYZ]b@wAhBUXa@d@}@dA[`@m@v@MLEFEK"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "Elsterplatz (Berlin)",
+                  "location": {
+                    "lat": 52.47929300000001,
+                    "lng": 13.285741
+                  }
+                },
+                "departureStop": {
+                  "name": "Am Volkspark (Berlin)",
+                  "location": {
+                    "lat": 52.4837149,
+                    "lng": 13.3210561
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 10,
+                      "minute": 26,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 10,
+                      "minute": 16,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "Grunewald, Roseneck",
+                "headway": 0,
+                "numStops": 9,
+                "line": {
+                  "shortName": "249",
+                  "agencies": [
+                    {
+                      "name": "Berliner Verkehrsbetriebe",
+                      "url": "http://www.bvg.de/",
+                      "phone": "011 49 30 19449"
+                    }
+                  ],
+                  "url": "https://www.bvg.de/de/verbindungen/netzplaene-und-linien/",
+                  "vehicle": {
+                    "name": "Bus",
+                    "type": "BUS",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                    "localIcon": "//maps.gstatic.com/mapfiles/transit/iw2/6/de-berlin-bvg-bus.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Walk to Kissinger Str. 6, 14199 Berlin, Germany",
+              "distance": {
+                "inMeters": 162,
+                "humanReadable": "0.2 km"
+              },
+              "duration": {
+                "inSeconds": 118,
+                "humanReadable": "2 mins"
+              },
+              "startLocation": {
+                "lat": 52.4792877,
+                "lng": 13.2857482
+              },
+              "endLocation": {
+                "lat": 52.4793672,
+                "lng": 13.287918
+              },
+              "steps": [
+                {
+                  "htmlInstructions": "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eKissinger Str.\u003c/b\u003e toward \u003cb\u003eBerkaer Str.\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 5,
+                    "humanReadable": "5 m"
+                  },
+                  "duration": {
+                    "inSeconds": 4,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.4792877,
+                    "lng": 13.2857482
+                  },
+                  "endLocation": {
+                    "lat": 52.4792797,
+                    "lng": 13.2857294
+                  },
+                  "polyline": {
+                    "points": "qzh_I}zapA@B"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Cross the road\u003cdiv style\u003d\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                  "distance": {
+                    "inMeters": 157,
+                    "humanReadable": "0.2 km"
+                  },
+                  "duration": {
+                    "inSeconds": 114,
+                    "humanReadable": "2 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.4792797,
+                    "lng": 13.2857294
+                  },
+                  "endLocation": {
+                    "lat": 52.4793672,
+                    "lng": 13.287918
+                  },
+                  "polyline": {
+                    "points": "ozh_IyzapAJMWw@EOCIAGAICOAK?G?O?]Bo@HaE"
+                  },
+                  "travelMode": "WALKING"
+                }
+              ],
+              "polyline": {
+                "points": "qzh_I}zapA@BJMWw@EOCIAGAICOAK?G?O?]Bo@HaE"
+              },
+              "travelMode": "WALKING"
+            }
+          ],
+          "distance": {
+            "inMeters": 3934,
+            "humanReadable": "3.9 km"
+          },
+          "duration": {
+            "inSeconds": 1209,
+            "humanReadable": "20 mins"
+          },
+          "arrivalTime": {
+            "dateTime": {
+              "date": {
+                "year": 2023,
+                "month": 1,
+                "day": 22
+              },
+              "time": {
+                "hour": 10,
+                "minute": 27,
+                "second": 58,
+                "nano": 0
+              }
+            },
+            "offset": {
+              "totalSeconds": 3600
+            },
+            "zone": {}
+          },
+          "departureTime": {
+            "dateTime": {
+              "date": {
+                "year": 2023,
+                "month": 1,
+                "day": 22
+              },
+              "time": {
+                "hour": 10,
+                "minute": 7,
+                "second": 49,
+                "nano": 0
+              }
+            },
+            "offset": {
+              "totalSeconds": 3600
+            },
+            "zone": {}
+          },
+          "startLocation": {
+            "lat": 52.4816878,
+            "lng": 13.3280292
+          },
+          "endLocation": {
+            "lat": 52.4793672,
+            "lng": 13.287918
+          },
+          "startAddress": "Bundesallee 56, 10715 Berlin, Germany",
+          "endAddress": "Kissinger Str. 6, 14199 Berlin, Germany"
+        }
+      ],
+      "waypointOrder": [],
+      "overviewPolyline": {
+        "points": "qii_IecjpAEvJFn@?l@?~ABf@AbCGZAbAAvC?`@CPQI{D?a@dDQnAOjAIEGAWFI@YDIAUAUHH`@BCk@d@b@dCt@dD`@jAbC`Gd@pA^pAn@fCb@lB|@zCv@tBr@bBp@pAxAbDjAlCjBfEbR~a@jFrLxAjDnC~G`BbE\\tADdACr@OnB}CrU[nBmDdOa@nCIl@]Ta@d@g@v@KZg@z@}AdCcChDoA~AmEnF}AnBEM@BJM]gAEQGm@L_H"
+      },
+      "bounds": {
+        "northeast": {
+          "lat": 52.4839312,
+          "lng": 13.3280292
+        },
+        "southwest": {
+          "lat": 52.4733342,
+          "lng": 13.2856757
+        }
+      },
+      "copyrights": "Map data ©2023 GeoBasis-DE/BKG (©2009)",
+      "warnings": [
+        "Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths."
+      ]
+    }
+  ]
+}

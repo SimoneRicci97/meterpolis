@@ -1,0 +1,347 @@
+{
+  "meterpolisName": "Berlin",
+  "route": {
+    "from": {
+      "lat": 52.36243730455957,
+      "lng": 13.176136187065143
+    },
+    "to": {
+      "lat": 52.39041642873605,
+      "lng": 13.200338608037946
+    }
+  },
+  "directions": [
+    {
+      "summary": "Potsdamer Allee",
+      "legs": [
+        {
+          "steps": [
+            {
+              "htmlInstructions": "Walk to Tannenweg 25, 14532 Stahnsdorf, Germany",
+              "distance": {
+                "inMeters": 4708,
+                "humanReadable": "4.7 km"
+              },
+              "duration": {
+                "inSeconds": 3474,
+                "humanReadable": "58 mins"
+              },
+              "startLocation": {
+                "lat": 52.3619751,
+                "lng": 13.1763766
+              },
+              "endLocation": {
+                "lat": 52.3904459,
+                "lng": 13.2004308
+              },
+              "steps": [
+                {
+                  "htmlInstructions": "Head \u003cb\u003eeast\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 246,
+                    "humanReadable": "0.2 km"
+                  },
+                  "duration": {
+                    "inSeconds": 178,
+                    "humanReadable": "3 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.3619751,
+                    "lng": 13.1763766
+                  },
+                  "endLocation": {
+                    "lat": 52.3631885,
+                    "lng": 13.1783507
+                  },
+                  "polyline": {
+                    "points": "k}q~HkoloAC]Ck@?GKgBQoCEa@C]GGIIM?[@_CNE?"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eright\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 184,
+                    "humanReadable": "0.2 km"
+                  },
+                  "maneuver": "turn-right",
+                  "duration": {
+                    "inSeconds": 135,
+                    "humanReadable": "2 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.3631885,
+                    "lng": 13.1783507
+                  },
+                  "endLocation": {
+                    "lat": 52.3634158,
+                    "lng": 13.1810292
+                  },
+                  "polyline": {
+                    "points": "}dr~Hu{loACw@S{DI}@E{AEiC"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eleft\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 728,
+                    "humanReadable": "0.7 km"
+                  },
+                  "maneuver": "turn-left",
+                  "duration": {
+                    "inSeconds": 522,
+                    "humanReadable": "9 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.3634158,
+                    "lng": 13.1810292
+                  },
+                  "endLocation": {
+                    "lat": 52.3695472,
+                    "lng": 13.1839986
+                  },
+                  "polyline": {
+                    "points": "kfr~HmlmoAaBgAaAo@_@WmAw@cDyBECeEmCo@a@aAm@gBkAUHK@QBq@C[?yABK@GBQFKDMBQ?_AI"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003ePotsdamer Str.\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 56,
+                    "humanReadable": "56 m"
+                  },
+                  "maneuver": "turn-right",
+                  "duration": {
+                    "inSeconds": 41,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.3695472,
+                    "lng": 13.1839986
+                  },
+                  "endLocation": {
+                    "lat": 52.3693197,
+                    "lng": 13.1847339
+                  },
+                  "polyline": {
+                    "points": "uls~H__noAl@qC"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eleft\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 321,
+                    "humanReadable": "0.3 km"
+                  },
+                  "maneuver": "turn-left",
+                  "duration": {
+                    "inSeconds": 243,
+                    "humanReadable": "4 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.3693197,
+                    "lng": 13.1847339
+                  },
+                  "endLocation": {
+                    "lat": 52.3716477,
+                    "lng": 13.1835454
+                  },
+                  "polyline": {
+                    "points": "gks~HqcnoAIGKEKAA?IBCBEDEDAFCFw@dFEJEFE@A?KB]Ak@Ec@CSCOAkBMw@G"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eright\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 712,
+                    "humanReadable": "0.7 km"
+                  },
+                  "maneuver": "turn-right",
+                  "duration": {
+                    "inSeconds": 512,
+                    "humanReadable": "9 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.3716477,
+                    "lng": 13.1835454
+                  },
+                  "endLocation": {
+                    "lat": 52.3741279,
+                    "lng": 13.1892834
+                  },
+                  "polyline": {
+                    "points": "yys~He|moAF_@?CLWFOBCJI|@i@BE@A?C@E?C?CAqBGwFC{BCaBCgACm@?M@S?S@S?S?SAMA?COEMEKIIGGICCCa@BQ@K@M?eBAE?c@?uA?KAIAAAs@Q_AYyAm@"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Continue onto \u003cb\u003eAm Wiesengrund\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 714,
+                    "humanReadable": "0.7 km"
+                  },
+                  "duration": {
+                    "inSeconds": 524,
+                    "humanReadable": "9 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.3741279,
+                    "lng": 13.1892834
+                  },
+                  "endLocation": {
+                    "lat": 52.3802397,
+                    "lng": 13.192432
+                  },
+                  "polyline": {
+                    "points": "iit~H_`ooAqBu@}CqA]MmDiA{FmBqBo@CAsAc@_Ao@uE{CME"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eHeidepl.\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 122,
+                    "humanReadable": "0.1 km"
+                  },
+                  "maneuver": "turn-slight-right",
+                  "duration": {
+                    "inSeconds": 91,
+                    "humanReadable": "2 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.3802397,
+                    "lng": 13.192432
+                  },
+                  "endLocation": {
+                    "lat": 52.3806068,
+                    "lng": 13.1940053
+                  },
+                  "polyline": {
+                    "points": "oou~HusooAIEGGEGCIQs@EOKc@CKCa@?IAk@?U?y@"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eMeisenweg\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 438,
+                    "humanReadable": "0.4 km"
+                  },
+                  "maneuver": "turn-left",
+                  "duration": {
+                    "inSeconds": 319,
+                    "humanReadable": "5 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.3806068,
+                    "lng": 13.1940053
+                  },
+                  "endLocation": {
+                    "lat": 52.3841306,
+                    "lng": 13.1912388
+                  },
+                  "polyline": {
+                    "points": "yqu~Hq}ooAk@HkAT]ZiD|CoD|Co@n@e@d@eAr@YRYR"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003ePotsdamer Allee\u003c/b\u003e\u003cdiv style\u003d\"font-size:0.9em\"\u003eGo through 3 roundabouts\u003c/div\u003e",
+                  "distance": {
+                    "inMeters": 898,
+                    "humanReadable": "0.9 km"
+                  },
+                  "maneuver": "turn-right",
+                  "duration": {
+                    "inSeconds": 686,
+                    "humanReadable": "11 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.3841306,
+                    "lng": 13.1912388
+                  },
+                  "endLocation": {
+                    "lat": 52.3881485,
+                    "lng": 13.2024072
+                  },
+                  "polyline": {
+                    "points": "ygv~HglooAOy@YiBo@sD@A?A@??A?A@??A?A?A@??A?A?A?A?A?A?AAC?A?AA??A?AA??AA??AA?AAA?A?A?A@Mw@e@mCAEGWEUw@oEA?A?A?A?A??AA?AA?AA??A?A?AA??A?A?A?A?A?A?A?A@??A?Aw@mCi@gBc@mAOg@Sq@Qg@Ma@u@eCGQIWA?A??AA??AA??A?AA??A?A?A?A?A?A?A?AAMW_Aw@eCIU}@qCOe@Qm@]cAg@{AGQKY"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eTannenweg\u003c/b\u003e\u003cdiv style\u003d\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                  "distance": {
+                    "inMeters": 289,
+                    "humanReadable": "0.3 km"
+                  },
+                  "maneuver": "turn-left",
+                  "duration": {
+                    "inSeconds": 223,
+                    "humanReadable": "4 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.3881485,
+                    "lng": 13.2024072
+                  },
+                  "endLocation": {
+                    "lat": 52.3904459,
+                    "lng": 13.2004308
+                  },
+                  "polyline": {
+                    "points": "}`w~HarqoAQPuAhAm@f@}DdDu@h@aAv@"
+                  },
+                  "travelMode": "WALKING"
+                }
+              ],
+              "polyline": {
+                "points": "k}q~HkoloAC]Ck@?GKgBQoCEa@C]GGIIM?[@_CNE?Cw@S{DI}@E{AEiCaBgAaAo@_@WmAw@cDyBECeEmCo@a@aAm@gBkAUHK@QBq@C[?yABK@GBQFKDMBQ?_AIl@qCIGKEKAA?IBCBEDEDAFCFw@dFEJEFE@A?KB]Ak@Ec@CSCOAkBMw@GF_@?CLWFOBCJI|@i@BE@A?C@E?C?CAqBGwFC{BCaBCgACm@?M@S?S@S?S?SAMA?COEMEKIIGGICCCa@BQ@K@M?eBAE?c@?uA?KAIAAAs@Q_AYyAm@qBu@}CqA]MmDiA{FmBqBo@CAsAc@_Ao@uE{CMEIEGGEGCIQs@EOKc@CKCa@?IAk@?U?y@k@HkAT]ZiD|CoD|Co@n@e@d@eAr@YRYROy@YiBo@sD@A?A@??A?A@??A?A?A@??A?A?A?A?A?A?AAC?A?AA??A?AA??AA??AA?AAA?A?A?A@Mw@e@mCAEGWEUw@oEA?A?A?A?A??AA?AA?AA??A?A?AA??A?A?A?A?A?A?A?A@??A?Aw@mCi@gBc@mAOg@Sq@Qg@Ma@u@eCGQIWA?A??AA??AA??A?AA??A?A?A?A?A?A?A?AAMW_Aw@eCIU}@qCOe@Qm@]cAg@{AGQKYQPuAhAm@f@}DdDu@h@aAv@"
+              },
+              "travelMode": "WALKING"
+            }
+          ],
+          "distance": {
+            "inMeters": 4708,
+            "humanReadable": "4.7 km"
+          },
+          "duration": {
+            "inSeconds": 3475,
+            "humanReadable": "58 mins"
+          },
+          "startLocation": {
+            "lat": 52.3619751,
+            "lng": 13.1763766
+          },
+          "endLocation": {
+            "lat": 52.3904459,
+            "lng": 13.2004308
+          },
+          "startAddress": "Straße ohne Straßennamen, 14532 Stahnsdorf, Germany",
+          "endAddress": "Tannenweg 25, 14532 Stahnsdorf, Germany"
+        }
+      ],
+      "waypointOrder": [],
+      "overviewPolyline": {
+        "points": "k}q~HkoloASyDWqDC]GGIIM?{CPE?Cw@]yFKeFcDwBwGmE_LiHa@JQBq@CuBBSD]L_@B_AIl@qCUMMAMFKJEN}@pFKHMBiAGsDWw@GF_@L[JShAs@FQIqJOsIBiACu@I]OUQKe@?qC@kCA_Co@kEcB{D_B_PiFsAc@_Ao@cFaDQMIQWcAOo@Ck@AaA?y@k@HkAT]ZyIzHuAtA_BfAYROy@iA}G@C@A@C@E?KEKEEC?C@}@cFaAeFA?EACEAS@CaBuFs@uBiBaGQi@A?A?CCAE?KAOwCmJgBsFSk@gBzAkFlEwB`B"
+      },
+      "bounds": {
+        "northeast": {
+          "lat": 52.3904459,
+          "lng": 13.2024072
+        },
+        "southwest": {
+          "lat": 52.3619751,
+          "lng": 13.1763766
+        }
+      },
+      "copyrights": "Map data ©2023 GeoBasis-DE/BKG (©2009)",
+      "warnings": [
+        "Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,530 @@
+{
+  "meterpolisName": "Berlin",
+  "route": {
+    "from": {
+      "lat": 52.35377522595886,
+      "lng": 13.202406463468659
+    },
+    "to": {
+      "lat": 52.424818425846944,
+      "lng": 13.258219679216781
+    }
+  },
+  "directions": [
+    {
+      "summary": "",
+      "legs": [
+        {
+          "steps": [
+            {
+              "htmlInstructions": "Walk to Schenkenhorst, Teltower Weg",
+              "distance": {
+                "inMeters": 1629,
+                "humanReadable": "1.6 km"
+              },
+              "duration": {
+                "inSeconds": 1180,
+                "humanReadable": "20 mins"
+              },
+              "startLocation": {
+                "lat": 52.3537823,
+                "lng": 13.2024037
+              },
+              "endLocation": {
+                "lat": 52.3411651,
+                "lng": 13.201377
+              },
+              "steps": [
+                {
+                  "htmlInstructions": "Head \u003cb\u003eeast\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 81,
+                    "humanReadable": "81 m"
+                  },
+                  "duration": {
+                    "inSeconds": 58,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.3537823,
+                    "lng": 13.2024037
+                  },
+                  "endLocation": {
+                    "lat": 52.3539492,
+                    "lng": 13.2035621
+                  },
+                  "polyline": {
+                    "points": "cjp~H_rqoAa@gF"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eright\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 1369,
+                    "humanReadable": "1.4 km"
+                  },
+                  "maneuver": "turn-right",
+                  "duration": {
+                    "inSeconds": 991,
+                    "humanReadable": "17 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.3539492,
+                    "lng": 13.2035621
+                  },
+                  "endLocation": {
+                    "lat": 52.3423233,
+                    "lng": 13.2016675
+                  },
+                  "polyline": {
+                    "points": "ekp~HgyqoA`CGhBGlFSZKzAa@pBo@pBg@`Bc@TILEnBa@rBi@BA^IlA_@tBi@r@d@n@f@hA|@~ApA~D`D~E|D~EzD"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Continue onto \u003cb\u003eTeltower Weg\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 137,
+                    "humanReadable": "0.1 km"
+                  },
+                  "duration": {
+                    "inSeconds": 99,
+                    "humanReadable": "2 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.3423233,
+                    "lng": 13.2016675
+                  },
+                  "endLocation": {
+                    "lat": 52.3412316,
+                    "lng": 13.2007635
+                  },
+                  "polyline": {
+                    "points": "obn~HmmqoAp@l@@@f@^j@j@PPTTDBFBD@TF"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eSputendorfer Landstraße\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 42,
+                    "humanReadable": "42 m"
+                  },
+                  "maneuver": "turn-left",
+                  "duration": {
+                    "inSeconds": 32,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.3412316,
+                    "lng": 13.2007635
+                  },
+                  "endLocation": {
+                    "lat": 52.3411651,
+                    "lng": 13.201377
+                  },
+                  "polyline": {
+                    "points": "u{m~HwgqoA@YHaB"
+                  },
+                  "travelMode": "WALKING"
+                }
+              ],
+              "polyline": {
+                "points": "cjp~H_rqoAa@gF`CGhBGlFSZKzAa@pBo@pBg@`Bc@TILEnBa@rBi@BA^IlA_@tBi@r@d@n@f@hA|@~ApA~D`D~E|D~EzDp@l@@@f@^j@j@PPTTDBFBD@TF@YHaB"
+              },
+              "travelMode": "WALKING"
+            },
+            {
+              "htmlInstructions": "Bus towards Stahnsdorf Waldschänke",
+              "distance": {
+                "inMeters": 9687,
+                "humanReadable": "9.7 km"
+              },
+              "duration": {
+                "inSeconds": 1140,
+                "humanReadable": "19 mins"
+              },
+              "startLocation": {
+                "lat": 52.341165,
+                "lng": 13.201377
+              },
+              "endLocation": {
+                "lat": 52.3935822,
+                "lng": 13.2106784
+              },
+              "polyline": {
+                "points": "g{m~HskqoAA?I`BAXEnAC~@YJeA`@uB|@qKxFSJGBEBcDzAQHKFqDzAuAp@IDoF|CkBjAc@RmAt@wEhCkAn@a@Ve@Zi@b@_D~DeAtAuHbJy@bAgC~CIF_@\\IHGDsBRqA@Q?kBByA@oCDa@?u@CSCQCqBWGEG?MAQEi@KICGAAC?CACAAACAAACCAAAA?AACAA?A?C?A?A@C?A@A@A@C@A@ABA@?BABADeAGA?EBC?]Cw@Iu@AK?Q?M@KAKAOCECKEICKIOKECWS]UaDaCOMyC}BMKEGWYIKIMMUOWKUKYa@mAQk@AEGSm@kBIWGUCIAKAGAKCSMiCCMCIEIEIEGGGCACIAAEEMG_@I?A?A?A?A?A?AA??A?AAA?AAA?AA??AA??AA??AA?A?AAA?A?A@A?A?a@k@IIECECE?EAC?GBwCKq@C_@CC?A?ECGEGC[]IKGGo@y@a@g@[_@ACw@_A{@cAQSAAgDyDi@s@U]U[SWc@i@MQEC]a@GG_@e@[[GK[[ACAAa@e@OQUW_@a@c@g@]]SSUUQOGGGGGI]_@gBuBm@q@u@}@{@aACCuBcC{@aAkEeF_@a@]a@AAQUyA{AKKwBqB_@]{DyDw@u@mAiAwAuAmBgBUQ]]_@]}ByB[[yA{AEEP]FIBC^]~BsBJI@A|@y@|BsBZ[lEmD|AqAz@s@bDoCNMzAmA\\Yv@m@TYNONKJGJEpAgAf@c@r@q@LMvC}BrBgBj@e@Zc@Ve@J]Jk@kB?sF?E?gA?G?E?aDF}A@a@@kB@yC@}@@gECeB?}DFG?eA?{A?}C@kD?mB@GAO?}AAA?q@?S?qABe@?}B@a@BG@K@KBE@mA`AqAjAQLGF]ZWTkAfA_@`@EDe@p@aA~Ai@_@wC}BQOKKe@e@OOq@y@_AyAeAiBEKOUoAyB_@o@KUEMCGI_@Me@O_AGYCM?EAKAMESCIEMCGGOO[OYEKEGCEAZANCVMlAIj@AFGZAJKb@G^Ol@KXS~@[|@g@tAWt@GPIVITOh@IV?DIXGXGXI^EZADE^E^C`@AXC\\A\\?^?L?N?Z?\\B\\@\\Dd@@J@RLrAPjALv@Jr@Hd@@BLp@FVFVBPEVE`@C^?HA\\?L?T?D@jB@jA@z@?\\?N@b@?R?d@?b@a@C"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "Stahnsdorf, Waldschänke",
+                  "location": {
+                    "lat": 52.3935822,
+                    "lng": 13.2106784
+                  }
+                },
+                "departureStop": {
+                  "name": "Schenkenhorst, Teltower Weg",
+                  "location": {
+                    "lat": 52.341165,
+                    "lng": 13.201377
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 11,
+                      "minute": 41,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 11,
+                      "minute": 22,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "Stahnsdorf Waldschänke",
+                "headway": 0,
+                "numStops": 14,
+                "line": {
+                  "shortName": "627",
+                  "agencies": [
+                    {
+                      "name": "Regiobus Potsdam-Mittelmark",
+                      "url": "http://www.vbb.de/",
+                      "phone": "011 49 331 749130"
+                    }
+                  ],
+                  "url": "https://www.vbb.de/fahrinformation/liniennetze/",
+                  "vehicle": {
+                    "name": "Bus",
+                    "type": "BUS",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                    "localIcon": "//maps.gstatic.com/mapfiles/transit/iw2/6/de-berlin-bvg-bus.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Bus towards Zehlendorf Eiche",
+              "distance": {
+                "inMeters": 5541,
+                "humanReadable": "5.5 km"
+              },
+              "duration": {
+                "inSeconds": 900,
+                "humanReadable": "15 mins"
+              },
+              "startLocation": {
+                "lat": 52.3935822,
+                "lng": 13.2106784
+              },
+              "endLocation": {
+                "lat": 52.4240794,
+                "lng": 13.2518989
+              },
+              "polyline": {
+                "points": "{bx~HwesoAM`@@T?J@H@D@F?DBFAH?F?H?H@D@DI\\EPAFGNELMVEHW^MP]Zo@Ts@Rc@RYT]b@GBWJE@]HeDz@WFM@K?MAMCOCGCC?CAI?M?e@HiARC@YF[FQDUFeBXI@u@L[NGBQHSJIFIFCBMPW`@SUGIGEGEIAIAG@KBE@SFKBUDKBC?_@De@Ba@Ai@Ga@ISEGCMMEAKGWOKG]QIAk@a@[W[Wc@e@UUSWGIY_@QWQWQ[S]Ym@Ym@?AKSe@qAa@wAQu@a@mBKk@CMIq@O}@Ko@Ow@MWMk@Oo@Sw@Me@e@uA]cAYs@O]L]FSFQPk@Vu@X_AVkARoAJ{@LiABg@FaABu@@y@?I@_AAcAA_ACu@@U?M?K@M?S?K?GAK?UESASAw@CQCOC{AEmBA_@IgDAq@GoBAy@GqBE{AEo@AmACeB?}A?mA?yD?mC?aA@e@@g@?SDwA?gC?iC?SA_BEoAG_AAS@MBIXq@HQqAiC_AqBWi@Gg@sAoCUYMIyAsBOQ]WSQeBiA_CcBKGAASMqAy@KKOKAAu@g@}CwBwAaAwCsBECeC_Bi@_@_BqAQSq@s@_@g@ACGKCCCEQYCEACCGKOYe@GKc@s@U]}CkFyBqDk@aAkB{C[k@MSOY_@m@Q[GKGKU_@IMKOo@{@WWUW[[e@]yAkAa@_@m@g@EE[W[SQKa@Qa@MEC]Qu@Yw@]sAi@_Bq@eAc@wAm@iAe@{@_@y@a@UMQIoAs@_@QiAm@IEk@[D]"
+              },
+              "travelMode": "TRANSIT",
+              "transitDetails": {
+                "arrivalStop": {
+                  "name": "Behring-Krankenhaus",
+                  "location": {
+                    "lat": 52.4240794,
+                    "lng": 13.2518989
+                  }
+                },
+                "departureStop": {
+                  "name": "Stahnsdorf, Waldschänke",
+                  "location": {
+                    "lat": 52.3935822,
+                    "lng": 13.2106784
+                  }
+                },
+                "arrivalTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 12,
+                      "minute": 5,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "departureTime": {
+                  "dateTime": {
+                    "date": {
+                      "year": 2023,
+                      "month": 1,
+                      "day": 22
+                    },
+                    "time": {
+                      "hour": 11,
+                      "minute": 50,
+                      "second": 0,
+                      "nano": 0
+                    }
+                  },
+                  "offset": {
+                    "totalSeconds": 3600
+                  },
+                  "zone": {}
+                },
+                "headsign": "Zehlendorf Eiche",
+                "headway": 0,
+                "numStops": 12,
+                "line": {
+                  "shortName": "623",
+                  "agencies": [
+                    {
+                      "name": "Regiobus Potsdam-Mittelmark",
+                      "url": "http://www.vbb.de/",
+                      "phone": "011 49 331 749130"
+                    }
+                  ],
+                  "url": "https://www.vbb.de/fahrinformation/liniennetze/",
+                  "vehicle": {
+                    "name": "Bus",
+                    "type": "BUS",
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                    "localIcon": "//maps.gstatic.com/mapfiles/transit/iw2/6/de-berlin-bvg-bus.png"
+                  }
+                }
+              }
+            },
+            {
+              "htmlInstructions": "Walk to Johannesstraße 22B, 14165 Berlin, Germany",
+              "distance": {
+                "inMeters": 496,
+                "humanReadable": "0.5 km"
+              },
+              "duration": {
+                "inSeconds": 373,
+                "humanReadable": "6 mins"
+              },
+              "startLocation": {
+                "lat": 52.4240951,
+                "lng": 13.2518147
+              },
+              "endLocation": {
+                "lat": 52.4247917,
+                "lng": 13.2582229
+              },
+              "steps": [
+                {
+                  "htmlInstructions": "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eMachnower Str.\u003c/b\u003e toward \u003cb\u003eGimpelsteig\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 26,
+                    "humanReadable": "26 m"
+                  },
+                  "duration": {
+                    "inSeconds": 19,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.4240951,
+                    "lng": 13.2518147
+                  },
+                  "endLocation": {
+                    "lat": 52.4238904,
+                    "lng": 13.2516932
+                  },
+                  "polyline": {
+                    "points": "sa~~Hyf{oAh@V"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eGimpelsteig\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 391,
+                    "humanReadable": "0.4 km"
+                  },
+                  "maneuver": "turn-left",
+                  "duration": {
+                    "inSeconds": 293,
+                    "humanReadable": "5 mins"
+                  },
+                  "startLocation": {
+                    "lat": 52.4238904,
+                    "lng": 13.2516932
+                  },
+                  "endLocation": {
+                    "lat": 52.4246886,
+                    "lng": 13.2571832
+                  },
+                  "polyline": {
+                    "points": "i`~~Haf{oADSBQ@SAYAM?EAGAKCSKmAU{BCUAOAMCWYoCOiBAQCWSsBOcBCUWgCAI"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Continue onto \u003cb\u003eBiesestraße\u003c/b\u003e",
+                  "distance": {
+                    "inMeters": 52,
+                    "humanReadable": "52 m"
+                  },
+                  "duration": {
+                    "inSeconds": 40,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.4246886,
+                    "lng": 13.2571832
+                  },
+                  "endLocation": {
+                    "lat": 52.4248182,
+                    "lng": 13.2578895
+                  },
+                  "polyline": {
+                    "points": "ie~~Hkh|oALGSaBAIAEACAAAAIK"
+                  },
+                  "travelMode": "WALKING"
+                },
+                {
+                  "htmlInstructions": "Turn \u003cb\u003eright\u003c/b\u003e\u003cdiv style\u003d\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                  "distance": {
+                    "inMeters": 27,
+                    "humanReadable": "27 m"
+                  },
+                  "maneuver": "turn-right",
+                  "duration": {
+                    "inSeconds": 21,
+                    "humanReadable": "1 min"
+                  },
+                  "startLocation": {
+                    "lat": 52.4248182,
+                    "lng": 13.2578895
+                  },
+                  "endLocation": {
+                    "lat": 52.4247917,
+                    "lng": 13.2582229
+                  },
+                  "polyline": {
+                    "points": "cf~~Hyl|oADm@?K?G"
+                  },
+                  "travelMode": "WALKING"
+                }
+              ],
+              "polyline": {
+                "points": "sa~~Hyf{oAh@VDSBQ@SAYAM?EAGAKCSKmAU{BCUAOAMCWYoCOiBAQCWSsBOcBCUWgCAILGSaBAIAEACAAAAIKDm@?K?G"
+              },
+              "travelMode": "WALKING"
+            }
+          ],
+          "distance": {
+            "inMeters": 17353,
+            "humanReadable": "17.4 km"
+          },
+          "duration": {
+            "inSeconds": 4133,
+            "humanReadable": "1 hour 9 mins"
+          },
+          "arrivalTime": {
+            "dateTime": {
+              "date": {
+                "year": 2023,
+                "month": 1,
+                "day": 22
+              },
+              "time": {
+                "hour": 12,
+                "minute": 11,
+                "second": 13,
+                "nano": 0
+              }
+            },
+            "offset": {
+              "totalSeconds": 3600
+            },
+            "zone": {}
+          },
+          "departureTime": {
+            "dateTime": {
+              "date": {
+                "year": 2023,
+                "month": 1,
+                "day": 22
+              },
+              "time": {
+                "hour": 11,
+                "minute": 2,
+                "second": 20,
+                "nano": 0
+              }
+            },
+            "offset": {
+              "totalSeconds": 3600
+            },
+            "zone": {}
+          },
+          "startLocation": {
+            "lat": 52.3537823,
+            "lng": 13.2024037
+          },
+          "endLocation": {
+            "lat": 52.4247917,
+            "lng": 13.2582229
+          },
+          "startAddress": "Straße ohne Straßennamen, 14532 Stahnsdorf, Germany",
+          "endAddress": "Johannesstraße 22B, 14165 Berlin, Germany"
+        }
+      ],
+      "waypointOrder": [],
+      "overviewPolyline": {
+        "points": "cjp~H_rqoAa@gF`CGvI[vBm@pBo@pBg@vBm@|Bg@dFuAtBi@r@d@xBdB~UlRfCzBf@f@LFZHJ{BKzBInC_Bl@uB|@qKxF[NgEpBgGlCyFbDoC~AeH~DmBfAoA~@eFtGoJfLqCfDi@f@GDsBRcB@wJJiAGcC[OE_@Gs@OIEEMIIICI@IDIHAFADeAGA?IBuAMaAA_@@WCk@Qy@m@_EwCiDkCSSa@e@s@qAaAyCgAmDIi@Q}CGWKSMOGKGGm@Q?C?ECIMKG@A?k@u@KGKAC?GBwCKqAGE?MIc@a@cBuBqCgDeFcGk@y@w@aAy@_AuCgDwB_CcAaAuHyIsMkOeBgBwCoCyKoKaEuDyFwFXg@b@a@jEyDxCoCjH_GjI_HtAgAd@i@ZS|AmAzAuAdDkC~CmCr@iAJ]Jk@_J?{A?mKLwEBmHCeEFaD?_M@aDAiGDi@DWDsAbAcBxAiC`Ce@f@gBpC_FyDu@u@q@y@_AyAkAuB_BoCk@eAIUo@_DGm@Ss@m@qAIMCj@QdBKr@]jB[fAS~@[|@_AjCQh@c@|Ac@lBS`BKvB?xAJ~BB^^~Cd@tC`@rBKx@Ch@AfAF~J?b@a@CM`@@T@TBLBLAPB^YfASd@]h@k@l@cBh@c@RYT]b@GB]LcEdAe@HYAi@KMAs@HcCd@wCh@u@L[NYLk@^e@r@[_@OKSCm@Nq@LeAHa@Ai@Gu@OUQu@a@g@SgAy@_A}@i@m@eAyAyAuCKUe@qAa@wAs@cDOy@YoB[gBMWMk@c@gBs@{Bw@wBO]L]Ne@h@aBp@kC^kCPqBJwB@cAEyFB}@As@Ei@CkAGa@IiEUiJUwHEsD?kD@oL@{@DwA?gC?}CGoDIsADWb@cAqC{FWi@Gg@sAoCUYMIyAsBm@i@yB{AkCkBsBuAeFmDoFuDkCcBiCqBcAgAm@{@[i@cKyPkGmKs@iAgAsAq@s@oEqDoA}@iKiEcHwCqDmB_DaBD]CPh@VDSDe@Cg@Gm@wAoOi@aG[}CAILGUkBCICCIKDm@?S"
+      },
+      "bounds": {
+        "northeast": {
+          "lat": 52.4248182,
+          "lng": 13.2582229
+        },
+        "southwest": {
+          "lat": 52.3411651,
+          "lng": 13.189198
+        }
+      },
+      "copyrights": "Map data ©2023 GeoBasis-DE/BKG (©2009)",
+      "warnings": [
+        "Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths."
+      ]
+    }
+  ]
+}
